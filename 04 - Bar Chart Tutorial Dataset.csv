@@ -1,0 +1,801 @@
+Order ID,Date,Year,Quarter,Month,Region,State,City,Product Category,Product Subcategory,Product Name,Brand,Sales Channel,Customer Segment,Sales Rep,Units Sold,Unit Price,Discount,Revenue,Cost,Profit,Payment Method,Customer Satisfaction
+40001,2024-01-18,2024,Q1,Jan,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Orbit,Distributor,Small Business,Jessica Lee,14,766,0.15,9115.4,5126.52,3988.88,Card,Unsatisfied
+40002,2024-08-11,2024,Q3,Aug,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Apex,Online,Corporate,John Miller,9,863,0.05,7378.65,5270.55,2108.1,Bank Transfer,Satisfied
+40003,2024-06-05,2024,Q2,Jun,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Nimbus,Online,Small Business,John Miller,17,563,0.15,8135.35,4829.59,3305.76,Cash,Satisfied
+40004,2024-05-06,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Nimbus,Distributor,Consumer,Sarah Lopez,16,268,0.1,3859.2,2323.53,1535.67,Cash,Very Satisfied
+40005,2024-05-05,2024,Q2,May,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,Orbit,Distributor,Corporate,Jessica Lee,1,655,0.1,589.5,375.61,213.89,Digital Wallet,Satisfied
+40006,2024-08-27,2024,Q3,Aug,West,Colorado,Denver,Electronics,Tablet,Tab Elite,NovaTech,Distributor,Consumer,Emily Carter,12,51,0.15,520.2,309.35,210.85,Bank Transfer,Satisfied
+40007,2024-10-10,2024,Q4,Oct,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Nimbus,Distributor,Consumer,Emily Carter,17,268,0.15,3872.6,2165.4,1707.2,Bank Transfer,Unsatisfied
+40008,2024-02-27,2024,Q1,Feb,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,NovaTech,Retail,Consumer,Sarah Lopez,18,538,0.0,9684.0,7160.82,2523.18,Bank Transfer,Unsatisfied
+40009,2024-05-08,2024,Q2,May,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Vertex,Retail,Corporate,Emily Carter,11,1108,0.0,12188.0,8084.77,4103.23,Bank Transfer,Neutral
+40010,2024-06-29,2024,Q2,Jun,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Apex,Distributor,Consumer,Jessica Lee,5,265,0.05,1258.75,709.4,549.35,Card,Neutral
+40011,2024-01-20,2024,Q1,Jan,West,Washington,Seattle,Furniture,Chair,ComfortSeat,NovaTech,Online,Small Business,John Miller,9,604,0.0,5436.0,3659.9,1776.1,Digital Wallet,Satisfied
+40012,2024-09-07,2024,Q3,Sep,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Vertex,Distributor,Consumer,Michael Brown,8,704,0.1,5068.8,2954.52,2114.28,Card,Satisfied
+40013,2024-01-10,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,Nimbus,Distributor,Corporate,Michael Brown,12,1080,0.0,12960.0,7651.46,5308.54,Digital Wallet,Neutral
+40014,2024-11-14,2024,Q4,Nov,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Orbit,Online,Consumer,Emily Carter,13,803,0.15,8873.15,5671.18,3201.97,Bank Transfer,Very Satisfied
+40015,2024-06-28,2024,Q2,Jun,South,Florida,Miami,Accessories,Mouse,ClickPro,NovaTech,Distributor,Corporate,Jessica Lee,1,61,0.15,51.85,30.68,21.17,Bank Transfer,Very Satisfied
+40016,2024-07-25,2024,Q3,Jul,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Apex,Retail,Small Business,Michael Brown,15,551,0.0,8265.0,6068.79,2196.21,Card,Neutral
+40017,2024-03-28,2024,Q1,Mar,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Apex,Retail,Consumer,Jessica Lee,3,724,0.05,2063.4,1388.18,675.22,Cash,Unsatisfied
+40018,2024-04-21,2024,Q2,Apr,West,Washington,Seattle,Accessories,Mouse,ClickPro,NovaTech,Retail,Corporate,Emily Carter,11,765,0.0,8415.0,4705.92,3709.08,Card,Neutral
+40019,2024-01-25,2024,Q1,Jan,West,Washington,Seattle,Furniture,Chair,ComfortSeat,NovaTech,Distributor,Small Business,John Miller,8,669,0.15,4549.2,3080.0,1469.2,Card,Neutral
+40020,2024-01-11,2024,Q1,Jan,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Apex,Online,Consumer,Michael Brown,14,654,0.1,8240.4,4817.63,3422.77,Digital Wallet,Neutral
+40021,2024-10-09,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,NovaTech,Retail,Corporate,John Miller,17,1042,0.1,15942.6,10774.71,5167.89,Cash,Unsatisfied
+40022,2024-10-08,2024,Q4,Oct,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Vertex,Online,Consumer,Michael Brown,18,506,0.1,8197.2,5194.55,3002.65,Card,Satisfied
+40023,2024-11-27,2024,Q4,Nov,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Nimbus,Retail,Corporate,Jessica Lee,5,543,0.05,2579.25,1535.2,1044.05,Cash,Neutral
+40024,2024-04-07,2024,Q2,Apr,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,Apex,Retail,Consumer,John Miller,10,218,0.05,2071.0,1514.59,556.41,Digital Wallet,Very Satisfied
+40025,2024-02-15,2024,Q1,Feb,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Apex,Distributor,Consumer,Michael Brown,7,130,0.1,819.0,561.45,257.55,Digital Wallet,Neutral
+40026,2024-09-20,2024,Q3,Sep,West,Colorado,Denver,Accessories,Mouse,ClickPro,Apex,Online,Small Business,David Clark,15,341,0.05,4859.25,2710.63,2148.62,Cash,Unsatisfied
+40027,2024-07-08,2024,Q3,Jul,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Vertex,Online,Corporate,Emily Carter,14,896,0.0,12544.0,7490.56,5053.44,Digital Wallet,Satisfied
+40028,2024-10-17,2024,Q4,Oct,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,NovaTech,Retail,Small Business,Emily Carter,14,1097,0.0,15358.0,8961.51,6396.49,Bank Transfer,Very Satisfied
+40029,2024-10-14,2024,Q4,Oct,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Apex,Online,Consumer,Michael Brown,10,479,0.15,4071.5,2826.77,1244.73,Card,Neutral
+40030,2024-10-21,2024,Q4,Oct,West,Washington,Seattle,Accessories,Headphones,SoundMax,Nimbus,Retail,Corporate,John Miller,20,600,0.15,10200.0,5715.93,4484.07,Card,Very Satisfied
+40031,2024-03-27,2024,Q1,Mar,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Nimbus,Online,Consumer,David Clark,18,243,0.0,4374.0,2482.79,1891.21,Digital Wallet,Unsatisfied
+40032,2024-03-11,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Corporate,Emily Carter,13,436,0.0,5668.0,3194.28,2473.72,Digital Wallet,Unsatisfied
+40033,2024-10-14,2024,Q4,Oct,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Orbit,Online,Consumer,David Clark,5,234,0.15,994.5,662.4,332.1,Bank Transfer,Very Satisfied
+40034,2024-07-17,2024,Q3,Jul,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Orbit,Distributor,Consumer,David Clark,17,1014,0.15,14652.3,9858.95,4793.35,Cash,Very Satisfied
+40035,2024-09-08,2024,Q3,Sep,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Vertex,Online,Corporate,David Clark,6,404,0.1,2181.6,1233.24,948.36,Digital Wallet,Neutral
+40036,2024-11-21,2024,Q4,Nov,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Nimbus,Online,Consumer,John Miller,12,703,0.0,8436.0,5122.64,3313.36,Card,Satisfied
+40037,2024-05-21,2024,Q2,May,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Apex,Retail,Small Business,David Clark,18,126,0.05,2154.6,1493.51,661.09,Digital Wallet,Unsatisfied
+40038,2024-11-24,2024,Q4,Nov,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Nimbus,Distributor,Small Business,Jessica Lee,9,886,0.15,6777.9,4171.72,2606.18,Digital Wallet,Neutral
+40039,2024-09-11,2024,Q3,Sep,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Vertex,Online,Corporate,Sarah Lopez,14,150,0.15,1785.0,1101.3,683.7,Card,Neutral
+40040,2024-02-11,2024,Q1,Feb,West,Colorado,Denver,Accessories,Headphones,SoundMax,Vertex,Retail,Consumer,David Clark,15,368,0.15,4692.0,2833.91,1858.09,Cash,Very Satisfied
+40041,2024-03-14,2024,Q1,Mar,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Nimbus,Online,Corporate,Michael Brown,10,1087,0.1,9783.0,5885.01,3897.99,Cash,Satisfied
+40042,2024-07-19,2024,Q3,Jul,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,NovaTech,Distributor,Small Business,John Miller,20,1119,0.15,19023.0,11165.01,7857.99,Card,Satisfied
+40043,2024-03-24,2024,Q1,Mar,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Apex,Online,Small Business,John Miller,3,281,0.15,716.55,417.86,298.69,Bank Transfer,Unsatisfied
+40044,2024-03-21,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Nimbus,Online,Corporate,Sarah Lopez,13,713,0.0,9269.0,5488.18,3780.82,Digital Wallet,Unsatisfied
+40045,2024-02-21,2024,Q1,Feb,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Orbit,Retail,Corporate,Emily Carter,17,911,0.15,13163.95,8234.5,4929.45,Cash,Neutral
+40046,2024-05-19,2024,Q2,May,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Orbit,Online,Consumer,Jessica Lee,16,974,0.05,14804.8,8918.98,5885.82,Card,Unsatisfied
+40047,2024-06-19,2024,Q2,Jun,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Nimbus,Distributor,Consumer,Sarah Lopez,5,243,0.0,1215.0,808.43,406.57,Card,Neutral
+40048,2024-12-14,2024,Q4,Dec,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Orbit,Distributor,Consumer,Sarah Lopez,8,535,0.0,4280.0,2426.2,1853.8,Cash,Very Satisfied
+40049,2024-02-04,2024,Q1,Feb,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Apex,Distributor,Consumer,John Miller,18,1119,0.1,18127.8,10593.39,7534.41,Bank Transfer,Unsatisfied
+40050,2024-05-15,2024,Q2,May,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,Orbit,Online,Small Business,Jessica Lee,16,725,0.0,11600.0,8524.89,3075.11,Bank Transfer,Unsatisfied
+40051,2024-11-24,2024,Q4,Nov,South,Florida,Miami,Accessories,Mouse,ClickPro,Orbit,Distributor,Consumer,Jessica Lee,7,703,0.0,4921.0,3459.08,1461.92,Bank Transfer,Neutral
+40052,2024-09-15,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Orbit,Distributor,Small Business,Michael Brown,4,63,0.15,214.2,124.36,89.84,Cash,Very Satisfied
+40053,2024-08-27,2024,Q3,Aug,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Nimbus,Retail,Consumer,Jessica Lee,10,184,0.05,1748.0,1094.39,653.61,Card,Neutral
+40054,2024-09-28,2024,Q3,Sep,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Orbit,Retail,Consumer,David Clark,16,67,0.15,911.2,538.31,372.89,Bank Transfer,Satisfied
+40055,2024-11-24,2024,Q4,Nov,Northeast,Massachusetts,Boston,Electronics,Tablet,Tab Elite,Apex,Retail,Small Business,Sarah Lopez,4,802,0.15,2726.8,1800.27,926.53,Bank Transfer,Very Satisfied
+40056,2024-11-05,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Apex,Retail,Corporate,Jessica Lee,11,1171,0.15,10948.85,6149.04,4799.81,Bank Transfer,Satisfied
+40057,2024-07-30,2024,Q3,Jul,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Consumer,Emily Carter,13,833,0.15,9204.65,6275.18,2929.47,Cash,Unsatisfied
+40058,2024-01-28,2024,Q1,Jan,West,Colorado,Denver,Accessories,Keyboard,KeyPro,NovaTech,Retail,Corporate,Jessica Lee,15,1106,0.1,14931.0,9510.72,5420.28,Digital Wallet,Unsatisfied
+40059,2024-10-09,2024,Q4,Oct,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Nimbus,Distributor,Consumer,Emily Carter,19,411,0.15,6637.65,3862.05,2775.6,Bank Transfer,Neutral
+40060,2024-09-03,2024,Q3,Sep,West,Colorado,Denver,Accessories,Mouse,ClickPro,NovaTech,Retail,Small Business,Michael Brown,17,272,0.05,4392.8,3251.43,1141.37,Card,Neutral
+40061,2024-12-03,2024,Q4,Dec,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Vertex,Online,Corporate,Sarah Lopez,13,472,0.05,5829.2,3805.84,2023.36,Cash,Unsatisfied
+40062,2024-05-07,2024,Q2,May,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Orbit,Retail,Consumer,Michael Brown,17,872,0.0,14824.0,9205.77,5618.23,Cash,Neutral
+40063,2024-10-19,2024,Q4,Oct,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Apex,Retail,Consumer,Sarah Lopez,9,530,0.0,4770.0,2720.41,2049.59,Cash,Very Satisfied
+40064,2024-04-06,2024,Q2,Apr,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Orbit,Online,Corporate,Jessica Lee,1,790,0.15,671.5,383.95,287.55,Card,Neutral
+40065,2024-08-20,2024,Q3,Aug,West,California,Los Angeles,Electronics,Tablet,Tab Elite,Nimbus,Retail,Consumer,David Clark,3,794,0.0,2382.0,1748.25,633.75,Bank Transfer,Very Satisfied
+40066,2024-08-24,2024,Q3,Aug,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Orbit,Retail,Corporate,John Miller,2,440,0.15,748.0,439.61,308.39,Card,Unsatisfied
+40067,2024-03-16,2024,Q1,Mar,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Small Business,Michael Brown,6,1097,0.1,5923.8,3737.91,2185.89,Card,Neutral
+40068,2024-08-31,2024,Q3,Aug,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Vertex,Distributor,Small Business,Sarah Lopez,8,846,0.0,6768.0,4919.9,1848.1,Cash,Unsatisfied
+40069,2024-08-06,2024,Q3,Aug,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,NovaTech,Distributor,Consumer,Emily Carter,16,824,0.15,11206.4,7584.98,3621.42,Bank Transfer,Unsatisfied
+40070,2024-11-12,2024,Q4,Nov,West,Colorado,Denver,Furniture,Chair,ComfortSeat,NovaTech,Retail,Small Business,Sarah Lopez,12,215,0.0,2580.0,1578.42,1001.58,Digital Wallet,Unsatisfied
+40071,2024-01-04,2024,Q1,Jan,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Orbit,Online,Corporate,John Miller,12,607,0.15,6191.4,4383.77,1807.63,Bank Transfer,Satisfied
+40072,2024-02-25,2024,Q1,Feb,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Orbit,Online,Consumer,John Miller,10,930,0.0,9300.0,6819.32,2480.68,Bank Transfer,Neutral
+40073,2024-02-04,2024,Q1,Feb,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,NovaTech,Retail,Corporate,Michael Brown,18,305,0.15,4666.5,3339.32,1327.18,Card,Very Satisfied
+40074,2024-07-05,2024,Q3,Jul,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Nimbus,Retail,Corporate,David Clark,9,1085,0.15,8300.25,4779.23,3521.02,Bank Transfer,Neutral
+40075,2024-08-01,2024,Q3,Aug,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Nimbus,Online,Consumer,Michael Brown,11,264,0.1,2613.6,1496.71,1116.89,Cash,Neutral
+40076,2024-04-18,2024,Q2,Apr,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Apex,Online,Corporate,Emily Carter,8,1195,0.1,8604.0,5399.8,3204.2,Cash,Neutral
+40077,2024-12-30,2024,Q4,Dec,West,California,Los Angeles,Accessories,Mouse,ClickPro,Orbit,Online,Small Business,Jessica Lee,1,895,0.0,895.0,500.09,394.91,Bank Transfer,Unsatisfied
+40078,2024-01-21,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Vertex,Distributor,Consumer,John Miller,12,135,0.1,1458.0,1027.63,430.37,Digital Wallet,Unsatisfied
+40079,2024-08-19,2024,Q3,Aug,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Vertex,Distributor,Corporate,Jessica Lee,18,886,0.0,15948.0,9760.5,6187.5,Cash,Unsatisfied
+40080,2024-10-28,2024,Q4,Oct,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Vertex,Online,Small Business,Michael Brown,8,352,0.05,2675.2,1758.68,916.52,Digital Wallet,Very Satisfied
+40081,2024-08-22,2024,Q3,Aug,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Orbit,Distributor,Corporate,David Clark,16,83,0.1,1195.2,854.24,340.96,Bank Transfer,Unsatisfied
+40082,2024-11-09,2024,Q4,Nov,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Nimbus,Distributor,Consumer,David Clark,12,272,0.05,3100.8,2300.25,800.55,Cash,Unsatisfied
+40083,2024-03-23,2024,Q1,Mar,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Apex,Retail,Consumer,John Miller,14,224,0.05,2979.2,2176.66,802.54,Bank Transfer,Very Satisfied
+40084,2024-06-03,2024,Q2,Jun,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Consumer,Emily Carter,7,832,0.1,5241.6,3684.26,1557.34,Digital Wallet,Unsatisfied
+40085,2024-07-29,2024,Q3,Jul,South,Florida,Miami,Accessories,Keyboard,KeyPro,Vertex,Distributor,Consumer,Emily Carter,12,1058,0.15,10791.6,7761.4,3030.2,Cash,Neutral
+40086,2024-10-19,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Nimbus,Online,Small Business,Emily Carter,3,477,0.15,1216.35,892.72,323.63,Bank Transfer,Unsatisfied
+40087,2024-01-24,2024,Q1,Jan,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Orbit,Online,Corporate,Emily Carter,7,1103,0.0,7721.0,5298.98,2422.02,Bank Transfer,Neutral
+40088,2024-06-29,2024,Q2,Jun,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Nimbus,Online,Small Business,David Clark,12,59,0.1,637.2,403.93,233.27,Card,Unsatisfied
+40089,2024-03-21,2024,Q1,Mar,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Vertex,Online,Small Business,Emily Carter,2,382,0.05,725.8,523.56,202.24,Bank Transfer,Very Satisfied
+40090,2024-04-16,2024,Q2,Apr,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Consumer,Sarah Lopez,20,939,0.15,15963.0,11292.01,4670.99,Bank Transfer,Satisfied
+40091,2024-03-04,2024,Q1,Mar,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Orbit,Distributor,Small Business,David Clark,7,404,0.1,2545.2,1414.45,1130.75,Cash,Very Satisfied
+40092,2024-01-16,2024,Q1,Jan,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Apex,Online,Corporate,Michael Brown,13,366,0.05,4520.1,2754.18,1765.92,Cash,Unsatisfied
+40093,2024-10-01,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Apex,Distributor,Consumer,Sarah Lopez,1,749,0.05,711.55,449.52,262.03,Cash,Satisfied
+40094,2024-04-10,2024,Q2,Apr,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Small Business,John Miller,18,176,0.05,3009.6,1777.7,1231.9,Digital Wallet,Unsatisfied
+40095,2024-09-28,2024,Q3,Sep,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Orbit,Distributor,Small Business,Sarah Lopez,20,857,0.05,16283.0,12069.73,4213.27,Cash,Satisfied
+40096,2024-11-20,2024,Q4,Nov,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,NovaTech,Distributor,Corporate,Sarah Lopez,10,70,0.1,630.0,410.51,219.49,Bank Transfer,Satisfied
+40097,2024-12-22,2024,Q4,Dec,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Apex,Distributor,Consumer,David Clark,14,1157,0.1,14578.2,9300.67,5277.53,Bank Transfer,Neutral
+40098,2024-01-06,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,NovaTech,Retail,Corporate,Emily Carter,18,263,0.15,4023.9,3016.92,1006.98,Digital Wallet,Unsatisfied
+40099,2024-07-22,2024,Q3,Jul,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,Orbit,Online,Small Business,Michael Brown,5,806,0.0,4030.0,2903.17,1126.83,Bank Transfer,Very Satisfied
+40100,2024-05-19,2024,Q2,May,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Vertex,Retail,Consumer,Jessica Lee,18,300,0.0,5400.0,3047.96,2352.04,Bank Transfer,Neutral
+40101,2024-09-02,2024,Q3,Sep,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Vertex,Retail,Consumer,Emily Carter,4,857,0.1,3085.2,2143.69,941.51,Digital Wallet,Very Satisfied
+40102,2024-09-08,2024,Q3,Sep,West,California,Los Angeles,Furniture,Chair,ComfortSeat,NovaTech,Online,Corporate,Sarah Lopez,9,231,0.1,1871.1,1051.35,819.75,Card,Satisfied
+40103,2024-01-31,2024,Q1,Jan,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Nimbus,Online,Small Business,John Miller,10,425,0.1,3825.0,2256.12,1568.88,Cash,Very Satisfied
+40104,2024-04-08,2024,Q2,Apr,Midwest,Illinois,Chicago,Furniture,Desk,WorkDesk Pro,Orbit,Online,Corporate,Michael Brown,3,382,0.15,974.1,600.74,373.36,Card,Neutral
+40105,2024-10-04,2024,Q4,Oct,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Nimbus,Retail,Small Business,Jessica Lee,11,1015,0.1,10048.5,5681.09,4367.41,Card,Satisfied
+40106,2024-08-24,2024,Q3,Aug,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Apex,Retail,Corporate,Sarah Lopez,4,134,0.0,536.0,385.66,150.34,Digital Wallet,Unsatisfied
+40107,2024-04-29,2024,Q2,Apr,South,Florida,Miami,Accessories,Mouse,ClickPro,Nimbus,Retail,Corporate,Emily Carter,9,1052,0.05,8994.6,6131.48,2863.12,Cash,Satisfied
+40108,2024-06-29,2024,Q2,Jun,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,Vertex,Retail,Consumer,Jessica Lee,7,63,0.05,418.95,291.72,127.23,Cash,Satisfied
+40109,2024-05-17,2024,Q2,May,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Orbit,Retail,Corporate,Sarah Lopez,17,854,0.05,13792.1,8461.45,5330.65,Card,Satisfied
+40110,2024-01-29,2024,Q1,Jan,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Nimbus,Online,Small Business,Michael Brown,8,452,0.15,3073.6,1897.64,1175.96,Bank Transfer,Satisfied
+40111,2024-06-11,2024,Q2,Jun,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Apex,Distributor,Corporate,Jessica Lee,18,688,0.05,11764.8,7477.79,4287.01,Bank Transfer,Neutral
+40112,2024-06-03,2024,Q2,Jun,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,NovaTech,Distributor,Consumer,Sarah Lopez,19,969,0.15,15649.35,8732.56,6916.79,Digital Wallet,Satisfied
+40113,2024-06-29,2024,Q2,Jun,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Apex,Distributor,Consumer,Jessica Lee,8,402,0.1,2894.4,2158.46,735.94,Digital Wallet,Satisfied
+40114,2024-08-16,2024,Q3,Aug,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Consumer,Michael Brown,18,924,0.1,14968.8,9997.59,4971.21,Digital Wallet,Satisfied
+40115,2024-02-18,2024,Q1,Feb,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Apex,Online,Small Business,David Clark,13,941,0.0,12233.0,7341.96,4891.04,Digital Wallet,Very Satisfied
+40116,2024-07-20,2024,Q3,Jul,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Apex,Retail,Consumer,Jessica Lee,6,590,0.05,3363.0,1849.87,1513.13,Cash,Unsatisfied
+40117,2024-09-16,2024,Q3,Sep,Midwest,Michigan,Detroit,Electronics,Tablet,Tab Elite,NovaTech,Retail,Consumer,Michael Brown,9,114,0.0,1026.0,626.54,399.46,Card,Satisfied
+40118,2024-05-30,2024,Q2,May,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Nimbus,Distributor,Corporate,John Miller,15,488,0.0,7320.0,4616.21,2703.79,Card,Unsatisfied
+40119,2024-08-18,2024,Q3,Aug,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Orbit,Retail,Consumer,Michael Brown,1,110,0.05,104.5,61.96,42.54,Card,Very Satisfied
+40120,2024-03-29,2024,Q1,Mar,South,Florida,Miami,Accessories,Mouse,ClickPro,Vertex,Retail,Small Business,Michael Brown,12,186,0.1,2008.8,1313.75,695.05,Digital Wallet,Satisfied
+40121,2024-08-08,2024,Q3,Aug,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,NovaTech,Retail,Small Business,David Clark,12,623,0.15,6354.6,4405.99,1948.61,Bank Transfer,Satisfied
+40122,2024-09-18,2024,Q3,Sep,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Vertex,Online,Consumer,Jessica Lee,1,250,0.05,237.5,168.06,69.44,Card,Unsatisfied
+40123,2024-10-02,2024,Q4,Oct,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Orbit,Retail,Corporate,Michael Brown,2,836,0.0,1672.0,1086.3,585.7,Card,Very Satisfied
+40124,2024-10-18,2024,Q4,Oct,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Orbit,Retail,Small Business,Emily Carter,4,367,0.15,1247.8,710.03,537.77,Digital Wallet,Unsatisfied
+40125,2024-05-15,2024,Q2,May,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Apex,Distributor,Consumer,John Miller,1,742,0.0,742.0,525.2,216.8,Cash,Satisfied
+40126,2024-08-20,2024,Q3,Aug,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Vertex,Distributor,Consumer,Jessica Lee,12,376,0.0,4512.0,2553.07,1958.93,Bank Transfer,Very Satisfied
+40127,2024-09-28,2024,Q3,Sep,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Nimbus,Distributor,Corporate,John Miller,19,870,0.0,16530.0,10693.63,5836.37,Cash,Very Satisfied
+40128,2024-09-12,2024,Q3,Sep,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Nimbus,Online,Small Business,Emily Carter,8,1115,0.1,8028.0,5053.35,2974.65,Digital Wallet,Satisfied
+40129,2024-04-12,2024,Q2,Apr,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,NovaTech,Online,Consumer,Jessica Lee,12,863,0.0,10356.0,7624.76,2731.24,Cash,Unsatisfied
+40130,2024-07-28,2024,Q3,Jul,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Small Business,Sarah Lopez,5,356,0.0,1780.0,1219.48,560.52,Cash,Unsatisfied
+40131,2024-12-01,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,NovaTech,Online,Small Business,Jessica Lee,20,621,0.05,11799.0,7176.03,4622.97,Cash,Satisfied
+40132,2024-08-07,2024,Q3,Aug,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Vertex,Retail,Corporate,John Miller,13,1068,0.1,12495.6,8662.16,3833.44,Cash,Satisfied
+40133,2024-04-12,2024,Q2,Apr,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,NovaTech,Online,Consumer,David Clark,18,513,0.05,8772.3,4963.16,3809.14,Cash,Neutral
+40134,2024-06-02,2024,Q2,Jun,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Orbit,Retail,Corporate,John Miller,6,630,0.0,3780.0,2599.49,1180.51,Digital Wallet,Very Satisfied
+40135,2024-10-14,2024,Q4,Oct,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Nimbus,Online,Small Business,John Miller,19,820,0.15,13243.0,9654.11,3588.89,Cash,Satisfied
+40136,2024-07-05,2024,Q3,Jul,Northeast,New York,New York,Accessories,Headphones,SoundMax,Nimbus,Distributor,Small Business,Emily Carter,12,909,0.0,10908.0,7951.25,2956.75,Bank Transfer,Neutral
+40137,2024-08-14,2024,Q3,Aug,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Vertex,Distributor,Corporate,Emily Carter,5,885,0.0,4425.0,3148.91,1276.09,Cash,Satisfied
+40138,2024-01-17,2024,Q1,Jan,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Orbit,Retail,Consumer,Michael Brown,6,1038,0.15,5293.8,3319.96,1973.84,Digital Wallet,Unsatisfied
+40139,2024-06-22,2024,Q2,Jun,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,Vertex,Retail,Consumer,John Miller,20,668,0.15,11356.0,6665.31,4690.69,Cash,Very Satisfied
+40140,2024-09-30,2024,Q3,Sep,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Nimbus,Distributor,Small Business,David Clark,6,358,0.05,2040.6,1490.5,550.1,Card,Satisfied
+40141,2024-01-05,2024,Q1,Jan,Midwest,Michigan,Detroit,Electronics,Tablet,Tab Elite,Orbit,Retail,Small Business,David Clark,20,93,0.1,1674.0,1086.54,587.46,Digital Wallet,Very Satisfied
+40142,2024-08-01,2024,Q3,Aug,South,Florida,Miami,Electronics,Tablet,Tab Elite,Apex,Online,Consumer,Sarah Lopez,10,790,0.1,7110.0,4636.23,2473.77,Cash,Neutral
+40143,2024-09-01,2024,Q3,Sep,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Orbit,Online,Small Business,Sarah Lopez,4,782,0.1,2815.2,2092.76,722.44,Card,Very Satisfied
+40144,2024-09-28,2024,Q3,Sep,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Orbit,Retail,Corporate,Michael Brown,13,583,0.1,6821.1,4844.53,1976.57,Digital Wallet,Neutral
+40145,2024-03-04,2024,Q1,Mar,West,Washington,Seattle,Accessories,Mouse,ClickPro,Vertex,Distributor,Small Business,Sarah Lopez,14,150,0.15,1785.0,996.23,788.77,Digital Wallet,Very Satisfied
+40146,2024-12-24,2024,Q4,Dec,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Orbit,Retail,Corporate,Emily Carter,20,842,0.1,15156.0,10610.48,4545.52,Digital Wallet,Very Satisfied
+40147,2024-09-07,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Nimbus,Online,Small Business,Jessica Lee,9,685,0.0,6165.0,3476.4,2688.6,Digital Wallet,Very Satisfied
+40148,2024-06-22,2024,Q2,Jun,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Apex,Retail,Consumer,Emily Carter,14,780,0.0,10920.0,8039.69,2880.31,Bank Transfer,Very Satisfied
+40149,2024-05-31,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Orbit,Online,Small Business,Jessica Lee,3,1086,0.1,2932.2,1755.0,1177.2,Card,Very Satisfied
+40150,2024-11-23,2024,Q4,Nov,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Nimbus,Retail,Consumer,Sarah Lopez,20,813,0.1,14634.0,9301.65,5332.35,Cash,Very Satisfied
+40151,2024-12-12,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,Apex,Online,Corporate,Sarah Lopez,15,548,0.0,8220.0,5238.22,2981.78,Digital Wallet,Very Satisfied
+40152,2024-01-07,2024,Q1,Jan,Northeast,New York,New York,Accessories,Headphones,SoundMax,Apex,Distributor,Consumer,Michael Brown,2,599,0.0,1198.0,720.67,477.33,Cash,Unsatisfied
+40153,2024-09-06,2024,Q3,Sep,Northeast,New York,New York,Electronics,Phone,Galaxy Max,NovaTech,Retail,Small Business,Sarah Lopez,3,852,0.05,2428.2,1638.8,789.4,Bank Transfer,Very Satisfied
+40154,2024-06-01,2024,Q2,Jun,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,NovaTech,Retail,Consumer,Jessica Lee,12,104,0.0,1248.0,793.19,454.81,Bank Transfer,Unsatisfied
+40155,2024-03-14,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Nimbus,Retail,Corporate,Jessica Lee,15,304,0.0,4560.0,2873.26,1686.74,Digital Wallet,Unsatisfied
+40156,2024-03-29,2024,Q1,Mar,Midwest,Ohio,Columbus,Furniture,Cabinet,StoragePlus,Nimbus,Distributor,Small Business,Emily Carter,3,519,0.1,1401.3,1017.07,384.23,Digital Wallet,Unsatisfied
+40157,2024-11-15,2024,Q4,Nov,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Nimbus,Online,Consumer,Sarah Lopez,14,963,0.1,12133.8,7563.46,4570.34,Cash,Unsatisfied
+40158,2024-10-23,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,NovaTech,Online,Corporate,Michael Brown,3,646,0.05,1841.1,1104.76,736.34,Card,Very Satisfied
+40159,2024-03-18,2024,Q1,Mar,Northeast,New York,New York,Electronics,Tablet,Tab Elite,NovaTech,Distributor,Small Business,Emily Carter,2,1198,0.15,2036.6,1414.48,622.12,Digital Wallet,Satisfied
+40160,2024-01-15,2024,Q1,Jan,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Orbit,Retail,Consumer,David Clark,20,1072,0.05,20368.0,14899.92,5468.08,Bank Transfer,Neutral
+40161,2024-03-20,2024,Q1,Mar,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Vertex,Distributor,Corporate,Jessica Lee,16,986,0.05,14987.2,8883.54,6103.66,Cash,Very Satisfied
+40162,2024-07-22,2024,Q3,Jul,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Nimbus,Distributor,Corporate,Emily Carter,16,147,0.15,1999.2,1295.47,703.73,Card,Very Satisfied
+40163,2024-12-21,2024,Q4,Dec,Northeast,New York,New York,Accessories,Mouse,ClickPro,Nimbus,Distributor,Consumer,Emily Carter,19,1126,0.0,21394.0,15884.63,5509.37,Card,Satisfied
+40164,2024-09-03,2024,Q3,Sep,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Orbit,Retail,Consumer,Sarah Lopez,5,1180,0.0,5900.0,3977.5,1922.5,Cash,Very Satisfied
+40165,2024-01-02,2024,Q1,Jan,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Nimbus,Online,Corporate,Jessica Lee,4,610,0.0,2440.0,1628.29,811.71,Cash,Neutral
+40166,2024-02-26,2024,Q1,Feb,Northeast,New York,New York,Accessories,Headphones,SoundMax,Orbit,Retail,Consumer,Michael Brown,2,957,0.05,1818.3,1182.4,635.9,Digital Wallet,Unsatisfied
+40167,2024-01-30,2024,Q1,Jan,South,Texas,Dallas,Electronics,Phone,Galaxy Max,NovaTech,Online,Consumer,John Miller,9,937,0.1,7589.7,4666.52,2923.18,Card,Neutral
+40168,2024-10-18,2024,Q4,Oct,South,Florida,Miami,Accessories,Headphones,SoundMax,Nimbus,Retail,Consumer,Emily Carter,7,821,0.1,5172.3,3429.52,1742.78,Digital Wallet,Neutral
+40169,2024-01-22,2024,Q1,Jan,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Apex,Distributor,Small Business,Sarah Lopez,5,489,0.15,2078.25,1400.95,677.3,Digital Wallet,Neutral
+40170,2024-07-27,2024,Q3,Jul,West,Colorado,Denver,Accessories,Headphones,SoundMax,Orbit,Online,Corporate,Michael Brown,6,225,0.1,1215.0,731.86,483.14,Cash,Neutral
+40171,2024-01-16,2024,Q1,Jan,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Vertex,Distributor,Consumer,Jessica Lee,17,734,0.15,10606.3,6092.1,4514.2,Card,Very Satisfied
+40172,2024-04-18,2024,Q2,Apr,Northeast,New York,New York,Accessories,Mouse,ClickPro,Apex,Retail,Corporate,John Miller,18,684,0.15,10465.2,6758.0,3707.2,Card,Satisfied
+40173,2024-04-23,2024,Q2,Apr,West,California,Los Angeles,Accessories,Mouse,ClickPro,NovaTech,Retail,Small Business,Jessica Lee,10,933,0.0,9330.0,5207.61,4122.39,Cash,Very Satisfied
+40174,2024-03-18,2024,Q1,Mar,West,California,Los Angeles,Accessories,Keyboard,KeyPro,NovaTech,Distributor,Consumer,Michael Brown,2,1136,0.0,2272.0,1432.72,839.28,Cash,Neutral
+40175,2024-09-14,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,NovaTech,Distributor,Corporate,Michael Brown,15,848,0.05,12084.0,8919.64,3164.36,Card,Neutral
+40176,2024-06-23,2024,Q2,Jun,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Vertex,Retail,Small Business,Sarah Lopez,12,402,0.1,4341.6,2997.21,1344.39,Digital Wallet,Unsatisfied
+40177,2024-03-28,2024,Q1,Mar,West,Washington,Seattle,Furniture,Chair,ComfortSeat,NovaTech,Online,Consumer,Jessica Lee,18,751,0.05,12842.1,8229.69,4612.41,Bank Transfer,Very Satisfied
+40178,2024-05-30,2024,Q2,May,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,NovaTech,Distributor,Consumer,Jessica Lee,15,1075,0.1,14512.5,8736.66,5775.84,Card,Satisfied
+40179,2024-07-21,2024,Q3,Jul,South,Florida,Miami,Furniture,Chair,ComfortSeat,Apex,Distributor,Small Business,Sarah Lopez,9,951,0.15,7275.15,5091.89,2183.26,Cash,Unsatisfied
+40180,2024-01-11,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Apex,Retail,Corporate,Sarah Lopez,9,658,0.05,5625.9,3518.32,2107.58,Cash,Neutral
+40181,2024-10-05,2024,Q4,Oct,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Vertex,Distributor,Small Business,John Miller,19,821,0.05,14819.05,9231.32,5587.73,Digital Wallet,Satisfied
+40182,2024-11-18,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Apex,Online,Consumer,Emily Carter,2,256,0.15,435.2,240.36,194.84,Digital Wallet,Very Satisfied
+40183,2024-08-03,2024,Q3,Aug,West,California,Los Angeles,Accessories,Headphones,SoundMax,Orbit,Retail,Consumer,Emily Carter,8,1091,0.1,7855.2,5880.16,1975.04,Cash,Satisfied
+40184,2024-02-17,2024,Q1,Feb,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Orbit,Online,Corporate,Sarah Lopez,19,1003,0.05,18104.15,10932.69,7171.46,Cash,Very Satisfied
+40185,2024-09-10,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Nimbus,Online,Small Business,Emily Carter,13,366,0.15,4044.3,2936.57,1107.73,Card,Unsatisfied
+40186,2024-12-27,2024,Q4,Dec,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Orbit,Online,Consumer,David Clark,15,91,0.05,1296.75,777.17,519.58,Card,Neutral
+40187,2024-03-30,2024,Q1,Mar,South,Texas,Dallas,Accessories,Mouse,ClickPro,Nimbus,Retail,Small Business,Michael Brown,3,884,0.05,2519.4,1488.79,1030.61,Cash,Satisfied
+40188,2024-11-27,2024,Q4,Nov,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,NovaTech,Retail,Consumer,Sarah Lopez,20,928,0.1,16704.0,12169.44,4534.56,Cash,Satisfied
+40189,2024-09-09,2024,Q3,Sep,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Apex,Online,Corporate,Sarah Lopez,18,319,0.1,5167.8,3670.23,1497.57,Bank Transfer,Very Satisfied
+40190,2024-07-20,2024,Q3,Jul,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Vertex,Online,Small Business,Sarah Lopez,13,1151,0.1,13466.7,8770.77,4695.93,Digital Wallet,Unsatisfied
+40191,2024-03-13,2024,Q1,Mar,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Vertex,Distributor,Small Business,Michael Brown,16,683,0.1,9835.2,6602.96,3232.24,Cash,Neutral
+40192,2024-05-04,2024,Q2,May,West,California,Los Angeles,Accessories,Keyboard,KeyPro,Nimbus,Online,Corporate,David Clark,3,951,0.0,2853.0,2019.36,833.64,Cash,Very Satisfied
+40193,2024-08-28,2024,Q3,Aug,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Apex,Online,Consumer,Jessica Lee,20,1112,0.1,20016.0,12551.35,7464.65,Digital Wallet,Very Satisfied
+40194,2024-10-26,2024,Q4,Oct,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Nimbus,Distributor,Small Business,John Miller,2,89,0.0,178.0,126.73,51.27,Cash,Very Satisfied
+40195,2024-05-03,2024,Q2,May,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Vertex,Distributor,Consumer,Sarah Lopez,7,394,0.0,2758.0,2058.82,699.18,Card,Very Satisfied
+40196,2024-09-07,2024,Q3,Sep,South,Texas,Dallas,Accessories,Mouse,ClickPro,Orbit,Online,Small Business,Jessica Lee,6,370,0.1,1998.0,1296.84,701.16,Bank Transfer,Satisfied
+40197,2024-10-02,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Nimbus,Online,Small Business,Michael Brown,20,511,0.15,8687.0,5810.44,2876.56,Cash,Neutral
+40198,2024-02-09,2024,Q1,Feb,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Nimbus,Distributor,Corporate,Emily Carter,15,787,0.0,11805.0,7438.15,4366.85,Cash,Satisfied
+40199,2024-12-18,2024,Q4,Dec,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Apex,Distributor,Small Business,David Clark,8,642,0.15,4365.6,3236.79,1128.81,Cash,Unsatisfied
+40200,2024-04-21,2024,Q2,Apr,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Nimbus,Online,Corporate,Michael Brown,16,1069,0.05,16248.8,10291.83,5956.97,Digital Wallet,Unsatisfied
+40201,2024-11-05,2024,Q4,Nov,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Vertex,Distributor,Small Business,John Miller,20,943,0.15,16031.0,10633.84,5397.16,Card,Very Satisfied
+40202,2024-12-07,2024,Q4,Dec,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,NovaTech,Distributor,Corporate,Jessica Lee,12,411,0.1,4438.8,2954.2,1484.6,Digital Wallet,Satisfied
+40203,2024-10-14,2024,Q4,Oct,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Vertex,Retail,Corporate,Emily Carter,6,95,0.0,570.0,327.22,242.78,Digital Wallet,Satisfied
+40204,2024-04-15,2024,Q2,Apr,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Orbit,Online,Small Business,John Miller,20,451,0.15,7667.0,4364.16,3302.84,Bank Transfer,Neutral
+40205,2024-09-14,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Vertex,Retail,Small Business,Emily Carter,14,48,0.05,638.4,437.42,200.98,Card,Unsatisfied
+40206,2024-05-07,2024,Q2,May,West,Colorado,Denver,Accessories,Mouse,ClickPro,Orbit,Distributor,Small Business,John Miller,5,570,0.0,2850.0,2013.56,836.44,Cash,Very Satisfied
+40207,2024-05-28,2024,Q2,May,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,NovaTech,Retail,Small Business,Sarah Lopez,9,550,0.0,4950.0,3417.23,1532.77,Bank Transfer,Satisfied
+40208,2024-04-08,2024,Q2,Apr,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Apex,Distributor,Corporate,Emily Carter,19,503,0.15,8123.45,5888.83,2234.62,Card,Unsatisfied
+40209,2024-04-26,2024,Q2,Apr,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Orbit,Retail,Consumer,John Miller,5,242,0.0,1210.0,701.65,508.35,Digital Wallet,Satisfied
+40210,2024-06-21,2024,Q2,Jun,Northeast,New York,New York,Accessories,Headphones,SoundMax,Orbit,Online,Corporate,Michael Brown,13,1035,0.1,12109.5,7806.75,4302.75,Cash,Satisfied
+40211,2024-08-19,2024,Q3,Aug,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Nimbus,Online,Consumer,Jessica Lee,16,66,0.15,897.6,641.79,255.81,Digital Wallet,Neutral
+40212,2024-02-10,2024,Q1,Feb,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Nimbus,Retail,Corporate,David Clark,15,173,0.05,2465.25,1733.45,731.8,Card,Very Satisfied
+40213,2024-07-31,2024,Q3,Jul,Northeast,Massachusetts,Boston,Electronics,Tablet,Tab Elite,NovaTech,Distributor,Consumer,Michael Brown,7,1191,0.05,7920.15,4609.43,3310.72,Digital Wallet,Very Satisfied
+40214,2024-04-15,2024,Q2,Apr,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Orbit,Online,Small Business,Jessica Lee,18,118,0.15,1805.4,1333.23,472.17,Digital Wallet,Unsatisfied
+40215,2024-10-18,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Nimbus,Distributor,Consumer,Jessica Lee,3,922,0.1,2489.4,1837.69,651.71,Card,Neutral
+40216,2024-08-10,2024,Q3,Aug,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Orbit,Distributor,Consumer,Jessica Lee,18,1019,0.1,16507.8,9309.5,7198.3,Card,Neutral
+40217,2024-09-25,2024,Q3,Sep,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Nimbus,Online,Corporate,Emily Carter,9,1185,0.05,10131.75,7130.58,3001.17,Bank Transfer,Neutral
+40218,2024-11-29,2024,Q4,Nov,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Apex,Distributor,Small Business,Michael Brown,11,1023,0.1,10127.7,5995.44,4132.26,Cash,Very Satisfied
+40219,2024-08-13,2024,Q3,Aug,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,NovaTech,Retail,Corporate,John Miller,5,788,0.1,3546.0,2105.77,1440.23,Bank Transfer,Neutral
+40220,2024-04-02,2024,Q2,Apr,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,NovaTech,Distributor,Small Business,Emily Carter,14,46,0.05,611.8,412.71,199.09,Card,Satisfied
+40221,2024-01-05,2024,Q1,Jan,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Apex,Retail,Consumer,Sarah Lopez,5,788,0.15,3349.0,2296.61,1052.39,Bank Transfer,Satisfied
+40222,2024-01-25,2024,Q1,Jan,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Orbit,Distributor,Corporate,Jessica Lee,14,385,0.0,5390.0,3709.81,1680.19,Card,Satisfied
+40223,2024-01-25,2024,Q1,Jan,South,Florida,Miami,Accessories,Mouse,ClickPro,Vertex,Retail,Corporate,Jessica Lee,1,791,0.05,751.45,499.05,252.4,Digital Wallet,Neutral
+40224,2024-04-18,2024,Q2,Apr,Midwest,Illinois,Chicago,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Corporate,Michael Brown,20,286,0.05,5434.0,3473.19,1960.81,Bank Transfer,Unsatisfied
+40225,2024-04-07,2024,Q2,Apr,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Apex,Retail,Consumer,David Clark,14,1022,0.0,14308.0,9229.21,5078.79,Cash,Very Satisfied
+40226,2024-05-29,2024,Q2,May,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Vertex,Retail,Consumer,Sarah Lopez,11,814,0.0,8954.0,5167.16,3786.84,Digital Wallet,Neutral
+40227,2024-07-11,2024,Q3,Jul,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Nimbus,Retail,Small Business,Emily Carter,5,1166,0.0,5830.0,3747.4,2082.6,Digital Wallet,Very Satisfied
+40228,2024-08-05,2024,Q3,Aug,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Nimbus,Online,Corporate,David Clark,12,152,0.05,1732.8,1093.97,638.83,Cash,Satisfied
+40229,2024-12-23,2024,Q4,Dec,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Apex,Retail,Corporate,Michael Brown,18,1170,0.0,21060.0,12768.99,8291.01,Cash,Unsatisfied
+40230,2024-04-27,2024,Q2,Apr,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Consumer,Emily Carter,18,504,0.1,8164.8,5626.49,2538.31,Bank Transfer,Neutral
+40231,2024-09-29,2024,Q3,Sep,West,Colorado,Denver,Accessories,Headphones,SoundMax,Nimbus,Distributor,Corporate,David Clark,12,1025,0.05,11685.0,7495.18,4189.82,Cash,Unsatisfied
+40232,2024-02-03,2024,Q1,Feb,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Nimbus,Retail,Consumer,Emily Carter,16,81,0.0,1296.0,948.79,347.21,Card,Satisfied
+40233,2024-11-02,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,NovaTech,Online,Corporate,David Clark,14,1088,0.15,12947.2,9122.94,3824.26,Bank Transfer,Neutral
+40234,2024-12-29,2024,Q4,Dec,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Apex,Distributor,Consumer,David Clark,18,756,0.05,12927.6,8855.08,4072.52,Bank Transfer,Satisfied
+40235,2024-04-10,2024,Q2,Apr,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Vertex,Retail,Small Business,David Clark,12,977,0.05,11137.8,6830.58,4307.22,Digital Wallet,Very Satisfied
+40236,2024-05-18,2024,Q2,May,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Nimbus,Distributor,Small Business,Jessica Lee,9,441,0.05,3770.55,2451.92,1318.63,Card,Very Satisfied
+40237,2024-07-17,2024,Q3,Jul,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Nimbus,Retail,Consumer,Emily Carter,5,913,0.05,4336.75,2465.7,1871.05,Digital Wallet,Unsatisfied
+40238,2024-10-19,2024,Q4,Oct,South,Florida,Miami,Electronics,Tablet,Tab Elite,Orbit,Retail,Corporate,Emily Carter,10,898,0.15,7633.0,4826.77,2806.23,Card,Neutral
+40239,2024-02-20,2024,Q1,Feb,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Nimbus,Retail,Small Business,Emily Carter,10,740,0.1,6660.0,4040.26,2619.74,Digital Wallet,Neutral
+40240,2024-07-16,2024,Q3,Jul,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Orbit,Online,Consumer,Emily Carter,16,1114,0.0,17824.0,10536.16,7287.84,Bank Transfer,Neutral
+40241,2024-12-10,2024,Q4,Dec,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Vertex,Distributor,Corporate,Sarah Lopez,16,353,0.0,5648.0,3820.24,1827.76,Digital Wallet,Unsatisfied
+40242,2024-07-18,2024,Q3,Jul,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Nimbus,Online,Small Business,Michael Brown,19,1180,0.0,22420.0,15098.91,7321.09,Card,Neutral
+40243,2024-05-13,2024,Q2,May,South,Florida,Miami,Furniture,Chair,ComfortSeat,NovaTech,Online,Small Business,Michael Brown,20,319,0.1,5742.0,4291.37,1450.63,Card,Neutral
+40244,2024-04-20,2024,Q2,Apr,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Vertex,Distributor,Small Business,Sarah Lopez,6,318,0.15,1621.8,941.65,680.15,Card,Neutral
+40245,2024-03-23,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Apex,Online,Small Business,Michael Brown,12,273,0.05,3112.2,2162.82,949.38,Cash,Unsatisfied
+40246,2024-01-09,2024,Q1,Jan,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,NovaTech,Retail,Corporate,David Clark,11,265,0.0,2915.0,1687.07,1227.93,Cash,Neutral
+40247,2024-01-16,2024,Q1,Jan,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Orbit,Retail,Corporate,Jessica Lee,17,386,0.1,5905.8,4107.98,1797.82,Bank Transfer,Unsatisfied
+40248,2024-12-13,2024,Q4,Dec,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Nimbus,Retail,Small Business,Jessica Lee,15,425,0.05,6056.25,3926.22,2130.03,Digital Wallet,Neutral
+40249,2024-03-26,2024,Q1,Mar,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Nimbus,Distributor,Corporate,Sarah Lopez,6,317,0.1,1711.8,1204.67,507.13,Bank Transfer,Unsatisfied
+40250,2024-10-11,2024,Q4,Oct,Northeast,Massachusetts,Boston,Electronics,Tablet,Tab Elite,Nimbus,Online,Corporate,John Miller,14,1109,0.05,14749.7,8375.39,6374.31,Digital Wallet,Neutral
+40251,2024-01-02,2024,Q1,Jan,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Orbit,Retail,Corporate,Jessica Lee,10,602,0.15,5117.0,3756.46,1360.54,Cash,Neutral
+40252,2024-03-25,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Nimbus,Distributor,Consumer,Emily Carter,12,478,0.1,5162.4,3028.61,2133.79,Cash,Satisfied
+40253,2024-01-17,2024,Q1,Jan,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Orbit,Distributor,Corporate,David Clark,3,229,0.05,652.65,481.29,171.36,Bank Transfer,Unsatisfied
+40254,2024-01-14,2024,Q1,Jan,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Orbit,Online,Small Business,Jessica Lee,10,656,0.0,6560.0,3984.0,2576.0,Card,Satisfied
+40255,2024-05-26,2024,Q2,May,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Apex,Retail,Corporate,Michael Brown,16,286,0.15,3889.6,2728.83,1160.77,Bank Transfer,Unsatisfied
+40256,2024-02-08,2024,Q1,Feb,West,California,Los Angeles,Accessories,Headphones,SoundMax,Vertex,Online,Small Business,Jessica Lee,19,660,0.0,12540.0,8041.6,4498.4,Bank Transfer,Neutral
+40257,2024-03-08,2024,Q1,Mar,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Vertex,Retail,Small Business,John Miller,19,640,0.1,10944.0,6087.38,4856.62,Card,Unsatisfied
+40258,2024-03-11,2024,Q1,Mar,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Orbit,Retail,Small Business,Michael Brown,4,494,0.0,1976.0,1390.36,585.64,Bank Transfer,Unsatisfied
+40259,2024-02-26,2024,Q1,Feb,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Nimbus,Distributor,Small Business,Sarah Lopez,5,1094,0.05,5196.5,3206.27,1990.23,Digital Wallet,Very Satisfied
+40260,2024-02-29,2024,Q1,Feb,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,Apex,Online,Consumer,Sarah Lopez,19,139,0.05,2508.95,1530.91,978.04,Card,Unsatisfied
+40261,2024-05-20,2024,Q2,May,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,NovaTech,Distributor,Corporate,Jessica Lee,19,716,0.1,12243.6,8452.82,3790.78,Bank Transfer,Neutral
+40262,2024-10-16,2024,Q4,Oct,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Vertex,Online,Small Business,Emily Carter,20,467,0.0,9340.0,5755.85,3584.15,Cash,Very Satisfied
+40263,2024-01-24,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,Nimbus,Online,Small Business,John Miller,4,1130,0.0,4520.0,3023.34,1496.66,Cash,Satisfied
+40264,2024-10-15,2024,Q4,Oct,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Orbit,Online,Consumer,Sarah Lopez,5,626,0.1,2817.0,1925.15,891.85,Bank Transfer,Very Satisfied
+40265,2024-03-25,2024,Q1,Mar,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Vertex,Retail,Small Business,Emily Carter,1,676,0.0,676.0,434.52,241.48,Digital Wallet,Unsatisfied
+40266,2024-01-16,2024,Q1,Jan,South,Florida,Miami,Furniture,Chair,ComfortSeat,Vertex,Retail,Consumer,Sarah Lopez,17,471,0.15,6805.95,4295.93,2510.02,Card,Satisfied
+40267,2024-10-10,2024,Q4,Oct,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Apex,Retail,Small Business,Michael Brown,20,758,0.1,13644.0,7746.49,5897.51,Bank Transfer,Neutral
+40268,2024-07-20,2024,Q3,Jul,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Consumer,John Miller,7,1098,0.0,7686.0,5684.78,2001.22,Cash,Very Satisfied
+40269,2024-05-30,2024,Q2,May,Northeast,New York,New York,Accessories,Headphones,SoundMax,NovaTech,Distributor,Small Business,Emily Carter,14,949,0.0,13286.0,8248.65,5037.35,Cash,Very Satisfied
+40270,2024-11-23,2024,Q4,Nov,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Apex,Online,Consumer,Jessica Lee,11,838,0.1,8296.2,5450.42,2845.78,Bank Transfer,Unsatisfied
+40271,2024-07-12,2024,Q3,Jul,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Nimbus,Online,Small Business,Jessica Lee,8,731,0.1,5263.2,3823.13,1440.07,Card,Neutral
+40272,2024-11-14,2024,Q4,Nov,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Apex,Distributor,Corporate,David Clark,20,447,0.0,8940.0,5884.4,3055.6,Card,Neutral
+40273,2024-09-22,2024,Q3,Sep,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Vertex,Retail,Corporate,Sarah Lopez,12,963,0.0,11556.0,6369.38,5186.62,Digital Wallet,Very Satisfied
+40274,2024-04-24,2024,Q2,Apr,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Apex,Distributor,Corporate,John Miller,15,1088,0.15,13872.0,8642.41,5229.59,Cash,Neutral
+40275,2024-05-17,2024,Q2,May,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,Apex,Retail,Small Business,Sarah Lopez,4,233,0.15,792.2,506.07,286.13,Card,Unsatisfied
+40276,2024-03-18,2024,Q1,Mar,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Nimbus,Online,Consumer,Jessica Lee,16,478,0.0,7648.0,5570.94,2077.06,Card,Satisfied
+40277,2024-09-13,2024,Q3,Sep,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Vertex,Online,Consumer,David Clark,8,645,0.0,5160.0,3597.68,1562.32,Cash,Unsatisfied
+40278,2024-04-22,2024,Q2,Apr,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,NovaTech,Distributor,Small Business,Sarah Lopez,19,868,0.1,14842.8,9764.24,5078.56,Cash,Neutral
+40279,2024-01-11,2024,Q1,Jan,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Apex,Retail,Consumer,Emily Carter,10,61,0.1,549.0,341.18,207.82,Card,Satisfied
+40280,2024-03-25,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Nimbus,Online,Consumer,David Clark,17,153,0.1,2340.9,1336.76,1004.14,Bank Transfer,Satisfied
+40281,2024-02-11,2024,Q1,Feb,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,NovaTech,Online,Consumer,David Clark,4,387,0.0,1548.0,1003.61,544.39,Cash,Very Satisfied
+40282,2024-07-19,2024,Q3,Jul,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Orbit,Online,Consumer,David Clark,11,299,0.0,3289.0,2289.94,999.06,Bank Transfer,Unsatisfied
+40283,2024-06-29,2024,Q2,Jun,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Orbit,Retail,Consumer,Jessica Lee,20,1098,0.05,20862.0,14490.12,6371.88,Digital Wallet,Neutral
+40284,2024-09-10,2024,Q3,Sep,South,Florida,Miami,Accessories,Mouse,ClickPro,Apex,Distributor,Corporate,Emily Carter,12,553,0.0,6636.0,3760.95,2875.05,Card,Unsatisfied
+40285,2024-03-02,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Orbit,Online,Consumer,Jessica Lee,13,1166,0.05,14400.1,8067.1,6333.0,Bank Transfer,Very Satisfied
+40286,2024-11-07,2024,Q4,Nov,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Apex,Distributor,Small Business,Jessica Lee,10,163,0.05,1548.5,1042.41,506.09,Bank Transfer,Satisfied
+40287,2024-05-08,2024,Q2,May,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Orbit,Online,Corporate,Jessica Lee,5,1022,0.05,4854.5,3249.55,1604.95,Bank Transfer,Very Satisfied
+40288,2024-11-08,2024,Q4,Nov,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Vertex,Distributor,Small Business,Jessica Lee,9,814,0.05,6959.7,4075.66,2884.04,Digital Wallet,Satisfied
+40289,2024-04-05,2024,Q2,Apr,West,Colorado,Denver,Accessories,Headphones,SoundMax,Orbit,Online,Small Business,David Clark,3,64,0.15,163.2,120.78,42.42,Cash,Neutral
+40290,2024-12-26,2024,Q4,Dec,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Nimbus,Distributor,Corporate,John Miller,2,707,0.1,1272.6,949.28,323.32,Digital Wallet,Unsatisfied
+40291,2024-11-15,2024,Q4,Nov,South,Florida,Miami,Electronics,Tablet,Tab Elite,Orbit,Distributor,Small Business,John Miller,11,970,0.15,9069.5,5654.57,3414.93,Digital Wallet,Neutral
+40292,2024-05-10,2024,Q2,May,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,NovaTech,Distributor,Consumer,David Clark,2,861,0.0,1722.0,1143.89,578.11,Bank Transfer,Unsatisfied
+40293,2024-07-28,2024,Q3,Jul,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Vertex,Online,Consumer,Michael Brown,5,395,0.05,1876.25,1361.5,514.75,Cash,Neutral
+40294,2024-08-09,2024,Q3,Aug,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,NovaTech,Retail,Corporate,Michael Brown,10,727,0.0,7270.0,4597.6,2672.4,Digital Wallet,Unsatisfied
+40295,2024-05-18,2024,Q2,May,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Apex,Online,Consumer,Sarah Lopez,11,512,0.05,5350.4,2985.82,2364.58,Bank Transfer,Very Satisfied
+40296,2024-07-19,2024,Q3,Jul,South,Florida,Miami,Electronics,Phone,Galaxy Max,Apex,Online,Corporate,Jessica Lee,18,414,0.15,6334.2,4244.51,2089.69,Digital Wallet,Satisfied
+40297,2024-12-30,2024,Q4,Dec,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Nimbus,Online,Consumer,Michael Brown,9,271,0.15,2073.15,1318.2,754.95,Bank Transfer,Unsatisfied
+40298,2024-07-05,2024,Q3,Jul,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Vertex,Retail,Consumer,David Clark,4,422,0.05,1603.6,892.05,711.55,Cash,Very Satisfied
+40299,2024-04-20,2024,Q2,Apr,West,Washington,Seattle,Accessories,Mouse,ClickPro,Nimbus,Retail,Small Business,John Miller,6,1060,0.0,6360.0,4462.19,1897.81,Bank Transfer,Satisfied
+40300,2024-07-12,2024,Q3,Jul,South,Florida,Miami,Accessories,Mouse,ClickPro,Nimbus,Distributor,Small Business,Sarah Lopez,4,930,0.1,3348.0,2233.81,1114.19,Digital Wallet,Unsatisfied
+40301,2024-04-06,2024,Q2,Apr,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Vertex,Online,Small Business,Emily Carter,5,797,0.15,3387.25,2191.71,1195.54,Cash,Neutral
+40302,2024-05-25,2024,Q2,May,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Nimbus,Retail,Small Business,Sarah Lopez,10,697,0.0,6970.0,5113.57,1856.43,Card,Neutral
+40303,2024-04-22,2024,Q2,Apr,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Nimbus,Distributor,Consumer,David Clark,1,80,0.0,80.0,44.9,35.1,Digital Wallet,Neutral
+40304,2024-03-20,2024,Q1,Mar,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Orbit,Retail,Consumer,Michael Brown,11,405,0.0,4455.0,3157.37,1297.63,Digital Wallet,Unsatisfied
+40305,2024-01-24,2024,Q1,Jan,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Apex,Distributor,Consumer,Sarah Lopez,12,1071,0.05,12209.4,7277.65,4931.75,Card,Very Satisfied
+40306,2024-10-24,2024,Q4,Oct,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Nimbus,Distributor,Small Business,Michael Brown,19,443,0.1,7575.3,4893.78,2681.52,Card,Unsatisfied
+40307,2024-02-14,2024,Q1,Feb,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Vertex,Distributor,Small Business,Emily Carter,1,991,0.15,842.35,612.75,229.6,Cash,Very Satisfied
+40308,2024-02-10,2024,Q1,Feb,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,NovaTech,Online,Small Business,Sarah Lopez,15,836,0.15,10659.0,7088.28,3570.72,Bank Transfer,Satisfied
+40309,2024-01-15,2024,Q1,Jan,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Nimbus,Online,Consumer,David Clark,5,938,0.1,4221.0,2952.22,1268.78,Card,Unsatisfied
+40310,2024-12-13,2024,Q4,Dec,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Nimbus,Distributor,Consumer,John Miller,15,1167,0.15,14879.25,11055.11,3824.14,Bank Transfer,Very Satisfied
+40311,2024-11-29,2024,Q4,Nov,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Nimbus,Online,Consumer,John Miller,12,888,0.15,9057.6,5614.18,3443.42,Digital Wallet,Neutral
+40312,2024-06-14,2024,Q2,Jun,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Apex,Online,Corporate,Emily Carter,11,835,0.15,7807.25,5449.7,2357.55,Digital Wallet,Satisfied
+40313,2024-02-14,2024,Q1,Feb,South,Florida,Miami,Electronics,Phone,Galaxy Max,Apex,Online,Consumer,Jessica Lee,6,536,0.15,2733.6,1698.6,1035.0,Card,Satisfied
+40314,2024-05-11,2024,Q2,May,South,Florida,Miami,Electronics,Tablet,Tab Elite,NovaTech,Retail,Small Business,David Clark,10,487,0.1,4383.0,2545.43,1837.57,Digital Wallet,Unsatisfied
+40315,2024-11-08,2024,Q4,Nov,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,NovaTech,Retail,Corporate,Sarah Lopez,2,491,0.1,883.8,606.8,277.0,Cash,Satisfied
+40316,2024-05-07,2024,Q2,May,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Nimbus,Distributor,Corporate,Emily Carter,3,1026,0.15,2616.3,1527.96,1088.34,Bank Transfer,Unsatisfied
+40317,2024-07-01,2024,Q3,Jul,South,Florida,Miami,Electronics,Phone,Galaxy Max,Apex,Distributor,Consumer,David Clark,5,500,0.0,2500.0,1443.47,1056.53,Bank Transfer,Neutral
+40318,2024-08-03,2024,Q3,Aug,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Apex,Online,Consumer,Jessica Lee,7,993,0.0,6951.0,5113.58,1837.42,Bank Transfer,Unsatisfied
+40319,2024-06-17,2024,Q2,Jun,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Nimbus,Online,Small Business,Michael Brown,12,437,0.05,4981.8,3090.45,1891.35,Bank Transfer,Very Satisfied
+40320,2024-03-26,2024,Q1,Mar,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Vertex,Retail,Small Business,John Miller,2,109,0.1,196.2,119.37,76.83,Bank Transfer,Neutral
+40321,2024-04-14,2024,Q2,Apr,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Vertex,Retail,Corporate,Michael Brown,10,846,0.15,7191.0,4169.77,3021.23,Card,Neutral
+40322,2024-09-21,2024,Q3,Sep,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,NovaTech,Retail,Corporate,Michael Brown,8,138,0.15,938.4,616.55,321.85,Digital Wallet,Neutral
+40323,2024-03-30,2024,Q1,Mar,West,Washington,Seattle,Accessories,Keyboard,KeyPro,NovaTech,Online,Small Business,John Miller,13,1159,0.15,12806.95,8536.84,4270.11,Digital Wallet,Unsatisfied
+40324,2024-02-23,2024,Q1,Feb,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Apex,Retail,Corporate,Emily Carter,19,71,0.1,1214.1,892.12,321.98,Card,Neutral
+40325,2024-01-10,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,NovaTech,Online,Corporate,Emily Carter,1,156,0.05,148.2,93.87,54.33,Bank Transfer,Unsatisfied
+40326,2024-05-17,2024,Q2,May,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Nimbus,Distributor,Corporate,Jessica Lee,1,559,0.15,475.15,306.89,168.26,Digital Wallet,Very Satisfied
+40327,2024-12-19,2024,Q4,Dec,Midwest,Michigan,Detroit,Electronics,Tablet,Tab Elite,NovaTech,Retail,Consumer,John Miller,19,1094,0.15,17668.1,12784.88,4883.22,Bank Transfer,Unsatisfied
+40328,2024-09-27,2024,Q3,Sep,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Nimbus,Distributor,Small Business,John Miller,14,289,0.1,3641.4,2390.2,1251.2,Card,Satisfied
+40329,2024-01-10,2024,Q1,Jan,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,NovaTech,Online,Consumer,Emily Carter,19,1131,0.1,19340.1,13033.99,6306.11,Bank Transfer,Satisfied
+40330,2024-02-04,2024,Q1,Feb,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Apex,Distributor,Small Business,Emily Carter,15,182,0.0,2730.0,1949.06,780.94,Digital Wallet,Satisfied
+40331,2024-03-04,2024,Q1,Mar,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,Apex,Online,Small Business,David Clark,1,806,0.0,806.0,575.85,230.15,Card,Unsatisfied
+40332,2024-01-21,2024,Q1,Jan,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Vertex,Distributor,Corporate,Michael Brown,16,238,0.15,3236.8,1908.51,1328.29,Cash,Neutral
+40333,2024-05-16,2024,Q2,May,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,NovaTech,Online,Consumer,Sarah Lopez,13,311,0.15,3436.55,2566.42,870.13,Digital Wallet,Neutral
+40334,2024-08-06,2024,Q3,Aug,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Vertex,Retail,Small Business,John Miller,2,255,0.05,484.5,292.81,191.69,Cash,Neutral
+40335,2024-01-10,2024,Q1,Jan,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Nimbus,Distributor,Corporate,Sarah Lopez,6,1179,0.05,6720.3,4033.11,2687.19,Digital Wallet,Unsatisfied
+40336,2024-01-22,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Orbit,Distributor,Consumer,Sarah Lopez,4,647,0.1,2329.2,1443.43,885.77,Digital Wallet,Very Satisfied
+40337,2024-08-25,2024,Q3,Aug,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Apex,Online,Small Business,Emily Carter,6,271,0.05,1544.7,1058.52,486.18,Digital Wallet,Very Satisfied
+40338,2024-08-30,2024,Q3,Aug,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Nimbus,Online,Corporate,Jessica Lee,12,41,0.15,418.2,312.3,105.9,Bank Transfer,Very Satisfied
+40339,2024-08-17,2024,Q3,Aug,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Vertex,Online,Small Business,David Clark,3,701,0.0,2103.0,1161.79,941.21,Digital Wallet,Unsatisfied
+40340,2024-04-22,2024,Q2,Apr,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Orbit,Distributor,Small Business,David Clark,12,714,0.05,8139.6,6069.33,2070.27,Bank Transfer,Satisfied
+40341,2024-11-10,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,NovaTech,Online,Consumer,Emily Carter,13,162,0.0,2106.0,1295.07,810.93,Digital Wallet,Satisfied
+40342,2024-11-24,2024,Q4,Nov,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Orbit,Retail,Consumer,Emily Carter,16,790,0.0,12640.0,8150.05,4489.95,Cash,Very Satisfied
+40343,2024-03-09,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Vertex,Retail,Small Business,David Clark,8,520,0.0,4160.0,2721.21,1438.79,Card,Satisfied
+40344,2024-05-12,2024,Q2,May,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,Orbit,Online,Corporate,David Clark,8,927,0.1,6674.4,3979.62,2694.78,Cash,Satisfied
+40345,2024-11-18,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Orbit,Online,Consumer,Sarah Lopez,12,770,0.1,8316.0,4951.5,3364.5,Cash,Satisfied
+40346,2024-11-19,2024,Q4,Nov,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Orbit,Online,Small Business,David Clark,5,416,0.15,1768.0,1208.74,559.26,Bank Transfer,Very Satisfied
+40347,2024-04-26,2024,Q2,Apr,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Apex,Online,Consumer,Jessica Lee,8,426,0.0,3408.0,2414.91,993.09,Card,Satisfied
+40348,2024-07-20,2024,Q3,Jul,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Nimbus,Online,Small Business,Michael Brown,14,1023,0.1,12889.8,9402.09,3487.71,Bank Transfer,Unsatisfied
+40349,2024-11-15,2024,Q4,Nov,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Apex,Online,Corporate,David Clark,4,950,0.1,3420.0,2296.36,1123.64,Bank Transfer,Neutral
+40350,2024-09-09,2024,Q3,Sep,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,NovaTech,Retail,Consumer,Sarah Lopez,19,366,0.0,6954.0,4617.62,2336.38,Cash,Satisfied
+40351,2024-09-30,2024,Q3,Sep,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Apex,Retail,Corporate,David Clark,10,147,0.1,1323.0,736.25,586.75,Cash,Unsatisfied
+40352,2024-04-09,2024,Q2,Apr,Midwest,Michigan,Detroit,Accessories,Headphones,SoundMax,Orbit,Retail,Small Business,Michael Brown,17,325,0.1,4972.5,2875.72,2096.78,Card,Satisfied
+40353,2024-04-15,2024,Q2,Apr,South,Florida,Miami,Furniture,Chair,ComfortSeat,NovaTech,Online,Consumer,John Miller,16,607,0.1,8740.8,4954.85,3785.95,Card,Very Satisfied
+40354,2024-07-23,2024,Q3,Jul,South,Florida,Miami,Accessories,Mouse,ClickPro,Orbit,Retail,Corporate,Michael Brown,11,860,0.0,9460.0,6150.02,3309.98,Cash,Neutral
+40355,2024-04-25,2024,Q2,Apr,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,NovaTech,Distributor,Corporate,Jessica Lee,17,389,0.0,6613.0,4697.46,1915.54,Digital Wallet,Satisfied
+40356,2024-05-27,2024,Q2,May,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Orbit,Online,Consumer,Michael Brown,1,371,0.0,371.0,244.16,126.84,Bank Transfer,Very Satisfied
+40357,2024-10-16,2024,Q4,Oct,South,Florida,Miami,Electronics,Tablet,Tab Elite,NovaTech,Online,Small Business,Sarah Lopez,16,351,0.1,5054.4,3288.54,1765.86,Card,Very Satisfied
+40358,2024-06-09,2024,Q2,Jun,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Apex,Distributor,Small Business,Michael Brown,4,179,0.15,608.6,409.89,198.71,Bank Transfer,Neutral
+40359,2024-11-23,2024,Q4,Nov,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,Nimbus,Distributor,Small Business,Jessica Lee,11,66,0.05,689.7,448.9,240.8,Cash,Unsatisfied
+40360,2024-01-17,2024,Q1,Jan,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Nimbus,Retail,Small Business,Michael Brown,13,328,0.0,4264.0,3065.96,1198.04,Digital Wallet,Neutral
+40361,2024-05-27,2024,Q2,May,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Nimbus,Retail,Corporate,Emily Carter,5,886,0.0,4430.0,2854.02,1575.98,Digital Wallet,Satisfied
+40362,2024-03-11,2024,Q1,Mar,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Vertex,Distributor,Consumer,Emily Carter,12,356,0.1,3844.8,2589.13,1255.67,Card,Neutral
+40363,2024-05-13,2024,Q2,May,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Apex,Distributor,Corporate,John Miller,4,1177,0.1,4237.2,2443.65,1793.55,Cash,Very Satisfied
+40364,2024-09-11,2024,Q3,Sep,South,Florida,Miami,Electronics,Phone,Galaxy Max,Apex,Retail,Consumer,Sarah Lopez,14,897,0.05,11930.1,7360.83,4569.27,Digital Wallet,Very Satisfied
+40365,2024-05-06,2024,Q2,May,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Apex,Retail,Consumer,David Clark,9,335,0.15,2562.75,1680.05,882.7,Cash,Satisfied
+40366,2024-08-30,2024,Q3,Aug,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Nimbus,Retail,Corporate,Sarah Lopez,18,994,0.05,16997.4,10811.3,6186.1,Card,Very Satisfied
+40367,2024-06-17,2024,Q2,Jun,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Apex,Retail,Corporate,David Clark,19,1109,0.15,17910.35,13040.7,4869.65,Cash,Satisfied
+40368,2024-10-22,2024,Q4,Oct,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Nimbus,Online,Corporate,David Clark,3,1045,0.05,2978.25,1844.86,1133.39,Bank Transfer,Unsatisfied
+40369,2024-06-30,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Orbit,Retail,Corporate,David Clark,1,1090,0.15,926.5,684.91,241.59,Card,Unsatisfied
+40370,2024-01-23,2024,Q1,Jan,West,California,Los Angeles,Accessories,Headphones,SoundMax,Nimbus,Distributor,Corporate,David Clark,15,1071,0.15,13655.25,10060.63,3594.62,Cash,Unsatisfied
+40371,2024-10-20,2024,Q4,Oct,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Nimbus,Distributor,Small Business,Sarah Lopez,2,588,0.05,1117.2,619.91,497.29,Cash,Unsatisfied
+40372,2024-08-14,2024,Q3,Aug,South,Texas,Dallas,Accessories,Mouse,ClickPro,NovaTech,Retail,Consumer,John Miller,16,486,0.05,7387.2,4558.53,2828.67,Bank Transfer,Very Satisfied
+40373,2024-06-21,2024,Q2,Jun,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Apex,Online,Corporate,Michael Brown,10,1042,0.05,9899.0,6095.44,3803.56,Digital Wallet,Unsatisfied
+40374,2024-11-19,2024,Q4,Nov,West,California,Los Angeles,Accessories,Headphones,SoundMax,NovaTech,Retail,Corporate,Jessica Lee,14,692,0.1,8719.2,5236.74,3482.46,Digital Wallet,Neutral
+40375,2024-02-17,2024,Q1,Feb,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Vertex,Online,Consumer,David Clark,18,337,0.0,6066.0,4005.73,2060.27,Cash,Unsatisfied
+40376,2024-08-03,2024,Q3,Aug,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Vertex,Retail,Small Business,Michael Brown,5,150,0.1,675.0,429.46,245.54,Cash,Neutral
+40377,2024-09-02,2024,Q3,Sep,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Nimbus,Distributor,Small Business,John Miller,10,538,0.05,5111.0,3475.02,1635.98,Bank Transfer,Very Satisfied
+40378,2024-10-28,2024,Q4,Oct,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Corporate,Emily Carter,1,71,0.0,71.0,43.99,27.01,Digital Wallet,Satisfied
+40379,2024-10-12,2024,Q4,Oct,South,Florida,Miami,Accessories,Mouse,ClickPro,Vertex,Online,Small Business,Emily Carter,4,52,0.15,176.8,111.57,65.23,Bank Transfer,Very Satisfied
+40380,2024-11-11,2024,Q4,Nov,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,NovaTech,Online,Small Business,Michael Brown,10,1044,0.05,9918.0,7045.53,2872.47,Card,Very Satisfied
+40381,2024-07-26,2024,Q3,Jul,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Orbit,Distributor,Small Business,Michael Brown,11,619,0.15,5787.65,3274.34,2513.31,Cash,Satisfied
+40382,2024-07-15,2024,Q3,Jul,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Consumer,Jessica Lee,19,172,0.1,2941.2,1797.32,1143.88,Bank Transfer,Neutral
+40383,2024-08-21,2024,Q3,Aug,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Vertex,Online,Corporate,Sarah Lopez,20,344,0.0,6880.0,3989.12,2890.88,Bank Transfer,Satisfied
+40384,2024-02-13,2024,Q1,Feb,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,Orbit,Online,Small Business,David Clark,13,288,0.05,3556.8,2490.13,1066.67,Card,Very Satisfied
+40385,2024-06-13,2024,Q2,Jun,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Orbit,Distributor,Small Business,David Clark,3,434,0.05,1236.9,722.42,514.48,Bank Transfer,Unsatisfied
+40386,2024-03-29,2024,Q1,Mar,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Vertex,Retail,Corporate,Emily Carter,14,44,0.05,585.2,338.03,247.17,Digital Wallet,Satisfied
+40387,2024-05-20,2024,Q2,May,West,Washington,Seattle,Accessories,Headphones,SoundMax,NovaTech,Online,Consumer,Michael Brown,17,1015,0.05,16392.25,10244.44,6147.81,Cash,Satisfied
+40388,2024-01-30,2024,Q1,Jan,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Nimbus,Distributor,Corporate,Sarah Lopez,7,385,0.0,2695.0,1510.79,1184.21,Digital Wallet,Very Satisfied
+40389,2024-07-20,2024,Q3,Jul,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Nimbus,Retail,Consumer,Jessica Lee,7,586,0.1,3691.8,2106.87,1584.93,Card,Satisfied
+40390,2024-04-24,2024,Q2,Apr,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,NovaTech,Distributor,Corporate,John Miller,4,730,0.0,2920.0,1847.23,1072.77,Card,Satisfied
+40391,2024-10-13,2024,Q4,Oct,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Orbit,Online,Corporate,Michael Brown,3,890,0.05,2536.5,1884.55,651.95,Card,Satisfied
+40392,2024-11-14,2024,Q4,Nov,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Apex,Retail,Small Business,Michael Brown,15,433,0.15,5520.75,3881.55,1639.2,Digital Wallet,Very Satisfied
+40393,2024-01-26,2024,Q1,Jan,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,NovaTech,Online,Consumer,Emily Carter,16,1154,0.15,15694.4,9182.34,6512.06,Cash,Neutral
+40394,2024-05-28,2024,Q2,May,South,Florida,Miami,Accessories,Mouse,ClickPro,Orbit,Online,Corporate,Emily Carter,8,517,0.1,3722.4,2083.06,1639.34,Card,Satisfied
+40395,2024-03-25,2024,Q1,Mar,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Small Business,John Miller,16,231,0.0,3696.0,2700.42,995.58,Digital Wallet,Unsatisfied
+40396,2024-08-25,2024,Q3,Aug,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Orbit,Retail,Corporate,Jessica Lee,7,981,0.1,6180.3,4543.92,1636.38,Cash,Satisfied
+40397,2024-12-28,2024,Q4,Dec,South,Florida,Miami,Accessories,Keyboard,KeyPro,Vertex,Online,Small Business,John Miller,3,163,0.0,489.0,325.58,163.42,Bank Transfer,Satisfied
+40398,2024-07-08,2024,Q3,Jul,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,NovaTech,Distributor,Small Business,Sarah Lopez,20,256,0.1,4608.0,3083.65,1524.35,Card,Satisfied
+40399,2024-12-05,2024,Q4,Dec,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Nimbus,Retail,Corporate,Sarah Lopez,12,1120,0.05,12768.0,8584.99,4183.01,Card,Neutral
+40400,2024-05-15,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,Orbit,Online,Consumer,David Clark,1,48,0.15,40.8,23.03,17.77,Bank Transfer,Very Satisfied
+40401,2024-10-12,2024,Q4,Oct,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Nimbus,Retail,Consumer,Michael Brown,13,675,0.1,7897.5,5868.58,2028.92,Cash,Neutral
+40402,2024-07-23,2024,Q3,Jul,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Consumer,Michael Brown,18,614,0.0,11052.0,6807.15,4244.85,Cash,Neutral
+40403,2024-07-22,2024,Q3,Jul,Northeast,New York,New York,Accessories,Headphones,SoundMax,Nimbus,Online,Consumer,John Miller,13,444,0.0,5772.0,3783.04,1988.96,Bank Transfer,Satisfied
+40404,2024-11-10,2024,Q4,Nov,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Orbit,Retail,Consumer,David Clark,6,1133,0.05,6458.1,4804.42,1653.68,Card,Unsatisfied
+40405,2024-11-29,2024,Q4,Nov,South,Florida,Miami,Furniture,Chair,ComfortSeat,Orbit,Distributor,Small Business,Michael Brown,19,935,0.05,16876.75,10503.34,6373.41,Cash,Neutral
+40406,2024-05-08,2024,Q2,May,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Orbit,Distributor,Corporate,David Clark,12,648,0.05,7387.2,5504.48,1882.72,Card,Unsatisfied
+40407,2024-10-26,2024,Q4,Oct,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Apex,Retail,Consumer,Jessica Lee,20,1140,0.15,19380.0,14224.8,5155.2,Bank Transfer,Satisfied
+40408,2024-11-22,2024,Q4,Nov,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Apex,Distributor,Consumer,Jessica Lee,2,920,0.0,1840.0,1204.71,635.29,Digital Wallet,Very Satisfied
+40409,2024-12-09,2024,Q4,Dec,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Vertex,Distributor,Small Business,Michael Brown,9,62,0.1,502.2,333.9,168.3,Digital Wallet,Very Satisfied
+40410,2024-08-21,2024,Q3,Aug,South,Florida,Miami,Accessories,Keyboard,KeyPro,Apex,Distributor,Small Business,Sarah Lopez,4,356,0.0,1424.0,1021.23,402.77,Card,Very Satisfied
+40411,2024-03-29,2024,Q1,Mar,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Vertex,Distributor,Small Business,John Miller,14,97,0.1,1222.2,873.94,348.26,Card,Very Satisfied
+40412,2024-05-09,2024,Q2,May,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Nimbus,Distributor,Corporate,Michael Brown,17,272,0.0,4624.0,2729.81,1894.19,Cash,Satisfied
+40413,2024-10-31,2024,Q4,Oct,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Apex,Distributor,Consumer,Sarah Lopez,12,65,0.1,702.0,447.03,254.97,Card,Satisfied
+40414,2024-01-02,2024,Q1,Jan,South,Florida,Miami,Electronics,Tablet,Tab Elite,Apex,Distributor,Corporate,Michael Brown,2,975,0.1,1755.0,1034.09,720.91,Card,Very Satisfied
+40415,2024-09-19,2024,Q3,Sep,South,Florida,Miami,Accessories,Mouse,ClickPro,Orbit,Distributor,Consumer,Jessica Lee,2,536,0.1,964.8,699.39,265.41,Card,Very Satisfied
+40416,2024-03-20,2024,Q1,Mar,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Nimbus,Distributor,Consumer,Emily Carter,2,1089,0.05,2069.1,1492.94,576.16,Cash,Unsatisfied
+40417,2024-03-04,2024,Q1,Mar,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Orbit,Retail,Small Business,Jessica Lee,19,64,0.05,1155.2,682.05,473.15,Cash,Neutral
+40418,2024-03-20,2024,Q1,Mar,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Orbit,Distributor,Consumer,Jessica Lee,11,655,0.1,6484.5,3756.92,2727.58,Card,Neutral
+40419,2024-07-13,2024,Q3,Jul,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,NovaTech,Online,Small Business,Emily Carter,13,655,0.1,7663.5,4428.41,3235.09,Digital Wallet,Satisfied
+40420,2024-09-10,2024,Q3,Sep,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,Nimbus,Retail,Small Business,Jessica Lee,19,567,0.15,9157.05,6639.34,2517.71,Bank Transfer,Unsatisfied
+40421,2024-02-04,2024,Q1,Feb,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Orbit,Distributor,Consumer,Emily Carter,7,687,0.0,4809.0,3229.41,1579.59,Cash,Unsatisfied
+40422,2024-07-05,2024,Q3,Jul,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Vertex,Distributor,Consumer,Emily Carter,8,425,0.15,2890.0,2027.24,862.76,Digital Wallet,Unsatisfied
+40423,2024-10-30,2024,Q4,Oct,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Orbit,Online,Consumer,Michael Brown,15,870,0.05,12397.5,7410.58,4986.92,Card,Satisfied
+40424,2024-10-10,2024,Q4,Oct,West,Colorado,Denver,Accessories,Headphones,SoundMax,Apex,Online,Corporate,Jessica Lee,1,779,0.0,779.0,434.5,344.5,Bank Transfer,Very Satisfied
+40425,2024-07-01,2024,Q3,Jul,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Apex,Distributor,Consumer,Jessica Lee,16,605,0.0,9680.0,5360.57,4319.43,Cash,Very Satisfied
+40426,2024-07-11,2024,Q3,Jul,West,California,Los Angeles,Accessories,Mouse,ClickPro,NovaTech,Online,Small Business,John Miller,15,895,0.0,13425.0,8130.93,5294.07,Card,Unsatisfied
+40427,2024-01-17,2024,Q1,Jan,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Orbit,Retail,Small Business,Michael Brown,4,363,0.15,1234.2,775.62,458.58,Digital Wallet,Neutral
+40428,2024-06-12,2024,Q2,Jun,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Nimbus,Online,Consumer,John Miller,9,577,0.05,4933.35,3107.25,1826.1,Cash,Satisfied
+40429,2024-08-28,2024,Q3,Aug,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Orbit,Retail,Corporate,Michael Brown,1,1137,0.15,966.45,556.48,409.97,Card,Very Satisfied
+40430,2024-05-26,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,Apex,Online,Consumer,Jessica Lee,13,246,0.0,3198.0,2001.39,1196.61,Bank Transfer,Unsatisfied
+40431,2024-12-12,2024,Q4,Dec,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Orbit,Online,Corporate,Michael Brown,12,389,0.1,4201.2,2645.81,1555.39,Card,Satisfied
+40432,2024-09-08,2024,Q3,Sep,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Vertex,Online,Consumer,Jessica Lee,4,965,0.05,3667.0,2645.23,1021.77,Digital Wallet,Satisfied
+40433,2024-01-30,2024,Q1,Jan,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Vertex,Distributor,Consumer,Michael Brown,4,84,0.15,285.6,191.05,94.55,Bank Transfer,Satisfied
+40434,2024-07-20,2024,Q3,Jul,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Orbit,Distributor,Consumer,Sarah Lopez,10,640,0.15,5440.0,3821.6,1618.4,Digital Wallet,Satisfied
+40435,2024-11-02,2024,Q4,Nov,West,Washington,Seattle,Accessories,Mouse,ClickPro,Nimbus,Retail,Consumer,Michael Brown,4,841,0.15,2859.4,2063.32,796.08,Digital Wallet,Unsatisfied
+40436,2024-01-01,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Nimbus,Online,Small Business,Emily Carter,3,296,0.0,888.0,662.88,225.12,Card,Unsatisfied
+40437,2024-03-08,2024,Q1,Mar,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Orbit,Online,Consumer,John Miller,4,569,0.0,2276.0,1681.93,594.07,Card,Satisfied
+40438,2024-06-09,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Apex,Retail,Small Business,Jessica Lee,1,1073,0.1,965.7,605.67,360.03,Cash,Satisfied
+40439,2024-03-05,2024,Q1,Mar,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Nimbus,Retail,Corporate,David Clark,17,772,0.15,11155.4,6842.82,4312.58,Cash,Satisfied
+40440,2024-01-30,2024,Q1,Jan,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Vertex,Retail,Small Business,Michael Brown,12,375,0.1,4050.0,2452.17,1597.83,Card,Satisfied
+40441,2024-12-09,2024,Q4,Dec,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Orbit,Online,Small Business,John Miller,9,1056,0.0,9504.0,6491.83,3012.17,Bank Transfer,Very Satisfied
+40442,2024-07-11,2024,Q3,Jul,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Nimbus,Distributor,Corporate,Michael Brown,1,893,0.05,848.35,484.66,363.69,Cash,Very Satisfied
+40443,2024-02-28,2024,Q1,Feb,West,Washington,Seattle,Furniture,Cabinet,StoragePlus,NovaTech,Online,Consumer,John Miller,18,346,0.05,5916.6,3384.64,2531.96,Cash,Neutral
+40444,2024-02-28,2024,Q1,Feb,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Apex,Online,Consumer,Sarah Lopez,9,1146,0.15,8766.9,5394.3,3372.6,Card,Satisfied
+40445,2024-06-11,2024,Q2,Jun,West,Washington,Seattle,Accessories,Headphones,SoundMax,NovaTech,Retail,Small Business,Jessica Lee,14,167,0.0,2338.0,1442.84,895.16,Cash,Neutral
+40446,2024-08-11,2024,Q3,Aug,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Vertex,Online,Small Business,Jessica Lee,2,995,0.0,1990.0,1312.69,677.31,Digital Wallet,Very Satisfied
+40447,2024-09-07,2024,Q3,Sep,South,Florida,Miami,Electronics,Tablet,Tab Elite,NovaTech,Online,Small Business,Sarah Lopez,16,1189,0.1,17121.6,10785.69,6335.91,Cash,Unsatisfied
+40448,2024-07-10,2024,Q3,Jul,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,NovaTech,Distributor,Consumer,John Miller,15,408,0.0,6120.0,4181.79,1938.21,Bank Transfer,Unsatisfied
+40449,2024-10-30,2024,Q4,Oct,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,NovaTech,Retail,Corporate,John Miller,1,211,0.15,179.35,129.36,49.99,Card,Unsatisfied
+40450,2024-06-22,2024,Q2,Jun,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Apex,Retail,Small Business,Sarah Lopez,11,1007,0.0,11077.0,7037.82,4039.18,Card,Very Satisfied
+40451,2024-10-10,2024,Q4,Oct,West,Colorado,Denver,Accessories,Headphones,SoundMax,Vertex,Retail,Small Business,Michael Brown,12,684,0.05,7797.6,5484.14,2313.46,Cash,Neutral
+40452,2024-11-12,2024,Q4,Nov,South,Florida,Miami,Electronics,Phone,Galaxy Max,Vertex,Retail,Small Business,Michael Brown,13,491,0.0,6383.0,4735.68,1647.32,Bank Transfer,Satisfied
+40453,2024-08-07,2024,Q3,Aug,Northeast,New York,New York,Accessories,Headphones,SoundMax,Vertex,Retail,Small Business,Sarah Lopez,8,1058,0.1,7617.6,4853.17,2764.43,Card,Very Satisfied
+40454,2024-02-08,2024,Q1,Feb,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,NovaTech,Distributor,Small Business,Emily Carter,13,303,0.1,3545.1,2213.11,1331.99,Digital Wallet,Neutral
+40455,2024-06-03,2024,Q2,Jun,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Vertex,Distributor,Small Business,Emily Carter,12,327,0.15,3335.4,1976.3,1359.1,Cash,Neutral
+40456,2024-12-22,2024,Q4,Dec,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Nimbus,Online,Corporate,John Miller,19,739,0.0,14041.0,9710.24,4330.76,Card,Satisfied
+40457,2024-07-29,2024,Q3,Jul,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Orbit,Distributor,Consumer,Michael Brown,7,258,0.15,1535.1,1025.24,509.86,Cash,Unsatisfied
+40458,2024-10-31,2024,Q4,Oct,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Apex,Distributor,Consumer,David Clark,12,507,0.05,5779.8,3637.19,2142.61,Bank Transfer,Satisfied
+40459,2024-12-22,2024,Q4,Dec,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Vertex,Retail,Small Business,Sarah Lopez,16,505,0.0,8080.0,4577.68,3502.32,Bank Transfer,Very Satisfied
+40460,2024-03-01,2024,Q1,Mar,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Nimbus,Online,Small Business,Jessica Lee,14,731,0.05,9722.3,6442.07,3280.23,Digital Wallet,Satisfied
+40461,2024-06-23,2024,Q2,Jun,West,Washington,Seattle,Accessories,Mouse,ClickPro,NovaTech,Retail,Corporate,Jessica Lee,2,331,0.15,562.7,333.62,229.08,Bank Transfer,Neutral
+40462,2024-06-11,2024,Q2,Jun,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Vertex,Distributor,Small Business,John Miller,12,710,0.15,7242.0,5193.02,2048.98,Card,Very Satisfied
+40463,2024-11-19,2024,Q4,Nov,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Vertex,Distributor,Small Business,John Miller,19,1125,0.15,18168.75,13237.22,4931.53,Card,Unsatisfied
+40464,2024-10-16,2024,Q4,Oct,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,Apex,Online,Consumer,Emily Carter,18,315,0.1,5103.0,3332.74,1770.26,Cash,Neutral
+40465,2024-02-10,2024,Q1,Feb,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Vertex,Distributor,Small Business,Jessica Lee,16,399,0.0,6384.0,4537.86,1846.14,Card,Very Satisfied
+40466,2024-03-19,2024,Q1,Mar,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Apex,Online,Consumer,Sarah Lopez,14,581,0.15,6913.9,3822.77,3091.13,Bank Transfer,Unsatisfied
+40467,2024-09-10,2024,Q3,Sep,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,NovaTech,Online,Small Business,John Miller,4,79,0.05,300.2,186.06,114.14,Card,Unsatisfied
+40468,2024-10-03,2024,Q4,Oct,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Vertex,Retail,Small Business,Michael Brown,6,140,0.15,714.0,456.05,257.95,Bank Transfer,Unsatisfied
+40469,2024-04-28,2024,Q2,Apr,South,Florida,Miami,Electronics,Phone,Galaxy Max,Vertex,Online,Small Business,Jessica Lee,12,482,0.0,5784.0,3941.43,1842.57,Bank Transfer,Neutral
+40470,2024-07-26,2024,Q3,Jul,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Vertex,Online,Small Business,John Miller,13,522,0.1,6107.4,3760.59,2346.81,Digital Wallet,Neutral
+40471,2024-04-09,2024,Q2,Apr,Northeast,New York,New York,Accessories,Mouse,ClickPro,Vertex,Distributor,Consumer,David Clark,8,923,0.1,6645.6,4029.58,2616.02,Bank Transfer,Unsatisfied
+40472,2024-04-30,2024,Q2,Apr,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Apex,Online,Small Business,David Clark,7,316,0.0,2212.0,1250.78,961.22,Digital Wallet,Neutral
+40473,2024-07-07,2024,Q3,Jul,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Apex,Distributor,Corporate,Michael Brown,9,877,0.05,7498.35,5022.92,2475.43,Digital Wallet,Very Satisfied
+40474,2024-12-14,2024,Q4,Dec,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,NovaTech,Online,Small Business,Michael Brown,11,1094,0.1,10830.6,6781.99,4048.61,Cash,Neutral
+40475,2024-11-13,2024,Q4,Nov,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Vertex,Online,Small Business,Michael Brown,13,966,0.0,12558.0,8331.32,4226.68,Digital Wallet,Satisfied
+40476,2024-08-17,2024,Q3,Aug,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Orbit,Distributor,Consumer,Sarah Lopez,15,364,0.15,4641.0,3217.12,1423.88,Bank Transfer,Neutral
+40477,2024-09-08,2024,Q3,Sep,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Apex,Distributor,Consumer,Emily Carter,14,531,0.0,7434.0,5452.95,1981.05,Card,Neutral
+40478,2024-03-30,2024,Q1,Mar,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Vertex,Distributor,Small Business,John Miller,15,799,0.15,10187.25,6056.93,4130.32,Cash,Satisfied
+40479,2024-06-14,2024,Q2,Jun,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Apex,Retail,Small Business,David Clark,11,349,0.05,3647.05,2694.13,952.92,Cash,Satisfied
+40480,2024-11-26,2024,Q4,Nov,West,Washington,Seattle,Furniture,Cabinet,StoragePlus,Vertex,Distributor,Consumer,David Clark,17,76,0.0,1292.0,940.89,351.11,Digital Wallet,Unsatisfied
+40481,2024-01-17,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,NovaTech,Online,Small Business,Michael Brown,13,944,0.05,11658.4,7943.92,3714.48,Card,Very Satisfied
+40482,2024-10-01,2024,Q4,Oct,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Small Business,Michael Brown,14,858,0.05,11411.4,8378.45,3032.95,Card,Very Satisfied
+40483,2024-06-04,2024,Q2,Jun,West,California,Los Angeles,Accessories,Headphones,SoundMax,NovaTech,Retail,Small Business,Emily Carter,15,737,0.0,11055.0,6479.28,4575.72,Digital Wallet,Unsatisfied
+40484,2024-06-26,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,Nimbus,Retail,Small Business,John Miller,1,115,0.0,115.0,66.67,48.33,Cash,Very Satisfied
+40485,2024-03-23,2024,Q1,Mar,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Nimbus,Retail,Consumer,Sarah Lopez,7,410,0.0,2870.0,1772.27,1097.73,Bank Transfer,Unsatisfied
+40486,2024-12-05,2024,Q4,Dec,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Apex,Distributor,Consumer,Emily Carter,10,306,0.05,2907.0,2022.91,884.09,Cash,Unsatisfied
+40487,2024-08-27,2024,Q3,Aug,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Orbit,Distributor,Corporate,Jessica Lee,8,865,0.1,6228.0,3782.7,2445.3,Bank Transfer,Neutral
+40488,2024-09-22,2024,Q3,Sep,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,NovaTech,Distributor,Corporate,David Clark,11,474,0.05,4953.3,3239.95,1713.35,Bank Transfer,Very Satisfied
+40489,2024-11-23,2024,Q4,Nov,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Consumer,Emily Carter,1,171,0.05,162.45,100.99,61.46,Bank Transfer,Unsatisfied
+40490,2024-06-12,2024,Q2,Jun,Northeast,New York,New York,Accessories,Mouse,ClickPro,Vertex,Online,Consumer,Jessica Lee,1,1008,0.05,957.6,697.99,259.61,Card,Unsatisfied
+40491,2024-09-25,2024,Q3,Sep,South,Texas,Dallas,Electronics,Phone,Galaxy Max,NovaTech,Online,Consumer,Michael Brown,13,689,0.0,8957.0,4957.54,3999.46,Bank Transfer,Satisfied
+40492,2024-11-26,2024,Q4,Nov,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Apex,Online,Consumer,John Miller,15,481,0.15,6132.75,3494.37,2638.38,Digital Wallet,Unsatisfied
+40493,2024-10-11,2024,Q4,Oct,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Nimbus,Distributor,Small Business,Michael Brown,11,828,0.0,9108.0,5802.23,3305.77,Digital Wallet,Very Satisfied
+40494,2024-03-15,2024,Q1,Mar,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Orbit,Online,Corporate,Jessica Lee,4,800,0.0,3200.0,2386.63,813.37,Bank Transfer,Neutral
+40495,2024-12-28,2024,Q4,Dec,West,Colorado,Denver,Accessories,Mouse,ClickPro,Orbit,Retail,Consumer,David Clark,2,1085,0.1,1953.0,1136.98,816.02,Cash,Unsatisfied
+40496,2024-12-22,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,NovaTech,Online,Corporate,Emily Carter,11,219,0.1,2168.1,1228.28,939.82,Card,Very Satisfied
+40497,2024-04-24,2024,Q2,Apr,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Nimbus,Online,Consumer,Michael Brown,16,834,0.1,12009.6,8486.51,3523.09,Card,Very Satisfied
+40498,2024-06-26,2024,Q2,Jun,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Orbit,Distributor,Small Business,David Clark,15,681,0.05,9704.25,6063.16,3641.09,Card,Unsatisfied
+40499,2024-08-02,2024,Q3,Aug,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,NovaTech,Distributor,Small Business,Michael Brown,5,641,0.15,2724.25,1592.21,1132.04,Digital Wallet,Neutral
+40500,2024-12-05,2024,Q4,Dec,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,NovaTech,Retail,Corporate,Michael Brown,17,941,0.0,15997.0,8885.39,7111.61,Bank Transfer,Neutral
+40501,2024-12-08,2024,Q4,Dec,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Vertex,Online,Consumer,John Miller,3,802,0.0,2406.0,1506.75,899.25,Cash,Unsatisfied
+40502,2024-07-02,2024,Q3,Jul,South,Florida,Miami,Electronics,Phone,Galaxy Max,Nimbus,Online,Consumer,Michael Brown,1,401,0.1,360.9,203.21,157.69,Card,Very Satisfied
+40503,2024-05-17,2024,Q2,May,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Orbit,Retail,Corporate,Jessica Lee,10,595,0.15,5057.5,3387.39,1670.11,Card,Very Satisfied
+40504,2024-11-12,2024,Q4,Nov,South,Florida,Miami,Electronics,Phone,Galaxy Max,NovaTech,Distributor,Small Business,David Clark,12,405,0.15,4131.0,2745.26,1385.74,Card,Satisfied
+40505,2024-10-05,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Apex,Retail,Corporate,John Miller,6,1176,0.05,6703.2,4778.34,1924.86,Digital Wallet,Very Satisfied
+40506,2024-03-10,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,Orbit,Retail,Small Business,David Clark,12,672,0.1,7257.6,4950.84,2306.76,Card,Very Satisfied
+40507,2024-06-05,2024,Q2,Jun,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Orbit,Distributor,Consumer,David Clark,2,692,0.1,1245.6,727.17,518.43,Cash,Satisfied
+40508,2024-03-16,2024,Q1,Mar,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Corporate,Michael Brown,20,507,0.0,10140.0,7097.77,3042.23,Bank Transfer,Very Satisfied
+40509,2024-04-30,2024,Q2,Apr,West,California,Los Angeles,Accessories,Mouse,ClickPro,NovaTech,Distributor,Small Business,Jessica Lee,17,670,0.15,9681.5,7148.65,2532.85,Digital Wallet,Unsatisfied
+40510,2024-07-24,2024,Q3,Jul,South,Florida,Miami,Accessories,Mouse,ClickPro,Orbit,Retail,Corporate,Jessica Lee,15,76,0.15,969.0,664.25,304.75,Bank Transfer,Very Satisfied
+40511,2024-11-15,2024,Q4,Nov,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Nimbus,Retail,Small Business,David Clark,4,664,0.0,2656.0,1795.22,860.78,Digital Wallet,Neutral
+40512,2024-12-11,2024,Q4,Dec,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Apex,Distributor,Consumer,Emily Carter,14,332,0.15,3950.8,2750.04,1200.76,Card,Satisfied
+40513,2024-07-18,2024,Q3,Jul,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Apex,Retail,Corporate,Jessica Lee,9,964,0.0,8676.0,6036.95,2639.05,Digital Wallet,Unsatisfied
+40514,2024-07-15,2024,Q3,Jul,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Apex,Online,Consumer,John Miller,16,1073,0.1,15451.2,11248.48,4202.72,Cash,Unsatisfied
+40515,2024-07-29,2024,Q3,Jul,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,NovaTech,Online,Corporate,Jessica Lee,7,579,0.05,3850.35,2332.93,1517.42,Card,Very Satisfied
+40516,2024-10-06,2024,Q4,Oct,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Nimbus,Distributor,Corporate,John Miller,7,268,0.15,1594.6,955.29,639.31,Card,Unsatisfied
+40517,2024-09-25,2024,Q3,Sep,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Nimbus,Retail,Corporate,John Miller,16,171,0.15,2325.6,1712.16,613.44,Card,Satisfied
+40518,2024-04-27,2024,Q2,Apr,Midwest,Michigan,Detroit,Accessories,Headphones,SoundMax,Apex,Retail,Corporate,David Clark,15,662,0.15,8440.5,5590.74,2849.76,Card,Unsatisfied
+40519,2024-09-24,2024,Q3,Sep,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Vertex,Retail,Corporate,Emily Carter,12,832,0.15,8486.4,5996.73,2489.67,Cash,Very Satisfied
+40520,2024-04-23,2024,Q2,Apr,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Nimbus,Retail,Corporate,David Clark,14,161,0.05,2141.3,1304.06,837.24,Cash,Unsatisfied
+40521,2024-08-11,2024,Q3,Aug,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Nimbus,Online,Consumer,Jessica Lee,6,97,0.1,523.8,305.55,218.25,Bank Transfer,Unsatisfied
+40522,2024-01-17,2024,Q1,Jan,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Orbit,Retail,Corporate,Michael Brown,5,837,0.15,3557.25,2320.59,1236.66,Card,Satisfied
+40523,2024-02-06,2024,Q1,Feb,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Vertex,Distributor,Consumer,Michael Brown,12,824,0.05,9393.6,5617.47,3776.13,Cash,Unsatisfied
+40524,2024-08-12,2024,Q3,Aug,West,California,Los Angeles,Furniture,Chair,ComfortSeat,NovaTech,Distributor,Consumer,David Clark,4,654,0.1,2354.4,1618.27,736.13,Bank Transfer,Satisfied
+40525,2024-10-01,2024,Q4,Oct,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Orbit,Distributor,Consumer,Michael Brown,8,666,0.0,5328.0,3785.82,1542.18,Card,Very Satisfied
+40526,2024-04-26,2024,Q2,Apr,South,Texas,Dallas,Electronics,Phone,Galaxy Max,NovaTech,Distributor,Small Business,Michael Brown,10,188,0.0,1880.0,1219.27,660.73,Bank Transfer,Neutral
+40527,2024-09-06,2024,Q3,Sep,Northeast,New York,New York,Electronics,Tablet,Tab Elite,NovaTech,Distributor,Corporate,Sarah Lopez,13,825,0.0,10725.0,6182.87,4542.13,Bank Transfer,Satisfied
+40528,2024-09-16,2024,Q3,Sep,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Vertex,Distributor,Consumer,John Miller,12,217,0.1,2343.6,1744.89,598.71,Card,Satisfied
+40529,2024-09-17,2024,Q3,Sep,Northeast,New York,New York,Electronics,Tablet,Tab Elite,NovaTech,Online,Consumer,David Clark,6,1143,0.15,5829.3,4264.15,1565.15,Digital Wallet,Neutral
+40530,2024-01-14,2024,Q1,Jan,Northeast,New York,New York,Accessories,Headphones,SoundMax,NovaTech,Retail,Consumer,Emily Carter,13,832,0.1,9734.4,6910.87,2823.53,Cash,Unsatisfied
+40531,2024-11-11,2024,Q4,Nov,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Nimbus,Online,Consumer,Sarah Lopez,3,335,0.0,1005.0,664.68,340.32,Card,Neutral
+40532,2024-01-05,2024,Q1,Jan,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Apex,Distributor,Consumer,Emily Carter,20,943,0.05,17917.0,11812.34,6104.66,Digital Wallet,Very Satisfied
+40533,2024-05-23,2024,Q2,May,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Apex,Retail,Corporate,Jessica Lee,1,336,0.0,336.0,239.08,96.92,Cash,Satisfied
+40534,2024-11-06,2024,Q4,Nov,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Orbit,Retail,Small Business,Emily Carter,7,820,0.1,5166.0,3867.12,1298.88,Cash,Neutral
+40535,2024-12-15,2024,Q4,Dec,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Apex,Distributor,Consumer,Michael Brown,6,570,0.15,2907.0,1965.1,941.9,Digital Wallet,Unsatisfied
+40536,2024-04-20,2024,Q2,Apr,South,Florida,Miami,Accessories,Mouse,ClickPro,NovaTech,Online,Small Business,David Clark,2,958,0.1,1724.4,1013.03,711.37,Bank Transfer,Satisfied
+40537,2024-06-02,2024,Q2,Jun,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Vertex,Online,Corporate,David Clark,8,491,0.0,3928.0,2166.14,1761.86,Digital Wallet,Unsatisfied
+40538,2024-01-07,2024,Q1,Jan,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Vertex,Retail,Corporate,David Clark,13,1093,0.15,12077.65,8991.84,3085.81,Bank Transfer,Neutral
+40539,2024-02-27,2024,Q1,Feb,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Apex,Retail,Consumer,Sarah Lopez,5,325,0.1,1462.5,1074.44,388.06,Cash,Satisfied
+40540,2024-11-03,2024,Q4,Nov,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,NovaTech,Online,Consumer,David Clark,4,1106,0.1,3981.6,2645.64,1335.96,Bank Transfer,Very Satisfied
+40541,2024-06-13,2024,Q2,Jun,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Orbit,Retail,Corporate,Michael Brown,3,806,0.15,2055.3,1240.58,814.72,Bank Transfer,Very Satisfied
+40542,2024-08-07,2024,Q3,Aug,West,California,Los Angeles,Accessories,Mouse,ClickPro,Apex,Distributor,Small Business,Michael Brown,8,259,0.05,1968.4,1233.01,735.39,Cash,Very Satisfied
+40543,2024-07-24,2024,Q3,Jul,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Apex,Online,Consumer,John Miller,8,221,0.05,1679.6,1098.02,581.58,Bank Transfer,Neutral
+40544,2024-12-27,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Orbit,Online,Consumer,Michael Brown,14,353,0.15,4200.7,2669.21,1531.49,Cash,Very Satisfied
+40545,2024-03-28,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,NovaTech,Retail,Corporate,Michael Brown,4,874,0.0,3496.0,2155.29,1340.71,Digital Wallet,Unsatisfied
+40546,2024-04-08,2024,Q2,Apr,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Vertex,Distributor,Consumer,Emily Carter,14,494,0.1,6224.4,3605.36,2619.04,Digital Wallet,Neutral
+40547,2024-04-02,2024,Q2,Apr,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,NovaTech,Distributor,Small Business,Michael Brown,3,199,0.0,597.0,392.62,204.38,Bank Transfer,Neutral
+40548,2024-01-19,2024,Q1,Jan,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,NovaTech,Retail,Corporate,Michael Brown,8,781,0.1,5623.2,3285.58,2337.62,Card,Unsatisfied
+40549,2024-12-22,2024,Q4,Dec,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,Vertex,Online,Consumer,Sarah Lopez,11,1143,0.15,10687.05,7213.43,3473.62,Cash,Neutral
+40550,2024-01-07,2024,Q1,Jan,Midwest,Ohio,Columbus,Furniture,Cabinet,StoragePlus,Orbit,Distributor,Small Business,Sarah Lopez,4,890,0.05,3382.0,2319.06,1062.94,Bank Transfer,Satisfied
+40551,2024-07-05,2024,Q3,Jul,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Vertex,Distributor,Corporate,David Clark,15,772,0.0,11580.0,7130.68,4449.32,Cash,Unsatisfied
+40552,2024-07-10,2024,Q3,Jul,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Vertex,Retail,Small Business,Jessica Lee,14,1082,0.05,14390.6,8905.53,5485.07,Card,Satisfied
+40553,2024-09-05,2024,Q3,Sep,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Nimbus,Online,Consumer,John Miller,10,854,0.05,8113.0,4929.86,3183.14,Card,Very Satisfied
+40554,2024-11-20,2024,Q4,Nov,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,NovaTech,Retail,Small Business,Emily Carter,11,309,0.15,2889.15,2125.25,763.9,Cash,Satisfied
+40555,2024-07-09,2024,Q3,Jul,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Vertex,Retail,Small Business,Sarah Lopez,11,324,0.15,3029.4,1722.24,1307.16,Bank Transfer,Neutral
+40556,2024-06-15,2024,Q2,Jun,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Nimbus,Distributor,Small Business,Michael Brown,10,602,0.15,5117.0,2986.97,2130.03,Cash,Very Satisfied
+40557,2024-06-04,2024,Q2,Jun,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,NovaTech,Retail,Corporate,John Miller,14,230,0.0,3220.0,2243.24,976.76,Digital Wallet,Neutral
+40558,2024-02-02,2024,Q1,Feb,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Orbit,Online,Consumer,Michael Brown,13,530,0.05,6545.5,4338.04,2207.46,Card,Very Satisfied
+40559,2024-01-13,2024,Q1,Jan,South,Texas,Dallas,Accessories,Headphones,SoundMax,Nimbus,Distributor,Small Business,Jessica Lee,10,386,0.05,3667.0,2485.56,1181.44,Card,Unsatisfied
+40560,2024-01-17,2024,Q1,Jan,West,California,Los Angeles,Electronics,Tablet,Tab Elite,Vertex,Online,Corporate,Michael Brown,9,197,0.1,1595.7,995.02,600.68,Bank Transfer,Neutral
+40561,2024-03-07,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Nimbus,Retail,Consumer,Jessica Lee,2,899,0.15,1528.3,990.71,537.59,Cash,Unsatisfied
+40562,2024-03-12,2024,Q1,Mar,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Orbit,Distributor,Corporate,Sarah Lopez,9,131,0.15,1002.15,631.79,370.36,Digital Wallet,Satisfied
+40563,2024-01-20,2024,Q1,Jan,Midwest,Michigan,Detroit,Electronics,Tablet,Tab Elite,Orbit,Distributor,Consumer,Jessica Lee,10,149,0.0,1490.0,894.55,595.45,Digital Wallet,Neutral
+40564,2024-04-15,2024,Q2,Apr,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Vertex,Online,Corporate,Jessica Lee,11,1020,0.1,10098.0,6375.69,3722.31,Cash,Very Satisfied
+40565,2024-03-16,2024,Q1,Mar,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Orbit,Online,Consumer,John Miller,14,274,0.1,3452.4,2445.1,1007.3,Bank Transfer,Satisfied
+40566,2024-10-29,2024,Q4,Oct,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Apex,Distributor,Consumer,John Miller,16,476,0.0,7616.0,4572.59,3043.41,Cash,Very Satisfied
+40567,2024-04-26,2024,Q2,Apr,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,NovaTech,Online,Consumer,Michael Brown,1,712,0.15,605.2,438.46,166.74,Card,Satisfied
+40568,2024-10-17,2024,Q4,Oct,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,NovaTech,Online,Consumer,Michael Brown,7,1101,0.1,6936.3,4650.51,2285.79,Bank Transfer,Neutral
+40569,2024-09-23,2024,Q3,Sep,Midwest,Michigan,Detroit,Accessories,Headphones,SoundMax,Orbit,Online,Corporate,John Miller,19,1148,0.0,21812.0,13646.57,8165.43,Card,Satisfied
+40570,2024-12-28,2024,Q4,Dec,South,Texas,Dallas,Accessories,Headphones,SoundMax,Vertex,Online,Corporate,John Miller,17,803,0.1,12285.9,7579.9,4706.0,Digital Wallet,Satisfied
+40571,2024-12-09,2024,Q4,Dec,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,Nimbus,Retail,Corporate,John Miller,1,162,0.1,145.8,99.95,45.85,Cash,Neutral
+40572,2024-07-16,2024,Q3,Jul,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Vertex,Distributor,Corporate,Jessica Lee,14,295,0.0,4130.0,2754.3,1375.7,Card,Neutral
+40573,2024-08-11,2024,Q3,Aug,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Vertex,Online,Consumer,John Miller,14,612,0.0,8568.0,5829.14,2738.86,Digital Wallet,Unsatisfied
+40574,2024-04-18,2024,Q2,Apr,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,NovaTech,Retail,Small Business,Michael Brown,1,1133,0.15,963.05,636.76,326.29,Bank Transfer,Satisfied
+40575,2024-03-12,2024,Q1,Mar,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Vertex,Online,Small Business,John Miller,11,918,0.05,9593.1,6313.76,3279.34,Card,Very Satisfied
+40576,2024-05-25,2024,Q2,May,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Apex,Retail,Corporate,Emily Carter,19,161,0.0,3059.0,1892.93,1166.07,Cash,Very Satisfied
+40577,2024-02-03,2024,Q1,Feb,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Nimbus,Retail,Corporate,Jessica Lee,12,609,0.05,6942.6,4359.59,2583.01,Bank Transfer,Satisfied
+40578,2024-02-15,2024,Q1,Feb,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Vertex,Online,Small Business,Sarah Lopez,4,260,0.05,988.0,640.8,347.2,Bank Transfer,Very Satisfied
+40579,2024-10-30,2024,Q4,Oct,Northeast,Massachusetts,Boston,Electronics,Tablet,Tab Elite,Nimbus,Distributor,Consumer,Michael Brown,3,289,0.1,780.3,548.4,231.9,Cash,Very Satisfied
+40580,2024-04-30,2024,Q2,Apr,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Vertex,Retail,Small Business,Michael Brown,19,456,0.1,7797.6,5142.7,2654.9,Digital Wallet,Very Satisfied
+40581,2024-06-17,2024,Q2,Jun,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,NovaTech,Distributor,Small Business,Emily Carter,15,213,0.15,2715.75,1976.41,739.34,Bank Transfer,Unsatisfied
+40582,2024-01-31,2024,Q1,Jan,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Nimbus,Retail,Corporate,Emily Carter,16,714,0.1,10281.6,6736.93,3544.67,Cash,Neutral
+40583,2024-05-20,2024,Q2,May,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Vertex,Online,Corporate,David Clark,4,865,0.05,3287.0,2384.95,902.05,Digital Wallet,Unsatisfied
+40584,2024-04-27,2024,Q2,Apr,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,NovaTech,Online,Consumer,David Clark,5,295,0.0,1475.0,1094.74,380.26,Bank Transfer,Neutral
+40585,2024-02-21,2024,Q1,Feb,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Orbit,Retail,Consumer,Jessica Lee,6,178,0.0,1068.0,610.03,457.97,Card,Neutral
+40586,2024-02-06,2024,Q1,Feb,West,California,Los Angeles,Accessories,Mouse,ClickPro,Vertex,Distributor,Consumer,Michael Brown,13,652,0.1,7628.4,5386.17,2242.23,Cash,Satisfied
+40587,2024-11-06,2024,Q4,Nov,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Vertex,Retail,Corporate,Sarah Lopez,3,786,0.05,2240.1,1586.42,653.68,Cash,Unsatisfied
+40588,2024-09-06,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,NovaTech,Online,Corporate,David Clark,6,1181,0.15,6023.1,3339.16,2683.94,Card,Satisfied
+40589,2024-07-26,2024,Q3,Jul,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Vertex,Online,Consumer,John Miller,20,202,0.0,4040.0,2378.73,1661.27,Cash,Satisfied
+40590,2024-04-10,2024,Q2,Apr,South,Texas,Dallas,Accessories,Headphones,SoundMax,Orbit,Retail,Corporate,Emily Carter,20,710,0.1,12780.0,8623.27,4156.73,Digital Wallet,Neutral
+40591,2024-06-20,2024,Q2,Jun,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,Nimbus,Distributor,Small Business,David Clark,15,79,0.05,1125.75,731.16,394.59,Bank Transfer,Neutral
+40592,2024-09-14,2024,Q3,Sep,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Vertex,Retail,Small Business,Michael Brown,20,43,0.0,860.0,608.84,251.16,Card,Satisfied
+40593,2024-07-30,2024,Q3,Jul,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Nimbus,Distributor,Corporate,Sarah Lopez,9,1123,0.05,9601.65,7196.31,2405.34,Card,Very Satisfied
+40594,2024-12-14,2024,Q4,Dec,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Apex,Distributor,Corporate,Sarah Lopez,1,630,0.0,630.0,400.35,229.65,Cash,Very Satisfied
+40595,2024-01-03,2024,Q1,Jan,South,Florida,Miami,Electronics,Phone,Galaxy Max,Vertex,Retail,Consumer,Sarah Lopez,12,979,0.1,10573.2,7220.07,3353.13,Cash,Unsatisfied
+40596,2024-05-07,2024,Q2,May,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Apex,Online,Consumer,Michael Brown,10,907,0.15,7709.5,5475.78,2233.72,Card,Very Satisfied
+40597,2024-06-18,2024,Q2,Jun,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Nimbus,Online,Small Business,Michael Brown,9,918,0.15,7022.7,4811.09,2211.61,Bank Transfer,Unsatisfied
+40598,2024-01-10,2024,Q1,Jan,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,NovaTech,Retail,Small Business,David Clark,1,1185,0.05,1125.75,660.19,465.56,Card,Neutral
+40599,2024-09-21,2024,Q3,Sep,South,Texas,Dallas,Accessories,Mouse,ClickPro,Vertex,Online,Small Business,Michael Brown,9,746,0.15,5706.9,4139.31,1567.59,Digital Wallet,Neutral
+40600,2024-02-24,2024,Q1,Feb,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Nimbus,Online,Corporate,John Miller,7,927,0.1,5840.1,4136.84,1703.26,Cash,Unsatisfied
+40601,2024-02-17,2024,Q1,Feb,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Orbit,Retail,Corporate,Jessica Lee,16,102,0.1,1468.8,927.95,540.85,Bank Transfer,Neutral
+40602,2024-06-18,2024,Q2,Jun,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Orbit,Retail,Consumer,David Clark,7,898,0.05,5971.7,3971.7,2000.0,Bank Transfer,Neutral
+40603,2024-12-20,2024,Q4,Dec,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Vertex,Online,Corporate,Michael Brown,8,750,0.1,5400.0,3247.93,2152.07,Card,Very Satisfied
+40604,2024-01-03,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Apex,Online,Small Business,Jessica Lee,5,578,0.1,2601.0,1868.01,732.99,Cash,Unsatisfied
+40605,2024-02-25,2024,Q1,Feb,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Orbit,Online,Small Business,Jessica Lee,17,219,0.05,3536.85,2434.6,1102.25,Bank Transfer,Unsatisfied
+40606,2024-08-03,2024,Q3,Aug,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Nimbus,Distributor,Small Business,Michael Brown,11,904,0.15,8452.4,5829.76,2622.64,Cash,Neutral
+40607,2024-03-03,2024,Q1,Mar,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Vertex,Online,Small Business,Michael Brown,6,644,0.1,3477.6,2076.16,1401.44,Digital Wallet,Satisfied
+40608,2024-02-25,2024,Q1,Feb,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Orbit,Retail,Consumer,John Miller,10,801,0.0,8010.0,5575.58,2434.42,Card,Very Satisfied
+40609,2024-01-05,2024,Q1,Jan,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Vertex,Distributor,Corporate,Sarah Lopez,11,638,0.15,5965.3,4356.8,1608.5,Card,Satisfied
+40610,2024-07-28,2024,Q3,Jul,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Orbit,Retail,Consumer,John Miller,20,1037,0.1,18666.0,11067.12,7598.88,Digital Wallet,Neutral
+40611,2024-02-06,2024,Q1,Feb,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Orbit,Distributor,Corporate,John Miller,4,418,0.0,1672.0,1210.17,461.83,Cash,Satisfied
+40612,2024-09-13,2024,Q3,Sep,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Apex,Retail,Consumer,David Clark,1,257,0.0,257.0,159.12,97.88,Bank Transfer,Satisfied
+40613,2024-04-25,2024,Q2,Apr,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Apex,Distributor,Corporate,Emily Carter,10,966,0.1,8694.0,4998.3,3695.7,Digital Wallet,Unsatisfied
+40614,2024-04-21,2024,Q2,Apr,West,California,Los Angeles,Accessories,Keyboard,KeyPro,Apex,Distributor,Corporate,Sarah Lopez,19,725,0.15,11708.75,6732.63,4976.12,Digital Wallet,Satisfied
+40615,2024-07-23,2024,Q3,Jul,West,Washington,Seattle,Accessories,Mouse,ClickPro,NovaTech,Retail,Corporate,Michael Brown,4,192,0.05,729.6,436.76,292.84,Cash,Satisfied
+40616,2024-03-15,2024,Q1,Mar,Northeast,New York,New York,Accessories,Mouse,ClickPro,Apex,Retail,Corporate,Michael Brown,10,716,0.0,7160.0,4107.6,3052.4,Cash,Satisfied
+40617,2024-03-06,2024,Q1,Mar,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Vertex,Online,Small Business,Emily Carter,7,758,0.0,5306.0,3493.29,1812.71,Cash,Unsatisfied
+40618,2024-07-26,2024,Q3,Jul,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Orbit,Online,Corporate,Sarah Lopez,19,305,0.0,5795.0,3985.72,1809.28,Cash,Very Satisfied
+40619,2024-05-01,2024,Q2,May,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Apex,Online,Small Business,Michael Brown,15,1071,0.0,16065.0,11844.5,4220.5,Digital Wallet,Satisfied
+40620,2024-04-12,2024,Q2,Apr,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,NovaTech,Retail,Consumer,Jessica Lee,19,870,0.1,14877.0,10748.31,4128.69,Digital Wallet,Very Satisfied
+40621,2024-12-11,2024,Q4,Dec,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Corporate,John Miller,18,958,0.0,17244.0,12617.05,4626.95,Card,Very Satisfied
+40622,2024-05-25,2024,Q2,May,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Nimbus,Online,Corporate,Emily Carter,19,620,0.1,10602.0,6322.13,4279.87,Card,Very Satisfied
+40623,2024-09-09,2024,Q3,Sep,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Vertex,Distributor,Corporate,Jessica Lee,19,552,0.05,9963.6,6369.88,3593.72,Cash,Unsatisfied
+40624,2024-12-12,2024,Q4,Dec,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Apex,Online,Corporate,Michael Brown,2,799,0.0,1598.0,996.92,601.08,Bank Transfer,Neutral
+40625,2024-08-09,2024,Q3,Aug,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Nimbus,Online,Corporate,Michael Brown,5,496,0.15,2108.0,1175.22,932.78,Bank Transfer,Very Satisfied
+40626,2024-08-04,2024,Q3,Aug,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Nimbus,Online,Small Business,Sarah Lopez,15,1126,0.05,16045.5,10837.1,5208.4,Bank Transfer,Neutral
+40627,2024-10-20,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Nimbus,Online,Corporate,Sarah Lopez,19,592,0.1,10123.2,6854.79,3268.41,Bank Transfer,Very Satisfied
+40628,2024-04-03,2024,Q2,Apr,West,Washington,Seattle,Electronics,Phone,Galaxy Max,NovaTech,Online,Small Business,David Clark,6,471,0.0,2826.0,2043.87,782.13,Card,Satisfied
+40629,2024-03-17,2024,Q1,Mar,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Nimbus,Distributor,Corporate,Jessica Lee,5,730,0.15,3102.5,2266.49,836.01,Cash,Satisfied
+40630,2024-01-02,2024,Q1,Jan,West,California,Los Angeles,Electronics,Tablet,Tab Elite,NovaTech,Online,Corporate,David Clark,5,683,0.1,3073.5,1945.05,1128.45,Card,Very Satisfied
+40631,2024-05-17,2024,Q2,May,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Apex,Retail,Small Business,Jessica Lee,12,808,0.1,8726.4,6391.61,2334.79,Digital Wallet,Very Satisfied
+40632,2024-09-11,2024,Q3,Sep,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Apex,Distributor,Consumer,Michael Brown,7,822,0.15,4890.9,3247.11,1643.79,Card,Neutral
+40633,2024-12-29,2024,Q4,Dec,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Nimbus,Online,Corporate,David Clark,16,328,0.15,4460.8,3085.61,1375.19,Cash,Neutral
+40634,2024-07-29,2024,Q3,Jul,South,Texas,Dallas,Accessories,Mouse,ClickPro,NovaTech,Distributor,Corporate,David Clark,11,1046,0.05,10930.7,6504.88,4425.82,Bank Transfer,Very Satisfied
+40635,2024-07-27,2024,Q3,Jul,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Nimbus,Retail,Corporate,David Clark,15,502,0.15,6400.5,4450.4,1950.1,Card,Neutral
+40636,2024-12-16,2024,Q4,Dec,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Vertex,Retail,Corporate,John Miller,8,428,0.0,3424.0,2140.53,1283.47,Card,Neutral
+40637,2024-11-05,2024,Q4,Nov,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,NovaTech,Online,Consumer,Jessica Lee,8,510,0.05,3876.0,2617.28,1258.72,Card,Unsatisfied
+40638,2024-05-09,2024,Q2,May,South,Florida,Miami,Electronics,Phone,Galaxy Max,Vertex,Online,Small Business,Emily Carter,5,42,0.1,189.0,132.06,56.94,Card,Very Satisfied
+40639,2024-05-30,2024,Q2,May,South,Texas,Dallas,Accessories,Mouse,ClickPro,Orbit,Distributor,Corporate,David Clark,1,1069,0.1,962.1,642.57,319.53,Cash,Very Satisfied
+40640,2024-01-31,2024,Q1,Jan,West,Washington,Seattle,Furniture,Cabinet,StoragePlus,Nimbus,Distributor,Small Business,Sarah Lopez,4,205,0.15,697.0,495.26,201.74,Cash,Satisfied
+40641,2024-01-03,2024,Q1,Jan,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Vertex,Distributor,Consumer,Jessica Lee,10,1146,0.0,11460.0,7620.46,3839.54,Bank Transfer,Very Satisfied
+40642,2024-01-21,2024,Q1,Jan,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Nimbus,Online,Consumer,Emily Carter,4,606,0.05,2302.8,1333.88,968.92,Card,Very Satisfied
+40643,2024-09-26,2024,Q3,Sep,South,Florida,Miami,Accessories,Headphones,SoundMax,Apex,Online,Consumer,Emily Carter,5,87,0.1,391.5,269.85,121.65,Card,Unsatisfied
+40644,2024-09-12,2024,Q3,Sep,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Apex,Retail,Corporate,David Clark,3,1185,0.15,3021.75,1674.97,1346.78,Cash,Neutral
+40645,2024-03-22,2024,Q1,Mar,West,Colorado,Denver,Accessories,Mouse,ClickPro,NovaTech,Retail,Consumer,Sarah Lopez,16,1121,0.0,17936.0,13025.4,4910.6,Card,Satisfied
+40646,2024-03-01,2024,Q1,Mar,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Apex,Retail,Consumer,David Clark,19,175,0.05,3158.75,1939.72,1219.03,Digital Wallet,Neutral
+40647,2024-03-16,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,NovaTech,Retail,Corporate,Emily Carter,4,740,0.05,2812.0,2058.2,753.8,Cash,Unsatisfied
+40648,2024-08-15,2024,Q3,Aug,West,California,Los Angeles,Accessories,Headphones,SoundMax,Nimbus,Online,Small Business,Sarah Lopez,3,566,0.15,1443.3,872.82,570.48,Digital Wallet,Unsatisfied
+40649,2024-06-23,2024,Q2,Jun,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Vertex,Online,Small Business,Sarah Lopez,2,505,0.05,959.5,593.06,366.44,Bank Transfer,Very Satisfied
+40650,2024-05-19,2024,Q2,May,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Orbit,Distributor,Consumer,Sarah Lopez,6,1118,0.05,6372.6,4374.73,1997.87,Cash,Neutral
+40651,2024-01-12,2024,Q1,Jan,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Apex,Retail,Consumer,Jessica Lee,11,114,0.15,1065.9,601.11,464.79,Bank Transfer,Very Satisfied
+40652,2024-03-13,2024,Q1,Mar,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,NovaTech,Retail,Small Business,Emily Carter,7,94,0.1,592.2,360.75,231.45,Bank Transfer,Satisfied
+40653,2024-12-14,2024,Q4,Dec,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Vertex,Distributor,Consumer,John Miller,8,433,0.15,2944.4,2028.06,916.34,Card,Very Satisfied
+40654,2024-10-20,2024,Q4,Oct,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Nimbus,Online,Consumer,Jessica Lee,14,558,0.1,7030.8,4807.01,2223.79,Card,Satisfied
+40655,2024-10-18,2024,Q4,Oct,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,NovaTech,Online,Consumer,Michael Brown,13,769,0.15,8497.45,4918.34,3579.11,Card,Very Satisfied
+40656,2024-08-07,2024,Q3,Aug,South,Florida,Miami,Accessories,Mouse,ClickPro,Orbit,Online,Small Business,Emily Carter,7,420,0.1,2646.0,1667.52,978.48,Bank Transfer,Satisfied
+40657,2024-03-13,2024,Q1,Mar,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,NovaTech,Distributor,Consumer,Jessica Lee,14,603,0.15,7175.7,5304.69,1871.01,Card,Unsatisfied
+40658,2024-10-13,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Apex,Retail,Corporate,David Clark,3,292,0.15,744.6,494.48,250.12,Card,Unsatisfied
+40659,2024-01-18,2024,Q1,Jan,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Nimbus,Retail,Consumer,Michael Brown,2,471,0.05,894.9,537.81,357.09,Card,Very Satisfied
+40660,2024-01-21,2024,Q1,Jan,West,California,Los Angeles,Accessories,Mouse,ClickPro,Orbit,Distributor,Consumer,Emily Carter,1,545,0.15,463.25,344.09,119.16,Cash,Neutral
+40661,2024-12-27,2024,Q4,Dec,South,Florida,Miami,Accessories,Headphones,SoundMax,Orbit,Retail,Small Business,David Clark,18,392,0.0,7056.0,4003.54,3052.46,Bank Transfer,Unsatisfied
+40662,2024-05-20,2024,Q2,May,West,California,Los Angeles,Accessories,Keyboard,KeyPro,NovaTech,Distributor,Consumer,Michael Brown,19,689,0.05,12436.45,8837.24,3599.21,Card,Neutral
+40663,2024-09-30,2024,Q3,Sep,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Vertex,Distributor,Small Business,Michael Brown,7,820,0.05,5453.0,3158.51,2294.49,Digital Wallet,Unsatisfied
+40664,2024-12-30,2024,Q4,Dec,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Apex,Distributor,Corporate,Michael Brown,15,141,0.15,1797.75,1024.38,773.37,Digital Wallet,Satisfied
+40665,2024-09-30,2024,Q3,Sep,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,NovaTech,Online,Corporate,Michael Brown,14,1088,0.15,12947.2,7966.26,4980.94,Digital Wallet,Unsatisfied
+40666,2024-10-24,2024,Q4,Oct,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Nimbus,Online,Corporate,Jessica Lee,1,315,0.1,283.5,202.8,80.7,Bank Transfer,Unsatisfied
+40667,2024-05-09,2024,Q2,May,South,Florida,Miami,Accessories,Mouse,ClickPro,NovaTech,Retail,Corporate,David Clark,4,768,0.05,2918.4,1990.5,927.9,Digital Wallet,Unsatisfied
+40668,2024-12-05,2024,Q4,Dec,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Apex,Retail,Consumer,Emily Carter,18,660,0.1,10692.0,6006.32,4685.68,Bank Transfer,Satisfied
+40669,2024-11-25,2024,Q4,Nov,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Vertex,Online,Consumer,Emily Carter,19,339,0.05,6118.95,3934.89,2184.06,Digital Wallet,Unsatisfied
+40670,2024-09-03,2024,Q3,Sep,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Nimbus,Retail,Consumer,Jessica Lee,16,1139,0.1,16401.6,9474.15,6927.45,Digital Wallet,Unsatisfied
+40671,2024-09-02,2024,Q3,Sep,Northeast,New York,New York,Accessories,Mouse,ClickPro,NovaTech,Online,Small Business,Jessica Lee,4,741,0.0,2964.0,1929.93,1034.07,Bank Transfer,Satisfied
+40672,2024-09-18,2024,Q3,Sep,Midwest,Michigan,Detroit,Electronics,Tablet,Tab Elite,NovaTech,Online,Small Business,Sarah Lopez,8,444,0.15,3019.2,1668.85,1350.35,Cash,Neutral
+40673,2024-03-22,2024,Q1,Mar,West,California,Los Angeles,Electronics,Tablet,Tab Elite,NovaTech,Retail,Small Business,David Clark,3,263,0.0,789.0,563.81,225.19,Card,Satisfied
+40674,2024-02-11,2024,Q1,Feb,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Vertex,Distributor,Consumer,Jessica Lee,2,1046,0.0,2092.0,1317.34,774.66,Cash,Satisfied
+40675,2024-07-16,2024,Q3,Jul,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,NovaTech,Online,Small Business,Emily Carter,3,336,0.0,1008.0,576.55,431.45,Card,Unsatisfied
+40676,2024-02-12,2024,Q1,Feb,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Vertex,Distributor,Consumer,Jessica Lee,15,138,0.05,1966.5,1251.68,714.82,Cash,Satisfied
+40677,2024-11-12,2024,Q4,Nov,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Vertex,Retail,Consumer,Sarah Lopez,14,1132,0.15,13470.8,9790.74,3680.06,Cash,Very Satisfied
+40678,2024-06-19,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,NovaTech,Distributor,Corporate,Jessica Lee,3,243,0.0,729.0,407.29,321.71,Cash,Unsatisfied
+40679,2024-09-22,2024,Q3,Sep,West,California,Los Angeles,Accessories,Mouse,ClickPro,Vertex,Online,Small Business,David Clark,16,1155,0.15,15708.0,9069.3,6638.7,Digital Wallet,Unsatisfied
+40680,2024-05-17,2024,Q2,May,West,California,Los Angeles,Accessories,Headphones,SoundMax,Orbit,Retail,Small Business,Emily Carter,4,363,0.05,1379.4,888.74,490.66,Bank Transfer,Satisfied
+40681,2024-07-24,2024,Q3,Jul,West,Colorado,Denver,Accessories,Keyboard,KeyPro,NovaTech,Retail,Small Business,Jessica Lee,8,258,0.15,1754.4,1195.17,559.23,Card,Satisfied
+40682,2024-08-16,2024,Q3,Aug,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Apex,Retail,Corporate,Michael Brown,9,1077,0.0,9693.0,6215.8,3477.2,Digital Wallet,Very Satisfied
+40683,2024-07-20,2024,Q3,Jul,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Nimbus,Online,Small Business,Sarah Lopez,9,767,0.0,6903.0,3811.82,3091.18,Cash,Neutral
+40684,2024-04-05,2024,Q2,Apr,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Nimbus,Online,Small Business,Emily Carter,1,683,0.1,614.7,347.02,267.68,Digital Wallet,Unsatisfied
+40685,2024-06-06,2024,Q2,Jun,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,Vertex,Distributor,Corporate,Jessica Lee,15,940,0.15,11985.0,7322.01,4662.99,Cash,Satisfied
+40686,2024-02-25,2024,Q1,Feb,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,Vertex,Online,Corporate,Sarah Lopez,12,497,0.0,5964.0,4359.98,1604.02,Bank Transfer,Neutral
+40687,2024-09-14,2024,Q3,Sep,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Vertex,Distributor,Small Business,Michael Brown,19,532,0.15,8591.8,4946.3,3645.5,Digital Wallet,Very Satisfied
+40688,2024-08-28,2024,Q3,Aug,South,Texas,Dallas,Accessories,Headphones,SoundMax,Apex,Distributor,Small Business,David Clark,15,939,0.15,11972.25,7456.17,4516.08,Digital Wallet,Satisfied
+40689,2024-05-17,2024,Q2,May,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Nimbus,Distributor,Small Business,David Clark,15,1137,0.15,14496.75,9002.09,5494.66,Bank Transfer,Unsatisfied
+40690,2024-01-16,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Nimbus,Distributor,Corporate,Michael Brown,3,692,0.1,1868.4,1335.4,533.0,Bank Transfer,Neutral
+40691,2024-02-28,2024,Q1,Feb,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,NovaTech,Distributor,Small Business,Jessica Lee,8,1070,0.05,8132.0,5881.57,2250.43,Digital Wallet,Satisfied
+40692,2024-08-02,2024,Q3,Aug,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Apex,Distributor,Consumer,John Miller,8,746,0.1,5371.2,2994.06,2377.14,Bank Transfer,Unsatisfied
+40693,2024-11-11,2024,Q4,Nov,West,California,Los Angeles,Accessories,Keyboard,KeyPro,Vertex,Distributor,Small Business,Michael Brown,9,346,0.05,2958.3,2095.98,862.32,Bank Transfer,Unsatisfied
+40694,2024-12-06,2024,Q4,Dec,Northeast,Massachusetts,Boston,Electronics,Tablet,Tab Elite,Orbit,Retail,Corporate,Emily Carter,11,796,0.0,8756.0,5166.39,3589.61,Card,Satisfied
+40695,2024-05-08,2024,Q2,May,Northeast,New York,New York,Accessories,Keyboard,KeyPro,NovaTech,Distributor,Small Business,Jessica Lee,5,835,0.05,3966.25,2754.03,1212.22,Digital Wallet,Very Satisfied
+40696,2024-12-27,2024,Q4,Dec,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,NovaTech,Distributor,Consumer,Emily Carter,11,937,0.05,9791.65,5748.7,4042.95,Bank Transfer,Very Satisfied
+40697,2024-09-20,2024,Q3,Sep,West,California,Los Angeles,Electronics,Phone,Galaxy Max,NovaTech,Online,Corporate,David Clark,15,502,0.1,6777.0,5032.94,1744.06,Cash,Neutral
+40698,2024-02-20,2024,Q1,Feb,Northeast,New York,New York,Accessories,Mouse,ClickPro,Nimbus,Retail,Consumer,Michael Brown,6,404,0.0,2424.0,1665.15,758.85,Bank Transfer,Satisfied
+40699,2024-06-21,2024,Q2,Jun,West,California,Los Angeles,Electronics,Tablet,Tab Elite,Apex,Retail,Corporate,David Clark,11,466,0.15,4357.1,2433.88,1923.22,Digital Wallet,Very Satisfied
+40700,2024-05-31,2024,Q2,May,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Orbit,Online,Corporate,Michael Brown,9,1084,0.0,9756.0,6851.32,2904.68,Digital Wallet,Unsatisfied
+40701,2024-12-04,2024,Q4,Dec,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,NovaTech,Retail,Small Business,Jessica Lee,3,1165,0.0,3495.0,1978.76,1516.24,Bank Transfer,Neutral
+40702,2024-08-11,2024,Q3,Aug,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Nimbus,Distributor,Small Business,Michael Brown,19,854,0.05,15414.7,9069.26,6345.44,Bank Transfer,Very Satisfied
+40703,2024-06-18,2024,Q2,Jun,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Apex,Retail,Corporate,Jessica Lee,7,462,0.0,3234.0,2136.11,1097.89,Bank Transfer,Satisfied
+40704,2024-01-15,2024,Q1,Jan,West,California,Los Angeles,Electronics,Tablet,Tab Elite,NovaTech,Online,Corporate,Sarah Lopez,10,142,0.0,1420.0,981.12,438.88,Cash,Satisfied
+40705,2024-10-03,2024,Q4,Oct,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Vertex,Distributor,Small Business,Jessica Lee,14,408,0.1,5140.8,2850.17,2290.63,Card,Neutral
+40706,2024-02-01,2024,Q1,Feb,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Orbit,Online,Small Business,David Clark,2,365,0.05,693.5,495.0,198.5,Card,Satisfied
+40707,2024-11-30,2024,Q4,Nov,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Vertex,Online,Consumer,John Miller,20,1103,0.0,22060.0,16349.26,5710.74,Cash,Very Satisfied
+40708,2024-02-01,2024,Q1,Feb,West,California,Los Angeles,Accessories,Mouse,ClickPro,NovaTech,Retail,Small Business,David Clark,8,1176,0.05,8937.6,5708.49,3229.11,Cash,Satisfied
+40709,2024-09-28,2024,Q3,Sep,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Vertex,Distributor,Corporate,David Clark,11,415,0.1,4108.5,2602.25,1506.25,Cash,Satisfied
+40710,2024-10-28,2024,Q4,Oct,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,Apex,Distributor,Corporate,John Miller,7,824,0.1,5191.2,3222.93,1968.27,Digital Wallet,Satisfied
+40711,2024-03-05,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Vertex,Online,Consumer,Emily Carter,2,329,0.1,592.2,363.72,228.48,Bank Transfer,Unsatisfied
+40712,2024-08-10,2024,Q3,Aug,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,NovaTech,Distributor,Consumer,John Miller,16,267,0.05,4058.4,2536.47,1521.93,Digital Wallet,Satisfied
+40713,2024-01-23,2024,Q1,Jan,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Vertex,Distributor,Corporate,Michael Brown,10,992,0.0,9920.0,5514.93,4405.07,Cash,Neutral
+40714,2024-08-06,2024,Q3,Aug,West,Colorado,Denver,Accessories,Mouse,ClickPro,NovaTech,Retail,Corporate,John Miller,9,973,0.15,7443.45,4329.65,3113.8,Cash,Unsatisfied
+40715,2024-12-06,2024,Q4,Dec,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Vertex,Distributor,Corporate,Emily Carter,8,69,0.05,524.4,356.19,168.21,Digital Wallet,Unsatisfied
+40716,2024-11-19,2024,Q4,Nov,West,Colorado,Denver,Furniture,Chair,ComfortSeat,NovaTech,Distributor,Consumer,Emily Carter,18,711,0.05,12158.1,8666.99,3491.11,Bank Transfer,Unsatisfied
+40717,2024-11-25,2024,Q4,Nov,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Vertex,Retail,Small Business,Sarah Lopez,2,964,0.05,1831.6,1369.04,462.56,Bank Transfer,Very Satisfied
+40718,2024-07-19,2024,Q3,Jul,West,Washington,Seattle,Accessories,Mouse,ClickPro,Orbit,Online,Consumer,David Clark,6,269,0.15,1371.9,1020.64,351.26,Digital Wallet,Unsatisfied
+40719,2024-11-19,2024,Q4,Nov,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Nimbus,Retail,Small Business,Sarah Lopez,12,563,0.05,6418.2,4383.84,2034.36,Digital Wallet,Very Satisfied
+40720,2024-04-28,2024,Q2,Apr,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Orbit,Retail,Small Business,Sarah Lopez,17,332,0.0,5644.0,3124.07,2519.93,Digital Wallet,Very Satisfied
+40721,2024-01-19,2024,Q1,Jan,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Apex,Distributor,Consumer,John Miller,9,747,0.05,6386.85,3992.1,2394.75,Cash,Unsatisfied
+40722,2024-05-15,2024,Q2,May,South,Texas,Dallas,Accessories,Mouse,ClickPro,Vertex,Retail,Small Business,Jessica Lee,4,791,0.15,2689.4,1500.9,1188.5,Cash,Neutral
+40723,2024-07-03,2024,Q3,Jul,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Apex,Retail,Corporate,John Miller,2,258,0.15,438.6,292.44,146.16,Cash,Unsatisfied
+40724,2024-12-03,2024,Q4,Dec,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Orbit,Online,Corporate,Sarah Lopez,16,115,0.0,1840.0,1241.16,598.84,Digital Wallet,Unsatisfied
+40725,2024-11-15,2024,Q4,Nov,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Vertex,Distributor,Corporate,Sarah Lopez,3,195,0.05,555.75,342.29,213.46,Card,Neutral
+40726,2024-09-21,2024,Q3,Sep,South,Texas,Dallas,Accessories,Headphones,SoundMax,NovaTech,Distributor,Small Business,Emily Carter,1,505,0.1,454.5,314.65,139.85,Card,Unsatisfied
+40727,2024-04-07,2024,Q2,Apr,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,NovaTech,Distributor,Consumer,Jessica Lee,14,640,0.05,8512.0,6220.3,2291.7,Card,Unsatisfied
+40728,2024-05-01,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,NovaTech,Online,Corporate,David Clark,11,1148,0.1,11365.2,7414.55,3950.65,Cash,Satisfied
+40729,2024-04-01,2024,Q2,Apr,West,California,Los Angeles,Electronics,Tablet,Tab Elite,Nimbus,Online,Consumer,Jessica Lee,1,851,0.05,808.45,494.43,314.02,Digital Wallet,Neutral
+40730,2024-01-06,2024,Q1,Jan,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Nimbus,Distributor,Corporate,Sarah Lopez,13,347,0.05,4285.45,2556.53,1728.92,Digital Wallet,Neutral
+40731,2024-09-15,2024,Q3,Sep,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Orbit,Retail,Corporate,Emily Carter,14,407,0.15,4843.3,3227.43,1615.87,Card,Very Satisfied
+40732,2024-11-13,2024,Q4,Nov,Midwest,Illinois,Chicago,Furniture,Desk,WorkDesk Pro,NovaTech,Online,Small Business,David Clark,3,1133,0.05,3229.05,2304.72,924.33,Card,Satisfied
+40733,2024-07-14,2024,Q3,Jul,South,Florida,Miami,Electronics,Phone,Galaxy Max,NovaTech,Retail,Small Business,John Miller,3,383,0.1,1034.1,626.47,407.63,Card,Satisfied
+40734,2024-12-05,2024,Q4,Dec,West,California,Los Angeles,Electronics,Phone,Galaxy Max,NovaTech,Retail,Corporate,Sarah Lopez,11,104,0.05,1086.8,766.51,320.29,Card,Neutral
+40735,2024-07-26,2024,Q3,Jul,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Apex,Retail,Consumer,Emily Carter,16,618,0.0,9888.0,6969.42,2918.58,Card,Very Satisfied
+40736,2024-12-05,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Apex,Online,Consumer,Emily Carter,15,1113,0.15,14190.75,9682.59,4508.16,Bank Transfer,Very Satisfied
+40737,2024-05-16,2024,Q2,May,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,NovaTech,Online,Corporate,Emily Carter,7,258,0.1,1625.4,1002.26,623.14,Bank Transfer,Neutral
+40738,2024-09-12,2024,Q3,Sep,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Apex,Retail,Consumer,Michael Brown,11,72,0.0,792.0,574.11,217.89,Cash,Unsatisfied
+40739,2024-04-12,2024,Q2,Apr,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,NovaTech,Online,Small Business,Michael Brown,14,374,0.1,4712.4,2663.79,2048.61,Digital Wallet,Satisfied
+40740,2024-08-07,2024,Q3,Aug,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Nimbus,Retail,Consumer,Emily Carter,9,1121,0.1,9080.1,5365.66,3714.44,Cash,Very Satisfied
+40741,2024-08-15,2024,Q3,Aug,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Small Business,David Clark,18,556,0.0,10008.0,6144.93,3863.07,Bank Transfer,Unsatisfied
+40742,2024-09-03,2024,Q3,Sep,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,Apex,Distributor,Consumer,Sarah Lopez,2,303,0.1,545.4,399.31,146.09,Card,Neutral
+40743,2024-11-28,2024,Q4,Nov,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Vertex,Online,Corporate,John Miller,1,62,0.15,52.7,37.2,15.5,Card,Satisfied
+40744,2024-07-20,2024,Q3,Jul,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Nimbus,Distributor,Consumer,David Clark,16,1156,0.05,17571.2,10898.69,6672.51,Cash,Satisfied
+40745,2024-09-02,2024,Q3,Sep,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Orbit,Retail,Corporate,Emily Carter,18,1025,0.05,17527.5,11414.59,6112.91,Cash,Neutral
+40746,2024-02-21,2024,Q1,Feb,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Apex,Distributor,Corporate,Michael Brown,3,1157,0.05,3297.45,2180.96,1116.49,Bank Transfer,Neutral
+40747,2024-04-01,2024,Q2,Apr,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Orbit,Distributor,Consumer,Jessica Lee,5,87,0.15,369.75,259.19,110.56,Card,Unsatisfied
+40748,2024-04-14,2024,Q2,Apr,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Apex,Distributor,Consumer,Michael Brown,14,424,0.05,5639.2,3898.56,1740.64,Cash,Neutral
+40749,2024-12-08,2024,Q4,Dec,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Vertex,Online,Consumer,Emily Carter,20,415,0.15,7055.0,4737.51,2317.49,Bank Transfer,Satisfied
+40750,2024-06-25,2024,Q2,Jun,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Orbit,Distributor,Small Business,Jessica Lee,20,259,0.05,4921.0,3509.63,1411.37,Bank Transfer,Very Satisfied
+40751,2024-04-20,2024,Q2,Apr,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,NovaTech,Online,Corporate,John Miller,18,77,0.1,1247.4,826.54,420.86,Digital Wallet,Unsatisfied
+40752,2024-12-08,2024,Q4,Dec,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Apex,Online,Consumer,Emily Carter,20,461,0.05,8759.0,5741.57,3017.43,Digital Wallet,Satisfied
+40753,2024-03-29,2024,Q1,Mar,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,Vertex,Retail,Consumer,John Miller,8,1082,0.0,8656.0,4768.51,3887.49,Digital Wallet,Very Satisfied
+40754,2024-08-25,2024,Q3,Aug,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,NovaTech,Distributor,Consumer,Sarah Lopez,19,611,0.1,10448.1,6760.96,3687.14,Digital Wallet,Neutral
+40755,2024-10-15,2024,Q4,Oct,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,NovaTech,Distributor,Consumer,Emily Carter,16,484,0.05,7356.8,4855.14,2501.66,Card,Unsatisfied
+40756,2024-03-11,2024,Q1,Mar,South,Florida,Miami,Accessories,Keyboard,KeyPro,Vertex,Retail,Consumer,John Miller,14,636,0.0,8904.0,5705.92,3198.08,Digital Wallet,Unsatisfied
+40757,2024-04-28,2024,Q2,Apr,South,Texas,Dallas,Accessories,Headphones,SoundMax,Apex,Online,Small Business,Jessica Lee,20,371,0.0,7420.0,4942.83,2477.17,Cash,Very Satisfied
+40758,2024-01-13,2024,Q1,Jan,Midwest,Ohio,Columbus,Furniture,Cabinet,StoragePlus,Vertex,Distributor,Corporate,Jessica Lee,14,1098,0.0,15372.0,11366.61,4005.39,Digital Wallet,Very Satisfied
+40759,2024-07-14,2024,Q3,Jul,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Orbit,Distributor,Small Business,John Miller,5,1166,0.1,5247.0,3830.39,1416.61,Bank Transfer,Very Satisfied
+40760,2024-11-15,2024,Q4,Nov,West,Colorado,Denver,Accessories,Headphones,SoundMax,NovaTech,Distributor,Small Business,Sarah Lopez,17,925,0.05,14938.75,10720.43,4218.32,Digital Wallet,Very Satisfied
+40761,2024-10-05,2024,Q4,Oct,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Apex,Online,Consumer,Michael Brown,12,1118,0.05,12745.2,8169.73,4575.47,Card,Very Satisfied
+40762,2024-12-29,2024,Q4,Dec,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Nimbus,Distributor,Small Business,Michael Brown,3,403,0.0,1209.0,683.67,525.33,Card,Unsatisfied
+40763,2024-06-29,2024,Q2,Jun,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Vertex,Online,Corporate,David Clark,5,1173,0.1,5278.5,3280.46,1998.04,Digital Wallet,Unsatisfied
+40764,2024-03-07,2024,Q1,Mar,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Vertex,Distributor,Corporate,David Clark,16,114,0.15,1550.4,893.19,657.21,Card,Very Satisfied
+40765,2024-12-14,2024,Q4,Dec,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Apex,Online,Corporate,Jessica Lee,3,1077,0.1,2907.9,1693.07,1214.83,Bank Transfer,Unsatisfied
+40766,2024-12-03,2024,Q4,Dec,West,California,Los Angeles,Accessories,Keyboard,KeyPro,Nimbus,Retail,Small Business,David Clark,5,252,0.15,1071.0,651.63,419.37,Card,Very Satisfied
+40767,2024-12-22,2024,Q4,Dec,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Apex,Online,Corporate,Sarah Lopez,20,1030,0.15,17510.0,11453.03,6056.97,Digital Wallet,Unsatisfied
+40768,2024-08-12,2024,Q3,Aug,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Orbit,Distributor,Corporate,Emily Carter,8,114,0.0,912.0,541.02,370.98,Cash,Neutral
+40769,2024-03-24,2024,Q1,Mar,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,NovaTech,Retail,Corporate,Sarah Lopez,6,749,0.0,4494.0,3133.43,1360.57,Card,Satisfied
+40770,2024-04-04,2024,Q2,Apr,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Apex,Online,Consumer,Jessica Lee,3,330,0.0,990.0,634.5,355.5,Cash,Very Satisfied
+40771,2024-12-03,2024,Q4,Dec,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Nimbus,Online,Consumer,Emily Carter,2,574,0.15,975.8,588.6,387.2,Bank Transfer,Unsatisfied
+40772,2024-01-05,2024,Q1,Jan,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,NovaTech,Distributor,Corporate,Sarah Lopez,14,185,0.0,2590.0,1713.58,876.42,Digital Wallet,Unsatisfied
+40773,2024-07-04,2024,Q3,Jul,South,Florida,Miami,Accessories,Keyboard,KeyPro,NovaTech,Distributor,Small Business,David Clark,14,409,0.1,5153.4,3495.57,1657.83,Card,Satisfied
+40774,2024-10-16,2024,Q4,Oct,Northeast,New York,New York,Accessories,Mouse,ClickPro,Nimbus,Distributor,Consumer,Michael Brown,14,176,0.05,2340.8,1427.25,913.55,Cash,Unsatisfied
+40775,2024-02-19,2024,Q1,Feb,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Nimbus,Distributor,Small Business,David Clark,12,646,0.0,7752.0,4418.06,3333.94,Bank Transfer,Neutral
+40776,2024-10-26,2024,Q4,Oct,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Orbit,Distributor,Consumer,Emily Carter,12,468,0.0,5616.0,3298.39,2317.61,Cash,Very Satisfied
+40777,2024-08-17,2024,Q3,Aug,Northeast,New York,New York,Accessories,Headphones,SoundMax,Nimbus,Retail,Corporate,Michael Brown,6,419,0.0,2514.0,1671.65,842.35,Cash,Unsatisfied
+40778,2024-11-07,2024,Q4,Nov,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Apex,Distributor,Consumer,Michael Brown,18,1114,0.05,19049.4,11824.92,7224.48,Cash,Unsatisfied
+40779,2024-01-13,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,NovaTech,Distributor,Corporate,Jessica Lee,20,523,0.1,9414.0,6103.56,3310.44,Digital Wallet,Neutral
+40780,2024-04-10,2024,Q2,Apr,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Nimbus,Retail,Corporate,Emily Carter,4,235,0.0,940.0,518.46,421.54,Cash,Unsatisfied
+40781,2024-01-17,2024,Q1,Jan,Northeast,New York,New York,Electronics,Tablet,Tab Elite,NovaTech,Online,Consumer,Michael Brown,8,902,0.15,6133.6,4219.32,1914.28,Bank Transfer,Satisfied
+40782,2024-12-03,2024,Q4,Dec,Northeast,New York,New York,Accessories,Mouse,ClickPro,Apex,Retail,Corporate,John Miller,19,1162,0.0,22078.0,15590.63,6487.37,Card,Satisfied
+40783,2024-07-16,2024,Q3,Jul,West,Washington,Seattle,Accessories,Mouse,ClickPro,Vertex,Retail,Corporate,Sarah Lopez,19,589,0.0,11191.0,8025.8,3165.2,Bank Transfer,Satisfied
+40784,2024-06-08,2024,Q2,Jun,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,NovaTech,Distributor,Small Business,Emily Carter,14,886,0.05,11783.8,7634.37,4149.43,Cash,Unsatisfied
+40785,2024-08-09,2024,Q3,Aug,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Nimbus,Distributor,Corporate,Sarah Lopez,2,395,0.1,711.0,443.83,267.17,Digital Wallet,Neutral
+40786,2024-10-13,2024,Q4,Oct,South,Texas,Dallas,Accessories,Headphones,SoundMax,Nimbus,Online,Consumer,Sarah Lopez,6,746,0.05,4252.2,2399.91,1852.29,Card,Neutral
+40787,2024-12-04,2024,Q4,Dec,South,Florida,Miami,Accessories,Mouse,ClickPro,Orbit,Retail,Corporate,John Miller,7,470,0.0,3290.0,2296.34,993.66,Cash,Satisfied
+40788,2024-06-27,2024,Q2,Jun,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Apex,Retail,Consumer,Michael Brown,10,166,0.1,1494.0,1088.82,405.18,Cash,Unsatisfied
+40789,2024-12-27,2024,Q4,Dec,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Vertex,Distributor,Consumer,Sarah Lopez,16,407,0.1,5860.8,3234.13,2626.67,Card,Satisfied
+40790,2024-01-14,2024,Q1,Jan,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Apex,Retail,Corporate,David Clark,15,150,0.05,2137.5,1427.69,709.81,Bank Transfer,Neutral
+40791,2024-04-24,2024,Q2,Apr,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Orbit,Retail,Corporate,David Clark,7,927,0.15,5515.65,3727.83,1787.82,Card,Neutral
+40792,2024-07-02,2024,Q3,Jul,West,Colorado,Denver,Accessories,Mouse,ClickPro,Nimbus,Distributor,Corporate,David Clark,1,1110,0.1,999.0,635.96,363.04,Card,Satisfied
+40793,2024-07-22,2024,Q3,Jul,Midwest,Michigan,Detroit,Accessories,Headphones,SoundMax,Apex,Retail,Consumer,John Miller,15,964,0.05,13737.0,10213.97,3523.03,Card,Very Satisfied
+40794,2024-04-12,2024,Q2,Apr,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Orbit,Online,Corporate,Jessica Lee,18,85,0.0,1530.0,954.84,575.16,Digital Wallet,Satisfied
+40795,2024-11-16,2024,Q4,Nov,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Orbit,Distributor,Small Business,David Clark,18,1188,0.0,21384.0,14242.05,7141.95,Card,Unsatisfied
+40796,2024-10-09,2024,Q4,Oct,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Orbit,Distributor,Consumer,Jessica Lee,6,801,0.0,4806.0,2847.74,1958.26,Bank Transfer,Satisfied
+40797,2024-04-20,2024,Q2,Apr,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Orbit,Online,Corporate,Sarah Lopez,14,1055,0.05,14031.5,10041.38,3990.12,Bank Transfer,Unsatisfied
+40798,2024-05-18,2024,Q2,May,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Vertex,Retail,Consumer,Emily Carter,3,462,0.1,1247.4,749.64,497.76,Digital Wallet,Unsatisfied
+40799,2024-12-24,2024,Q4,Dec,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Vertex,Distributor,Small Business,Sarah Lopez,16,310,0.0,4960.0,2874.82,2085.18,Bank Transfer,Neutral
+40800,2024-05-07,2024,Q2,May,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Orbit,Online,Small Business,Jessica Lee,14,775,0.0,10850.0,7509.38,3340.62,Cash,Unsatisfied

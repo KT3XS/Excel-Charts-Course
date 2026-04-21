@@ -1,0 +1,801 @@
+Order ID,Date,Year,Quarter,Month,Region,Country,State,City,Sales Channel,Customer Segment,Category,Subcategory,Product Name,Sales Rep,Units Sold,Unit Price,Discount,Revenue,Cost,Profit,Payment Method
+10001,17/08/2024,2024,Q3,Aug,Midwest,USA,Illinois,Chicago,Retail,Small Business,Electronics,Phone,Galaxy Max,Jessica Lee,4,879,0.1,3164.4,2178.41,985.99,Card
+10002,30/08/2024,2024,Q3,Aug,Northeast,USA,Massachusetts,Boston,Distributor,Consumer,Electronics,Phone,Galaxy Max,Emily Carter,14,108,0.05,1436.4,898.44,537.96,Digital Wallet
+10003,09/02/2024,2024,Q1,Feb,West,USA,Washington,Seattle,Distributor,Corporate,Furniture,Chair,ComfortSeat,John Miller,18,589,0.1,9541.8,6406.07,3135.73,Cash
+10004,10/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Retail,Consumer,Accessories,Keyboard,KeyPro,John Miller,1,182,0.15,154.7,99.05,55.65,Transfer
+10005,14/07/2024,2024,Q3,Jul,Northeast,USA,New York,New York,Online,Corporate,Electronics,Tablet,Tab Elite,Sarah Lopez,20,1065,0.15,18105,11707.04,6397.96,Cash
+10006,16/06/2024,2024,Q2,Jun,West,USA,California,Los Angeles,Distributor,Consumer,Electronics,Tablet,Tab Elite,Sarah Lopez,1,1160,0.15,986,553.57,432.43,Transfer
+10007,27/01/2024,2024,Q1,Jan,Midwest,USA,Illinois,Chicago,Online,Small Business,Accessories,Headphones,SoundMax,John Miller,11,1174,0,12914,8026.32,4887.68,Card
+10008,18/02/2024,2024,Q1,Feb,Midwest,USA,Illinois,Chicago,Online,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,2,312,0.1,561.6,322,239.6,Cash
+10009,26/01/2024,2024,Q1,Jan,Northeast,USA,Massachusetts,Boston,Online,Consumer,Accessories,Headphones,SoundMax,Michael Brown,2,82,0.15,139.4,77.07,62.33,Cash
+10010,23/03/2024,2024,Q1,Mar,Midwest,USA,Ohio,Columbus,Online,Corporate,Accessories,Headphones,SoundMax,Emily Carter,9,71,0.05,607.05,349.11,257.94,Card
+10011,25/01/2024,2024,Q1,Jan,Northeast,USA,Massachusetts,Boston,Distributor,Corporate,Electronics,Tablet,Tab Elite,Sarah Lopez,15,1124,0.1,15174,10071.12,5102.88,Cash
+10012,28/07/2024,2024,Q3,Jul,West,USA,California,Los Angeles,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Emily Carter,8,76,0.1,547.2,329.63,217.57,Card
+10013,04/08/2024,2024,Q3,Aug,West,USA,California,Los Angeles,Online,Small Business,Electronics,Laptop,UltraBook Pro,Emily Carter,11,272,0,2992,2009.17,982.83,Transfer
+10014,21/11/2024,2024,Q4,Nov,West,USA,California,Los Angeles,Distributor,Small Business,Furniture,Chair,ComfortSeat,Emily Carter,18,1097,0,19746,12990.93,6755.07,Digital Wallet
+10015,16/11/2024,2024,Q4,Nov,South,USA,Florida,Miami,Distributor,Consumer,Furniture,Desk,WorkDesk Pro,Jessica Lee,4,1060,0,4240,2568.71,1671.29,Cash
+10016,26/05/2024,2024,Q2,May,West,USA,California,Los Angeles,Online,Corporate,Electronics,Tablet,Tab Elite,Jessica Lee,17,1129,0.15,16314.05,9292.65,7021.4,Card
+10017,24/08/2024,2024,Q3,Aug,Northeast,USA,New York,New York,Retail,Corporate,Furniture,Desk,WorkDesk Pro,John Miller,19,984,0.05,17761.2,12271.58,5489.62,Digital Wallet
+10018,19/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Retail,Small Business,Furniture,Desk,WorkDesk Pro,Michael Brown,9,270,0.05,2308.5,1431.94,876.56,Transfer
+10019,11/04/2024,2024,Q2,Apr,Midwest,USA,Michigan,Detroit,Retail,Consumer,Electronics,Laptop,UltraBook Pro,Jessica Lee,5,175,0.05,831.25,473.36,357.89,Transfer
+10020,02/10/2024,2024,Q4,Oct,Northeast,USA,Pennsylvania,Philadelphia,Online,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,16,923,0.1,13291.2,7846.01,5445.19,Cash
+10021,06/08/2024,2024,Q3,Aug,South,USA,Florida,Miami,Distributor,Small Business,Electronics,Phone,Galaxy Max,John Miller,12,596,0,7152,4433.06,2718.94,Cash
+10022,26/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Distributor,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,4,696,0.1,2505.6,1841.39,664.21,Digital Wallet
+10023,21/03/2024,2024,Q1,Mar,Midwest,USA,Ohio,Columbus,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Sarah Lopez,15,244,0.05,3477,2385.87,1091.13,Cash
+10024,01/11/2024,2024,Q4,Nov,Midwest,USA,Illinois,Chicago,Distributor,Corporate,Accessories,Keyboard,KeyPro,John Miller,16,1115,0,17840,12728.61,5111.39,Card
+10025,31/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Distributor,Small Business,Electronics,Tablet,Tab Elite,Michael Brown,20,296,0.1,5328,3755.2,1572.8,Transfer
+10026,01/10/2024,2024,Q4,Oct,Midwest,USA,Michigan,Detroit,Retail,Small Business,Accessories,Keyboard,KeyPro,Emily Carter,19,868,0.1,14842.8,9730.16,5112.64,Digital Wallet
+10027,26/09/2024,2024,Q3,Sep,South,USA,Georgia,Atlanta,Distributor,Consumer,Furniture,Chair,ComfortSeat,Sarah Lopez,3,59,0.05,168.15,106.53,61.62,Digital Wallet
+10028,26/08/2024,2024,Q3,Aug,Midwest,USA,Michigan,Detroit,Distributor,Corporate,Electronics,Phone,Galaxy Max,John Miller,4,1016,0.1,3657.6,2440.72,1216.88,Transfer
+10029,16/07/2024,2024,Q3,Jul,Midwest,USA,Ohio,Columbus,Online,Consumer,Furniture,Desk,WorkDesk Pro,Sarah Lopez,15,697,0.1,9409.5,6121.69,3287.81,Transfer
+10030,01/01/2024,2024,Q1,Jan,West,USA,Colorado,Denver,Online,Consumer,Furniture,Chair,ComfortSeat,Jessica Lee,8,801,0.05,6087.6,4113.9,1973.7,Transfer
+10031,13/09/2024,2024,Q3,Sep,South,USA,Florida,Miami,Retail,Corporate,Electronics,Laptop,UltraBook Pro,David Clark,1,862,0.1,775.8,430.81,344.99,Card
+10032,08/03/2024,2024,Q1,Mar,Northeast,USA,Massachusetts,Boston,Distributor,Small Business,Accessories,Headphones,SoundMax,Michael Brown,10,1096,0.1,9864,5664.24,4199.76,Digital Wallet
+10033,12/12/2024,2024,Q4,Dec,Midwest,USA,Ohio,Columbus,Distributor,Small Business,Furniture,Chair,ComfortSeat,John Miller,11,496,0.05,5183.2,3056.59,2126.61,Cash
+10034,28/10/2024,2024,Q4,Oct,Northeast,USA,New York,New York,Retail,Corporate,Accessories,Keyboard,KeyPro,David Clark,13,195,0.1,2281.5,1374.3,907.2,Cash
+10035,25/04/2024,2024,Q2,Apr,South,USA,Florida,Miami,Online,Corporate,Electronics,Phone,Galaxy Max,Sarah Lopez,19,371,0.1,6344.1,3766.4,2577.7,Digital Wallet
+10036,02/08/2024,2024,Q3,Aug,Northeast,USA,New York,New York,Distributor,Corporate,Electronics,Phone,Galaxy Max,Michael Brown,6,309,0,1854,1130.85,723.15,Cash
+10037,27/07/2024,2024,Q3,Jul,Midwest,USA,Ohio,Columbus,Retail,Small Business,Accessories,Keyboard,KeyPro,John Miller,10,208,0.1,1872,1150.57,721.43,Transfer
+10038,29/10/2024,2024,Q4,Oct,South,USA,Florida,Miami,Retail,Corporate,Furniture,Chair,ComfortSeat,Michael Brown,20,613,0.1,11034,6480.65,4553.35,Transfer
+10039,21/12/2024,2024,Q4,Dec,West,USA,Washington,Seattle,Distributor,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,13,185,0.05,2284.75,1647.21,637.54,Card
+10040,09/05/2024,2024,Q2,May,South,USA,Texas,Dallas,Retail,Consumer,Accessories,Headphones,SoundMax,John Miller,15,544,0.15,6936,4408.75,2527.25,Card
+10041,30/12/2024,2024,Q4,Dec,Midwest,USA,Ohio,Columbus,Retail,Small Business,Accessories,Headphones,SoundMax,John Miller,19,738,0.1,12619.8,8488.2,4131.6,Digital Wallet
+10042,14/06/2024,2024,Q2,Jun,Midwest,USA,Ohio,Columbus,Online,Small Business,Furniture,Desk,WorkDesk Pro,Sarah Lopez,5,531,0,2655,1769.64,885.36,Cash
+10043,16/09/2024,2024,Q3,Sep,West,USA,Colorado,Denver,Online,Corporate,Furniture,Chair,ComfortSeat,Sarah Lopez,11,146,0.05,1525.7,1112.1,413.6,Card
+10044,17/01/2024,2024,Q1,Jan,South,USA,Georgia,Atlanta,Distributor,Corporate,Electronics,Phone,Galaxy Max,Emily Carter,13,682,0,8866,6215.74,2650.26,Card
+10045,01/11/2024,2024,Q4,Nov,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,John Miller,12,102,0.15,1040.4,658.38,382.02,Cash
+10046,15/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Online,Corporate,Accessories,Keyboard,KeyPro,Michael Brown,7,52,0.15,309.4,205.75,103.65,Digital Wallet
+10047,01/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Distributor,Corporate,Accessories,Keyboard,KeyPro,Sarah Lopez,6,953,0.15,4860.3,2818.02,2042.28,Transfer
+10048,28/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,10,686,0,6860,5034.49,1825.51,Transfer
+10049,14/03/2024,2024,Q1,Mar,South,USA,Texas,Dallas,Retail,Small Business,Accessories,Keyboard,KeyPro,Emily Carter,7,1119,0.15,6658.05,3712.57,2945.48,Cash
+10050,01/12/2024,2024,Q4,Dec,Midwest,USA,Ohio,Columbus,Retail,Corporate,Electronics,Phone,Galaxy Max,John Miller,7,1103,0.05,7334.95,4590.16,2744.79,Card
+10051,26/09/2024,2024,Q3,Sep,West,USA,Colorado,Denver,Distributor,Corporate,Electronics,Tablet,Tab Elite,Emily Carter,20,525,0,10500,7749.42,2750.58,Transfer
+10052,23/10/2024,2024,Q4,Oct,South,USA,Georgia,Atlanta,Distributor,Corporate,Electronics,Tablet,Tab Elite,Jessica Lee,10,641,0.1,5769,4172.47,1596.53,Digital Wallet
+10053,07/10/2024,2024,Q4,Oct,Northeast,USA,New York,New York,Distributor,Small Business,Electronics,Phone,Galaxy Max,Jessica Lee,14,726,0,10164,6087.28,4076.72,Transfer
+10054,22/07/2024,2024,Q3,Jul,South,USA,Florida,Miami,Online,Small Business,Accessories,Keyboard,KeyPro,John Miller,2,102,0.05,193.8,135.39,58.41,Digital Wallet
+10055,04/04/2024,2024,Q2,Apr,West,USA,California,Los Angeles,Online,Corporate,Furniture,Chair,ComfortSeat,David Clark,10,1051,0.05,9984.5,6202.12,3782.38,Digital Wallet
+10056,17/05/2024,2024,Q2,May,West,USA,California,Los Angeles,Retail,Consumer,Electronics,Laptop,UltraBook Pro,Sarah Lopez,3,126,0.1,340.2,224.88,115.32,Digital Wallet
+10057,19/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Online,Consumer,Electronics,Tablet,Tab Elite,Jessica Lee,20,1105,0.05,20995,15263.32,5731.68,Cash
+10058,28/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Online,Small Business,Furniture,Chair,ComfortSeat,Emily Carter,7,848,0.1,5342.4,3701.68,1640.72,Cash
+10059,15/12/2024,2024,Q4,Dec,Midwest,USA,Ohio,Columbus,Online,Consumer,Accessories,Headphones,SoundMax,Michael Brown,16,890,0.15,12104,8977.91,3126.09,Digital Wallet
+10060,28/03/2024,2024,Q1,Mar,West,USA,Colorado,Denver,Distributor,Corporate,Accessories,Keyboard,KeyPro,John Miller,18,937,0.15,14336.1,10380.06,3956.04,Digital Wallet
+10061,07/02/2024,2024,Q1,Feb,Midwest,USA,Michigan,Detroit,Retail,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,16,312,0.05,4742.4,3335.97,1406.43,Digital Wallet
+10062,18/08/2024,2024,Q3,Aug,Northeast,USA,Massachusetts,Boston,Retail,Corporate,Electronics,Tablet,Tab Elite,Jessica Lee,11,482,0,5302,3296.43,2005.57,Digital Wallet
+10063,29/11/2024,2024,Q4,Nov,Northeast,USA,New York,New York,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Emily Carter,7,248,0,1736,1022.24,713.76,Card
+10064,19/03/2024,2024,Q1,Mar,Midwest,USA,Michigan,Detroit,Online,Corporate,Furniture,Chair,ComfortSeat,John Miller,16,1086,0.05,16507.2,9905.84,6601.36,Digital Wallet
+10065,22/06/2024,2024,Q2,Jun,Northeast,USA,New York,New York,Online,Consumer,Furniture,Desk,WorkDesk Pro,Jessica Lee,3,249,0.05,709.65,395.48,314.17,Card
+10066,27/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Retail,Corporate,Furniture,Chair,ComfortSeat,John Miller,4,769,0.1,2768.4,1835.61,932.79,Digital Wallet
+10067,12/11/2024,2024,Q4,Nov,South,USA,Georgia,Atlanta,Online,Corporate,Furniture,Chair,ComfortSeat,Michael Brown,20,670,0.15,11390,8455.18,2934.82,Transfer
+10068,31/03/2024,2024,Q1,Mar,South,USA,Georgia,Atlanta,Retail,Consumer,Electronics,Tablet,Tab Elite,Jessica Lee,10,247,0.05,2346.5,1297.74,1048.76,Digital Wallet
+10069,11/06/2024,2024,Q2,Jun,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,13,366,0.1,4282.2,2549.96,1732.24,Cash
+10070,22/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Retail,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,15,491,0,7365,4736.74,2628.26,Transfer
+10071,27/01/2024,2024,Q1,Jan,West,USA,Washington,Seattle,Online,Small Business,Furniture,Desk,WorkDesk Pro,David Clark,10,662,0.05,6289,3808.53,2480.47,Cash
+10072,26/06/2024,2024,Q2,Jun,Midwest,USA,Illinois,Chicago,Online,Consumer,Electronics,Laptop,UltraBook Pro,Sarah Lopez,11,1104,0.15,10322.4,6397.57,3924.83,Digital Wallet
+10073,04/10/2024,2024,Q4,Oct,West,USA,Colorado,Denver,Online,Consumer,Electronics,Tablet,Tab Elite,Jessica Lee,16,707,0,11312,7574.94,3737.06,Card
+10074,10/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Online,Consumer,Electronics,Tablet,Tab Elite,Sarah Lopez,5,418,0.1,1881,1237.93,643.07,Transfer
+10075,17/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Retail,Corporate,Furniture,Chair,ComfortSeat,David Clark,20,305,0.05,5795,3841.33,1953.67,Card
+10076,23/03/2024,2024,Q1,Mar,Northeast,USA,New York,New York,Distributor,Corporate,Accessories,Headphones,SoundMax,David Clark,12,592,0.1,6393.6,4365.36,2028.24,Transfer
+10077,28/11/2024,2024,Q4,Nov,West,USA,California,Los Angeles,Retail,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,6,245,0.05,1396.5,827.73,568.77,Cash
+10078,16/11/2024,2024,Q4,Nov,South,USA,Georgia,Atlanta,Distributor,Consumer,Accessories,Headphones,SoundMax,Emily Carter,13,421,0.05,5199.35,2961.85,2237.5,Transfer
+10079,13/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Online,Small Business,Electronics,Tablet,Tab Elite,Jessica Lee,16,1108,0.05,16841.6,11148.89,5692.71,Card
+10080,06/12/2024,2024,Q4,Dec,West,USA,Colorado,Denver,Online,Corporate,Furniture,Desk,WorkDesk Pro,Emily Carter,8,935,0.05,7106,4626.68,2479.32,Card
+10081,08/03/2024,2024,Q1,Mar,South,USA,Georgia,Atlanta,Distributor,Consumer,Furniture,Chair,ComfortSeat,Emily Carter,1,318,0.1,286.2,163.94,122.26,Digital Wallet
+10082,30/11/2024,2024,Q4,Nov,Northeast,USA,Pennsylvania,Philadelphia,Online,Consumer,Accessories,Headphones,SoundMax,Michael Brown,20,276,0,5520,3679.41,1840.59,Cash
+10083,27/12/2024,2024,Q4,Dec,West,USA,California,Los Angeles,Retail,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,8,222,0.15,1509.6,1100.75,408.85,Cash
+10084,21/05/2024,2024,Q2,May,Midwest,USA,Ohio,Columbus,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,Michael Brown,20,251,0,5020,3651.05,1368.95,Cash
+10085,21/01/2024,2024,Q1,Jan,South,USA,Georgia,Atlanta,Online,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,10,1075,0.15,9137.5,6199.65,2937.85,Cash
+10086,10/07/2024,2024,Q3,Jul,West,USA,California,Los Angeles,Distributor,Corporate,Furniture,Chair,ComfortSeat,Emily Carter,4,1150,0.05,4370,3072.1,1297.9,Card
+10087,29/11/2024,2024,Q4,Nov,West,USA,Washington,Seattle,Online,Consumer,Electronics,Tablet,Tab Elite,Michael Brown,5,544,0.05,2584,1753.88,830.12,Card
+10088,20/09/2024,2024,Q3,Sep,South,USA,Texas,Dallas,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Michael Brown,11,483,0.1,4781.7,3471.21,1310.49,Card
+10089,08/09/2024,2024,Q3,Sep,West,USA,Washington,Seattle,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Emily Carter,12,342,0.1,3693.6,2614.7,1078.9,Cash
+10090,21/12/2024,2024,Q4,Dec,South,USA,Texas,Dallas,Distributor,Consumer,Furniture,Chair,ComfortSeat,Sarah Lopez,19,431,0.05,7779.55,5716.31,2063.24,Cash
+10091,24/11/2024,2024,Q4,Nov,Northeast,USA,New York,New York,Distributor,Corporate,Furniture,Chair,ComfortSeat,Michael Brown,6,542,0.15,2764.2,1798.39,965.81,Transfer
+10092,03/02/2024,2024,Q1,Feb,South,USA,Texas,Dallas,Retail,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,16,415,0.05,6308,4028.78,2279.22,Cash
+10093,28/12/2024,2024,Q4,Dec,South,USA,Texas,Dallas,Distributor,Consumer,Electronics,Phone,Galaxy Max,John Miller,6,721,0.05,4109.7,2768.38,1341.32,Transfer
+10094,12/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,6,816,0.15,4161.6,2490.75,1670.85,Digital Wallet
+10095,30/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Distributor,Consumer,Electronics,Tablet,Tab Elite,Sarah Lopez,19,780,0.15,12597,6960.01,5636.99,Digital Wallet
+10096,07/10/2024,2024,Q4,Oct,Midwest,USA,Michigan,Detroit,Online,Corporate,Furniture,Chair,ComfortSeat,Jessica Lee,8,162,0.15,1101.6,659.77,441.83,Cash
+10097,11/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Accessories,Headphones,SoundMax,Sarah Lopez,20,910,0.1,16380,12256.31,4123.69,Transfer
+10098,11/09/2024,2024,Q3,Sep,Midwest,USA,Ohio,Columbus,Retail,Consumer,Accessories,Keyboard,KeyPro,David Clark,12,917,0.15,9353.4,5798.27,3555.13,Cash
+10099,15/10/2024,2024,Q4,Oct,Midwest,USA,Michigan,Detroit,Retail,Corporate,Accessories,Headphones,SoundMax,Michael Brown,20,803,0.05,15257,11250.53,4006.47,Cash
+10100,27/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Furniture,Chair,ComfortSeat,David Clark,7,846,0.05,5625.9,3360.48,2265.42,Card
+10101,06/05/2024,2024,Q2,May,Midwest,USA,Ohio,Columbus,Distributor,Corporate,Accessories,Headphones,SoundMax,David Clark,12,1116,0.05,12722.4,7381.26,5341.14,Card
+10102,21/04/2024,2024,Q2,Apr,Midwest,USA,Michigan,Detroit,Retail,Consumer,Accessories,Keyboard,KeyPro,Jessica Lee,5,179,0.05,850.25,561.65,288.6,Digital Wallet
+10103,11/06/2024,2024,Q2,Jun,Northeast,USA,Massachusetts,Boston,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Jessica Lee,19,1118,0.05,20179.9,14235.19,5944.71,Card
+10104,29/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,17,537,0.15,7759.65,4396,3363.65,Cash
+10105,01/08/2024,2024,Q3,Aug,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Consumer,Accessories,Keyboard,KeyPro,Jessica Lee,12,503,0,6036,3866.38,2169.62,Transfer
+10106,05/01/2024,2024,Q1,Jan,South,USA,Florida,Miami,Online,Small Business,Electronics,Phone,Galaxy Max,Michael Brown,18,477,0,8586,5065.41,3520.59,Transfer
+10107,11/06/2024,2024,Q2,Jun,Midwest,USA,Michigan,Detroit,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Emily Carter,12,390,0.15,3978,2771.76,1206.24,Transfer
+10108,25/03/2024,2024,Q1,Mar,Northeast,USA,Massachusetts,Boston,Distributor,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,5,126,0.05,598.5,372.34,226.16,Transfer
+10109,16/07/2024,2024,Q3,Jul,South,USA,Georgia,Atlanta,Online,Consumer,Furniture,Desk,WorkDesk Pro,Michael Brown,9,556,0.15,4253.4,2840.07,1413.33,Transfer
+10110,17/08/2024,2024,Q3,Aug,South,USA,Texas,Dallas,Retail,Small Business,Electronics,Tablet,Tab Elite,David Clark,7,361,0.15,2147.95,1351.46,796.49,Transfer
+10111,26/06/2024,2024,Q2,Jun,South,USA,Florida,Miami,Distributor,Small Business,Accessories,Keyboard,KeyPro,David Clark,9,303,0,2727,1565.8,1161.2,Cash
+10112,11/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Retail,Small Business,Electronics,Tablet,Tab Elite,Jessica Lee,1,951,0.15,808.35,559.66,248.69,Cash
+10113,25/06/2024,2024,Q2,Jun,South,USA,Texas,Dallas,Distributor,Small Business,Furniture,Chair,ComfortSeat,David Clark,3,994,0.15,2534.7,1521.77,1012.93,Transfer
+10114,01/03/2024,2024,Q1,Mar,Northeast,USA,New York,New York,Distributor,Consumer,Accessories,Keyboard,KeyPro,Jessica Lee,20,808,0.05,15352,10018.99,5333.01,Digital Wallet
+10115,19/05/2024,2024,Q2,May,South,USA,Georgia,Atlanta,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Jessica Lee,5,283,0.15,1202.75,865.41,337.34,Card
+10116,17/02/2024,2024,Q1,Feb,West,USA,California,Los Angeles,Distributor,Small Business,Accessories,Headphones,SoundMax,Sarah Lopez,3,356,0.1,961.2,699.19,262.01,Digital Wallet
+10117,23/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Online,Small Business,Furniture,Desk,WorkDesk Pro,Jessica Lee,11,655,0.1,6484.5,4190.08,2294.42,Digital Wallet
+10118,08/09/2024,2024,Q3,Sep,Midwest,USA,Ohio,Columbus,Distributor,Small Business,Electronics,Tablet,Tab Elite,John Miller,15,458,0.05,6526.5,4440.42,2086.08,Digital Wallet
+10119,29/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Online,Small Business,Furniture,Chair,ComfortSeat,Michael Brown,12,819,0.05,9336.6,6869.86,2466.74,Transfer
+10120,07/03/2024,2024,Q1,Mar,Northeast,USA,Pennsylvania,Philadelphia,Online,Small Business,Electronics,Tablet,Tab Elite,Michael Brown,11,825,0.1,8167.5,4753.25,3414.25,Digital Wallet
+10121,07/06/2024,2024,Q2,Jun,West,USA,California,Los Angeles,Retail,Small Business,Accessories,Keyboard,KeyPro,John Miller,17,361,0.15,5216.45,3376.1,1840.35,Digital Wallet
+10122,31/07/2024,2024,Q3,Jul,Northeast,USA,Pennsylvania,Philadelphia,Retail,Small Business,Furniture,Desk,WorkDesk Pro,Sarah Lopez,4,109,0.05,414.2,238.93,175.27,Card
+10123,13/02/2024,2024,Q1,Feb,South,USA,Florida,Miami,Retail,Small Business,Accessories,Headphones,SoundMax,Michael Brown,1,718,0.05,682.1,375.71,306.39,Card
+10124,25/02/2024,2024,Q1,Feb,Northeast,USA,Massachusetts,Boston,Online,Small Business,Accessories,Headphones,SoundMax,Emily Carter,18,369,0.15,5645.7,3495.26,2150.44,Transfer
+10125,31/03/2024,2024,Q1,Mar,South,USA,Texas,Dallas,Retail,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,8,269,0.05,2044.4,1524.05,520.35,Cash
+10126,07/10/2024,2024,Q4,Oct,West,USA,Colorado,Denver,Distributor,Consumer,Accessories,Keyboard,KeyPro,John Miller,14,809,0.15,9627.1,5335.54,4291.56,Transfer
+10127,18/12/2024,2024,Q4,Dec,South,USA,Florida,Miami,Online,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,20,152,0.1,2736,1507.48,1228.52,Card
+10128,28/09/2024,2024,Q3,Sep,Northeast,USA,New York,New York,Distributor,Consumer,Furniture,Chair,ComfortSeat,David Clark,9,1109,0,9981,6325.43,3655.57,Digital Wallet
+10129,26/07/2024,2024,Q3,Jul,Northeast,USA,Massachusetts,Boston,Retail,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,16,311,0.15,4229.6,2510.71,1718.89,Cash
+10130,28/12/2024,2024,Q4,Dec,South,USA,Texas,Dallas,Retail,Corporate,Electronics,Laptop,UltraBook Pro,Jessica Lee,8,194,0,1552,922.41,629.59,Transfer
+10131,21/07/2024,2024,Q3,Jul,Northeast,USA,New York,New York,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Emily Carter,6,1101,0.1,5945.4,3429.78,2515.62,Transfer
+10132,17/04/2024,2024,Q2,Apr,Northeast,USA,New York,New York,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Michael Brown,16,964,0,15424,10845.34,4578.66,Cash
+10133,03/05/2024,2024,Q2,May,Midwest,USA,Ohio,Columbus,Retail,Corporate,Electronics,Tablet,Tab Elite,Michael Brown,4,749,0.05,2846.2,1888.27,957.93,Transfer
+10134,29/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,Emily Carter,20,773,0.05,14687,8852.26,5834.74,Cash
+10135,08/11/2024,2024,Q4,Nov,South,USA,Florida,Miami,Online,Consumer,Furniture,Desk,WorkDesk Pro,David Clark,18,51,0.05,872.1,563.86,308.24,Transfer
+10136,27/12/2024,2024,Q4,Dec,South,USA,Florida,Miami,Retail,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,3,1109,0.15,2827.95,1783.94,1044.01,Cash
+10137,28/08/2024,2024,Q3,Aug,South,USA,Florida,Miami,Retail,Corporate,Electronics,Phone,Galaxy Max,Emily Carter,8,96,0.15,652.8,452.95,199.85,Transfer
+10138,26/01/2024,2024,Q1,Jan,Northeast,USA,New York,New York,Retail,Consumer,Electronics,Laptop,UltraBook Pro,Sarah Lopez,20,542,0.15,9214,6641.24,2572.76,Digital Wallet
+10139,18/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Retail,Small Business,Furniture,Chair,ComfortSeat,Sarah Lopez,8,116,0.15,788.8,558.09,230.71,Card
+10140,15/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Online,Corporate,Accessories,Headphones,SoundMax,Sarah Lopez,16,953,0.1,13723.2,9813.16,3910.04,Cash
+10141,26/02/2024,2024,Q1,Feb,Northeast,USA,Massachusetts,Boston,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Michael Brown,20,357,0.15,6069,3463.74,2605.26,Digital Wallet
+10142,13/05/2024,2024,Q2,May,Midwest,USA,Ohio,Columbus,Online,Consumer,Furniture,Desk,WorkDesk Pro,David Clark,14,522,0.1,6577.2,3897.11,2680.09,Transfer
+10143,22/12/2024,2024,Q4,Dec,West,USA,California,Los Angeles,Retail,Small Business,Furniture,Desk,WorkDesk Pro,Sarah Lopez,9,141,0.05,1205.55,695.82,509.73,Cash
+10144,24/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Distributor,Consumer,Accessories,Headphones,SoundMax,David Clark,5,813,0.1,3658.5,2025.55,1632.95,Digital Wallet
+10145,07/07/2024,2024,Q3,Jul,Northeast,USA,New York,New York,Retail,Consumer,Furniture,Desk,WorkDesk Pro,David Clark,7,678,0.1,4271.4,3069.29,1202.11,Transfer
+10146,24/06/2024,2024,Q2,Jun,Northeast,USA,New York,New York,Retail,Corporate,Furniture,Chair,ComfortSeat,Michael Brown,3,276,0,828,478.21,349.79,Transfer
+10147,07/06/2024,2024,Q2,Jun,West,USA,Washington,Seattle,Distributor,Small Business,Electronics,Phone,Galaxy Max,Michael Brown,6,1132,0.1,6112.8,4460.69,1652.11,Transfer
+10148,17/10/2024,2024,Q4,Oct,West,USA,California,Los Angeles,Distributor,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,16,903,0.15,12280.8,7423.88,4856.92,Cash
+10149,13/07/2024,2024,Q3,Jul,West,USA,California,Los Angeles,Distributor,Corporate,Furniture,Chair,ComfortSeat,David Clark,10,1067,0.1,9603,6331.1,3271.9,Card
+10150,03/09/2024,2024,Q3,Sep,South,USA,Florida,Miami,Retail,Consumer,Furniture,Desk,WorkDesk Pro,John Miller,16,1121,0.1,16142.4,12090.28,4052.12,Transfer
+10151,23/03/2024,2024,Q1,Mar,Midwest,USA,Ohio,Columbus,Retail,Consumer,Furniture,Chair,ComfortSeat,John Miller,7,109,0.05,724.85,410.94,313.91,Cash
+10152,18/08/2024,2024,Q3,Aug,South,USA,Texas,Dallas,Distributor,Small Business,Accessories,Headphones,SoundMax,John Miller,2,539,0.05,1024.1,750.38,273.72,Card
+10153,26/03/2024,2024,Q1,Mar,West,USA,California,Los Angeles,Retail,Consumer,Electronics,Phone,Galaxy Max,John Miller,19,733,0,13927,8143.18,5783.82,Cash
+10154,29/01/2024,2024,Q1,Jan,Midwest,USA,Ohio,Columbus,Retail,Small Business,Electronics,Laptop,UltraBook Pro,Emily Carter,9,94,0,846,570.1,275.9,Cash
+10155,04/04/2024,2024,Q2,Apr,West,USA,Washington,Seattle,Distributor,Small Business,Accessories,Keyboard,KeyPro,Jessica Lee,4,1008,0,4032,2258.09,1773.91,Transfer
+10156,24/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Online,Consumer,Accessories,Headphones,SoundMax,John Miller,3,236,0,708,497.15,210.85,Digital Wallet
+10157,18/10/2024,2024,Q4,Oct,West,USA,California,Los Angeles,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Jessica Lee,8,828,0,6624,4531.39,2092.61,Digital Wallet
+10158,25/08/2024,2024,Q3,Aug,Midwest,USA,Ohio,Columbus,Distributor,Corporate,Accessories,Keyboard,KeyPro,Jessica Lee,17,221,0.05,3569.15,2431.89,1137.26,Digital Wallet
+10159,03/03/2024,2024,Q1,Mar,Northeast,USA,Massachusetts,Boston,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,John Miller,2,1046,0.05,1987.4,1255.32,732.08,Card
+10160,13/06/2024,2024,Q2,Jun,South,USA,Texas,Dallas,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Jessica Lee,15,99,0.1,1336.5,957.21,379.29,Card
+10161,16/05/2024,2024,Q2,May,West,USA,Colorado,Denver,Distributor,Corporate,Accessories,Headphones,SoundMax,Michael Brown,13,730,0.05,9015.5,5512.69,3502.81,Card
+10162,17/12/2024,2024,Q4,Dec,Northeast,USA,Pennsylvania,Philadelphia,Retail,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,19,147,0.15,2374.05,1393.55,980.5,Digital Wallet
+10163,07/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Online,Consumer,Furniture,Chair,ComfortSeat,Jessica Lee,10,89,0.15,756.5,422.6,333.9,Card
+10164,23/10/2024,2024,Q4,Oct,West,USA,Washington,Seattle,Online,Small Business,Electronics,Tablet,Tab Elite,John Miller,4,768,0.15,2611.2,1875.92,735.28,Cash
+10165,05/02/2024,2024,Q1,Feb,South,USA,Texas,Dallas,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Jessica Lee,11,150,0,1650,998.64,651.36,Card
+10166,22/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Distributor,Small Business,Furniture,Chair,ComfortSeat,John Miller,17,335,0.1,5125.5,3376.42,1749.08,Transfer
+10167,20/08/2024,2024,Q3,Aug,Northeast,USA,Massachusetts,Boston,Retail,Consumer,Electronics,Tablet,Tab Elite,Emily Carter,5,252,0.05,1197,752.17,444.83,Cash
+10168,08/11/2024,2024,Q4,Nov,Midwest,USA,Ohio,Columbus,Online,Consumer,Electronics,Phone,Galaxy Max,Michael Brown,17,1068,0,18156,11175.93,6980.07,Transfer
+10169,03/12/2024,2024,Q4,Dec,Midwest,USA,Ohio,Columbus,Online,Consumer,Furniture,Chair,ComfortSeat,Michael Brown,7,517,0.05,3438.05,1973,1465.05,Digital Wallet
+10170,29/08/2024,2024,Q3,Aug,Midwest,USA,Ohio,Columbus,Distributor,Consumer,Furniture,Desk,WorkDesk Pro,John Miller,10,304,0.15,2584,1834.43,749.57,Card
+10171,26/06/2024,2024,Q2,Jun,Midwest,USA,Illinois,Chicago,Retail,Small Business,Furniture,Chair,ComfortSeat,Michael Brown,8,315,0.15,2142,1472.58,669.42,Transfer
+10172,09/05/2024,2024,Q2,May,Midwest,USA,Illinois,Chicago,Online,Corporate,Accessories,Keyboard,KeyPro,John Miller,1,973,0.1,875.7,542.06,333.64,Card
+10173,03/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Online,Corporate,Electronics,Phone,Galaxy Max,Sarah Lopez,6,578,0.15,2947.8,2113.58,834.22,Cash
+10174,27/02/2024,2024,Q1,Feb,South,USA,Georgia,Atlanta,Distributor,Corporate,Furniture,Chair,ComfortSeat,Sarah Lopez,15,985,0.05,14036.25,8041.16,5995.09,Transfer
+10175,30/09/2024,2024,Q3,Sep,Northeast,USA,New York,New York,Distributor,Consumer,Electronics,Phone,Galaxy Max,David Clark,5,933,0.05,4431.75,3028.87,1402.88,Cash
+10176,05/12/2024,2024,Q4,Dec,West,USA,Colorado,Denver,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,Sarah Lopez,16,1010,0,16160,11224.27,4935.73,Cash
+10177,02/08/2024,2024,Q3,Aug,South,USA,Georgia,Atlanta,Online,Consumer,Furniture,Chair,ComfortSeat,Emily Carter,5,853,0.1,3838.5,2206.71,1631.79,Cash
+10178,20/05/2024,2024,Q2,May,West,USA,California,Los Angeles,Online,Corporate,Electronics,Tablet,Tab Elite,Michael Brown,6,51,0,306,205.98,100.02,Digital Wallet
+10179,10/09/2024,2024,Q3,Sep,Northeast,USA,New York,New York,Online,Consumer,Accessories,Keyboard,KeyPro,John Miller,13,824,0.15,9105.2,5240.43,3864.77,Digital Wallet
+10180,25/01/2024,2024,Q1,Jan,Midwest,USA,Michigan,Detroit,Online,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,7,1146,0,8022,4907.28,3114.72,Transfer
+10181,13/03/2024,2024,Q1,Mar,Midwest,USA,Michigan,Detroit,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Michael Brown,20,149,0.1,2682,1711.62,970.38,Cash
+10182,26/04/2024,2024,Q2,Apr,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,1,231,0.05,219.45,140.67,78.78,Cash
+10183,23/12/2024,2024,Q4,Dec,West,USA,Washington,Seattle,Online,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,8,381,0,3048,2276.96,771.04,Digital Wallet
+10184,05/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Retail,Consumer,Accessories,Headphones,SoundMax,Emily Carter,16,1161,0.05,17647.2,11883.63,5763.57,Digital Wallet
+10185,21/09/2024,2024,Q3,Sep,South,USA,Florida,Miami,Online,Consumer,Electronics,Laptop,UltraBook Pro,Jessica Lee,9,920,0,8280,6202.37,2077.63,Transfer
+10186,26/11/2024,2024,Q4,Nov,South,USA,Florida,Miami,Retail,Consumer,Accessories,Keyboard,KeyPro,John Miller,20,685,0,13700,8958.65,4741.35,Transfer
+10187,14/03/2024,2024,Q1,Mar,West,USA,Colorado,Denver,Online,Consumer,Electronics,Phone,Galaxy Max,Michael Brown,14,156,0.15,1856.4,1165.49,690.91,Digital Wallet
+10188,12/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Retail,Consumer,Electronics,Tablet,Tab Elite,Jessica Lee,3,1051,0,3153,1738.73,1414.27,Cash
+10189,23/04/2024,2024,Q2,Apr,West,USA,Washington,Seattle,Retail,Small Business,Furniture,Chair,ComfortSeat,Sarah Lopez,2,94,0.05,178.6,119.86,58.74,Transfer
+10190,10/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Online,Small Business,Electronics,Laptop,UltraBook Pro,John Miller,20,1169,0.15,19873,11967.1,7905.9,Card
+10191,25/12/2024,2024,Q4,Dec,Midwest,USA,Michigan,Detroit,Retail,Consumer,Electronics,Tablet,Tab Elite,John Miller,13,268,0.1,3135.6,1779.24,1356.36,Digital Wallet
+10192,19/04/2024,2024,Q2,Apr,West,USA,Washington,Seattle,Retail,Small Business,Electronics,Tablet,Tab Elite,David Clark,17,1108,0.05,17894.2,12501.78,5392.42,Cash
+10193,22/07/2024,2024,Q3,Jul,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Electronics,Tablet,Tab Elite,David Clark,2,508,0.15,863.6,497.67,365.93,Digital Wallet
+10194,27/07/2024,2024,Q3,Jul,Midwest,USA,Michigan,Detroit,Retail,Corporate,Furniture,Desk,WorkDesk Pro,John Miller,18,698,0.15,10679.4,6356.35,4323.05,Cash
+10195,19/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Online,Small Business,Electronics,Laptop,UltraBook Pro,Emily Carter,2,958,0.05,1820.2,1196.54,623.66,Transfer
+10196,11/11/2024,2024,Q4,Nov,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Michael Brown,3,388,0.05,1105.8,782,323.8,Digital Wallet
+10197,28/10/2024,2024,Q4,Oct,South,USA,Georgia,Atlanta,Online,Corporate,Accessories,Headphones,SoundMax,John Miller,14,561,0.1,7068.6,3969.79,3098.81,Digital Wallet
+10198,30/10/2024,2024,Q4,Oct,West,USA,California,Los Angeles,Distributor,Small Business,Furniture,Chair,ComfortSeat,Emily Carter,7,801,0.1,5046.3,3607.17,1439.13,Card
+10199,12/06/2024,2024,Q2,Jun,Northeast,USA,Massachusetts,Boston,Online,Corporate,Furniture,Desk,WorkDesk Pro,Jessica Lee,15,138,0,2070,1360.06,709.94,Cash
+10200,28/12/2024,2024,Q4,Dec,West,USA,California,Los Angeles,Distributor,Consumer,Accessories,Headphones,SoundMax,Emily Carter,17,758,0.05,12241.7,8578.62,3663.08,Digital Wallet
+10201,30/07/2024,2024,Q3,Jul,West,USA,California,Los Angeles,Distributor,Small Business,Furniture,Chair,ComfortSeat,John Miller,4,209,0.15,710.6,424.59,286.01,Cash
+10202,13/06/2024,2024,Q2,Jun,Midwest,USA,Illinois,Chicago,Online,Consumer,Electronics,Tablet,Tab Elite,Emily Carter,18,1141,0.05,19511.1,12078.81,7432.29,Transfer
+10203,10/09/2024,2024,Q3,Sep,Midwest,USA,Ohio,Columbus,Online,Corporate,Accessories,Keyboard,KeyPro,Michael Brown,18,576,0,10368,6851.77,3516.23,Transfer
+10204,13/01/2024,2024,Q1,Jan,Northeast,USA,Massachusetts,Boston,Retail,Consumer,Electronics,Tablet,Tab Elite,Jessica Lee,11,136,0.05,1421.2,951.49,469.71,Transfer
+10205,26/09/2024,2024,Q3,Sep,South,USA,Florida,Miami,Retail,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,17,738,0.1,11291.4,8351.94,2939.46,Cash
+10206,20/03/2024,2024,Q1,Mar,West,USA,California,Los Angeles,Retail,Small Business,Furniture,Desk,WorkDesk Pro,Jessica Lee,7,889,0,6223,4499.43,1723.57,Transfer
+10207,19/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Distributor,Consumer,Furniture,Desk,WorkDesk Pro,Emily Carter,17,1173,0.05,18943.95,13375.89,5568.06,Digital Wallet
+10208,24/10/2024,2024,Q4,Oct,West,USA,Colorado,Denver,Online,Consumer,Electronics,Phone,Galaxy Max,Emily Carter,14,622,0.1,7837.2,4379.29,3457.91,Transfer
+10209,31/08/2024,2024,Q3,Aug,South,USA,Georgia,Atlanta,Online,Consumer,Electronics,Laptop,UltraBook Pro,Michael Brown,7,613,0,4291,3027.57,1263.43,Transfer
+10210,08/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Retail,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,19,886,0.1,15150.6,8756.44,6394.16,Cash
+10211,14/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Retail,Consumer,Accessories,Keyboard,KeyPro,Emily Carter,19,975,0.05,17598.75,12782.62,4816.13,Cash
+10212,23/11/2024,2024,Q4,Nov,West,USA,Colorado,Denver,Retail,Corporate,Accessories,Keyboard,KeyPro,David Clark,3,1135,0.15,2894.25,2144.32,749.93,Card
+10213,14/08/2024,2024,Q3,Aug,South,USA,Texas,Dallas,Online,Consumer,Electronics,Phone,Galaxy Max,John Miller,19,570,0.05,10288.5,5972.06,4316.44,Card
+10214,24/12/2024,2024,Q4,Dec,West,USA,Colorado,Denver,Retail,Corporate,Furniture,Desk,WorkDesk Pro,Emily Carter,7,702,0.1,4422.6,3247.58,1175.02,Transfer
+10215,17/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Distributor,Small Business,Furniture,Chair,ComfortSeat,Sarah Lopez,7,448,0.05,2979.2,1970.25,1008.95,Cash
+10216,22/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Online,Small Business,Accessories,Headphones,SoundMax,Emily Carter,6,547,0.1,2953.8,2185.25,768.55,Digital Wallet
+10217,28/06/2024,2024,Q2,Jun,South,USA,Texas,Dallas,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,Sarah Lopez,8,771,0.15,5242.8,3876.55,1366.25,Digital Wallet
+10218,18/04/2024,2024,Q2,Apr,West,USA,Colorado,Denver,Retail,Corporate,Electronics,Phone,Galaxy Max,Michael Brown,10,597,0.15,5074.5,2812.98,2261.52,Digital Wallet
+10219,11/12/2024,2024,Q4,Dec,Midwest,USA,Illinois,Chicago,Online,Consumer,Electronics,Laptop,UltraBook Pro,Sarah Lopez,13,312,0,4056,3038.2,1017.8,Digital Wallet
+10220,23/09/2024,2024,Q3,Sep,Midwest,USA,Illinois,Chicago,Online,Consumer,Accessories,Headphones,SoundMax,Jessica Lee,14,812,0.1,10231.2,7101.35,3129.85,Card
+10221,02/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Retail,Corporate,Accessories,Headphones,SoundMax,Michael Brown,5,976,0.1,4392,3020.18,1371.82,Cash
+10222,08/05/2024,2024,Q2,May,West,USA,Colorado,Denver,Retail,Consumer,Electronics,Phone,Galaxy Max,David Clark,5,68,0.1,306,217.17,88.83,Transfer
+10223,02/01/2024,2024,Q1,Jan,South,USA,Georgia,Atlanta,Online,Consumer,Accessories,Headphones,SoundMax,Emily Carter,2,687,0.15,1167.9,761.85,406.05,Digital Wallet
+10224,02/01/2024,2024,Q1,Jan,Midwest,USA,Illinois,Chicago,Online,Small Business,Accessories,Keyboard,KeyPro,David Clark,5,741,0.1,3334.5,2434.29,900.21,Transfer
+10225,16/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,1,460,0.1,414,291.31,122.69,Cash
+10226,02/01/2024,2024,Q1,Jan,South,USA,Georgia,Atlanta,Online,Consumer,Furniture,Chair,ComfortSeat,Sarah Lopez,3,962,0.05,2741.7,1872.84,868.86,Card
+10227,18/08/2024,2024,Q3,Aug,Midwest,USA,Ohio,Columbus,Retail,Corporate,Furniture,Desk,WorkDesk Pro,John Miller,12,211,0.05,2405.4,1696.5,708.9,Cash
+10228,11/09/2024,2024,Q3,Sep,South,USA,Texas,Dallas,Online,Small Business,Accessories,Keyboard,KeyPro,Michael Brown,2,582,0,1164,783.17,380.83,Digital Wallet
+10229,13/01/2024,2024,Q1,Jan,South,USA,Florida,Miami,Online,Corporate,Electronics,Laptop,UltraBook Pro,Jessica Lee,11,533,0,5863,3524.38,2338.62,Digital Wallet
+10230,08/11/2024,2024,Q4,Nov,Northeast,USA,Pennsylvania,Philadelphia,Online,Corporate,Accessories,Keyboard,KeyPro,Michael Brown,8,375,0.15,2550,1546.28,1003.72,Cash
+10231,18/04/2024,2024,Q2,Apr,South,USA,Texas,Dallas,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,Jessica Lee,4,690,0.15,2346,1327.25,1018.75,Digital Wallet
+10232,13/11/2024,2024,Q4,Nov,West,USA,Colorado,Denver,Retail,Consumer,Accessories,Headphones,SoundMax,Emily Carter,3,91,0.1,245.7,166.14,79.56,Card
+10233,13/10/2024,2024,Q4,Oct,Midwest,USA,Michigan,Detroit,Online,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,1,1199,0.05,1139.05,655.51,483.54,Card
+10234,01/10/2024,2024,Q4,Oct,South,USA,Florida,Miami,Retail,Small Business,Electronics,Phone,Galaxy Max,David Clark,3,614,0.1,1657.8,949.46,708.34,Digital Wallet
+10235,27/07/2024,2024,Q3,Jul,Northeast,USA,New York,New York,Distributor,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,5,861,0,4305,3103.45,1201.55,Card
+10236,17/09/2024,2024,Q3,Sep,South,USA,Texas,Dallas,Retail,Small Business,Electronics,Laptop,UltraBook Pro,Sarah Lopez,16,1098,0.05,16689.6,10833.08,5856.52,Card
+10237,26/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Online,Corporate,Electronics,Laptop,UltraBook Pro,Jessica Lee,9,789,0,7101,3972.17,3128.83,Card
+10238,13/12/2024,2024,Q4,Dec,Midwest,USA,Illinois,Chicago,Online,Small Business,Accessories,Headphones,SoundMax,Michael Brown,12,326,0,3912,2645.07,1266.93,Card
+10239,17/05/2024,2024,Q2,May,Midwest,USA,Michigan,Detroit,Retail,Corporate,Electronics,Phone,Galaxy Max,Jessica Lee,8,137,0.1,986.4,618.88,367.52,Cash
+10240,04/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Online,Corporate,Furniture,Desk,WorkDesk Pro,Michael Brown,20,360,0.15,6120,4571.77,1548.23,Digital Wallet
+10241,10/03/2024,2024,Q1,Mar,Northeast,USA,New York,New York,Retail,Consumer,Electronics,Phone,Galaxy Max,Jessica Lee,12,396,0.1,4276.8,2517.15,1759.65,Digital Wallet
+10242,07/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Retail,Small Business,Accessories,Headphones,SoundMax,Michael Brown,14,1081,0.15,12863.9,7683.71,5180.19,Transfer
+10243,24/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,John Miller,2,1137,0.1,2046.6,1298.33,748.27,Digital Wallet
+10244,28/10/2024,2024,Q4,Oct,West,USA,California,Los Angeles,Online,Corporate,Furniture,Chair,ComfortSeat,Emily Carter,18,1027,0.05,17561.7,11877.04,5684.66,Digital Wallet
+10245,24/07/2024,2024,Q3,Jul,South,USA,Florida,Miami,Retail,Small Business,Furniture,Chair,ComfortSeat,Sarah Lopez,11,229,0.1,2267.1,1672.8,594.3,Card
+10246,09/04/2024,2024,Q2,Apr,West,USA,Colorado,Denver,Retail,Small Business,Accessories,Keyboard,KeyPro,Jessica Lee,2,672,0,1344,802.65,541.35,Digital Wallet
+10247,23/07/2024,2024,Q3,Jul,South,USA,Florida,Miami,Distributor,Consumer,Electronics,Phone,Galaxy Max,David Clark,11,769,0.15,7190.15,3959.98,3230.17,Cash
+10248,11/04/2024,2024,Q2,Apr,West,USA,California,Los Angeles,Distributor,Consumer,Accessories,Keyboard,KeyPro,David Clark,16,52,0.1,748.8,462.79,286.01,Digital Wallet
+10249,12/10/2024,2024,Q4,Oct,Northeast,USA,Massachusetts,Boston,Online,Corporate,Electronics,Tablet,Tab Elite,Jessica Lee,13,641,0.15,7083.05,3924.03,3159.02,Digital Wallet
+10250,21/11/2024,2024,Q4,Nov,Northeast,USA,Massachusetts,Boston,Online,Consumer,Electronics,Tablet,Tab Elite,John Miller,20,79,0.15,1343,920.23,422.77,Card
+10251,30/09/2024,2024,Q3,Sep,South,USA,Florida,Miami,Distributor,Corporate,Electronics,Phone,Galaxy Max,John Miller,11,600,0.05,6270,4482.79,1787.21,Transfer
+10252,06/12/2024,2024,Q4,Dec,Northeast,USA,New York,New York,Distributor,Small Business,Furniture,Chair,ComfortSeat,John Miller,3,1012,0.1,2732.4,1702.23,1030.17,Transfer
+10253,29/01/2024,2024,Q1,Jan,South,USA,Florida,Miami,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Emily Carter,6,1125,0.05,6412.5,4411.96,2000.54,Card
+10254,19/11/2024,2024,Q4,Nov,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Furniture,Chair,ComfortSeat,John Miller,7,512,0.05,3404.8,2543.61,861.19,Digital Wallet
+10255,10/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Retail,Small Business,Furniture,Desk,WorkDesk Pro,David Clark,5,912,0,4560,2890.09,1669.91,Card
+10256,21/07/2024,2024,Q3,Jul,Midwest,USA,Illinois,Chicago,Online,Small Business,Electronics,Phone,Galaxy Max,Michael Brown,20,499,0.1,8982,6629.36,2352.64,Transfer
+10257,27/07/2024,2024,Q3,Jul,Midwest,USA,Ohio,Columbus,Distributor,Corporate,Furniture,Chair,ComfortSeat,David Clark,16,973,0,15568,11407.31,4160.69,Card
+10258,16/05/2024,2024,Q2,May,Midwest,USA,Illinois,Chicago,Distributor,Corporate,Electronics,Tablet,Tab Elite,John Miller,2,167,0.1,300.6,222.01,78.59,Cash
+10259,27/08/2024,2024,Q3,Aug,Midwest,USA,Illinois,Chicago,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,John Miller,14,948,0.05,12608.4,9322.06,3286.34,Card
+10260,13/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Online,Small Business,Furniture,Chair,ComfortSeat,David Clark,18,810,0,14580,9911.1,4668.9,Transfer
+10261,25/02/2024,2024,Q1,Feb,Midwest,USA,Michigan,Detroit,Distributor,Consumer,Electronics,Tablet,Tab Elite,Michael Brown,4,729,0.1,2624.4,1817.46,806.94,Transfer
+10262,18/08/2024,2024,Q3,Aug,Midwest,USA,Illinois,Chicago,Online,Consumer,Accessories,Keyboard,KeyPro,David Clark,11,1108,0.05,11578.6,8115.89,3462.71,Card
+10263,27/09/2024,2024,Q3,Sep,West,USA,Colorado,Denver,Online,Consumer,Accessories,Headphones,SoundMax,Sarah Lopez,14,1145,0.15,13625.5,8739.52,4885.98,Cash
+10264,22/05/2024,2024,Q2,May,South,USA,Texas,Dallas,Distributor,Corporate,Electronics,Tablet,Tab Elite,Sarah Lopez,19,759,0.15,12257.85,8707.58,3550.27,Cash
+10265,22/02/2024,2024,Q1,Feb,South,USA,Georgia,Atlanta,Retail,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,2,605,0,1210,802.72,407.28,Cash
+10266,21/11/2024,2024,Q4,Nov,Midwest,USA,Michigan,Detroit,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Emily Carter,16,313,0.15,4256.8,3021.87,1234.93,Transfer
+10267,15/03/2024,2024,Q1,Mar,Northeast,USA,New York,New York,Retail,Consumer,Furniture,Chair,ComfortSeat,John Miller,1,937,0.15,796.45,578.14,218.31,Card
+10268,31/07/2024,2024,Q3,Jul,Northeast,USA,Massachusetts,Boston,Online,Small Business,Furniture,Desk,WorkDesk Pro,Emily Carter,10,379,0.1,3411,1950.96,1460.04,Digital Wallet
+10269,25/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Online,Corporate,Electronics,Phone,Galaxy Max,Sarah Lopez,10,808,0,8080,5936.52,2143.48,Transfer
+10270,08/11/2024,2024,Q4,Nov,South,USA,Texas,Dallas,Distributor,Consumer,Furniture,Chair,ComfortSeat,Jessica Lee,12,1143,0.05,13030.2,8510.66,4519.54,Card
+10271,10/11/2024,2024,Q4,Nov,West,USA,California,Los Angeles,Distributor,Corporate,Furniture,Chair,ComfortSeat,Sarah Lopez,13,956,0.1,11185.2,7898.93,3286.27,Cash
+10272,25/09/2024,2024,Q3,Sep,West,USA,Washington,Seattle,Online,Corporate,Electronics,Phone,Galaxy Max,Michael Brown,14,957,0.15,11388.3,7622.03,3766.27,Transfer
+10273,21/05/2024,2024,Q2,May,Midwest,USA,Michigan,Detroit,Distributor,Consumer,Furniture,Chair,ComfortSeat,Emily Carter,17,303,0.1,4635.9,3192.67,1443.23,Cash
+10274,09/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Retail,Corporate,Electronics,Laptop,UltraBook Pro,Emily Carter,15,957,0.1,12919.5,9668.26,3251.24,Transfer
+10275,04/12/2024,2024,Q4,Dec,Midwest,USA,Illinois,Chicago,Retail,Consumer,Electronics,Laptop,UltraBook Pro,John Miller,14,455,0.05,6051.5,4469.18,1582.32,Digital Wallet
+10276,27/11/2024,2024,Q4,Nov,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,Emily Carter,18,991,0,17838,10687.67,7150.33,Transfer
+10277,27/02/2024,2024,Q1,Feb,Midwest,USA,Illinois,Chicago,Online,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,20,954,0.1,17172,10542.35,6629.65,Card
+10278,11/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Retail,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,18,258,0,4644,3422.17,1221.83,Card
+10279,20/07/2024,2024,Q3,Jul,South,USA,Georgia,Atlanta,Distributor,Small Business,Furniture,Chair,ComfortSeat,Michael Brown,19,1032,0.1,17647.2,9790.39,7856.81,Transfer
+10280,27/06/2024,2024,Q2,Jun,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Corporate,Accessories,Keyboard,KeyPro,Sarah Lopez,1,488,0,488,296.66,191.34,Cash
+10281,13/01/2024,2024,Q1,Jan,South,USA,Georgia,Atlanta,Online,Corporate,Electronics,Laptop,UltraBook Pro,Sarah Lopez,13,474,0,6162,4053.14,2108.86,Card
+10282,01/04/2024,2024,Q2,Apr,Midwest,USA,Illinois,Chicago,Distributor,Small Business,Electronics,Phone,Galaxy Max,John Miller,19,955,0.05,17237.75,10242.18,6995.57,Transfer
+10283,27/04/2024,2024,Q2,Apr,West,USA,Colorado,Denver,Online,Consumer,Accessories,Headphones,SoundMax,Michael Brown,20,547,0.1,9846,7045.91,2800.09,Card
+10284,07/11/2024,2024,Q4,Nov,South,USA,Georgia,Atlanta,Retail,Consumer,Electronics,Tablet,Tab Elite,John Miller,7,259,0,1813,1219.71,593.29,Cash
+10285,08/02/2024,2024,Q1,Feb,Midwest,USA,Illinois,Chicago,Distributor,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,14,367,0.1,4624.2,2940.33,1683.87,Cash
+10286,07/06/2024,2024,Q2,Jun,Northeast,USA,Massachusetts,Boston,Retail,Small Business,Furniture,Desk,WorkDesk Pro,David Clark,18,429,0.15,6563.7,4154.99,2408.71,Transfer
+10287,07/02/2024,2024,Q1,Feb,South,USA,Texas,Dallas,Online,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,10,854,0.15,7259,4017.15,3241.85,Digital Wallet
+10288,25/03/2024,2024,Q1,Mar,West,USA,Colorado,Denver,Retail,Consumer,Furniture,Chair,ComfortSeat,John Miller,16,918,0.15,12484.8,9300.91,3183.89,Cash
+10289,07/02/2024,2024,Q1,Feb,West,USA,Washington,Seattle,Online,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,7,399,0,2793,1994.93,798.07,Card
+10290,18/12/2024,2024,Q4,Dec,Midwest,USA,Michigan,Detroit,Online,Consumer,Electronics,Tablet,Tab Elite,Emily Carter,16,367,0,5872,3923.33,1948.67,Digital Wallet
+10291,17/11/2024,2024,Q4,Nov,South,USA,Texas,Dallas,Retail,Consumer,Electronics,Tablet,Tab Elite,Sarah Lopez,8,330,0.05,2508,1851.69,656.31,Card
+10292,18/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Distributor,Consumer,Electronics,Phone,Galaxy Max,Emily Carter,13,580,0.05,7163,5299.54,1863.46,Cash
+10293,23/06/2024,2024,Q2,Jun,Northeast,USA,Pennsylvania,Philadelphia,Retail,Consumer,Electronics,Laptop,UltraBook Pro,Michael Brown,16,1078,0,17248,10351.5,6896.5,Card
+10294,20/04/2024,2024,Q2,Apr,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Accessories,Keyboard,KeyPro,Michael Brown,16,734,0.15,9982.4,5891.9,4090.5,Cash
+10295,14/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Online,Corporate,Furniture,Desk,WorkDesk Pro,John Miller,13,510,0.15,5635.5,4160.57,1474.93,Cash
+10296,25/01/2024,2024,Q1,Jan,Midwest,USA,Michigan,Detroit,Online,Small Business,Furniture,Desk,WorkDesk Pro,John Miller,9,641,0,5769,3859.06,1909.94,Card
+10297,04/10/2024,2024,Q4,Oct,South,USA,Texas,Dallas,Online,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,17,286,0.1,4375.8,2778.12,1597.68,Transfer
+10298,03/08/2024,2024,Q3,Aug,West,USA,Washington,Seattle,Online,Corporate,Accessories,Headphones,SoundMax,Michael Brown,12,1140,0.1,12312,6817.9,5494.1,Cash
+10299,23/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Online,Small Business,Accessories,Keyboard,KeyPro,Emily Carter,12,925,0.1,9990,7384.92,2605.08,Card
+10300,15/05/2024,2024,Q2,May,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Electronics,Tablet,Tab Elite,Michael Brown,10,708,0.1,6372,3661.88,2710.12,Cash
+10301,02/03/2024,2024,Q1,Mar,South,USA,Georgia,Atlanta,Online,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,1,715,0.05,679.25,418.56,260.69,Digital Wallet
+10302,02/01/2024,2024,Q1,Jan,Northeast,USA,New York,New York,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,Michael Brown,9,67,0.05,572.85,333.77,239.08,Card
+10303,14/06/2024,2024,Q2,Jun,West,USA,Colorado,Denver,Retail,Corporate,Electronics,Phone,Galaxy Max,Michael Brown,14,162,0.15,1927.8,1166.98,760.82,Transfer
+10304,20/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Distributor,Corporate,Accessories,Keyboard,KeyPro,Michael Brown,1,860,0.05,817,562,255,Digital Wallet
+10305,23/08/2024,2024,Q3,Aug,Midwest,USA,Illinois,Chicago,Retail,Consumer,Electronics,Laptop,UltraBook Pro,Michael Brown,11,493,0.05,5151.85,3263.3,1888.55,Cash
+10306,18/01/2024,2024,Q1,Jan,Midwest,USA,Ohio,Columbus,Online,Consumer,Accessories,Keyboard,KeyPro,Jessica Lee,8,1013,0.05,7698.8,4644.11,3054.69,Cash
+10307,31/03/2024,2024,Q1,Mar,Northeast,USA,New York,New York,Retail,Small Business,Electronics,Phone,Galaxy Max,John Miller,1,391,0.05,371.45,241.45,130,Transfer
+10308,07/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Michael Brown,17,404,0.1,6181.2,3858.42,2322.78,Transfer
+10309,07/06/2024,2024,Q2,Jun,Midwest,USA,Ohio,Columbus,Online,Consumer,Accessories,Headphones,SoundMax,Michael Brown,19,741,0.1,12671.1,8952.51,3718.59,Transfer
+10310,21/08/2024,2024,Q3,Aug,Midwest,USA,Michigan,Detroit,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Sarah Lopez,6,300,0.05,1710,1055.26,654.74,Card
+10311,01/04/2024,2024,Q2,Apr,Northeast,USA,New York,New York,Online,Small Business,Furniture,Desk,WorkDesk Pro,David Clark,5,71,0.05,337.25,192.21,145.04,Card
+10312,20/04/2024,2024,Q2,Apr,West,USA,Colorado,Denver,Retail,Corporate,Electronics,Phone,Galaxy Max,Emily Carter,19,62,0.05,1119.1,673.09,446.01,Digital Wallet
+10313,05/02/2024,2024,Q1,Feb,South,USA,Georgia,Atlanta,Retail,Small Business,Accessories,Headphones,SoundMax,Michael Brown,16,827,0.1,11908.8,7752.82,4155.98,Card
+10314,24/04/2024,2024,Q2,Apr,Northeast,USA,Massachusetts,Boston,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,15,864,0.1,11664,8677,2987,Cash
+10315,09/08/2024,2024,Q3,Aug,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Corporate,Electronics,Phone,Galaxy Max,David Clark,5,1004,0.1,4518,2937.24,1580.76,Transfer
+10316,19/01/2024,2024,Q1,Jan,South,USA,Florida,Miami,Online,Small Business,Accessories,Headphones,SoundMax,Michael Brown,3,209,0.15,532.95,294.22,238.73,Cash
+10317,26/08/2024,2024,Q3,Aug,Midwest,USA,Illinois,Chicago,Online,Small Business,Electronics,Tablet,Tab Elite,Michael Brown,20,124,0.1,2232,1664.29,567.71,Cash
+10318,29/07/2024,2024,Q3,Jul,South,USA,Georgia,Atlanta,Retail,Small Business,Electronics,Tablet,Tab Elite,David Clark,5,867,0.1,3901.5,2779.23,1122.27,Card
+10319,31/07/2024,2024,Q3,Jul,South,USA,Florida,Miami,Retail,Small Business,Accessories,Keyboard,KeyPro,John Miller,17,583,0.05,9415.45,6483.14,2932.31,Cash
+10320,29/05/2024,2024,Q2,May,South,USA,Florida,Miami,Online,Corporate,Electronics,Phone,Galaxy Max,David Clark,20,1136,0.05,21584,16000.08,5583.92,Cash
+10321,27/11/2024,2024,Q4,Nov,West,USA,California,Los Angeles,Online,Small Business,Accessories,Headphones,SoundMax,John Miller,4,354,0.1,1274.4,793.37,481.03,Cash
+10322,07/07/2024,2024,Q3,Jul,Midwest,USA,Ohio,Columbus,Retail,Consumer,Accessories,Keyboard,KeyPro,Emily Carter,16,869,0.15,11818.4,7430.35,4388.05,Cash
+10323,15/06/2024,2024,Q2,Jun,Northeast,USA,Massachusetts,Boston,Distributor,Corporate,Electronics,Phone,Galaxy Max,John Miller,19,983,0,18677,11514.28,7162.72,Cash
+10324,13/05/2024,2024,Q2,May,West,USA,Colorado,Denver,Retail,Corporate,Accessories,Headphones,SoundMax,Michael Brown,7,899,0.1,5663.7,3957.22,1706.48,Cash
+10325,04/04/2024,2024,Q2,Apr,West,USA,Colorado,Denver,Retail,Corporate,Electronics,Phone,Galaxy Max,John Miller,18,215,0.05,3676.5,2645.19,1031.31,Card
+10326,17/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Retail,Corporate,Furniture,Desk,WorkDesk Pro,Emily Carter,11,749,0.1,7415.1,4488.42,2926.68,Cash
+10327,04/05/2024,2024,Q2,May,South,USA,Florida,Miami,Distributor,Small Business,Electronics,Phone,Galaxy Max,John Miller,8,1113,0.05,8458.8,6002.31,2456.49,Digital Wallet
+10328,31/07/2024,2024,Q3,Jul,West,USA,Washington,Seattle,Retail,Consumer,Accessories,Keyboard,KeyPro,John Miller,1,679,0.15,577.15,335.78,241.37,Card
+10329,22/08/2024,2024,Q3,Aug,Northeast,USA,New York,New York,Online,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,2,436,0.1,784.8,540.77,244.03,Cash
+10330,16/09/2024,2024,Q3,Sep,Midwest,USA,Ohio,Columbus,Online,Corporate,Electronics,Tablet,Tab Elite,Michael Brown,1,174,0,174,104.05,69.95,Card
+10331,11/08/2024,2024,Q3,Aug,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Accessories,Headphones,SoundMax,John Miller,1,1005,0.1,904.5,502.44,402.06,Digital Wallet
+10332,29/02/2024,2024,Q1,Feb,West,USA,Washington,Seattle,Online,Small Business,Furniture,Chair,ComfortSeat,David Clark,5,164,0.05,779,449.55,329.45,Transfer
+10333,01/01/2024,2024,Q1,Jan,West,USA,Washington,Seattle,Retail,Corporate,Furniture,Chair,ComfortSeat,David Clark,15,237,0.1,3199.5,1824.23,1375.27,Transfer
+10334,14/05/2024,2024,Q2,May,Northeast,USA,Massachusetts,Boston,Online,Small Business,Electronics,Phone,Galaxy Max,Emily Carter,2,511,0.1,919.8,573.6,346.2,Cash
+10335,09/04/2024,2024,Q2,Apr,Northeast,USA,New York,New York,Retail,Small Business,Furniture,Chair,ComfortSeat,Sarah Lopez,5,1143,0,5715,4051.13,1663.87,Digital Wallet
+10336,15/07/2024,2024,Q3,Jul,Midwest,USA,Michigan,Detroit,Online,Small Business,Furniture,Chair,ComfortSeat,Michael Brown,9,860,0.15,6579,4247.33,2331.67,Card
+10337,08/01/2024,2024,Q1,Jan,Northeast,USA,New York,New York,Online,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,8,438,0.1,3153.6,1942.62,1210.98,Cash
+10338,23/10/2024,2024,Q4,Oct,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Accessories,Keyboard,KeyPro,David Clark,14,629,0.1,7925.4,5459.4,2466,Digital Wallet
+10339,30/07/2024,2024,Q3,Jul,South,USA,Georgia,Atlanta,Distributor,Small Business,Accessories,Headphones,SoundMax,Emily Carter,1,889,0.15,755.65,538.01,217.64,Cash
+10340,07/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Retail,Small Business,Accessories,Keyboard,KeyPro,Emily Carter,2,774,0,1548,1145.53,402.47,Cash
+10341,13/02/2024,2024,Q1,Feb,West,USA,Washington,Seattle,Retail,Consumer,Electronics,Phone,Galaxy Max,Jessica Lee,17,1025,0.1,15682.5,11254.84,4427.66,Card
+10342,09/01/2024,2024,Q1,Jan,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Furniture,Chair,ComfortSeat,John Miller,15,1163,0.1,15700.5,10634.66,5065.84,Transfer
+10343,04/04/2024,2024,Q2,Apr,Northeast,USA,New York,New York,Retail,Consumer,Accessories,Keyboard,KeyPro,David Clark,18,649,0.05,11097.9,7057.05,4040.85,Digital Wallet
+10344,09/05/2024,2024,Q2,May,Midwest,USA,Ohio,Columbus,Online,Small Business,Accessories,Keyboard,KeyPro,Michael Brown,3,655,0.1,1768.5,1267.55,500.95,Transfer
+10345,19/01/2024,2024,Q1,Jan,South,USA,Florida,Miami,Retail,Small Business,Electronics,Tablet,Tab Elite,John Miller,2,939,0.1,1690.2,982.87,707.33,Card
+10346,05/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Retail,Small Business,Accessories,Headphones,SoundMax,Sarah Lopez,15,210,0.1,2835,2014.99,820.01,Card
+10347,06/05/2024,2024,Q2,May,Midwest,USA,Ohio,Columbus,Online,Consumer,Furniture,Desk,WorkDesk Pro,Sarah Lopez,3,471,0.05,1342.35,784.31,558.04,Transfer
+10348,01/12/2024,2024,Q4,Dec,Midwest,USA,Illinois,Chicago,Retail,Small Business,Furniture,Chair,ComfortSeat,Sarah Lopez,1,1043,0.05,990.85,739.67,251.18,Transfer
+10349,20/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Online,Consumer,Furniture,Chair,ComfortSeat,Michael Brown,1,1134,0,1134,691.47,442.53,Card
+10350,20/06/2024,2024,Q2,Jun,Midwest,USA,Ohio,Columbus,Distributor,Small Business,Furniture,Chair,ComfortSeat,John Miller,17,116,0,1972,1397.74,574.26,Card
+10351,24/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Distributor,Consumer,Accessories,Headphones,SoundMax,Emily Carter,12,469,0.15,4783.8,3229.62,1554.18,Card
+10352,18/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Online,Consumer,Accessories,Headphones,SoundMax,David Clark,19,582,0,11058,7693.99,3364.01,Cash
+10353,11/11/2024,2024,Q4,Nov,Midwest,USA,Ohio,Columbus,Retail,Consumer,Electronics,Phone,Galaxy Max,Jessica Lee,8,745,0.05,5662,3558.76,2103.24,Digital Wallet
+10354,20/06/2024,2024,Q2,Jun,Midwest,USA,Illinois,Chicago,Retail,Consumer,Electronics,Laptop,UltraBook Pro,Emily Carter,11,815,0.1,8068.5,4974.53,3093.97,Digital Wallet
+10355,16/09/2024,2024,Q3,Sep,West,USA,Colorado,Denver,Distributor,Small Business,Accessories,Keyboard,KeyPro,Jessica Lee,9,913,0,8217,5525.86,2691.14,Digital Wallet
+10356,26/01/2024,2024,Q1,Jan,Midwest,USA,Ohio,Columbus,Online,Small Business,Electronics,Phone,Galaxy Max,Sarah Lopez,20,552,0,11040,7730.82,3309.18,Transfer
+10357,20/07/2024,2024,Q3,Jul,South,USA,Florida,Miami,Retail,Small Business,Electronics,Laptop,UltraBook Pro,Jessica Lee,18,624,0.15,9547.2,6243.91,3303.29,Transfer
+10358,10/06/2024,2024,Q2,Jun,West,USA,Washington,Seattle,Online,Consumer,Electronics,Laptop,UltraBook Pro,David Clark,17,288,0,4896,3113.77,1782.23,Cash
+10359,17/01/2024,2024,Q1,Jan,South,USA,Florida,Miami,Online,Consumer,Electronics,Tablet,Tab Elite,David Clark,19,1174,0,22306,13458.36,8847.64,Digital Wallet
+10360,26/06/2024,2024,Q2,Jun,South,USA,Florida,Miami,Retail,Corporate,Electronics,Tablet,Tab Elite,John Miller,2,269,0,538,375.23,162.77,Card
+10361,17/03/2024,2024,Q1,Mar,Northeast,USA,Pennsylvania,Philadelphia,Online,Corporate,Furniture,Chair,ComfortSeat,Jessica Lee,16,390,0.05,5928,3449.52,2478.48,Transfer
+10362,14/08/2024,2024,Q3,Aug,Northeast,USA,New York,New York,Online,Corporate,Electronics,Phone,Galaxy Max,David Clark,5,1157,0.1,5206.5,2916.85,2289.65,Digital Wallet
+10363,19/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Retail,Consumer,Accessories,Headphones,SoundMax,David Clark,15,348,0.1,4698,2834.29,1863.71,Transfer
+10364,13/08/2024,2024,Q3,Aug,Midwest,USA,Ohio,Columbus,Online,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,13,428,0,5564,3363.81,2200.19,Cash
+10365,24/05/2024,2024,Q2,May,West,USA,California,Los Angeles,Retail,Corporate,Furniture,Chair,ComfortSeat,Jessica Lee,14,994,0.05,13220.2,8196.88,5023.32,Cash
+10366,25/11/2024,2024,Q4,Nov,Northeast,USA,New York,New York,Online,Corporate,Electronics,Phone,Galaxy Max,Jessica Lee,18,543,0.1,8796.6,6546.35,2250.25,Cash
+10367,23/12/2024,2024,Q4,Dec,Northeast,USA,New York,New York,Online,Small Business,Accessories,Keyboard,KeyPro,Emily Carter,12,1129,0.05,12870.6,7497.8,5372.8,Card
+10368,20/02/2024,2024,Q1,Feb,West,USA,Colorado,Denver,Distributor,Small Business,Electronics,Tablet,Tab Elite,John Miller,10,112,0,1120,838.46,281.54,Transfer
+10369,21/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Retail,Consumer,Electronics,Phone,Galaxy Max,Sarah Lopez,1,831,0,831,457.89,373.11,Card
+10370,14/02/2024,2024,Q1,Feb,South,USA,Florida,Miami,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Jessica Lee,14,1133,0.15,13482.7,8300.1,5182.6,Transfer
+10371,08/03/2024,2024,Q1,Mar,Northeast,USA,Pennsylvania,Philadelphia,Online,Consumer,Furniture,Desk,WorkDesk Pro,John Miller,3,216,0.15,550.8,356.77,194.03,Digital Wallet
+10372,06/06/2024,2024,Q2,Jun,Midwest,USA,Ohio,Columbus,Retail,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,19,493,0,9367,6165.32,3201.68,Card
+10373,17/10/2024,2024,Q4,Oct,Midwest,USA,Ohio,Columbus,Retail,Consumer,Electronics,Phone,Galaxy Max,John Miller,15,494,0.1,6669,3878.33,2790.67,Card
+10374,04/07/2024,2024,Q3,Jul,South,USA,Georgia,Atlanta,Distributor,Small Business,Accessories,Keyboard,KeyPro,John Miller,10,69,0.1,621,405.22,215.78,Card
+10375,13/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Online,Small Business,Electronics,Laptop,UltraBook Pro,Jessica Lee,13,784,0,10192,5737.95,4454.05,Card
+10376,10/11/2024,2024,Q4,Nov,South,USA,Texas,Dallas,Online,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,12,460,0.15,4692,2987.42,1704.58,Transfer
+10377,07/04/2024,2024,Q2,Apr,South,USA,Texas,Dallas,Online,Small Business,Electronics,Laptop,UltraBook Pro,Emily Carter,8,1088,0.1,7833.6,4630.06,3203.54,Digital Wallet
+10378,01/10/2024,2024,Q4,Oct,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Consumer,Electronics,Tablet,Tab Elite,David Clark,1,964,0.1,867.6,628.94,238.66,Card
+10379,25/03/2024,2024,Q1,Mar,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Electronics,Phone,Galaxy Max,Emily Carter,16,204,0.15,2774.4,1588.83,1185.57,Digital Wallet
+10380,06/05/2024,2024,Q2,May,Midwest,USA,Ohio,Columbus,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,Emily Carter,6,641,0.05,3653.7,2361.3,1292.4,Digital Wallet
+10381,21/08/2024,2024,Q3,Aug,Northeast,USA,Pennsylvania,Philadelphia,Online,Small Business,Furniture,Desk,WorkDesk Pro,Michael Brown,17,226,0.1,3457.8,2467.19,990.61,Cash
+10382,13/05/2024,2024,Q2,May,West,USA,Washington,Seattle,Retail,Consumer,Furniture,Chair,ComfortSeat,David Clark,17,254,0.15,3670.3,2178.97,1491.33,Card
+10383,20/09/2024,2024,Q3,Sep,Midwest,USA,Illinois,Chicago,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Jessica Lee,3,122,0.05,347.7,223.07,124.63,Transfer
+10384,23/03/2024,2024,Q1,Mar,Midwest,USA,Ohio,Columbus,Online,Corporate,Electronics,Laptop,UltraBook Pro,Sarah Lopez,8,784,0.05,5958.4,3733.98,2224.42,Card
+10385,06/05/2024,2024,Q2,May,Midwest,USA,Illinois,Chicago,Online,Consumer,Furniture,Desk,WorkDesk Pro,John Miller,2,281,0,562,322.09,239.91,Cash
+10386,29/05/2024,2024,Q2,May,West,USA,California,Los Angeles,Distributor,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,3,272,0.15,693.6,411.96,281.64,Transfer
+10387,12/05/2024,2024,Q2,May,West,USA,California,Los Angeles,Online,Consumer,Furniture,Chair,ComfortSeat,Emily Carter,9,251,0.05,2146.05,1184.27,961.78,Digital Wallet
+10388,23/12/2024,2024,Q4,Dec,South,USA,Texas,Dallas,Retail,Corporate,Accessories,Headphones,SoundMax,Emily Carter,14,757,0.05,10068.1,5888.67,4179.43,Transfer
+10389,16/05/2024,2024,Q2,May,West,USA,Colorado,Denver,Retail,Consumer,Accessories,Headphones,SoundMax,David Clark,3,1190,0.1,3213,1966.73,1246.27,Transfer
+10390,27/12/2024,2024,Q4,Dec,South,USA,Georgia,Atlanta,Online,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,7,976,0.05,6490.4,4502.68,1987.72,Transfer
+10391,10/03/2024,2024,Q1,Mar,Midwest,USA,Illinois,Chicago,Online,Consumer,Furniture,Desk,WorkDesk Pro,John Miller,10,195,0.1,1755,978.13,776.87,Cash
+10392,16/11/2024,2024,Q4,Nov,South,USA,Georgia,Atlanta,Retail,Small Business,Furniture,Chair,ComfortSeat,John Miller,16,346,0.15,4705.6,2592.12,2113.48,Card
+10393,14/11/2024,2024,Q4,Nov,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Accessories,Headphones,SoundMax,Sarah Lopez,20,597,0.05,11343,6661.36,4681.64,Digital Wallet
+10394,24/01/2024,2024,Q1,Jan,Northeast,USA,Massachusetts,Boston,Online,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,1,930,0,930,523.66,406.34,Cash
+10395,11/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Retail,Corporate,Accessories,Headphones,SoundMax,David Clark,10,869,0.05,8255.5,4600.66,3654.84,Transfer
+10396,13/10/2024,2024,Q4,Oct,West,USA,California,Los Angeles,Online,Consumer,Furniture,Desk,WorkDesk Pro,David Clark,10,214,0.05,2033,1378.99,654.01,Digital Wallet
+10397,07/05/2024,2024,Q2,May,South,USA,Georgia,Atlanta,Retail,Consumer,Furniture,Chair,ComfortSeat,Michael Brown,19,713,0.05,12869.65,9016.2,3853.45,Transfer
+10398,11/12/2024,2024,Q4,Dec,Northeast,USA,New York,New York,Online,Corporate,Electronics,Laptop,UltraBook Pro,Jessica Lee,3,447,0.1,1206.9,696.81,510.09,Transfer
+10399,04/03/2024,2024,Q1,Mar,West,USA,California,Los Angeles,Retail,Corporate,Accessories,Headphones,SoundMax,Emily Carter,14,905,0.1,11403,7200.71,4202.29,Transfer
+10400,26/07/2024,2024,Q3,Jul,South,USA,Georgia,Atlanta,Online,Corporate,Accessories,Headphones,SoundMax,John Miller,15,546,0,8190,4580.31,3609.69,Digital Wallet
+10401,01/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Retail,Consumer,Accessories,Headphones,SoundMax,Emily Carter,15,778,0.15,9919.5,6726.4,3193.1,Digital Wallet
+10402,13/09/2024,2024,Q3,Sep,Midwest,USA,Illinois,Chicago,Retail,Consumer,Electronics,Phone,Galaxy Max,Michael Brown,11,104,0.05,1086.8,714.47,372.33,Digital Wallet
+10403,24/08/2024,2024,Q3,Aug,Midwest,USA,Michigan,Detroit,Online,Consumer,Furniture,Desk,WorkDesk Pro,David Clark,17,323,0.1,4941.9,3548.19,1393.71,Cash
+10404,07/08/2024,2024,Q3,Aug,West,USA,California,Los Angeles,Distributor,Consumer,Accessories,Keyboard,KeyPro,John Miller,5,219,0,1095,717.14,377.86,Transfer
+10405,19/10/2024,2024,Q4,Oct,West,USA,California,Los Angeles,Retail,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,15,896,0.1,12096,7380.06,4715.94,Card
+10406,14/05/2024,2024,Q2,May,Midwest,USA,Illinois,Chicago,Distributor,Consumer,Accessories,Keyboard,KeyPro,Emily Carter,11,675,0,7425,4571.2,2853.8,Digital Wallet
+10407,31/01/2024,2024,Q1,Jan,Northeast,USA,New York,New York,Retail,Consumer,Accessories,Headphones,SoundMax,Michael Brown,15,1101,0.15,14037.75,10409.01,3628.74,Cash
+10408,09/08/2024,2024,Q3,Aug,Midwest,USA,Illinois,Chicago,Distributor,Consumer,Electronics,Tablet,Tab Elite,John Miller,9,276,0.15,2111.4,1348.7,762.7,Transfer
+10409,05/12/2024,2024,Q4,Dec,Midwest,USA,Michigan,Detroit,Online,Consumer,Accessories,Headphones,SoundMax,Jessica Lee,19,210,0.05,3790.5,2154.15,1636.35,Transfer
+10410,06/09/2024,2024,Q3,Sep,South,USA,Texas,Dallas,Retail,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,10,120,0.1,1080,761.4,318.6,Digital Wallet
+10411,26/06/2024,2024,Q2,Jun,Northeast,USA,Pennsylvania,Philadelphia,Online,Corporate,Electronics,Tablet,Tab Elite,Jessica Lee,4,874,0.15,2971.6,2060.08,911.52,Card
+10412,09/12/2024,2024,Q4,Dec,West,USA,Colorado,Denver,Online,Corporate,Accessories,Keyboard,KeyPro,David Clark,5,661,0.05,3139.75,1953.88,1185.87,Transfer
+10413,13/05/2024,2024,Q2,May,West,USA,California,Los Angeles,Distributor,Consumer,Electronics,Tablet,Tab Elite,Emily Carter,16,905,0.1,13032,9558.12,3473.88,Transfer
+10414,10/10/2024,2024,Q4,Oct,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Small Business,Furniture,Chair,ComfortSeat,Michael Brown,12,133,0.15,1356.6,922.3,434.3,Transfer
+10415,13/08/2024,2024,Q3,Aug,South,USA,Georgia,Atlanta,Online,Small Business,Accessories,Headphones,SoundMax,John Miller,4,1157,0,4628,2652.17,1975.83,Card
+10416,10/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Online,Corporate,Electronics,Laptop,UltraBook Pro,John Miller,9,853,0,7677,5151.31,2525.69,Transfer
+10417,20/11/2024,2024,Q4,Nov,West,USA,California,Los Angeles,Retail,Corporate,Furniture,Chair,ComfortSeat,Sarah Lopez,10,617,0.1,5553,3974.55,1578.45,Transfer
+10418,04/07/2024,2024,Q3,Jul,Midwest,USA,Michigan,Detroit,Retail,Small Business,Accessories,Headphones,SoundMax,Michael Brown,2,800,0.05,1520,1039.05,480.95,Digital Wallet
+10419,13/05/2024,2024,Q2,May,Midwest,USA,Ohio,Columbus,Online,Small Business,Furniture,Desk,WorkDesk Pro,Sarah Lopez,9,1041,0.15,7963.65,5084.87,2878.78,Transfer
+10420,06/03/2024,2024,Q1,Mar,South,USA,Georgia,Atlanta,Distributor,Small Business,Furniture,Chair,ComfortSeat,Sarah Lopez,7,834,0.05,5546.1,3807.92,1738.18,Card
+10421,20/06/2024,2024,Q2,Jun,South,USA,Texas,Dallas,Retail,Consumer,Electronics,Phone,Galaxy Max,John Miller,11,839,0.15,7844.65,4824.83,3019.82,Transfer
+10422,05/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Online,Corporate,Furniture,Desk,WorkDesk Pro,Sarah Lopez,5,536,0,2680,1774.76,905.24,Transfer
+10423,08/08/2024,2024,Q3,Aug,South,USA,Texas,Dallas,Retail,Consumer,Accessories,Headphones,SoundMax,David Clark,8,417,0.1,3002.4,2143.86,858.54,Transfer
+10424,09/03/2024,2024,Q1,Mar,Midwest,USA,Ohio,Columbus,Distributor,Small Business,Electronics,Tablet,Tab Elite,David Clark,7,492,0.15,2927.4,2099.82,827.58,Digital Wallet
+10425,23/06/2024,2024,Q2,Jun,Midwest,USA,Michigan,Detroit,Distributor,Consumer,Accessories,Keyboard,KeyPro,Jessica Lee,6,1110,0.15,5661,3313.42,2347.58,Digital Wallet
+10426,30/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Retail,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,17,710,0,12070,6834.03,5235.97,Cash
+10427,07/05/2024,2024,Q2,May,South,USA,Texas,Dallas,Retail,Small Business,Accessories,Headphones,SoundMax,David Clark,1,889,0,889,537.71,351.29,Card
+10428,03/05/2024,2024,Q2,May,West,USA,Colorado,Denver,Online,Corporate,Accessories,Keyboard,KeyPro,John Miller,20,139,0,2780,1873.46,906.54,Cash
+10429,17/07/2024,2024,Q3,Jul,Midwest,USA,Ohio,Columbus,Online,Consumer,Electronics,Tablet,Tab Elite,Emily Carter,16,1092,0,17472,9877.71,7594.29,Card
+10430,24/05/2024,2024,Q2,May,South,USA,Georgia,Atlanta,Retail,Corporate,Furniture,Desk,WorkDesk Pro,Emily Carter,13,1015,0,13195,9133.12,4061.88,Transfer
+10431,28/12/2024,2024,Q4,Dec,South,USA,Texas,Dallas,Online,Small Business,Furniture,Desk,WorkDesk Pro,Emily Carter,12,346,0.05,3944.4,2683.83,1260.57,Card
+10432,06/05/2024,2024,Q2,May,Northeast,USA,New York,New York,Retail,Corporate,Accessories,Keyboard,KeyPro,Michael Brown,8,403,0.15,2740.4,1708.34,1032.06,Card
+10433,16/08/2024,2024,Q3,Aug,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Accessories,Keyboard,KeyPro,David Clark,17,917,0.15,13250.65,7469.84,5780.81,Transfer
+10434,02/02/2024,2024,Q1,Feb,West,USA,California,Los Angeles,Online,Small Business,Electronics,Tablet,Tab Elite,Emily Carter,20,299,0.05,5681,3714.09,1966.91,Cash
+10435,31/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Retail,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,9,125,0.1,1012.5,729.37,283.13,Digital Wallet
+10436,28/06/2024,2024,Q2,Jun,South,USA,Georgia,Atlanta,Retail,Small Business,Accessories,Headphones,SoundMax,John Miller,3,185,0.15,471.75,269.3,202.45,Digital Wallet
+10437,07/10/2024,2024,Q4,Oct,South,USA,Florida,Miami,Online,Consumer,Accessories,Keyboard,KeyPro,Michael Brown,3,889,0.1,2400.3,1412.51,987.79,Cash
+10438,23/08/2024,2024,Q3,Aug,Midwest,USA,Ohio,Columbus,Online,Small Business,Furniture,Desk,WorkDesk Pro,Sarah Lopez,1,151,0.15,128.35,92.62,35.73,Transfer
+10439,26/08/2024,2024,Q3,Aug,West,USA,Washington,Seattle,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Sarah Lopez,4,823,0,3292,2098.82,1193.18,Cash
+10440,25/12/2024,2024,Q4,Dec,South,USA,Texas,Dallas,Retail,Consumer,Electronics,Phone,Galaxy Max,John Miller,17,637,0.05,10287.55,5818.19,4469.36,Digital Wallet
+10441,06/10/2024,2024,Q4,Oct,South,USA,Florida,Miami,Online,Corporate,Accessories,Keyboard,KeyPro,David Clark,19,91,0,1729,1184.36,544.64,Cash
+10442,09/12/2024,2024,Q4,Dec,South,USA,Georgia,Atlanta,Retail,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,3,307,0.05,874.95,573.72,301.23,Transfer
+10443,21/06/2024,2024,Q2,Jun,South,USA,Georgia,Atlanta,Online,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,20,1158,0,23160,14947.55,8212.45,Transfer
+10444,09/04/2024,2024,Q2,Apr,South,USA,Texas,Dallas,Online,Corporate,Furniture,Desk,WorkDesk Pro,Michael Brown,18,997,0.1,16151.4,10020.57,6130.83,Digital Wallet
+10445,12/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Distributor,Small Business,Accessories,Keyboard,KeyPro,John Miller,5,832,0,4160,2847.84,1312.16,Transfer
+10446,01/10/2024,2024,Q4,Oct,West,USA,Washington,Seattle,Retail,Corporate,Accessories,Headphones,SoundMax,Sarah Lopez,13,1067,0.15,11790.35,7232.09,4558.26,Digital Wallet
+10447,30/11/2024,2024,Q4,Nov,Midwest,USA,Illinois,Chicago,Retail,Consumer,Furniture,Chair,ComfortSeat,David Clark,1,395,0.15,335.75,190.76,144.99,Card
+10448,22/08/2024,2024,Q3,Aug,South,USA,Texas,Dallas,Retail,Consumer,Furniture,Chair,ComfortSeat,Michael Brown,1,97,0,97,67.32,29.68,Card
+10449,12/04/2024,2024,Q2,Apr,West,USA,Colorado,Denver,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Michael Brown,3,764,0.05,2177.4,1597.18,580.22,Digital Wallet
+10450,27/08/2024,2024,Q3,Aug,South,USA,Texas,Dallas,Online,Small Business,Electronics,Tablet,Tab Elite,John Miller,17,816,0.1,12484.8,9271.49,3213.31,Digital Wallet
+10451,07/02/2024,2024,Q1,Feb,South,USA,Georgia,Atlanta,Retail,Small Business,Electronics,Tablet,Tab Elite,Michael Brown,1,292,0,292,191.12,100.88,Cash
+10452,03/09/2024,2024,Q3,Sep,South,USA,Florida,Miami,Distributor,Consumer,Electronics,Phone,Galaxy Max,Jessica Lee,11,782,0.1,7741.8,4571.6,3170.2,Cash
+10453,15/01/2024,2024,Q1,Jan,Northeast,USA,Massachusetts,Boston,Retail,Consumer,Furniture,Chair,ComfortSeat,John Miller,20,273,0.15,4641,3048.9,1592.1,Cash
+10454,28/06/2024,2024,Q2,Jun,West,USA,Washington,Seattle,Retail,Small Business,Electronics,Phone,Galaxy Max,John Miller,1,1086,0,1086,800.57,285.43,Cash
+10455,09/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Online,Small Business,Accessories,Keyboard,KeyPro,Emily Carter,9,156,0,1404,1000.61,403.39,Cash
+10456,25/08/2024,2024,Q3,Aug,West,USA,California,Los Angeles,Online,Consumer,Electronics,Phone,Galaxy Max,David Clark,18,123,0.1,1992.6,1420.72,571.88,Digital Wallet
+10457,05/01/2024,2024,Q1,Jan,Midwest,USA,Michigan,Detroit,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,Jessica Lee,19,1011,0.1,17288.1,10200.82,7087.28,Card
+10458,10/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Retail,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,1,509,0,509,311.41,197.59,Digital Wallet
+10459,18/03/2024,2024,Q1,Mar,Midwest,USA,Ohio,Columbus,Distributor,Consumer,Furniture,Chair,ComfortSeat,Jessica Lee,7,354,0.05,2354.1,1580.34,773.76,Card
+10460,04/11/2024,2024,Q4,Nov,South,USA,Florida,Miami,Retail,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,2,208,0,416,296.07,119.93,Cash
+10461,13/12/2024,2024,Q4,Dec,West,USA,California,Los Angeles,Online,Small Business,Furniture,Desk,WorkDesk Pro,Emily Carter,1,496,0.1,446.4,298.26,148.14,Transfer
+10462,15/11/2024,2024,Q4,Nov,West,USA,California,Los Angeles,Distributor,Consumer,Furniture,Chair,ComfortSeat,Sarah Lopez,13,976,0.05,12053.6,8219.96,3833.64,Card
+10463,20/12/2024,2024,Q4,Dec,South,USA,Florida,Miami,Online,Consumer,Electronics,Tablet,Tab Elite,Jessica Lee,20,800,0.05,15200,9399.78,5800.22,Cash
+10464,06/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Distributor,Corporate,Accessories,Headphones,SoundMax,John Miller,1,547,0,547,332.41,214.59,Digital Wallet
+10465,05/11/2024,2024,Q4,Nov,Midwest,USA,Illinois,Chicago,Online,Small Business,Electronics,Phone,Galaxy Max,Michael Brown,15,1129,0.15,14394.75,7991.25,6403.5,Cash
+10466,10/12/2024,2024,Q4,Dec,Northeast,USA,New York,New York,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Sarah Lopez,9,894,0,8046,5743.18,2302.82,Transfer
+10467,02/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Retail,Small Business,Electronics,Tablet,Tab Elite,Jessica Lee,4,619,0,2476,1718.15,757.85,Transfer
+10468,01/02/2024,2024,Q1,Feb,South,USA,Georgia,Atlanta,Retail,Corporate,Furniture,Desk,WorkDesk Pro,Jessica Lee,13,663,0.05,8188.05,6007.4,2180.65,Card
+10469,02/11/2024,2024,Q4,Nov,Midwest,USA,Michigan,Detroit,Distributor,Consumer,Furniture,Chair,ComfortSeat,Michael Brown,17,1010,0,17170,10449.15,6720.85,Card
+10470,28/06/2024,2024,Q2,Jun,South,USA,Texas,Dallas,Retail,Corporate,Electronics,Phone,Galaxy Max,John Miller,9,962,0.05,8225.1,5425.75,2799.35,Transfer
+10471,31/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Online,Small Business,Electronics,Phone,Galaxy Max,Michael Brown,16,763,0.15,10376.8,6124.5,4252.3,Digital Wallet
+10472,08/01/2024,2024,Q1,Jan,Midwest,USA,Illinois,Chicago,Distributor,Consumer,Electronics,Phone,Galaxy Max,Jessica Lee,9,674,0,6066,3357.69,2708.31,Digital Wallet
+10473,25/11/2024,2024,Q4,Nov,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Consumer,Furniture,Desk,WorkDesk Pro,Jessica Lee,9,703,0,6327,4513.64,1813.36,Transfer
+10474,23/10/2024,2024,Q4,Oct,Northeast,USA,Massachusetts,Boston,Online,Corporate,Electronics,Laptop,UltraBook Pro,Jessica Lee,10,1104,0.15,9384,5381.35,4002.65,Transfer
+10475,28/05/2024,2024,Q2,May,South,USA,Florida,Miami,Distributor,Small Business,Accessories,Headphones,SoundMax,David Clark,1,1053,0.05,1000.35,666.02,334.33,Transfer
+10476,28/11/2024,2024,Q4,Nov,South,USA,Georgia,Atlanta,Retail,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,14,860,0,12040,8984.28,3055.72,Cash
+10477,19/06/2024,2024,Q2,Jun,West,USA,Colorado,Denver,Online,Small Business,Furniture,Chair,ComfortSeat,Michael Brown,19,1154,0.05,20829.7,13293.74,7535.96,Digital Wallet
+10478,15/09/2024,2024,Q3,Sep,Midwest,USA,Illinois,Chicago,Online,Consumer,Accessories,Headphones,SoundMax,David Clark,11,1177,0.05,12299.65,6793.67,5505.98,Card
+10479,28/03/2024,2024,Q1,Mar,Northeast,USA,New York,New York,Distributor,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,10,478,0.1,4302,2852.44,1449.56,Digital Wallet
+10480,17/12/2024,2024,Q4,Dec,West,USA,Washington,Seattle,Distributor,Small Business,Accessories,Keyboard,KeyPro,David Clark,15,1021,0.15,13017.75,8311.07,4706.68,Card
+10481,06/11/2024,2024,Q4,Nov,South,USA,Florida,Miami,Retail,Corporate,Accessories,Headphones,SoundMax,Michael Brown,14,904,0.15,10757.6,7547.75,3209.85,Transfer
+10482,24/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Accessories,Headphones,SoundMax,David Clark,5,294,0.1,1323,972.58,350.42,Transfer
+10483,18/09/2024,2024,Q3,Sep,Northeast,USA,Pennsylvania,Philadelphia,Online,Consumer,Electronics,Tablet,Tab Elite,Emily Carter,7,355,0.05,2360.75,1474.61,886.14,Cash
+10484,14/06/2024,2024,Q2,Jun,South,USA,Texas,Dallas,Online,Corporate,Accessories,Headphones,SoundMax,John Miller,12,431,0.15,4396.2,2677.11,1719.09,Cash
+10485,13/03/2024,2024,Q1,Mar,South,USA,Florida,Miami,Online,Corporate,Accessories,Keyboard,KeyPro,Jessica Lee,18,1080,0,19440,14071.97,5368.03,Transfer
+10486,30/03/2024,2024,Q1,Mar,Northeast,USA,Massachusetts,Boston,Distributor,Consumer,Accessories,Keyboard,KeyPro,Emily Carter,13,800,0.1,9360,6103.15,3256.85,Transfer
+10487,12/02/2024,2024,Q1,Feb,Northeast,USA,New York,New York,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,3,995,0.15,2537.25,1770.86,766.39,Transfer
+10488,11/12/2024,2024,Q4,Dec,Northeast,USA,Pennsylvania,Philadelphia,Online,Small Business,Electronics,Phone,Galaxy Max,Emily Carter,14,1200,0.1,15120,10935.45,4184.55,Digital Wallet
+10489,16/07/2024,2024,Q3,Jul,Northeast,USA,New York,New York,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Emily Carter,7,1163,0.15,6919.85,4629.07,2290.78,Transfer
+10490,02/04/2024,2024,Q2,Apr,Northeast,USA,New York,New York,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,David Clark,20,780,0.05,14820,10191.04,4628.96,Card
+10491,01/04/2024,2024,Q2,Apr,Northeast,USA,Pennsylvania,Philadelphia,Online,Corporate,Electronics,Laptop,UltraBook Pro,Michael Brown,4,1146,0,4584,2869.07,1714.93,Transfer
+10492,26/06/2024,2024,Q2,Jun,West,USA,Washington,Seattle,Retail,Small Business,Furniture,Desk,WorkDesk Pro,David Clark,14,367,0.15,4367.3,2737.67,1629.63,Card
+10493,06/02/2024,2024,Q1,Feb,West,USA,California,Los Angeles,Distributor,Small Business,Accessories,Headphones,SoundMax,Michael Brown,20,76,0,1520,894.3,625.7,Cash
+10494,25/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,Jessica Lee,5,346,0.15,1470.5,1008.31,462.19,Cash
+10495,25/08/2024,2024,Q3,Aug,Northeast,USA,New York,New York,Retail,Small Business,Accessories,Headphones,SoundMax,Emily Carter,18,719,0,12942,9684.06,3257.94,Card
+10496,25/03/2024,2024,Q1,Mar,Midwest,USA,Ohio,Columbus,Retail,Consumer,Electronics,Phone,Galaxy Max,Sarah Lopez,12,526,0,6312,3715.93,2596.07,Digital Wallet
+10497,04/06/2024,2024,Q2,Jun,Midwest,USA,Michigan,Detroit,Retail,Consumer,Electronics,Phone,Galaxy Max,Michael Brown,3,1036,0.1,2797.2,2073.61,723.59,Digital Wallet
+10498,20/11/2024,2024,Q4,Nov,Midwest,USA,Illinois,Chicago,Online,Small Business,Electronics,Laptop,UltraBook Pro,John Miller,3,1065,0.05,3035.25,1711.05,1324.2,Digital Wallet
+10499,21/03/2024,2024,Q1,Mar,West,USA,Washington,Seattle,Retail,Small Business,Furniture,Desk,WorkDesk Pro,John Miller,16,174,0.05,2644.8,1467.16,1177.64,Digital Wallet
+10500,29/05/2024,2024,Q2,May,Midwest,USA,Michigan,Detroit,Retail,Small Business,Accessories,Keyboard,KeyPro,Emily Carter,14,793,0,11102,7553.19,3548.81,Transfer
+10501,28/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Online,Corporate,Electronics,Phone,Galaxy Max,Sarah Lopez,8,422,0.15,2869.6,1959.18,910.42,Cash
+10502,15/07/2024,2024,Q3,Jul,South,USA,Georgia,Atlanta,Online,Consumer,Furniture,Chair,ComfortSeat,David Clark,2,159,0,318,210.01,107.99,Digital Wallet
+10503,06/04/2024,2024,Q2,Apr,Midwest,USA,Illinois,Chicago,Online,Consumer,Furniture,Desk,WorkDesk Pro,Michael Brown,20,716,0,14320,9562.94,4757.06,Card
+10504,13/04/2024,2024,Q2,Apr,Northeast,USA,New York,New York,Retail,Small Business,Accessories,Keyboard,KeyPro,Michael Brown,17,601,0.15,8684.45,6218.65,2465.8,Digital Wallet
+10505,19/08/2024,2024,Q3,Aug,Northeast,USA,Massachusetts,Boston,Retail,Corporate,Electronics,Phone,Galaxy Max,Michael Brown,11,678,0.05,7085.1,4346.48,2738.62,Card
+10506,08/03/2024,2024,Q1,Mar,South,USA,Georgia,Atlanta,Online,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,17,472,0,8024,5267.71,2756.29,Card
+10507,31/07/2024,2024,Q3,Jul,West,USA,Washington,Seattle,Retail,Consumer,Furniture,Chair,ComfortSeat,David Clark,8,890,0.05,6764,4555.58,2208.42,Cash
+10508,11/07/2024,2024,Q3,Jul,South,USA,Florida,Miami,Distributor,Small Business,Furniture,Chair,ComfortSeat,John Miller,8,1164,0,9312,6027.62,3284.38,Card
+10509,08/10/2024,2024,Q4,Oct,Midwest,USA,Illinois,Chicago,Retail,Small Business,Electronics,Laptop,UltraBook Pro,Jessica Lee,5,301,0.05,1429.75,1024.13,405.62,Transfer
+10510,30/12/2024,2024,Q4,Dec,Midwest,USA,Ohio,Columbus,Online,Small Business,Furniture,Chair,ComfortSeat,Michael Brown,2,817,0.15,1388.9,989.81,399.09,Card
+10511,31/07/2024,2024,Q3,Jul,Northeast,USA,Massachusetts,Boston,Distributor,Corporate,Furniture,Chair,ComfortSeat,David Clark,9,455,0.1,3685.5,2153.11,1532.39,Transfer
+10512,24/09/2024,2024,Q3,Sep,South,USA,Texas,Dallas,Online,Small Business,Furniture,Desk,WorkDesk Pro,Michael Brown,1,109,0.05,103.55,65.6,37.95,Digital Wallet
+10513,21/09/2024,2024,Q3,Sep,West,USA,Colorado,Denver,Online,Small Business,Electronics,Laptop,UltraBook Pro,Michael Brown,18,1127,0.15,17243.1,11974.24,5268.86,Card
+10514,23/04/2024,2024,Q2,Apr,West,USA,Washington,Seattle,Online,Small Business,Furniture,Chair,ComfortSeat,Michael Brown,20,768,0.15,13056,9071.86,3984.14,Cash
+10515,10/02/2024,2024,Q1,Feb,South,USA,Florida,Miami,Online,Small Business,Electronics,Tablet,Tab Elite,Michael Brown,10,510,0.1,4590,3224.96,1365.04,Cash
+10516,18/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Online,Small Business,Electronics,Laptop,UltraBook Pro,John Miller,13,215,0.1,2515.5,1659.44,856.06,Transfer
+10517,11/12/2024,2024,Q4,Dec,Northeast,USA,Pennsylvania,Philadelphia,Online,Small Business,Accessories,Headphones,SoundMax,Michael Brown,12,159,0.1,1717.2,1150.76,566.44,Transfer
+10518,24/02/2024,2024,Q1,Feb,South,USA,Texas,Dallas,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,4,260,0.1,936,645.49,290.51,Digital Wallet
+10519,30/03/2024,2024,Q1,Mar,West,USA,Colorado,Denver,Retail,Corporate,Accessories,Headphones,SoundMax,David Clark,11,787,0.05,8224.15,4995.69,3228.46,Cash
+10520,06/05/2024,2024,Q2,May,South,USA,Florida,Miami,Online,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,12,284,0.1,3067.2,1742.13,1325.07,Digital Wallet
+10521,08/02/2024,2024,Q1,Feb,Midwest,USA,Michigan,Detroit,Retail,Corporate,Electronics,Tablet,Tab Elite,Michael Brown,19,761,0.1,13013.1,8699.29,4313.81,Transfer
+10522,08/03/2024,2024,Q1,Mar,Midwest,USA,Illinois,Chicago,Online,Consumer,Furniture,Desk,WorkDesk Pro,Jessica Lee,1,712,0,712,449.43,262.57,Transfer
+10523,25/09/2024,2024,Q3,Sep,South,USA,Texas,Dallas,Distributor,Consumer,Electronics,Phone,Galaxy Max,Jessica Lee,16,250,0.05,3800,2537.1,1262.9,Card
+10524,17/10/2024,2024,Q4,Oct,South,USA,Florida,Miami,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,Jessica Lee,4,308,0.1,1108.8,765.55,343.25,Card
+10525,11/02/2024,2024,Q1,Feb,Midwest,USA,Illinois,Chicago,Distributor,Corporate,Electronics,Phone,Galaxy Max,Jessica Lee,2,658,0.05,1250.2,789.13,461.07,Transfer
+10526,14/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Distributor,Consumer,Furniture,Chair,ComfortSeat,John Miller,5,998,0.15,4241.5,2529.36,1712.14,Digital Wallet
+10527,21/09/2024,2024,Q3,Sep,South,USA,Georgia,Atlanta,Distributor,Small Business,Electronics,Phone,Galaxy Max,Emily Carter,3,892,0.15,2274.6,1256.25,1018.35,Cash
+10528,22/11/2024,2024,Q4,Nov,Northeast,USA,Massachusetts,Boston,Online,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,18,209,0,3762,2168.95,1593.05,Cash
+10529,20/03/2024,2024,Q1,Mar,Northeast,USA,Massachusetts,Boston,Distributor,Consumer,Accessories,Keyboard,KeyPro,Jessica Lee,14,592,0,8288,4915.17,3372.83,Transfer
+10530,28/06/2024,2024,Q2,Jun,South,USA,Texas,Dallas,Online,Small Business,Furniture,Desk,WorkDesk Pro,Emily Carter,14,361,0.1,4548.6,2563.88,1984.72,Transfer
+10531,15/06/2024,2024,Q2,Jun,Northeast,USA,New York,New York,Online,Consumer,Electronics,Tablet,Tab Elite,Jessica Lee,10,695,0.15,5907.5,3644.66,2262.84,Card
+10532,23/06/2024,2024,Q2,Jun,West,USA,Washington,Seattle,Online,Corporate,Furniture,Desk,WorkDesk Pro,John Miller,18,545,0.1,8829,5230.8,3598.2,Digital Wallet
+10533,04/12/2024,2024,Q4,Dec,West,USA,California,Los Angeles,Online,Consumer,Electronics,Laptop,UltraBook Pro,David Clark,1,288,0.05,273.6,196.09,77.51,Cash
+10534,08/12/2024,2024,Q4,Dec,Midwest,USA,Illinois,Chicago,Distributor,Corporate,Accessories,Keyboard,KeyPro,David Clark,17,1136,0.05,18346.4,13534.73,4811.67,Cash
+10535,24/04/2024,2024,Q2,Apr,Northeast,USA,New York,New York,Retail,Consumer,Accessories,Headphones,SoundMax,David Clark,17,790,0.1,12087,7913.73,4173.27,Digital Wallet
+10536,11/01/2024,2024,Q1,Jan,West,USA,Washington,Seattle,Retail,Consumer,Electronics,Laptop,UltraBook Pro,John Miller,3,700,0.15,1785,1169.87,615.13,Cash
+10537,28/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Online,Corporate,Accessories,Headphones,SoundMax,David Clark,12,719,0.05,8196.6,4765.92,3430.68,Transfer
+10538,08/09/2024,2024,Q3,Sep,South,USA,Texas,Dallas,Distributor,Small Business,Electronics,Tablet,Tab Elite,Michael Brown,18,520,0.1,8424,4690.22,3733.78,Digital Wallet
+10539,08/07/2024,2024,Q3,Jul,South,USA,Florida,Miami,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Jessica Lee,6,606,0.15,3090.6,1884.07,1206.53,Cash
+10540,26/12/2024,2024,Q4,Dec,West,USA,California,Los Angeles,Distributor,Small Business,Electronics,Phone,Galaxy Max,Jessica Lee,4,254,0.05,965.2,665.68,299.52,Card
+10541,09/04/2024,2024,Q2,Apr,Northeast,USA,Massachusetts,Boston,Distributor,Small Business,Accessories,Keyboard,KeyPro,Jessica Lee,4,301,0,1204,807.99,396.01,Card
+10542,27/08/2024,2024,Q3,Aug,South,USA,Georgia,Atlanta,Online,Corporate,Furniture,Chair,ComfortSeat,Michael Brown,11,393,0.15,3674.55,2510.12,1164.43,Digital Wallet
+10543,06/05/2024,2024,Q2,May,South,USA,Texas,Dallas,Retail,Small Business,Electronics,Tablet,Tab Elite,Jessica Lee,2,850,0,1700,1112.6,587.4,Cash
+10544,13/11/2024,2024,Q4,Nov,South,USA,Texas,Dallas,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Jessica Lee,18,1124,0.1,18208.8,10622.59,7586.21,Transfer
+10545,03/12/2024,2024,Q4,Dec,Midwest,USA,Michigan,Detroit,Retail,Corporate,Furniture,Chair,ComfortSeat,Emily Carter,14,636,0,8904,4992.14,3911.86,Cash
+10546,08/02/2024,2024,Q1,Feb,South,USA,Georgia,Atlanta,Retail,Corporate,Electronics,Laptop,UltraBook Pro,David Clark,17,983,0.15,14204.35,10105.71,4098.64,Card
+10547,06/03/2024,2024,Q1,Mar,Northeast,USA,New York,New York,Retail,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,17,554,0,9418,5480.29,3937.71,Transfer
+10548,02/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Online,Small Business,Accessories,Headphones,SoundMax,Emily Carter,1,687,0,687,451.5,235.5,Transfer
+10549,16/12/2024,2024,Q4,Dec,Northeast,USA,Massachusetts,Boston,Distributor,Consumer,Electronics,Phone,Galaxy Max,Emily Carter,2,766,0.05,1455.4,1062.71,392.69,Transfer
+10550,29/02/2024,2024,Q1,Feb,Midwest,USA,Michigan,Detroit,Retail,Corporate,Electronics,Phone,Galaxy Max,Jessica Lee,12,648,0.15,6609.6,4454.63,2154.97,Digital Wallet
+10551,22/01/2024,2024,Q1,Jan,Midwest,USA,Michigan,Detroit,Online,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,11,1113,0.1,11018.7,7703.98,3314.72,Cash
+10552,27/02/2024,2024,Q1,Feb,Northeast,USA,Massachusetts,Boston,Online,Consumer,Electronics,Tablet,Tab Elite,Emily Carter,17,906,0.15,13091.7,7934.48,5157.22,Card
+10553,14/07/2024,2024,Q3,Jul,Midwest,USA,Michigan,Detroit,Retail,Small Business,Accessories,Keyboard,KeyPro,Michael Brown,9,922,0.15,7053.3,5259.07,1794.23,Digital Wallet
+10554,12/03/2024,2024,Q1,Mar,South,USA,Texas,Dallas,Online,Small Business,Furniture,Chair,ComfortSeat,Sarah Lopez,15,290,0,4350,2922.93,1427.07,Transfer
+10555,08/08/2024,2024,Q3,Aug,West,USA,California,Los Angeles,Online,Small Business,Furniture,Chair,ComfortSeat,Emily Carter,18,644,0,11592,6430.24,5161.76,Digital Wallet
+10556,28/10/2024,2024,Q4,Oct,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Corporate,Accessories,Headphones,SoundMax,Michael Brown,12,334,0.1,3607.2,2063.36,1543.84,Card
+10557,07/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Distributor,Consumer,Furniture,Desk,WorkDesk Pro,Jessica Lee,16,873,0,13968,9945.86,4022.14,Transfer
+10558,10/02/2024,2024,Q1,Feb,West,USA,Washington,Seattle,Distributor,Consumer,Accessories,Headphones,SoundMax,Michael Brown,16,776,0.05,11795.2,7215.49,4579.71,Cash
+10559,29/05/2024,2024,Q2,May,South,USA,Florida,Miami,Distributor,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,2,331,0.15,562.7,341.72,220.98,Digital Wallet
+10560,14/09/2024,2024,Q3,Sep,South,USA,Florida,Miami,Retail,Consumer,Electronics,Phone,Galaxy Max,Sarah Lopez,8,744,0.05,5654.4,4105.31,1549.09,Cash
+10561,18/03/2024,2024,Q1,Mar,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Consumer,Electronics,Tablet,Tab Elite,John Miller,1,895,0.15,760.75,488.82,271.93,Digital Wallet
+10562,13/10/2024,2024,Q4,Oct,Midwest,USA,Illinois,Chicago,Online,Corporate,Furniture,Desk,WorkDesk Pro,Sarah Lopez,20,1010,0.05,19190,12077.1,7112.9,Card
+10563,23/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Online,Small Business,Furniture,Chair,ComfortSeat,Emily Carter,9,928,0.05,7934.4,5140.71,2793.69,Transfer
+10564,28/12/2024,2024,Q4,Dec,South,USA,Texas,Dallas,Distributor,Consumer,Accessories,Headphones,SoundMax,Sarah Lopez,8,930,0.1,6696,4140.57,2555.43,Digital Wallet
+10565,20/05/2024,2024,Q2,May,West,USA,California,Los Angeles,Retail,Consumer,Furniture,Chair,ComfortSeat,Sarah Lopez,12,91,0.05,1037.4,676.64,360.76,Cash
+10566,09/11/2024,2024,Q4,Nov,Northeast,USA,Massachusetts,Boston,Distributor,Small Business,Accessories,Headphones,SoundMax,Michael Brown,6,69,0.1,372.6,206.82,165.78,Card
+10567,24/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Sarah Lopez,7,340,0.15,2023,1389.15,633.85,Card
+10568,07/06/2024,2024,Q2,Jun,Midwest,USA,Illinois,Chicago,Retail,Corporate,Electronics,Tablet,Tab Elite,Michael Brown,14,1172,0.15,13946.8,8785.94,5160.86,Transfer
+10569,04/12/2024,2024,Q4,Dec,Northeast,USA,Pennsylvania,Philadelphia,Online,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,18,1090,0.05,18639,13502.97,5136.03,Cash
+10570,19/10/2024,2024,Q4,Oct,Northeast,USA,New York,New York,Online,Small Business,Electronics,Phone,Galaxy Max,Jessica Lee,4,141,0.05,535.8,319.48,216.32,Card
+10571,15/02/2024,2024,Q1,Feb,West,USA,California,Los Angeles,Distributor,Corporate,Accessories,Headphones,SoundMax,Emily Carter,19,867,0.1,14825.7,9295.98,5529.72,Card
+10572,19/12/2024,2024,Q4,Dec,Midwest,USA,Michigan,Detroit,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,Jessica Lee,7,51,0,357,260.38,96.62,Cash
+10573,16/10/2024,2024,Q4,Oct,South,USA,Texas,Dallas,Distributor,Small Business,Accessories,Keyboard,KeyPro,Michael Brown,11,734,0,8074,5071.58,3002.42,Transfer
+10574,11/10/2024,2024,Q4,Oct,Northeast,USA,Pennsylvania,Philadelphia,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Emily Carter,16,953,0.15,12960.8,7313.99,5646.81,Card
+10575,16/01/2024,2024,Q1,Jan,Northeast,USA,Massachusetts,Boston,Online,Consumer,Electronics,Laptop,UltraBook Pro,Sarah Lopez,18,541,0.15,8277.3,4593.85,3683.45,Digital Wallet
+10576,17/01/2024,2024,Q1,Jan,Midwest,USA,Illinois,Chicago,Retail,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,1,977,0,977,720.65,256.35,Digital Wallet
+10577,20/06/2024,2024,Q2,Jun,Midwest,USA,Michigan,Detroit,Online,Corporate,Accessories,Headphones,SoundMax,Michael Brown,4,144,0.05,547.2,313.6,233.6,Transfer
+10578,24/12/2024,2024,Q4,Dec,West,USA,Washington,Seattle,Distributor,Corporate,Electronics,Phone,Galaxy Max,Michael Brown,19,808,0.15,13049.2,7474.44,5574.76,Cash
+10579,31/05/2024,2024,Q2,May,Northeast,USA,Massachusetts,Boston,Retail,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,20,950,0.1,17100,11902.91,5197.09,Cash
+10580,31/03/2024,2024,Q1,Mar,South,USA,Georgia,Atlanta,Online,Small Business,Furniture,Desk,WorkDesk Pro,Emily Carter,6,357,0.15,1820.7,1013.69,807.01,Cash
+10581,20/07/2024,2024,Q3,Jul,Northeast,USA,New York,New York,Distributor,Corporate,Electronics,Phone,Galaxy Max,Sarah Lopez,6,617,0.15,3146.7,2343.71,802.99,Transfer
+10582,29/10/2024,2024,Q4,Oct,Midwest,USA,Ohio,Columbus,Retail,Corporate,Accessories,Keyboard,KeyPro,David Clark,5,736,0.05,3496,2029.04,1466.96,Card
+10583,16/03/2024,2024,Q1,Mar,South,USA,Texas,Dallas,Online,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,11,1075,0.05,11233.75,8244.48,2989.27,Transfer
+10584,29/02/2024,2024,Q1,Feb,West,USA,Colorado,Denver,Online,Corporate,Electronics,Tablet,Tab Elite,David Clark,9,63,0,567,399.22,167.78,Cash
+10585,03/07/2024,2024,Q3,Jul,Northeast,USA,New York,New York,Distributor,Corporate,Furniture,Chair,ComfortSeat,John Miller,16,883,0.15,12008.8,8640.18,3368.62,Digital Wallet
+10586,30/07/2024,2024,Q3,Jul,Northeast,USA,Massachusetts,Boston,Online,Corporate,Electronics,Phone,Galaxy Max,Sarah Lopez,17,993,0.1,15192.9,9394.96,5797.94,Digital Wallet
+10587,04/02/2024,2024,Q1,Feb,West,USA,Colorado,Denver,Online,Corporate,Furniture,Chair,ComfortSeat,Jessica Lee,7,1151,0.1,7251.3,4277.28,2974.02,Card
+10588,21/05/2024,2024,Q2,May,West,USA,Washington,Seattle,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Emily Carter,18,1054,0.1,17074.8,9731.43,7343.37,Cash
+10589,06/02/2024,2024,Q1,Feb,Northeast,USA,Pennsylvania,Philadelphia,Retail,Consumer,Electronics,Phone,Galaxy Max,Jessica Lee,6,455,0.1,2457,1836.21,620.79,Cash
+10590,03/04/2024,2024,Q2,Apr,South,USA,Florida,Miami,Distributor,Consumer,Accessories,Keyboard,KeyPro,David Clark,19,1084,0.15,17506.6,12175.91,5330.69,Digital Wallet
+10591,31/08/2024,2024,Q3,Aug,Midwest,USA,Michigan,Detroit,Retail,Consumer,Furniture,Desk,WorkDesk Pro,David Clark,5,641,0.05,3044.75,2245.5,799.25,Card
+10592,26/02/2024,2024,Q1,Feb,South,USA,Florida,Miami,Online,Consumer,Electronics,Phone,Galaxy Max,Jessica Lee,9,376,0.05,3214.8,2401.96,812.84,Digital Wallet
+10593,10/03/2024,2024,Q1,Mar,South,USA,Florida,Miami,Retail,Consumer,Electronics,Tablet,Tab Elite,Jessica Lee,6,448,0.15,2284.8,1619.25,665.55,Transfer
+10594,23/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Online,Consumer,Furniture,Desk,WorkDesk Pro,Michael Brown,8,618,0.05,4696.8,3302.58,1394.22,Transfer
+10595,10/11/2024,2024,Q4,Nov,Midwest,USA,Illinois,Chicago,Online,Consumer,Electronics,Tablet,Tab Elite,David Clark,10,575,0.1,5175,2942.24,2232.76,Transfer
+10596,04/10/2024,2024,Q4,Oct,South,USA,Georgia,Atlanta,Retail,Corporate,Furniture,Desk,WorkDesk Pro,Sarah Lopez,9,1037,0,9333,6787.96,2545.04,Transfer
+10597,28/09/2024,2024,Q3,Sep,West,USA,Colorado,Denver,Online,Consumer,Accessories,Headphones,SoundMax,Michael Brown,20,477,0.1,8586,6199.08,2386.92,Digital Wallet
+10598,15/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Distributor,Corporate,Accessories,Headphones,SoundMax,Sarah Lopez,1,651,0.1,585.9,425.96,159.94,Transfer
+10599,09/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Online,Small Business,Accessories,Headphones,SoundMax,Emily Carter,12,266,0.1,2872.8,1733.65,1139.15,Transfer
+10600,13/12/2024,2024,Q4,Dec,Midwest,USA,Ohio,Columbus,Online,Consumer,Electronics,Phone,Galaxy Max,Jessica Lee,4,246,0.15,836.4,514.94,321.46,Transfer
+10601,29/07/2024,2024,Q3,Jul,West,USA,Washington,Seattle,Distributor,Corporate,Electronics,Phone,Galaxy Max,John Miller,20,967,0.15,16439,10344.61,6094.39,Transfer
+10602,24/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Online,Corporate,Furniture,Desk,WorkDesk Pro,Michael Brown,16,521,0.05,7919.2,4615.68,3303.52,Card
+10603,20/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Retail,Small Business,Accessories,Headphones,SoundMax,Emily Carter,13,740,0,9620,5515.11,4104.89,Digital Wallet
+10604,15/10/2024,2024,Q4,Oct,South,USA,Georgia,Atlanta,Online,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,14,556,0,7784,4798.94,2985.06,Cash
+10605,30/12/2024,2024,Q4,Dec,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Electronics,Tablet,Tab Elite,David Clark,4,272,0.1,979.2,624.27,354.93,Digital Wallet
+10606,12/10/2024,2024,Q4,Oct,West,USA,Washington,Seattle,Retail,Consumer,Furniture,Desk,WorkDesk Pro,John Miller,3,444,0,1332,942.32,389.68,Card
+10607,21/03/2024,2024,Q1,Mar,South,USA,Texas,Dallas,Online,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,20,245,0.1,4410,2975.47,1434.53,Cash
+10608,03/09/2024,2024,Q3,Sep,Midwest,USA,Ohio,Columbus,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,Jessica Lee,3,349,0.15,889.95,601.51,288.44,Digital Wallet
+10609,14/02/2024,2024,Q1,Feb,Midwest,USA,Michigan,Detroit,Online,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,19,217,0.15,3504.55,2292.15,1212.4,Transfer
+10610,13/12/2024,2024,Q4,Dec,Northeast,USA,Massachusetts,Boston,Distributor,Consumer,Accessories,Headphones,SoundMax,Emily Carter,9,127,0.1,1028.7,761.56,267.14,Card
+10611,14/10/2024,2024,Q4,Oct,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,John Miller,20,232,0.1,4176,2937.92,1238.08,Cash
+10612,09/02/2024,2024,Q1,Feb,South,USA,Georgia,Atlanta,Retail,Corporate,Accessories,Headphones,SoundMax,John Miller,8,603,0,4824,3218.04,1605.96,Transfer
+10613,10/09/2024,2024,Q3,Sep,West,USA,Washington,Seattle,Retail,Corporate,Accessories,Keyboard,KeyPro,John Miller,5,739,0.05,3510.25,2156.87,1353.38,Cash
+10614,26/06/2024,2024,Q2,Jun,West,USA,Colorado,Denver,Retail,Corporate,Electronics,Tablet,Tab Elite,Michael Brown,9,1112,0.1,9007.2,5824.77,3182.43,Cash
+10615,12/02/2024,2024,Q1,Feb,Midwest,USA,Michigan,Detroit,Distributor,Corporate,Electronics,Phone,Galaxy Max,Jessica Lee,10,399,0.1,3591,2616.89,974.11,Digital Wallet
+10616,18/07/2024,2024,Q3,Jul,Midwest,USA,Ohio,Columbus,Online,Consumer,Electronics,Tablet,Tab Elite,Emily Carter,18,814,0,14652,9316.33,5335.67,Digital Wallet
+10617,04/06/2024,2024,Q2,Jun,Northeast,USA,Massachusetts,Boston,Online,Corporate,Electronics,Phone,Galaxy Max,David Clark,17,678,0.15,9797.1,6492.75,3304.35,Digital Wallet
+10618,23/07/2024,2024,Q3,Jul,South,USA,Georgia,Atlanta,Retail,Small Business,Electronics,Tablet,Tab Elite,Emily Carter,13,1086,0,14118,8613.61,5504.39,Transfer
+10619,13/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Distributor,Corporate,Accessories,Keyboard,KeyPro,John Miller,17,284,0.05,4586.6,3117.07,1469.53,Transfer
+10620,27/03/2024,2024,Q1,Mar,West,USA,California,Los Angeles,Distributor,Corporate,Furniture,Chair,ComfortSeat,Jessica Lee,10,114,0.15,969,639.56,329.44,Card
+10621,28/03/2024,2024,Q1,Mar,Midwest,USA,Ohio,Columbus,Retail,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,13,590,0.1,6903,4295.91,2607.09,Card
+10622,24/08/2024,2024,Q3,Aug,West,USA,Washington,Seattle,Online,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,4,468,0.05,1778.4,1232.28,546.12,Cash
+10623,22/08/2024,2024,Q3,Aug,South,USA,Florida,Miami,Online,Small Business,Electronics,Tablet,Tab Elite,Michael Brown,11,999,0.1,9890.1,5510.93,4379.17,Cash
+10624,10/09/2024,2024,Q3,Sep,Northeast,USA,Massachusetts,Boston,Online,Corporate,Electronics,Laptop,UltraBook Pro,David Clark,5,924,0.05,4389,2644.65,1744.35,Cash
+10625,22/03/2024,2024,Q1,Mar,Midwest,USA,Illinois,Chicago,Online,Small Business,Accessories,Headphones,SoundMax,David Clark,3,1080,0.15,2754,1516.8,1237.2,Transfer
+10626,15/02/2024,2024,Q1,Feb,West,USA,Colorado,Denver,Retail,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,9,71,0.05,607.05,389.7,217.35,Card
+10627,07/03/2024,2024,Q1,Mar,Midwest,USA,Michigan,Detroit,Online,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,8,511,0.15,3474.8,1960.77,1514.03,Transfer
+10628,28/07/2024,2024,Q3,Jul,Northeast,USA,Massachusetts,Boston,Retail,Consumer,Furniture,Chair,ComfortSeat,David Clark,7,285,0,1995,1157.39,837.61,Digital Wallet
+10629,08/02/2024,2024,Q1,Feb,Midwest,USA,Ohio,Columbus,Distributor,Consumer,Accessories,Keyboard,KeyPro,John Miller,18,193,0,3474,2044.45,1429.55,Cash
+10630,22/11/2024,2024,Q4,Nov,West,USA,Washington,Seattle,Retail,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,1,509,0,509,285.97,223.03,Card
+10631,13/12/2024,2024,Q4,Dec,South,USA,Florida,Miami,Distributor,Consumer,Furniture,Desk,WorkDesk Pro,David Clark,15,883,0.15,11258.25,8173.01,3085.24,Digital Wallet
+10632,18/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Retail,Small Business,Accessories,Keyboard,KeyPro,Jessica Lee,3,757,0.1,2043.9,1185.19,858.71,Card
+10633,18/08/2024,2024,Q3,Aug,South,USA,Florida,Miami,Retail,Consumer,Electronics,Phone,Galaxy Max,Michael Brown,9,229,0.05,1957.95,1426.18,531.77,Digital Wallet
+10634,09/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Distributor,Consumer,Electronics,Phone,Galaxy Max,John Miller,16,333,0,5328,3931.07,1396.93,Transfer
+10635,05/10/2024,2024,Q4,Oct,South,USA,Georgia,Atlanta,Online,Consumer,Furniture,Desk,WorkDesk Pro,John Miller,12,847,0.1,9147.6,5134.75,4012.85,Card
+10636,06/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Online,Consumer,Accessories,Headphones,SoundMax,Jessica Lee,6,556,0.05,3169.2,2071.63,1097.57,Card
+10637,24/09/2024,2024,Q3,Sep,South,USA,Florida,Miami,Online,Consumer,Accessories,Headphones,SoundMax,David Clark,13,794,0.1,9289.8,6676.65,2613.15,Card
+10638,16/01/2024,2024,Q1,Jan,Northeast,USA,Massachusetts,Boston,Retail,Small Business,Accessories,Headphones,SoundMax,John Miller,12,905,0,10860,7321.96,3538.04,Digital Wallet
+10639,22/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Online,Corporate,Furniture,Chair,ComfortSeat,Emily Carter,12,547,0.05,6235.8,3712.02,2523.78,Transfer
+10640,07/03/2024,2024,Q1,Mar,South,USA,Georgia,Atlanta,Online,Corporate,Furniture,Desk,WorkDesk Pro,Sarah Lopez,19,1070,0.05,19313.5,14437.14,4876.36,Transfer
+10641,19/06/2024,2024,Q2,Jun,South,USA,Florida,Miami,Retail,Consumer,Accessories,Keyboard,KeyPro,Emily Carter,2,1054,0.1,1897.2,1332.7,564.5,Digital Wallet
+10642,03/05/2024,2024,Q2,May,Northeast,USA,New York,New York,Online,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,2,962,0.15,1635.4,901.4,734,Cash
+10643,02/06/2024,2024,Q2,Jun,West,USA,California,Los Angeles,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Sarah Lopez,5,751,0,3755,2498.86,1256.14,Digital Wallet
+10644,19/09/2024,2024,Q3,Sep,Northeast,USA,New York,New York,Distributor,Small Business,Accessories,Headphones,SoundMax,Emily Carter,4,1023,0,4092,2440.24,1651.76,Transfer
+10645,14/09/2024,2024,Q3,Sep,South,USA,Georgia,Atlanta,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,John Miller,19,678,0.1,11593.8,7854.88,3738.92,Transfer
+10646,23/10/2024,2024,Q4,Oct,Midwest,USA,Ohio,Columbus,Retail,Consumer,Electronics,Phone,Galaxy Max,Michael Brown,1,78,0,78,53.89,24.11,Card
+10647,25/03/2024,2024,Q1,Mar,West,USA,California,Los Angeles,Distributor,Corporate,Electronics,Laptop,UltraBook Pro,Jessica Lee,2,1182,0.15,2009.4,1385.32,624.08,Card
+10648,18/01/2024,2024,Q1,Jan,Midwest,USA,Michigan,Detroit,Online,Corporate,Accessories,Headphones,SoundMax,Sarah Lopez,4,774,0.15,2631.6,1815.48,816.12,Cash
+10649,19/12/2024,2024,Q4,Dec,Northeast,USA,New York,New York,Retail,Consumer,Furniture,Chair,ComfortSeat,Jessica Lee,1,595,0.1,535.5,296.65,238.85,Transfer
+10650,28/12/2024,2024,Q4,Dec,South,USA,Georgia,Atlanta,Retail,Consumer,Accessories,Keyboard,KeyPro,Jessica Lee,12,667,0.15,6803.4,4680.45,2122.95,Cash
+10651,06/06/2024,2024,Q2,Jun,Midwest,USA,Michigan,Detroit,Online,Small Business,Furniture,Chair,ComfortSeat,John Miller,7,604,0.05,4016.6,2508.89,1507.71,Digital Wallet
+10652,08/01/2024,2024,Q1,Jan,West,USA,Colorado,Denver,Retail,Corporate,Furniture,Desk,WorkDesk Pro,John Miller,1,464,0,464,312.85,151.15,Card
+10653,25/02/2024,2024,Q1,Feb,South,USA,Florida,Miami,Retail,Consumer,Electronics,Tablet,Tab Elite,David Clark,12,767,0,9204,5846.66,3357.34,Digital Wallet
+10654,07/08/2024,2024,Q3,Aug,South,USA,Florida,Miami,Distributor,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,2,685,0.15,1164.5,669.95,494.55,Card
+10655,05/08/2024,2024,Q3,Aug,Midwest,USA,Ohio,Columbus,Retail,Small Business,Electronics,Tablet,Tab Elite,David Clark,8,479,0.05,3640.4,2404.85,1235.55,Transfer
+10656,27/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Online,Consumer,Accessories,Keyboard,KeyPro,Jessica Lee,3,214,0.15,545.7,404.34,141.36,Cash
+10657,01/07/2024,2024,Q3,Jul,West,USA,California,Los Angeles,Distributor,Consumer,Furniture,Desk,WorkDesk Pro,Michael Brown,16,1129,0.15,15354.4,10273.13,5081.27,Transfer
+10658,18/12/2024,2024,Q4,Dec,Midwest,USA,Michigan,Detroit,Online,Small Business,Electronics,Phone,Galaxy Max,David Clark,2,400,0,800,549.92,250.08,Digital Wallet
+10659,06/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Online,Consumer,Accessories,Headphones,SoundMax,Emily Carter,10,772,0,7720,5371.57,2348.43,Digital Wallet
+10660,04/05/2024,2024,Q2,May,South,USA,Florida,Miami,Online,Corporate,Electronics,Phone,Galaxy Max,Michael Brown,20,546,0.15,9282,5353.51,3928.49,Transfer
+10661,08/11/2024,2024,Q4,Nov,West,USA,Washington,Seattle,Distributor,Consumer,Furniture,Chair,ComfortSeat,Michael Brown,14,868,0.05,11544.4,6559.32,4985.08,Digital Wallet
+10662,03/05/2024,2024,Q2,May,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Electronics,Tablet,Tab Elite,Jessica Lee,20,300,0.15,5100,3532.08,1567.92,Card
+10663,03/03/2024,2024,Q1,Mar,West,USA,Colorado,Denver,Distributor,Small Business,Accessories,Keyboard,KeyPro,Emily Carter,16,925,0.05,14060,9031.86,5028.14,Transfer
+10664,13/02/2024,2024,Q1,Feb,Northeast,USA,Massachusetts,Boston,Online,Consumer,Accessories,Keyboard,KeyPro,Emily Carter,3,732,0.15,1866.6,1343.09,523.51,Cash
+10665,17/07/2024,2024,Q3,Jul,West,USA,Colorado,Denver,Distributor,Corporate,Accessories,Headphones,SoundMax,John Miller,19,613,0.05,11064.65,8045.66,3018.99,Digital Wallet
+10666,21/11/2024,2024,Q4,Nov,South,USA,Texas,Dallas,Distributor,Consumer,Electronics,Tablet,Tab Elite,Sarah Lopez,6,288,0.1,1555.2,1009.72,545.48,Cash
+10667,24/04/2024,2024,Q2,Apr,Midwest,USA,Ohio,Columbus,Online,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,16,172,0,2752,2047.99,704.01,Digital Wallet
+10668,29/11/2024,2024,Q4,Nov,Midwest,USA,Illinois,Chicago,Distributor,Small Business,Electronics,Tablet,Tab Elite,Emily Carter,6,847,0.15,4319.7,2786.4,1533.3,Transfer
+10669,30/01/2024,2024,Q1,Jan,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Accessories,Headphones,SoundMax,David Clark,8,275,0,2200,1420.91,779.09,Card
+10670,29/11/2024,2024,Q4,Nov,Midwest,USA,Ohio,Columbus,Retail,Consumer,Accessories,Keyboard,KeyPro,David Clark,19,744,0,14136,8098.32,6037.68,Transfer
+10671,27/11/2024,2024,Q4,Nov,Midwest,USA,Michigan,Detroit,Distributor,Corporate,Electronics,Phone,Galaxy Max,Emily Carter,17,896,0.1,13708.8,8761.23,4947.57,Digital Wallet
+10672,15/07/2024,2024,Q3,Jul,West,USA,California,Los Angeles,Online,Small Business,Electronics,Tablet,Tab Elite,David Clark,1,171,0.05,162.45,108.38,54.07,Card
+10673,25/04/2024,2024,Q2,Apr,Northeast,USA,New York,New York,Online,Consumer,Electronics,Laptop,UltraBook Pro,David Clark,10,580,0.15,4930,2727.73,2202.27,Transfer
+10674,16/05/2024,2024,Q2,May,Northeast,USA,Massachusetts,Boston,Online,Corporate,Accessories,Headphones,SoundMax,Emily Carter,14,124,0,1736,1015.45,720.55,Cash
+10675,30/03/2024,2024,Q1,Mar,Northeast,USA,New York,New York,Online,Corporate,Electronics,Phone,Galaxy Max,Emily Carter,12,706,0,8472,4941.47,3530.53,Digital Wallet
+10676,23/04/2024,2024,Q2,Apr,West,USA,Colorado,Denver,Distributor,Consumer,Electronics,Tablet,Tab Elite,John Miller,8,341,0,2728,1763.07,964.93,Cash
+10677,06/09/2024,2024,Q3,Sep,Midwest,USA,Illinois,Chicago,Distributor,Consumer,Accessories,Headphones,SoundMax,Sarah Lopez,3,368,0.1,993.6,592.1,401.5,Transfer
+10678,01/01/2024,2024,Q1,Jan,Northeast,USA,Massachusetts,Boston,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Jessica Lee,18,518,0.1,8391.6,5809.05,2582.55,Transfer
+10679,21/01/2024,2024,Q1,Jan,West,USA,Washington,Seattle,Distributor,Corporate,Furniture,Chair,ComfortSeat,David Clark,3,1189,0.15,3031.95,1888.52,1143.43,Cash
+10680,21/01/2024,2024,Q1,Jan,Northeast,USA,Massachusetts,Boston,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,Emily Carter,10,256,0.15,2176,1483.62,692.38,Cash
+10681,12/01/2024,2024,Q1,Jan,South,USA,Georgia,Atlanta,Online,Consumer,Electronics,Tablet,Tab Elite,David Clark,8,668,0,5344,3012.27,2331.73,Transfer
+10682,21/01/2024,2024,Q1,Jan,South,USA,Georgia,Atlanta,Online,Small Business,Furniture,Chair,ComfortSeat,Emily Carter,12,681,0.05,7763.4,5646.01,2117.39,Digital Wallet
+10683,21/04/2024,2024,Q2,Apr,South,USA,Texas,Dallas,Distributor,Consumer,Furniture,Desk,WorkDesk Pro,Jessica Lee,18,384,0.05,6566.4,4078.29,2488.11,Transfer
+10684,20/09/2024,2024,Q3,Sep,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Jessica Lee,6,276,0.1,1490.4,866.06,624.34,Transfer
+10685,18/10/2024,2024,Q4,Oct,South,USA,Texas,Dallas,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Jessica Lee,9,1161,0.05,9926.55,5512.63,4413.92,Cash
+10686,21/12/2024,2024,Q4,Dec,Midwest,USA,Illinois,Chicago,Retail,Corporate,Furniture,Desk,WorkDesk Pro,Michael Brown,15,488,0.05,6954,4992.27,1961.73,Card
+10687,18/10/2024,2024,Q4,Oct,West,USA,California,Los Angeles,Online,Consumer,Electronics,Phone,Galaxy Max,David Clark,5,939,0.15,3990.75,2747.72,1243.03,Cash
+10688,05/03/2024,2024,Q1,Mar,Midwest,USA,Illinois,Chicago,Retail,Small Business,Electronics,Phone,Galaxy Max,John Miller,10,648,0.1,5832,4059.42,1772.58,Cash
+10689,20/09/2024,2024,Q3,Sep,South,USA,Texas,Dallas,Retail,Consumer,Accessories,Keyboard,KeyPro,Michael Brown,7,332,0,2324,1593.77,730.23,Transfer
+10690,14/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Online,Corporate,Electronics,Phone,Galaxy Max,John Miller,6,828,0,4968,3061.04,1906.96,Card
+10691,02/01/2024,2024,Q1,Jan,Midwest,USA,Michigan,Detroit,Distributor,Consumer,Electronics,Laptop,UltraBook Pro,John Miller,17,908,0.05,14664.2,8827.41,5836.79,Transfer
+10692,30/01/2024,2024,Q1,Jan,South,USA,Georgia,Atlanta,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,Emily Carter,14,308,0,4312,3018.34,1293.66,Digital Wallet
+10693,14/03/2024,2024,Q1,Mar,West,USA,California,Los Angeles,Retail,Corporate,Accessories,Headphones,SoundMax,Michael Brown,11,717,0.05,7492.65,5031.41,2461.24,Cash
+10694,27/02/2024,2024,Q1,Feb,South,USA,Georgia,Atlanta,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Michael Brown,17,928,0.1,14198.4,8502.61,5695.79,Transfer
+10695,18/12/2024,2024,Q4,Dec,West,USA,Colorado,Denver,Retail,Consumer,Accessories,Keyboard,KeyPro,Sarah Lopez,11,103,0.1,1019.7,726.85,292.85,Cash
+10696,14/03/2024,2024,Q1,Mar,South,USA,Texas,Dallas,Distributor,Small Business,Electronics,Tablet,Tab Elite,Jessica Lee,4,406,0,1624,1138.47,485.53,Card
+10697,26/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Online,Small Business,Accessories,Keyboard,KeyPro,Sarah Lopez,10,642,0.1,5778,4039.17,1738.83,Card
+10698,13/03/2024,2024,Q1,Mar,Northeast,USA,Pennsylvania,Philadelphia,Retail,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,19,237,0,4503,3035.69,1467.31,Cash
+10699,01/09/2024,2024,Q3,Sep,West,USA,Washington,Seattle,Distributor,Consumer,Electronics,Tablet,Tab Elite,John Miller,2,414,0.1,745.2,423.6,321.6,Digital Wallet
+10700,15/10/2024,2024,Q4,Oct,West,USA,California,Los Angeles,Retail,Small Business,Electronics,Phone,Galaxy Max,David Clark,7,820,0.1,5166,3845.45,1320.55,Transfer
+10701,28/04/2024,2024,Q2,Apr,Midwest,USA,Michigan,Detroit,Retail,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,19,1002,0.05,18086.1,10982.9,7103.2,Digital Wallet
+10702,04/10/2024,2024,Q4,Oct,South,USA,Florida,Miami,Online,Corporate,Furniture,Chair,ComfortSeat,Emily Carter,13,318,0.15,3513.9,2604.82,909.08,Cash
+10703,11/09/2024,2024,Q3,Sep,Midwest,USA,Ohio,Columbus,Retail,Corporate,Accessories,Keyboard,KeyPro,John Miller,18,772,0.15,11811.6,6524.66,5286.94,Cash
+10704,02/09/2024,2024,Q3,Sep,West,USA,Colorado,Denver,Distributor,Corporate,Accessories,Headphones,SoundMax,John Miller,8,844,0.15,5739.2,3685.69,2053.51,Card
+10705,31/07/2024,2024,Q3,Jul,South,USA,Florida,Miami,Retail,Corporate,Electronics,Tablet,Tab Elite,Jessica Lee,19,919,0,17461,12611.55,4849.45,Transfer
+10706,19/06/2024,2024,Q2,Jun,South,USA,Florida,Miami,Distributor,Consumer,Electronics,Phone,Galaxy Max,David Clark,17,558,0.15,8063.1,4824.1,3239,Card
+10707,26/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Distributor,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,9,129,0.05,1102.95,770.71,332.24,Cash
+10708,27/09/2024,2024,Q3,Sep,West,USA,Washington,Seattle,Distributor,Small Business,Accessories,Keyboard,KeyPro,Emily Carter,6,68,0.1,367.2,223.76,143.44,Digital Wallet
+10709,23/06/2024,2024,Q2,Jun,West,USA,Colorado,Denver,Retail,Corporate,Furniture,Desk,WorkDesk Pro,Jessica Lee,20,286,0,5720,3470.89,2249.11,Transfer
+10710,09/12/2024,2024,Q4,Dec,Midwest,USA,Illinois,Chicago,Online,Small Business,Furniture,Desk,WorkDesk Pro,David Clark,19,884,0,16796,11619.11,5176.89,Card
+10711,25/06/2024,2024,Q2,Jun,Midwest,USA,Michigan,Detroit,Retail,Small Business,Furniture,Desk,WorkDesk Pro,John Miller,9,836,0.05,7147.8,4781.63,2366.17,Cash
+10712,29/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Online,Corporate,Accessories,Headphones,SoundMax,Emily Carter,5,545,0,2725,1746.7,978.3,Digital Wallet
+10713,07/09/2024,2024,Q3,Sep,West,USA,Colorado,Denver,Online,Corporate,Electronics,Tablet,Tab Elite,Emily Carter,14,856,0.15,10186.4,7262.79,2923.61,Card
+10714,06/10/2024,2024,Q4,Oct,Midwest,USA,Ohio,Columbus,Online,Small Business,Furniture,Desk,WorkDesk Pro,David Clark,13,1137,0.05,14041.95,8852.84,5189.11,Card
+10715,06/05/2024,2024,Q2,May,South,USA,Georgia,Atlanta,Distributor,Corporate,Furniture,Chair,ComfortSeat,Michael Brown,2,731,0.1,1315.8,918.53,397.27,Transfer
+10716,01/04/2024,2024,Q2,Apr,South,USA,Georgia,Atlanta,Distributor,Consumer,Furniture,Chair,ComfortSeat,Emily Carter,5,1189,0.1,5350.5,3071.89,2278.61,Digital Wallet
+10717,26/12/2024,2024,Q4,Dec,West,USA,California,Los Angeles,Distributor,Small Business,Accessories,Keyboard,KeyPro,David Clark,2,532,0.15,904.4,570.32,334.08,Digital Wallet
+10718,12/08/2024,2024,Q3,Aug,Midwest,USA,Michigan,Detroit,Retail,Corporate,Furniture,Desk,WorkDesk Pro,David Clark,6,90,0.15,459,334.68,124.32,Digital Wallet
+10719,20/04/2024,2024,Q2,Apr,West,USA,Washington,Seattle,Online,Small Business,Electronics,Laptop,UltraBook Pro,Jessica Lee,7,835,0,5845,3484.03,2360.97,Card
+10720,11/11/2024,2024,Q4,Nov,Midwest,USA,Michigan,Detroit,Retail,Consumer,Electronics,Tablet,Tab Elite,John Miller,19,1108,0.05,19999.4,12454.53,7544.87,Digital Wallet
+10721,05/11/2024,2024,Q4,Nov,South,USA,Florida,Miami,Distributor,Consumer,Accessories,Headphones,SoundMax,Sarah Lopez,13,371,0.05,4581.85,2943.94,1637.91,Card
+10722,01/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,Sarah Lopez,4,344,0.15,1169.6,816.35,353.25,Cash
+10723,22/08/2024,2024,Q3,Aug,South,USA,Florida,Miami,Online,Small Business,Furniture,Chair,ComfortSeat,Jessica Lee,18,636,0.15,9730.8,6549.92,3180.88,Digital Wallet
+10724,03/09/2024,2024,Q3,Sep,Midwest,USA,Ohio,Columbus,Distributor,Corporate,Furniture,Chair,ComfortSeat,Sarah Lopez,5,128,0.15,544,369.05,174.95,Card
+10725,28/11/2024,2024,Q4,Nov,Northeast,USA,New York,New York,Retail,Consumer,Furniture,Desk,WorkDesk Pro,Sarah Lopez,13,400,0.05,4940,3264.14,1675.86,Digital Wallet
+10726,31/05/2024,2024,Q2,May,West,USA,Colorado,Denver,Retail,Consumer,Electronics,Tablet,Tab Elite,Michael Brown,19,1057,0.15,17070.55,12376.32,4694.23,Transfer
+10727,27/02/2024,2024,Q1,Feb,West,USA,Colorado,Denver,Online,Corporate,Accessories,Keyboard,KeyPro,David Clark,14,149,0,2086,1354.36,731.64,Transfer
+10728,18/07/2024,2024,Q3,Jul,South,USA,Florida,Miami,Online,Corporate,Accessories,Keyboard,KeyPro,Emily Carter,19,483,0.15,7800.45,5472.49,2327.96,Transfer
+10729,20/06/2024,2024,Q2,Jun,Northeast,USA,New York,New York,Retail,Small Business,Electronics,Laptop,UltraBook Pro,Emily Carter,20,367,0.1,6606,3873.31,2732.69,Digital Wallet
+10730,16/03/2024,2024,Q1,Mar,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Consumer,Electronics,Phone,Galaxy Max,Sarah Lopez,16,1077,0.05,16370.4,12028.07,4342.33,Transfer
+10731,05/09/2024,2024,Q3,Sep,Midwest,USA,Michigan,Detroit,Online,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,17,1071,0.1,16386.3,11997.02,4389.28,Card
+10732,01/07/2024,2024,Q3,Jul,Northeast,USA,New York,New York,Online,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,17,1147,0.05,18524.05,10257.62,8266.43,Cash
+10733,10/05/2024,2024,Q2,May,South,USA,Florida,Miami,Online,Consumer,Furniture,Desk,WorkDesk Pro,Emily Carter,1,496,0,496,308.61,187.39,Card
+10734,02/04/2024,2024,Q2,Apr,South,USA,Texas,Dallas,Retail,Small Business,Accessories,Headphones,SoundMax,Jessica Lee,1,299,0.1,269.1,166.48,102.62,Transfer
+10735,26/02/2024,2024,Q1,Feb,South,USA,Georgia,Atlanta,Distributor,Consumer,Accessories,Keyboard,KeyPro,Michael Brown,6,1190,0.05,6783,4190.83,2592.17,Transfer
+10736,20/09/2024,2024,Q3,Sep,West,USA,Colorado,Denver,Online,Consumer,Accessories,Headphones,SoundMax,John Miller,10,763,0.15,6485.5,4742.55,1742.95,Card
+10737,14/01/2024,2024,Q1,Jan,West,USA,Colorado,Denver,Retail,Small Business,Electronics,Phone,Galaxy Max,Sarah Lopez,9,298,0.1,2413.8,1707.31,706.49,Digital Wallet
+10738,12/02/2024,2024,Q1,Feb,Midwest,USA,Ohio,Columbus,Distributor,Corporate,Furniture,Chair,ComfortSeat,John Miller,12,831,0.05,9473.4,5259.27,4214.13,Card
+10739,25/11/2024,2024,Q4,Nov,Northeast,USA,Massachusetts,Boston,Online,Consumer,Accessories,Headphones,SoundMax,Michael Brown,17,1038,0.05,16763.7,10387.33,6376.37,Transfer
+10740,06/12/2024,2024,Q4,Dec,South,USA,Florida,Miami,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Sarah Lopez,18,477,0,8586,5397.82,3188.18,Cash
+10741,05/09/2024,2024,Q3,Sep,West,USA,California,Los Angeles,Retail,Corporate,Accessories,Headphones,SoundMax,Sarah Lopez,11,271,0.15,2533.85,1546.12,987.73,Digital Wallet
+10742,30/09/2024,2024,Q3,Sep,Midwest,USA,Illinois,Chicago,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Michael Brown,11,912,0.1,9028.8,6128.53,2900.27,Digital Wallet
+10743,18/05/2024,2024,Q2,May,Midwest,USA,Ohio,Columbus,Distributor,Consumer,Furniture,Chair,ComfortSeat,Michael Brown,14,1195,0,16730,11168.34,5561.66,Digital Wallet
+10744,12/09/2024,2024,Q3,Sep,Midwest,USA,Ohio,Columbus,Online,Corporate,Electronics,Laptop,UltraBook Pro,Sarah Lopez,4,880,0.05,3344,2390.57,953.43,Cash
+10745,22/01/2024,2024,Q1,Jan,South,USA,Florida,Miami,Retail,Small Business,Electronics,Phone,Galaxy Max,David Clark,2,191,0.15,324.7,184.69,140.01,Card
+10746,15/10/2024,2024,Q4,Oct,West,USA,Washington,Seattle,Retail,Corporate,Electronics,Laptop,UltraBook Pro,Sarah Lopez,11,375,0,4125,2776.05,1348.95,Transfer
+10747,30/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Retail,Small Business,Accessories,Keyboard,KeyPro,John Miller,19,916,0.15,14793.4,8152.96,6640.44,Digital Wallet
+10748,22/10/2024,2024,Q4,Oct,Midwest,USA,Ohio,Columbus,Retail,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,18,874,0.15,13372.2,8677.03,4695.17,Transfer
+10749,20/07/2024,2024,Q3,Jul,West,USA,Washington,Seattle,Distributor,Consumer,Accessories,Keyboard,KeyPro,John Miller,1,585,0.15,497.25,297.55,199.7,Cash
+10750,08/02/2024,2024,Q1,Feb,South,USA,Florida,Miami,Retail,Corporate,Accessories,Keyboard,KeyPro,Michael Brown,16,673,0.15,9152.8,5213.83,3938.97,Transfer
+10751,26/10/2024,2024,Q4,Oct,South,USA,Florida,Miami,Online,Consumer,Furniture,Chair,ComfortSeat,Jessica Lee,6,630,0,3780,2654.98,1125.02,Transfer
+10752,07/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Online,Consumer,Electronics,Laptop,UltraBook Pro,Jessica Lee,4,393,0.05,1493.4,951.65,541.75,Card
+10753,22/05/2024,2024,Q2,May,West,USA,California,Los Angeles,Online,Small Business,Electronics,Tablet,Tab Elite,John Miller,18,703,0.15,10755.9,7369.29,3386.61,Transfer
+10754,31/05/2024,2024,Q2,May,Northeast,USA,Pennsylvania,Philadelphia,Retail,Small Business,Accessories,Keyboard,KeyPro,Jessica Lee,3,427,0.05,1216.95,682.92,534.03,Card
+10755,06/12/2024,2024,Q4,Dec,South,USA,Texas,Dallas,Retail,Consumer,Electronics,Tablet,Tab Elite,Michael Brown,7,946,0.1,5959.8,4308.16,1651.64,Transfer
+10756,12/11/2024,2024,Q4,Nov,West,USA,Colorado,Denver,Distributor,Corporate,Electronics,Phone,Galaxy Max,Michael Brown,14,1144,0.05,15215.2,9017.56,6197.64,Digital Wallet
+10757,28/07/2024,2024,Q3,Jul,South,USA,Texas,Dallas,Online,Consumer,Furniture,Chair,ComfortSeat,Jessica Lee,12,692,0.1,7473.6,4373.29,3100.31,Transfer
+10758,05/08/2024,2024,Q3,Aug,Northeast,USA,New York,New York,Retail,Corporate,Furniture,Chair,ComfortSeat,Jessica Lee,6,851,0.1,4595.4,3131.92,1463.48,Card
+10759,25/08/2024,2024,Q3,Aug,West,USA,Colorado,Denver,Online,Consumer,Accessories,Headphones,SoundMax,Emily Carter,15,1110,0.15,14152.5,9771.4,4381.1,Transfer
+10760,10/12/2024,2024,Q4,Dec,West,USA,Washington,Seattle,Online,Corporate,Furniture,Desk,WorkDesk Pro,Jessica Lee,10,178,0.15,1513,842.51,670.49,Transfer
+10761,26/12/2024,2024,Q4,Dec,Midwest,USA,Ohio,Columbus,Retail,Small Business,Furniture,Desk,WorkDesk Pro,Jessica Lee,4,709,0.05,2694.2,1649.17,1045.03,Cash
+10762,29/02/2024,2024,Q1,Feb,Northeast,USA,Pennsylvania,Philadelphia,Retail,Small Business,Furniture,Chair,ComfortSeat,Michael Brown,17,263,0.15,3800.35,2313.17,1487.18,Cash
+10763,29/04/2024,2024,Q2,Apr,Midwest,USA,Illinois,Chicago,Online,Small Business,Furniture,Desk,WorkDesk Pro,Michael Brown,7,1184,0.1,7459.2,4452.79,3006.41,Digital Wallet
+10764,20/12/2024,2024,Q4,Dec,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Corporate,Electronics,Tablet,Tab Elite,David Clark,16,758,0.1,10915.2,7791.79,3123.41,Cash
+10765,14/12/2024,2024,Q4,Dec,West,USA,California,Los Angeles,Distributor,Consumer,Accessories,Headphones,SoundMax,David Clark,5,636,0.1,2862,1702.57,1159.43,Card
+10766,03/01/2024,2024,Q1,Jan,Midwest,USA,Michigan,Detroit,Online,Consumer,Electronics,Tablet,Tab Elite,John Miller,8,512,0.15,3481.6,1931.33,1550.27,Card
+10767,05/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Distributor,Corporate,Electronics,Tablet,Tab Elite,Jessica Lee,10,864,0.05,8208,4562.18,3645.82,Transfer
+10768,06/06/2024,2024,Q2,Jun,Northeast,USA,New York,New York,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Sarah Lopez,3,194,0.15,494.7,294.42,200.28,Cash
+10769,30/08/2024,2024,Q3,Aug,South,USA,Texas,Dallas,Retail,Consumer,Accessories,Headphones,SoundMax,Jessica Lee,6,1167,0,7002,4960.09,2041.91,Card
+10770,08/10/2024,2024,Q4,Oct,West,USA,Colorado,Denver,Retail,Small Business,Furniture,Chair,ComfortSeat,David Clark,2,237,0,474,333.29,140.71,Card
+10771,18/06/2024,2024,Q2,Jun,South,USA,Florida,Miami,Retail,Consumer,Accessories,Headphones,SoundMax,Sarah Lopez,11,1080,0.15,10098,5781.94,4316.06,Transfer
+10772,06/06/2024,2024,Q2,Jun,West,USA,Colorado,Denver,Distributor,Corporate,Electronics,Tablet,Tab Elite,Michael Brown,4,928,0.15,3155.2,2266.98,888.22,Digital Wallet
+10773,30/01/2024,2024,Q1,Jan,South,USA,Florida,Miami,Retail,Corporate,Accessories,Keyboard,KeyPro,Michael Brown,9,138,0,1242,856.91,385.09,Transfer
+10774,15/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Online,Small Business,Furniture,Desk,WorkDesk Pro,Michael Brown,19,669,0,12711,9150.01,3560.99,Transfer
+10775,18/04/2024,2024,Q2,Apr,West,USA,Colorado,Denver,Distributor,Corporate,Furniture,Desk,WorkDesk Pro,Michael Brown,2,1002,0.15,1703.4,963.34,740.06,Transfer
+10776,17/10/2024,2024,Q4,Oct,Midwest,USA,Illinois,Chicago,Online,Small Business,Electronics,Phone,Galaxy Max,Jessica Lee,11,732,0.15,6844.2,4929.16,1915.04,Digital Wallet
+10777,18/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Retail,Consumer,Electronics,Laptop,UltraBook Pro,John Miller,1,963,0.15,818.55,599.42,219.13,Digital Wallet
+10778,23/08/2024,2024,Q3,Aug,Northeast,USA,Pennsylvania,Philadelphia,Online,Small Business,Accessories,Keyboard,KeyPro,Jessica Lee,20,1148,0.05,21812,12308.67,9503.33,Digital Wallet
+10779,21/07/2024,2024,Q3,Jul,Northeast,USA,New York,New York,Retail,Corporate,Accessories,Headphones,SoundMax,Emily Carter,5,763,0.05,3624.25,1993.77,1630.48,Digital Wallet
+10780,30/07/2024,2024,Q3,Jul,West,USA,California,Los Angeles,Retail,Small Business,Accessories,Headphones,SoundMax,Emily Carter,17,421,0.05,6799.15,5030.18,1768.97,Cash
+10781,05/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Online,Small Business,Furniture,Desk,WorkDesk Pro,Michael Brown,20,432,0,8640,6150.62,2489.38,Digital Wallet
+10782,05/10/2024,2024,Q4,Oct,South,USA,Texas,Dallas,Distributor,Small Business,Furniture,Desk,WorkDesk Pro,Jessica Lee,14,768,0.15,9139.2,6584.37,2554.83,Card
+10783,10/03/2024,2024,Q1,Mar,West,USA,California,Los Angeles,Retail,Corporate,Accessories,Keyboard,KeyPro,John Miller,11,921,0,10131,6114.25,4016.75,Card
+10784,03/05/2024,2024,Q2,May,West,USA,Colorado,Denver,Distributor,Small Business,Electronics,Phone,Galaxy Max,Jessica Lee,15,1061,0.05,15119.25,9736.07,5383.18,Transfer
+10785,10/09/2024,2024,Q3,Sep,Midwest,USA,Ohio,Columbus,Online,Small Business,Electronics,Laptop,UltraBook Pro,Emily Carter,3,317,0.15,808.35,563.35,245,Transfer
+10786,10/01/2024,2024,Q1,Jan,West,USA,California,Los Angeles,Online,Corporate,Furniture,Desk,WorkDesk Pro,John Miller,13,1156,0,15028,8607.62,6420.38,Card
+10787,18/08/2024,2024,Q3,Aug,South,USA,Georgia,Atlanta,Retail,Corporate,Accessories,Headphones,SoundMax,Jessica Lee,4,63,0,252,151.08,100.92,Transfer
+10788,02/03/2024,2024,Q1,Mar,Midwest,USA,Michigan,Detroit,Distributor,Small Business,Electronics,Laptop,UltraBook Pro,Emily Carter,1,1182,0.05,1122.9,631.09,491.81,Digital Wallet
+10789,03/11/2024,2024,Q4,Nov,Northeast,USA,New York,New York,Online,Corporate,Furniture,Desk,WorkDesk Pro,Sarah Lopez,14,323,0.1,4069.8,2873.11,1196.69,Card
+10790,30/01/2024,2024,Q1,Jan,West,USA,Colorado,Denver,Distributor,Consumer,Electronics,Phone,Galaxy Max,Michael Brown,14,894,0.05,11890.2,6787.7,5102.5,Cash
+10791,09/01/2024,2024,Q1,Jan,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Corporate,Electronics,Tablet,Tab Elite,Sarah Lopez,11,609,0.15,5694.15,4058.92,1635.23,Cash
+10792,15/09/2024,2024,Q3,Sep,South,USA,Georgia,Atlanta,Distributor,Small Business,Furniture,Chair,ComfortSeat,David Clark,20,577,0.15,9809,6847.11,2961.89,Cash
+10793,15/04/2024,2024,Q2,Apr,West,USA,Washington,Seattle,Distributor,Consumer,Accessories,Keyboard,KeyPro,John Miller,9,1138,0.05,9729.9,6747.89,2982.01,Cash
+10794,02/08/2024,2024,Q3,Aug,West,USA,Colorado,Denver,Online,Small Business,Accessories,Keyboard,KeyPro,David Clark,19,1036,0.05,18699.8,12083.16,6616.64,Transfer
+10795,14/01/2024,2024,Q1,Jan,South,USA,Texas,Dallas,Online,Consumer,Accessories,Headphones,SoundMax,David Clark,10,921,0.05,8749.5,6295.08,2454.42,Digital Wallet
+10796,11/11/2024,2024,Q4,Nov,South,USA,Georgia,Atlanta,Online,Consumer,Furniture,Chair,ComfortSeat,Jessica Lee,13,595,0.15,6574.75,4177.75,2397,Cash
+10797,08/04/2024,2024,Q2,Apr,West,USA,Washington,Seattle,Distributor,Small Business,Accessories,Headphones,SoundMax,John Miller,4,331,0,1324,803.15,520.85,Transfer
+10798,01/04/2024,2024,Q2,Apr,Midwest,USA,Michigan,Detroit,Online,Small Business,Electronics,Laptop,UltraBook Pro,David Clark,16,126,0.15,1713.6,1236.99,476.61,Digital Wallet
+10799,23/10/2024,2024,Q4,Oct,Northeast,USA,Pennsylvania,Philadelphia,Retail,Consumer,Furniture,Chair,ComfortSeat,John Miller,3,891,0.05,2539.35,1885.48,653.87,Cash
+10800,03/12/2024,2024,Q4,Dec,Northeast,USA,Pennsylvania,Philadelphia,Distributor,Consumer,Electronics,Phone,Galaxy Max,Michael Brown,16,424,0.05,6444.8,3964.55,2480.25,Cash

@@ -1,0 +1,801 @@
+Order ID,Date,Year,Quarter,Month,Week,Region,State,Product Category,Product Subcategory,Sales Channel,Customer Segment,Units Sold,Unit Price,Discount,Revenue,Cost,Profit,Profit Margin,Marketing Channel
+50001,2024-03-19,2024,Q1,Mar,12,Midwest,Ohio,Accessories,Mouse,Retail,Corporate,9,151,0.1,1223.1,840.69,382.41,0.3127,Direct
+50002,2024-05-17,2024,Q2,May,20,South,Georgia,Accessories,Keyboard,Retail,Small Business,10,369,0.0,3690.0,2069.24,1620.76,0.4392,Google Ads
+50003,2024-06-23,2024,Q2,Jun,25,West,Washington,Electronics,Tablet,Distributor,Small Business,9,755,0.1,6115.5,4301.51,1813.99,0.2966,Google Ads
+50004,2024-08-31,2024,Q3,Aug,35,Midwest,Illinois,Electronics,Phone,Distributor,Consumer,8,1060,0.0,8480.0,5209.41,3270.59,0.3857,Email
+50005,2024-09-25,2024,Q3,Sep,39,Northeast,Pennsylvania,Accessories,Mouse,Retail,Corporate,1,847,0.0,847.0,536.06,310.94,0.3671,Direct
+50006,2024-06-23,2024,Q2,Jun,25,West,Washington,Electronics,Phone,Distributor,Small Business,8,1105,0.1,7956.0,5355.67,2600.33,0.3268,Affiliate
+50007,2024-03-10,2024,Q1,Mar,10,West,Washington,Furniture,Cabinet,Distributor,Corporate,19,150,0.05,2707.5,1506.53,1200.97,0.4436,Affiliate
+50008,2024-11-26,2024,Q4,Nov,48,Northeast,Pennsylvania,Furniture,Chair,Distributor,Corporate,9,894,0.05,7643.7,5187.26,2456.44,0.3214,Social Media
+50009,2024-02-02,2024,Q1,Feb,5,West,California,Electronics,Tablet,Retail,Corporate,21,594,0.05,11850.3,8874.51,2975.79,0.2511,Direct
+50010,2024-08-18,2024,Q3,Aug,33,Northeast,Pennsylvania,Electronics,Tablet,Retail,Consumer,16,320,0.0,5120.0,2969.12,2150.88,0.4201,Google Ads
+50011,2024-02-20,2024,Q1,Feb,8,Midwest,Michigan,Electronics,Phone,Retail,Consumer,16,350,0.05,5320.0,3319.35,2000.65,0.3761,Social Media
+50012,2024-11-29,2024,Q4,Nov,48,West,California,Accessories,Mouse,Retail,Small Business,3,797,0.15,2032.35,1314.39,717.96,0.3533,Email
+50013,2024-07-06,2024,Q3,Jul,27,South,Florida,Furniture,Cabinet,Online,Corporate,1,1276,0.0,1276.0,934.81,341.19,0.2674,Google Ads
+50014,2024-09-02,2024,Q3,Sep,36,South,Florida,Furniture,Cabinet,Online,Corporate,24,630,0.15,12852.0,8398.13,4453.87,0.3466,Social Media
+50015,2024-01-09,2024,Q1,Jan,2,Northeast,Pennsylvania,Furniture,Desk,Retail,Corporate,15,65,0.0,975.0,666.17,308.83,0.3167,Affiliate
+50016,2024-12-30,2024,Q4,Dec,1,Northeast,New York,Accessories,Keyboard,Online,Small Business,11,1032,0.0,11352.0,8501.76,2850.24,0.2511,Social Media
+50017,2024-12-24,2024,Q4,Dec,52,West,Washington,Electronics,Laptop,Distributor,Consumer,18,535,0.05,9148.5,6230.94,2917.56,0.3189,Google Ads
+50018,2024-10-22,2024,Q4,Oct,43,Midwest,Michigan,Electronics,Laptop,Online,Corporate,22,1274,0.05,26626.6,16501.12,10125.48,0.3803,Affiliate
+50019,2024-03-18,2024,Q1,Mar,12,Midwest,Ohio,Accessories,Headphones,Retail,Corporate,20,865,0.0,17300.0,12661.85,4638.15,0.2681,Email
+50020,2024-11-01,2024,Q4,Nov,44,South,Texas,Electronics,Tablet,Distributor,Small Business,9,732,0.05,6258.6,4057.81,2200.79,0.3516,Email
+50021,2024-05-22,2024,Q2,May,21,Midwest,Ohio,Electronics,Laptop,Retail,Small Business,24,1241,0.0,29784.0,19397.95,10386.05,0.3487,Email
+50022,2024-02-28,2024,Q1,Feb,9,Midwest,Ohio,Furniture,Desk,Retail,Small Business,20,481,0.1,8658.0,5297.76,3360.24,0.3881,Direct
+50023,2024-09-06,2024,Q3,Sep,36,South,Florida,Accessories,Keyboard,Online,Corporate,13,491,0.1,5744.7,3618.84,2125.86,0.3701,Affiliate
+50024,2024-02-06,2024,Q1,Feb,6,Midwest,Michigan,Furniture,Desk,Distributor,Small Business,6,732,0.1,3952.8,2483.93,1468.87,0.3716,Affiliate
+50025,2024-02-11,2024,Q1,Feb,6,South,Texas,Furniture,Chair,Distributor,Small Business,1,370,0.0,370.0,211.32,158.68,0.4289,Affiliate
+50026,2024-08-15,2024,Q3,Aug,33,Midwest,Michigan,Electronics,Phone,Distributor,Corporate,2,467,0.15,793.9,468.19,325.71,0.4103,Email
+50027,2024-10-30,2024,Q4,Oct,44,West,Washington,Furniture,Chair,Online,Small Business,24,1172,0.0,28128.0,17109.63,11018.37,0.3917,Affiliate
+50028,2024-08-23,2024,Q3,Aug,34,Midwest,Illinois,Accessories,Keyboard,Distributor,Consumer,6,558,0.05,3180.6,2002.57,1178.03,0.3704,Email
+50029,2024-09-27,2024,Q3,Sep,39,South,Florida,Accessories,Mouse,Distributor,Corporate,8,743,0.15,5052.4,2860.5,2191.9,0.4338,Google Ads
+50030,2024-11-23,2024,Q4,Nov,47,South,Florida,Electronics,Laptop,Online,Corporate,8,841,0.1,6055.2,3848.94,2206.26,0.3644,Email
+50031,2024-01-17,2024,Q1,Jan,3,West,Colorado,Furniture,Desk,Online,Small Business,8,447,0.15,3039.6,2176.62,862.98,0.2839,Social Media
+50032,2024-12-20,2024,Q4,Dec,51,Northeast,Massachusetts,Electronics,Tablet,Online,Corporate,19,111,0.0,2109.0,1348.89,760.11,0.3604,Google Ads
+50033,2024-05-16,2024,Q2,May,20,Northeast,Massachusetts,Accessories,Mouse,Retail,Small Business,12,940,0.0,11280.0,8263.7,3016.3,0.2674,Email
+50034,2024-04-29,2024,Q2,Apr,18,West,Colorado,Furniture,Cabinet,Online,Consumer,1,1297,0.1,1167.3,858.28,309.02,0.2647,Google Ads
+50035,2024-05-13,2024,Q2,May,20,South,Georgia,Furniture,Desk,Online,Small Business,17,1072,0.05,17312.8,9843.1,7469.7,0.4315,Direct
+50036,2024-03-03,2024,Q1,Mar,9,South,Georgia,Accessories,Headphones,Retail,Small Business,24,687,0.05,15663.6,9338.32,6325.28,0.4038,Direct
+50037,2024-06-14,2024,Q2,Jun,24,West,Washington,Furniture,Cabinet,Online,Corporate,22,577,0.0,12694.0,8168.39,4525.61,0.3565,Google Ads
+50038,2024-05-05,2024,Q2,May,18,South,Texas,Accessories,Headphones,Online,Consumer,17,487,0.1,7451.1,4835.23,2615.87,0.3511,Google Ads
+50039,2024-04-11,2024,Q2,Apr,15,South,Georgia,Furniture,Cabinet,Distributor,Consumer,14,512,0.0,7168.0,4678.17,2489.83,0.3474,Affiliate
+50040,2024-06-18,2024,Q2,Jun,25,Midwest,Ohio,Furniture,Cabinet,Online,Corporate,23,1238,0.15,24202.9,17063.03,7139.87,0.295,Google Ads
+50041,2024-01-10,2024,Q1,Jan,2,West,Colorado,Electronics,Laptop,Distributor,Small Business,22,248,0.15,4637.6,3083.78,1553.82,0.335,Direct
+50042,2024-01-28,2024,Q1,Jan,4,South,Georgia,Electronics,Phone,Distributor,Consumer,11,160,0.1,1584.0,1098.31,485.69,0.3066,Google Ads
+50043,2024-09-06,2024,Q3,Sep,36,Northeast,Massachusetts,Furniture,Chair,Online,Small Business,8,912,0.1,6566.4,3634.72,2931.68,0.4465,Affiliate
+50044,2024-10-11,2024,Q4,Oct,41,Northeast,Pennsylvania,Furniture,Chair,Online,Consumer,5,1219,0.05,5790.25,3196.13,2594.12,0.448,Google Ads
+50045,2024-01-06,2024,Q1,Jan,1,Northeast,New York,Furniture,Chair,Online,Corporate,22,899,0.05,18789.1,13804.9,4984.2,0.2653,Email
+50046,2024-04-16,2024,Q2,Apr,16,South,Georgia,Furniture,Chair,Retail,Small Business,3,738,0.05,2103.3,1378.52,724.78,0.3446,Social Media
+50047,2024-01-04,2024,Q1,Jan,1,West,Washington,Accessories,Keyboard,Retail,Small Business,17,739,0.0,12563.0,7977.2,4585.8,0.365,Direct
+50048,2024-07-03,2024,Q3,Jul,27,South,Georgia,Accessories,Mouse,Online,Small Business,15,329,0.05,4688.25,3172.81,1515.44,0.3232,Google Ads
+50049,2024-05-11,2024,Q2,May,19,South,Georgia,Electronics,Laptop,Distributor,Small Business,19,389,0.15,6282.35,3909.02,2373.33,0.3778,Affiliate
+50050,2024-08-29,2024,Q3,Aug,35,Northeast,Massachusetts,Accessories,Headphones,Distributor,Corporate,2,615,0.15,1045.5,643.47,402.03,0.3845,Social Media
+50051,2024-12-12,2024,Q4,Dec,50,Northeast,New York,Electronics,Phone,Retail,Consumer,12,742,0.05,8458.8,5290.81,3167.99,0.3745,Email
+50052,2024-10-21,2024,Q4,Oct,43,Midwest,Michigan,Furniture,Desk,Online,Consumer,22,1119,0.0,24618.0,14386.0,10232.0,0.4156,Email
+50053,2024-05-31,2024,Q2,May,22,West,California,Electronics,Phone,Retail,Small Business,3,1075,0.0,3225.0,1864.47,1360.53,0.4219,Direct
+50054,2024-05-18,2024,Q2,May,20,Midwest,Illinois,Electronics,Laptop,Distributor,Corporate,12,172,0.1,1857.6,1122.86,734.74,0.3955,Social Media
+50055,2024-05-11,2024,Q2,May,19,West,Colorado,Accessories,Headphones,Distributor,Corporate,7,60,0.05,399.0,220.39,178.61,0.4476,Email
+50056,2024-12-22,2024,Q4,Dec,51,West,Colorado,Electronics,Laptop,Online,Consumer,1,850,0.15,722.5,471.78,250.72,0.347,Google Ads
+50057,2024-01-14,2024,Q1,Jan,2,West,California,Electronics,Laptop,Online,Consumer,20,339,0.1,6102.0,3918.78,2183.22,0.3578,Email
+50058,2024-03-01,2024,Q1,Mar,9,Northeast,Pennsylvania,Electronics,Phone,Retail,Corporate,2,537,0.05,1020.3,760.64,259.66,0.2545,Email
+50059,2024-08-20,2024,Q3,Aug,34,Midwest,Illinois,Electronics,Laptop,Retail,Corporate,17,396,0.05,6395.4,4313.28,2082.12,0.3256,Email
+50060,2024-01-07,2024,Q1,Jan,1,Northeast,Pennsylvania,Accessories,Mouse,Retail,Corporate,24,604,0.1,13046.4,9747.34,3299.06,0.2529,Direct
+50061,2024-07-22,2024,Q3,Jul,30,Midwest,Michigan,Accessories,Headphones,Distributor,Consumer,5,988,0.0,4940.0,2748.8,2191.2,0.4436,Direct
+50062,2024-10-28,2024,Q4,Oct,44,Midwest,Michigan,Accessories,Headphones,Online,Small Business,14,1047,0.1,13192.2,9772.47,3419.73,0.2592,Affiliate
+50063,2024-03-28,2024,Q1,Mar,13,Northeast,Massachusetts,Accessories,Mouse,Online,Small Business,25,272,0.1,6120.0,4543.98,1576.02,0.2575,Google Ads
+50064,2024-08-29,2024,Q3,Aug,35,West,Washington,Furniture,Cabinet,Retail,Small Business,5,145,0.05,688.75,502.77,185.98,0.27,Affiliate
+50065,2024-09-07,2024,Q3,Sep,36,West,California,Electronics,Laptop,Online,Consumer,17,754,0.1,11536.2,8379.79,3156.41,0.2736,Email
+50066,2024-06-12,2024,Q2,Jun,24,West,Colorado,Accessories,Headphones,Retail,Small Business,9,488,0.15,3733.2,2264.17,1469.03,0.3935,Direct
+50067,2024-07-02,2024,Q3,Jul,27,West,Colorado,Accessories,Keyboard,Retail,Consumer,5,837,0.1,3766.5,2166.52,1599.98,0.4248,Google Ads
+50068,2024-11-10,2024,Q4,Nov,45,South,Georgia,Electronics,Laptop,Distributor,Small Business,13,1224,0.05,15116.4,9318.62,5797.78,0.3835,Direct
+50069,2024-10-06,2024,Q4,Oct,40,Midwest,Michigan,Furniture,Cabinet,Retail,Small Business,1,881,0.15,748.85,442.1,306.75,0.4096,Direct
+50070,2024-09-27,2024,Q3,Sep,39,South,Georgia,Electronics,Laptop,Retail,Corporate,5,376,0.1,1692.0,954.2,737.8,0.4361,Affiliate
+50071,2024-04-16,2024,Q2,Apr,16,Northeast,New York,Accessories,Mouse,Retail,Small Business,5,1252,0.05,5947.0,3660.49,2286.51,0.3845,Email
+50072,2024-04-29,2024,Q2,Apr,18,Midwest,Ohio,Furniture,Cabinet,Distributor,Small Business,11,1075,0.1,10642.5,6086.96,4555.54,0.4281,Affiliate
+50073,2024-04-06,2024,Q2,Apr,14,Midwest,Illinois,Accessories,Headphones,Retail,Small Business,3,942,0.1,2543.4,1865.06,678.34,0.2667,Direct
+50074,2024-10-09,2024,Q4,Oct,41,South,Florida,Electronics,Tablet,Online,Small Business,13,877,0.05,10830.95,7538.94,3292.01,0.3039,Affiliate
+50075,2024-09-19,2024,Q3,Sep,38,West,California,Furniture,Cabinet,Distributor,Small Business,9,545,0.1,4414.5,3290.71,1123.79,0.2546,Google Ads
+50076,2024-12-01,2024,Q4,Dec,48,Midwest,Ohio,Electronics,Phone,Retail,Corporate,9,601,0.05,5138.55,3763.74,1374.81,0.2675,Affiliate
+50077,2024-05-11,2024,Q2,May,19,Midwest,Illinois,Accessories,Keyboard,Retail,Consumer,13,483,0.1,5651.1,3929.35,1721.75,0.3047,Google Ads
+50078,2024-06-19,2024,Q2,Jun,25,South,Florida,Furniture,Cabinet,Distributor,Consumer,7,688,0.15,4093.6,2830.99,1262.61,0.3084,Google Ads
+50079,2024-08-11,2024,Q3,Aug,32,Midwest,Ohio,Electronics,Phone,Online,Corporate,24,109,0.15,2223.6,1408.09,815.51,0.3668,Google Ads
+50080,2024-10-18,2024,Q4,Oct,42,Northeast,Pennsylvania,Electronics,Laptop,Distributor,Corporate,4,738,0.15,2509.2,1420.07,1089.13,0.4341,Email
+50081,2024-01-15,2024,Q1,Jan,3,Midwest,Michigan,Accessories,Mouse,Retail,Consumer,11,1245,0.05,13010.25,8442.97,4567.28,0.3511,Direct
+50082,2024-07-31,2024,Q3,Jul,31,Midwest,Illinois,Accessories,Keyboard,Retail,Consumer,1,1020,0.0,1020.0,577.89,442.11,0.4334,Social Media
+50083,2024-01-31,2024,Q1,Jan,5,West,Colorado,Electronics,Tablet,Online,Small Business,18,511,0.15,7818.3,5410.5,2407.8,0.308,Email
+50084,2024-06-09,2024,Q2,Jun,23,South,Georgia,Accessories,Keyboard,Distributor,Consumer,19,185,0.1,3163.5,2320.45,843.05,0.2665,Google Ads
+50085,2024-04-28,2024,Q2,Apr,17,Midwest,Michigan,Accessories,Keyboard,Distributor,Small Business,5,571,0.15,2426.75,1774.18,652.57,0.2689,Social Media
+50086,2024-07-28,2024,Q3,Jul,30,South,Texas,Furniture,Desk,Online,Corporate,21,1050,0.0,22050.0,15582.51,6467.49,0.2933,Affiliate
+50087,2024-08-05,2024,Q3,Aug,32,West,California,Furniture,Chair,Retail,Consumer,4,592,0.1,2131.2,1572.13,559.07,0.2623,Email
+50088,2024-05-18,2024,Q2,May,20,West,Washington,Accessories,Mouse,Distributor,Consumer,8,859,0.15,5841.2,3562.6,2278.6,0.3901,Email
+50089,2024-05-04,2024,Q2,May,18,West,California,Furniture,Cabinet,Retail,Small Business,11,258,0.15,2412.3,1595.38,816.92,0.3386,Direct
+50090,2024-02-02,2024,Q1,Feb,5,Northeast,Pennsylvania,Accessories,Keyboard,Retail,Consumer,22,1186,0.0,26092.0,15859.25,10232.75,0.3922,Social Media
+50091,2024-09-23,2024,Q3,Sep,39,West,California,Electronics,Phone,Retail,Consumer,9,315,0.05,2693.25,1820.83,872.42,0.3239,Social Media
+50092,2024-02-24,2024,Q1,Feb,8,Midwest,Ohio,Furniture,Desk,Distributor,Corporate,9,1142,0.15,8736.3,5838.91,2897.39,0.3316,Email
+50093,2024-06-24,2024,Q2,Jun,26,South,Florida,Electronics,Laptop,Online,Consumer,10,640,0.1,5760.0,3573.41,2186.59,0.3796,Direct
+50094,2024-12-06,2024,Q4,Dec,49,Northeast,Pennsylvania,Furniture,Cabinet,Distributor,Small Business,2,441,0.0,882.0,641.12,240.88,0.2731,Email
+50095,2024-02-13,2024,Q1,Feb,7,Northeast,New York,Electronics,Tablet,Distributor,Corporate,9,707,0.15,5408.55,3413.66,1994.89,0.3688,Affiliate
+50096,2024-06-09,2024,Q2,Jun,23,South,Florida,Accessories,Keyboard,Retail,Consumer,1,154,0.15,130.9,97.46,33.44,0.2555,Affiliate
+50097,2024-03-07,2024,Q1,Mar,10,South,Texas,Electronics,Phone,Distributor,Consumer,23,495,0.1,10246.5,7596.55,2649.95,0.2586,Direct
+50098,2024-07-13,2024,Q3,Jul,28,West,Washington,Accessories,Keyboard,Online,Corporate,12,772,0.05,8800.8,6331.57,2469.23,0.2806,Google Ads
+50099,2024-06-15,2024,Q2,Jun,24,Northeast,Massachusetts,Furniture,Desk,Online,Consumer,9,1207,0.1,9776.7,6095.84,3680.86,0.3765,Google Ads
+50100,2024-08-06,2024,Q3,Aug,32,Midwest,Illinois,Electronics,Laptop,Retail,Corporate,1,682,0.0,682.0,419.54,262.46,0.3848,Direct
+50101,2024-09-23,2024,Q3,Sep,39,West,Washington,Accessories,Keyboard,Retail,Consumer,1,316,0.0,316.0,209.15,106.85,0.3381,Direct
+50102,2024-05-06,2024,Q2,May,19,West,Colorado,Furniture,Cabinet,Retail,Small Business,23,283,0.05,6183.55,4142.97,2040.58,0.33,Direct
+50103,2024-03-06,2024,Q1,Mar,10,South,Florida,Accessories,Mouse,Retail,Corporate,1,1274,0.0,1274.0,929.0,345.0,0.2708,Google Ads
+50104,2024-01-26,2024,Q1,Jan,4,Northeast,New York,Accessories,Headphones,Online,Consumer,5,562,0.15,2388.5,1779.37,609.13,0.255,Direct
+50105,2024-10-02,2024,Q4,Oct,40,Northeast,Massachusetts,Accessories,Keyboard,Retail,Small Business,19,270,0.15,4360.5,3128.82,1231.68,0.2825,Email
+50106,2024-03-07,2024,Q1,Mar,10,West,California,Accessories,Headphones,Distributor,Small Business,15,870,0.05,12397.5,8742.02,3655.48,0.2949,Google Ads
+50107,2024-07-06,2024,Q3,Jul,27,South,Florida,Electronics,Phone,Distributor,Corporate,3,744,0.05,2120.4,1425.82,694.58,0.3276,Affiliate
+50108,2024-04-19,2024,Q2,Apr,16,West,Colorado,Accessories,Headphones,Distributor,Consumer,14,611,0.0,8554.0,6368.21,2185.79,0.2555,Affiliate
+50109,2024-12-27,2024,Q4,Dec,52,West,California,Accessories,Keyboard,Online,Consumer,23,512,0.0,11776.0,7011.95,4764.05,0.4046,Email
+50110,2024-12-27,2024,Q4,Dec,52,Northeast,Massachusetts,Accessories,Headphones,Online,Small Business,21,301,0.0,6321.0,3835.96,2485.04,0.3931,Social Media
+50111,2024-05-11,2024,Q2,May,19,Midwest,Illinois,Accessories,Mouse,Online,Consumer,20,774,0.05,14706.0,9678.32,5027.68,0.3419,Email
+50112,2024-09-11,2024,Q3,Sep,37,Midwest,Illinois,Accessories,Keyboard,Distributor,Consumer,9,1070,0.0,9630.0,5654.35,3975.65,0.4128,Affiliate
+50113,2024-04-12,2024,Q2,Apr,15,Northeast,Massachusetts,Furniture,Desk,Retail,Consumer,2,363,0.15,617.1,375.29,241.81,0.3918,Google Ads
+50114,2024-06-25,2024,Q2,Jun,26,Midwest,Ohio,Accessories,Keyboard,Retail,Small Business,23,437,0.05,9548.45,6000.08,3548.37,0.3716,Direct
+50115,2024-08-31,2024,Q3,Aug,35,West,Washington,Electronics,Laptop,Online,Corporate,13,1205,0.0,15665.0,10492.29,5172.71,0.3302,Social Media
+50116,2024-12-21,2024,Q4,Dec,51,Northeast,Pennsylvania,Electronics,Phone,Distributor,Corporate,5,1172,0.05,5567.0,4158.97,1408.03,0.2529,Direct
+50117,2024-09-24,2024,Q3,Sep,39,Northeast,New York,Electronics,Phone,Distributor,Consumer,1,795,0.0,795.0,522.2,272.8,0.3431,Social Media
+50118,2024-03-09,2024,Q1,Mar,10,Midwest,Michigan,Furniture,Cabinet,Distributor,Small Business,6,278,0.05,1584.6,1100.29,484.31,0.3056,Google Ads
+50119,2024-06-30,2024,Q2,Jun,26,Northeast,Pennsylvania,Accessories,Keyboard,Distributor,Small Business,8,1092,0.1,7862.4,5636.25,2226.15,0.2831,Google Ads
+50120,2024-05-06,2024,Q2,May,19,South,Texas,Electronics,Tablet,Retail,Consumer,16,1184,0.15,16102.4,9012.73,7089.67,0.4403,Affiliate
+50121,2024-10-31,2024,Q4,Oct,44,South,Georgia,Furniture,Desk,Retail,Corporate,25,373,0.15,7926.25,5636.12,2290.13,0.2889,Direct
+50122,2024-01-29,2024,Q1,Jan,5,West,Colorado,Electronics,Phone,Distributor,Small Business,19,171,0.15,2761.65,1917.02,844.63,0.3058,Google Ads
+50123,2024-03-16,2024,Q1,Mar,11,Midwest,Michigan,Furniture,Chair,Retail,Small Business,24,223,0.05,5084.4,3475.1,1609.3,0.3165,Direct
+50124,2024-12-02,2024,Q4,Dec,49,Northeast,New York,Accessories,Mouse,Online,Consumer,11,769,0.1,7613.1,4470.27,3142.83,0.4128,Affiliate
+50125,2024-08-16,2024,Q3,Aug,33,Northeast,Massachusetts,Furniture,Cabinet,Online,Small Business,8,155,0.0,1240.0,780.09,459.91,0.3709,Google Ads
+50126,2024-06-10,2024,Q2,Jun,24,South,Georgia,Electronics,Tablet,Distributor,Consumer,1,293,0.05,278.35,171.77,106.58,0.3829,Email
+50127,2024-03-21,2024,Q1,Mar,12,South,Texas,Furniture,Cabinet,Retail,Small Business,13,852,0.05,10522.2,7687.58,2834.62,0.2694,Google Ads
+50128,2024-10-25,2024,Q4,Oct,43,South,Florida,Electronics,Phone,Distributor,Corporate,5,58,0.0,290.0,196.91,93.09,0.321,Email
+50129,2024-08-19,2024,Q3,Aug,34,Northeast,New York,Furniture,Chair,Online,Small Business,19,1188,0.05,21443.4,14066.37,7377.03,0.344,Email
+50130,2024-08-27,2024,Q3,Aug,35,Northeast,Massachusetts,Accessories,Headphones,Distributor,Corporate,14,1111,0.0,15554.0,9431.89,6122.11,0.3936,Affiliate
+50131,2024-05-12,2024,Q2,May,19,Northeast,Pennsylvania,Electronics,Laptop,Online,Corporate,18,474,0.1,7678.8,5380.76,2298.04,0.2993,Direct
+50132,2024-03-19,2024,Q1,Mar,12,South,Georgia,Furniture,Cabinet,Retail,Consumer,20,653,0.1,11754.0,7514.69,4239.31,0.3607,Social Media
+50133,2024-08-25,2024,Q3,Aug,34,West,Washington,Accessories,Headphones,Distributor,Consumer,23,51,0.05,1114.35,647.75,466.6,0.4187,Direct
+50134,2024-09-02,2024,Q3,Sep,36,Northeast,New York,Furniture,Desk,Retail,Consumer,11,374,0.05,3908.3,2327.03,1581.27,0.4046,Social Media
+50135,2024-07-12,2024,Q3,Jul,28,Northeast,Massachusetts,Accessories,Headphones,Distributor,Consumer,17,725,0.05,11708.75,6863.19,4845.56,0.4138,Google Ads
+50136,2024-03-12,2024,Q1,Mar,11,West,Colorado,Furniture,Desk,Online,Corporate,14,1254,0.15,14922.6,8421.67,6500.93,0.4356,Email
+50137,2024-04-17,2024,Q2,Apr,16,West,Washington,Accessories,Headphones,Online,Small Business,10,1043,0.05,9908.5,6385.24,3523.26,0.3556,Google Ads
+50138,2024-08-06,2024,Q3,Aug,32,Northeast,Pennsylvania,Accessories,Headphones,Retail,Small Business,11,1224,0.15,11444.4,6401.74,5042.66,0.4406,Affiliate
+50139,2024-07-11,2024,Q3,Jul,28,South,Florida,Electronics,Laptop,Distributor,Small Business,4,118,0.15,401.2,294.4,106.8,0.2662,Social Media
+50140,2024-08-16,2024,Q3,Aug,33,West,Washington,Accessories,Keyboard,Retail,Corporate,7,834,0.15,4962.3,3304.75,1657.55,0.334,Affiliate
+50141,2024-04-07,2024,Q2,Apr,14,Northeast,New York,Furniture,Cabinet,Distributor,Consumer,12,250,0.15,2550.0,1619.55,930.45,0.3649,Affiliate
+50142,2024-05-28,2024,Q2,May,22,South,Texas,Furniture,Cabinet,Distributor,Corporate,20,695,0.0,13900.0,7855.67,6044.33,0.4348,Google Ads
+50143,2024-04-04,2024,Q2,Apr,14,Midwest,Michigan,Electronics,Laptop,Online,Corporate,23,278,0.1,5754.6,3321.65,2432.95,0.4228,Affiliate
+50144,2024-08-21,2024,Q3,Aug,34,South,Georgia,Furniture,Chair,Online,Consumer,8,443,0.1,3189.6,2294.33,895.27,0.2807,Direct
+50145,2024-01-06,2024,Q1,Jan,1,West,California,Furniture,Cabinet,Online,Small Business,9,516,0.05,4411.8,2921.56,1490.24,0.3378,Google Ads
+50146,2024-07-19,2024,Q3,Jul,29,South,Georgia,Furniture,Cabinet,Distributor,Consumer,5,671,0.15,2851.75,1970.5,881.25,0.309,Google Ads
+50147,2024-04-18,2024,Q2,Apr,16,South,Texas,Furniture,Chair,Online,Corporate,18,128,0.1,2073.6,1511.16,562.44,0.2712,Affiliate
+50148,2024-11-15,2024,Q4,Nov,46,Midwest,Michigan,Accessories,Keyboard,Distributor,Corporate,24,903,0.1,19504.8,11685.38,7819.42,0.4009,Email
+50149,2024-03-19,2024,Q1,Mar,12,South,Georgia,Electronics,Tablet,Online,Consumer,15,934,0.05,13309.5,9259.75,4049.75,0.3043,Google Ads
+50150,2024-01-04,2024,Q1,Jan,1,West,Colorado,Electronics,Tablet,Online,Corporate,19,710,0.1,12141.0,7827.85,4313.15,0.3553,Social Media
+50151,2024-12-29,2024,Q4,Dec,52,Northeast,New York,Electronics,Phone,Distributor,Corporate,19,666,0.15,10755.9,7591.39,3164.51,0.2942,Google Ads
+50152,2024-07-14,2024,Q3,Jul,28,South,Florida,Electronics,Laptop,Retail,Corporate,1,963,0.1,866.7,585.17,281.53,0.3248,Social Media
+50153,2024-03-28,2024,Q1,Mar,13,West,Washington,Accessories,Mouse,Retail,Consumer,18,1000,0.1,16200.0,9039.91,7160.09,0.442,Affiliate
+50154,2024-08-23,2024,Q3,Aug,34,Midwest,Ohio,Electronics,Laptop,Distributor,Consumer,3,438,0.15,1116.9,735.42,381.48,0.3416,Social Media
+50155,2024-09-02,2024,Q3,Sep,36,Northeast,Pennsylvania,Electronics,Tablet,Online,Small Business,13,812,0.05,10028.2,5606.71,4421.49,0.4409,Email
+50156,2024-07-22,2024,Q3,Jul,30,South,Texas,Electronics,Phone,Online,Consumer,18,628,0.0,11304.0,6304.34,4999.66,0.4423,Direct
+50157,2024-01-11,2024,Q1,Jan,2,Northeast,New York,Electronics,Laptop,Retail,Small Business,9,87,0.05,743.85,547.92,195.93,0.2634,Google Ads
+50158,2024-05-22,2024,Q2,May,21,Midwest,Illinois,Electronics,Laptop,Online,Consumer,6,471,0.15,2402.1,1569.22,832.88,0.3467,Google Ads
+50159,2024-06-30,2024,Q2,Jun,26,South,Florida,Electronics,Laptop,Distributor,Small Business,10,665,0.1,5985.0,3783.73,2201.27,0.3678,Google Ads
+50160,2024-09-19,2024,Q3,Sep,38,Midwest,Ohio,Furniture,Cabinet,Online,Consumer,12,67,0.0,804.0,537.89,266.11,0.331,Social Media
+50161,2024-05-15,2024,Q2,May,20,Northeast,Massachusetts,Furniture,Cabinet,Online,Consumer,2,1249,0.15,2123.3,1278.3,845.0,0.398,Social Media
+50162,2024-05-01,2024,Q2,May,18,West,Colorado,Electronics,Phone,Distributor,Consumer,6,150,0.1,810.0,496.98,313.02,0.3864,Social Media
+50163,2024-11-29,2024,Q4,Nov,48,Northeast,Massachusetts,Electronics,Phone,Retail,Small Business,25,727,0.0,18175.0,12190.78,5984.22,0.3293,Google Ads
+50164,2024-06-04,2024,Q2,Jun,23,West,Washington,Accessories,Headphones,Distributor,Small Business,16,793,0.0,12688.0,8538.59,4149.41,0.327,Direct
+50165,2024-07-21,2024,Q3,Jul,29,Northeast,Pennsylvania,Furniture,Chair,Distributor,Corporate,5,989,0.1,4450.5,3102.43,1348.07,0.3029,Google Ads
+50166,2024-05-18,2024,Q2,May,20,West,Washington,Accessories,Keyboard,Online,Consumer,23,453,0.0,10419.0,6074.83,4344.17,0.4169,Affiliate
+50167,2024-04-21,2024,Q2,Apr,16,South,Texas,Electronics,Laptop,Online,Consumer,9,196,0.1,1587.6,896.85,690.75,0.4351,Affiliate
+50168,2024-02-05,2024,Q1,Feb,6,South,Texas,Accessories,Mouse,Online,Small Business,24,1227,0.0,29448.0,16929.66,12518.34,0.4251,Social Media
+50169,2024-08-12,2024,Q3,Aug,33,Midwest,Ohio,Furniture,Chair,Distributor,Small Business,15,630,0.0,9450.0,6497.79,2952.21,0.3124,Affiliate
+50170,2024-04-18,2024,Q2,Apr,16,Midwest,Ohio,Furniture,Chair,Retail,Small Business,16,56,0.05,851.2,520.17,331.03,0.3889,Affiliate
+50171,2024-07-03,2024,Q3,Jul,27,Midwest,Ohio,Accessories,Keyboard,Retail,Consumer,25,299,0.0,7475.0,5461.89,2013.11,0.2693,Affiliate
+50172,2024-03-29,2024,Q1,Mar,13,West,Colorado,Electronics,Phone,Online,Corporate,8,798,0.05,6064.8,3747.79,2317.01,0.382,Social Media
+50173,2024-01-14,2024,Q1,Jan,2,Northeast,Massachusetts,Furniture,Chair,Online,Consumer,12,481,0.0,5772.0,3904.57,1867.43,0.3235,Social Media
+50174,2024-04-20,2024,Q2,Apr,16,Northeast,New York,Accessories,Keyboard,Online,Corporate,8,289,0.15,1965.2,1216.27,748.93,0.3811,Social Media
+50175,2024-09-11,2024,Q3,Sep,37,South,Florida,Accessories,Headphones,Distributor,Small Business,25,1115,0.1,25087.5,14160.18,10927.32,0.4356,Direct
+50176,2024-03-31,2024,Q1,Mar,13,Midwest,Michigan,Accessories,Keyboard,Retail,Corporate,25,86,0.1,1935.0,1069.6,865.4,0.4472,Affiliate
+50177,2024-06-01,2024,Q2,Jun,22,West,California,Electronics,Phone,Distributor,Small Business,2,1257,0.15,2136.9,1299.5,837.4,0.3919,Email
+50178,2024-05-12,2024,Q2,May,19,Midwest,Michigan,Furniture,Cabinet,Retail,Small Business,11,1019,0.05,10648.55,6505.43,4143.12,0.3891,Google Ads
+50179,2024-03-03,2024,Q1,Mar,9,Northeast,Pennsylvania,Furniture,Cabinet,Online,Consumer,6,648,0.15,3304.8,2272.79,1032.01,0.3123,Social Media
+50180,2024-01-16,2024,Q1,Jan,3,West,California,Accessories,Headphones,Distributor,Consumer,12,593,0.0,7116.0,4965.12,2150.88,0.3023,Affiliate
+50181,2024-03-05,2024,Q1,Mar,10,South,Florida,Electronics,Laptop,Online,Corporate,10,391,0.05,3714.5,2116.53,1597.97,0.4302,Affiliate
+50182,2024-05-29,2024,Q2,May,22,South,Georgia,Electronics,Tablet,Online,Corporate,21,1130,0.05,22543.5,16679.88,5863.62,0.2601,Google Ads
+50183,2024-03-17,2024,Q1,Mar,11,West,Washington,Furniture,Chair,Online,Small Business,25,618,0.15,13132.5,7488.86,5643.64,0.4297,Social Media
+50184,2024-08-04,2024,Q3,Aug,31,South,Georgia,Electronics,Tablet,Distributor,Consumer,18,741,0.0,13338.0,7673.23,5664.77,0.4247,Google Ads
+50185,2024-06-20,2024,Q2,Jun,25,West,California,Accessories,Keyboard,Distributor,Small Business,7,491,0.0,3437.0,2046.45,1390.55,0.4046,Social Media
+50186,2024-11-11,2024,Q4,Nov,46,West,Colorado,Accessories,Keyboard,Distributor,Consumer,17,809,0.1,12377.7,8791.01,3586.69,0.2898,Email
+50187,2024-01-13,2024,Q1,Jan,2,Midwest,Michigan,Accessories,Keyboard,Distributor,Consumer,13,204,0.15,2254.2,1389.56,864.64,0.3836,Email
+50188,2024-08-10,2024,Q3,Aug,32,Midwest,Michigan,Accessories,Headphones,Retail,Corporate,19,453,0.15,7315.95,4961.29,2354.66,0.3219,Email
+50189,2024-01-11,2024,Q1,Jan,2,Northeast,New York,Accessories,Keyboard,Retail,Consumer,13,523,0.15,5779.15,3951.25,1827.9,0.3163,Direct
+50190,2024-08-11,2024,Q3,Aug,32,Northeast,Massachusetts,Accessories,Keyboard,Retail,Consumer,16,1133,0.0,18128.0,12827.71,5300.29,0.2924,Affiliate
+50191,2024-10-19,2024,Q4,Oct,42,Northeast,Pennsylvania,Electronics,Phone,Retail,Corporate,8,941,0.15,6398.8,4058.7,2340.1,0.3657,Affiliate
+50192,2024-05-28,2024,Q2,May,22,West,California,Electronics,Phone,Retail,Corporate,6,240,0.0,1440.0,986.91,453.09,0.3146,Affiliate
+50193,2024-10-05,2024,Q4,Oct,40,Midwest,Michigan,Accessories,Mouse,Online,Small Business,21,834,0.15,14886.9,8755.35,6131.55,0.4119,Affiliate
+50194,2024-06-04,2024,Q2,Jun,23,Midwest,Illinois,Furniture,Chair,Retail,Corporate,23,512,0.0,11776.0,8588.34,3187.66,0.2707,Affiliate
+50195,2024-11-10,2024,Q4,Nov,45,Midwest,Michigan,Furniture,Chair,Retail,Consumer,3,878,0.1,2370.6,1339.85,1030.75,0.4348,Social Media
+50196,2024-09-26,2024,Q3,Sep,39,Midwest,Ohio,Accessories,Keyboard,Distributor,Small Business,7,1162,0.1,7320.6,4102.33,3218.27,0.4396,Affiliate
+50197,2024-04-30,2024,Q2,Apr,18,Midwest,Illinois,Furniture,Cabinet,Retail,Corporate,18,1215,0.15,18589.5,12373.39,6216.11,0.3344,Social Media
+50198,2024-09-16,2024,Q3,Sep,38,Northeast,Massachusetts,Furniture,Cabinet,Online,Small Business,4,1253,0.1,4510.8,2920.1,1590.7,0.3526,Affiliate
+50199,2024-02-01,2024,Q1,Feb,5,Midwest,Michigan,Furniture,Desk,Online,Small Business,3,541,0.0,1623.0,1132.38,490.62,0.3023,Direct
+50200,2024-06-04,2024,Q2,Jun,23,Midwest,Michigan,Electronics,Phone,Retail,Small Business,25,908,0.15,19295.0,13618.46,5676.54,0.2942,Google Ads
+50201,2024-05-18,2024,Q2,May,20,Midwest,Illinois,Accessories,Mouse,Retail,Small Business,22,754,0.15,14099.8,8753.55,5346.25,0.3792,Email
+50202,2024-08-26,2024,Q3,Aug,35,West,California,Accessories,Mouse,Distributor,Consumer,25,861,0.15,18296.25,11117.25,7179.0,0.3924,Direct
+50203,2024-09-26,2024,Q3,Sep,39,West,California,Electronics,Laptop,Retail,Consumer,15,77,0.1,1039.5,665.86,373.64,0.3594,Affiliate
+50204,2024-06-14,2024,Q2,Jun,24,Midwest,Ohio,Electronics,Phone,Retail,Small Business,16,558,0.15,7588.8,5403.52,2185.28,0.288,Email
+50205,2024-10-12,2024,Q4,Oct,41,Northeast,Massachusetts,Electronics,Phone,Retail,Consumer,15,790,0.15,10072.5,6768.96,3303.54,0.328,Email
+50206,2024-02-12,2024,Q1,Feb,7,South,Georgia,Accessories,Mouse,Retail,Corporate,19,1137,0.15,18362.55,10757.56,7604.99,0.4142,Social Media
+50207,2024-04-16,2024,Q2,Apr,16,Midwest,Illinois,Furniture,Chair,Retail,Corporate,3,1002,0.05,2855.7,1969.76,885.94,0.3102,Direct
+50208,2024-01-17,2024,Q1,Jan,3,West,Colorado,Electronics,Laptop,Distributor,Small Business,20,353,0.05,6707.0,4747.39,1959.61,0.2922,Google Ads
+50209,2024-03-09,2024,Q1,Mar,10,West,Colorado,Electronics,Laptop,Online,Consumer,13,584,0.15,6453.2,3650.92,2802.28,0.4342,Email
+50210,2024-05-11,2024,Q2,May,19,Midwest,Ohio,Accessories,Keyboard,Retail,Consumer,24,1109,0.1,23954.4,17246.82,6707.58,0.28,Social Media
+50211,2024-01-19,2024,Q1,Jan,3,West,California,Accessories,Headphones,Retail,Small Business,11,775,0.0,8525.0,4884.46,3640.54,0.427,Direct
+50212,2024-01-16,2024,Q1,Jan,3,South,Florida,Accessories,Mouse,Retail,Consumer,8,789,0.1,5680.8,3948.02,1732.78,0.305,Email
+50213,2024-01-24,2024,Q1,Jan,4,Northeast,Pennsylvania,Furniture,Cabinet,Retail,Corporate,14,1156,0.0,16184.0,11586.58,4597.42,0.2841,Google Ads
+50214,2024-02-19,2024,Q1,Feb,8,Northeast,Pennsylvania,Accessories,Headphones,Distributor,Consumer,18,908,0.1,14709.6,10935.95,3773.65,0.2565,Affiliate
+50215,2024-08-24,2024,Q3,Aug,34,Northeast,Pennsylvania,Furniture,Chair,Online,Corporate,6,993,0.15,5064.3,2981.67,2082.63,0.4112,Social Media
+50216,2024-09-08,2024,Q3,Sep,36,Northeast,Pennsylvania,Accessories,Keyboard,Online,Small Business,8,347,0.15,2359.6,1359.43,1000.17,0.4239,Email
+50217,2024-05-27,2024,Q2,May,22,Northeast,Pennsylvania,Accessories,Mouse,Online,Corporate,12,1124,0.05,12813.6,9541.99,3271.61,0.2553,Social Media
+50218,2024-10-15,2024,Q4,Oct,42,Northeast,Pennsylvania,Furniture,Desk,Distributor,Consumer,1,434,0.05,412.3,245.45,166.85,0.4047,Affiliate
+50219,2024-07-15,2024,Q3,Jul,29,Midwest,Michigan,Accessories,Headphones,Retail,Small Business,23,1285,0.15,25121.75,15413.17,9708.58,0.3865,Direct
+50220,2024-03-03,2024,Q1,Mar,9,West,Colorado,Furniture,Cabinet,Retail,Corporate,5,83,0.0,415.0,235.61,179.39,0.4323,Affiliate
+50221,2024-11-25,2024,Q4,Nov,48,Northeast,New York,Furniture,Desk,Distributor,Corporate,6,82,0.1,442.8,262.4,180.4,0.4074,Google Ads
+50222,2024-08-23,2024,Q3,Aug,34,Midwest,Ohio,Accessories,Headphones,Online,Corporate,17,970,0.15,14016.5,9505.53,4510.97,0.3218,Email
+50223,2024-02-27,2024,Q1,Feb,9,Northeast,New York,Electronics,Phone,Distributor,Corporate,13,510,0.1,5967.0,3604.38,2362.62,0.3959,Direct
+50224,2024-07-08,2024,Q3,Jul,28,West,Washington,Electronics,Laptop,Retail,Corporate,25,1250,0.05,29687.5,18905.7,10781.8,0.3632,Google Ads
+50225,2024-01-18,2024,Q1,Jan,3,Midwest,Ohio,Furniture,Cabinet,Online,Consumer,3,703,0.15,1792.65,1118.59,674.06,0.376,Email
+50226,2024-02-23,2024,Q1,Feb,8,West,Colorado,Accessories,Headphones,Distributor,Small Business,1,890,0.1,801.0,559.09,241.91,0.302,Direct
+50227,2024-03-13,2024,Q1,Mar,11,Midwest,Illinois,Furniture,Chair,Online,Corporate,7,278,0.0,1946.0,1301.66,644.34,0.3311,Affiliate
+50228,2024-09-24,2024,Q3,Sep,39,Northeast,New York,Electronics,Phone,Retail,Small Business,22,1012,0.15,18924.4,12942.39,5982.01,0.3161,Affiliate
+50229,2024-02-02,2024,Q1,Feb,5,West,California,Electronics,Phone,Online,Small Business,21,80,0.05,1596.0,976.34,619.66,0.3883,Google Ads
+50230,2024-06-05,2024,Q2,Jun,23,West,California,Accessories,Headphones,Retail,Small Business,18,956,0.15,14626.8,9176.19,5450.61,0.3726,Google Ads
+50231,2024-02-22,2024,Q1,Feb,8,Northeast,Massachusetts,Electronics,Laptop,Distributor,Small Business,7,942,0.05,6264.3,4127.08,2137.22,0.3412,Social Media
+50232,2024-03-14,2024,Q1,Mar,11,South,Florida,Electronics,Phone,Distributor,Small Business,11,418,0.0,4598.0,2607.69,1990.31,0.4329,Direct
+50233,2024-05-09,2024,Q2,May,19,Northeast,New York,Electronics,Laptop,Online,Small Business,5,571,0.05,2712.25,1922.34,789.91,0.2912,Direct
+50234,2024-02-28,2024,Q1,Feb,9,Northeast,Pennsylvania,Accessories,Keyboard,Distributor,Consumer,25,1196,0.0,29900.0,18856.1,11043.9,0.3694,Affiliate
+50235,2024-10-14,2024,Q4,Oct,42,Northeast,New York,Electronics,Phone,Distributor,Corporate,21,227,0.05,4528.65,2945.83,1582.82,0.3495,Email
+50236,2024-07-16,2024,Q3,Jul,29,Midwest,Illinois,Accessories,Keyboard,Online,Small Business,14,83,0.0,1162.0,820.49,341.51,0.2939,Email
+50237,2024-01-16,2024,Q1,Jan,3,West,Washington,Furniture,Chair,Online,Small Business,11,1042,0.05,10888.9,7707.13,3181.77,0.2922,Social Media
+50238,2024-11-02,2024,Q4,Nov,44,West,Washington,Accessories,Headphones,Distributor,Consumer,2,301,0.05,571.9,390.02,181.88,0.318,Social Media
+50239,2024-12-18,2024,Q4,Dec,51,South,Georgia,Electronics,Tablet,Retail,Small Business,15,88,0.15,1122.0,703.84,418.16,0.3727,Email
+50240,2024-05-07,2024,Q2,May,19,Midwest,Ohio,Electronics,Laptop,Distributor,Corporate,12,519,0.1,5605.2,4013.0,1592.2,0.2841,Affiliate
+50241,2024-03-19,2024,Q1,Mar,12,Northeast,New York,Electronics,Tablet,Distributor,Consumer,13,1269,0.05,15672.15,10064.91,5607.24,0.3578,Social Media
+50242,2024-08-18,2024,Q3,Aug,33,Northeast,New York,Electronics,Phone,Online,Small Business,6,719,0.0,4314.0,2386.97,1927.03,0.4467,Direct
+50243,2024-05-28,2024,Q2,May,22,South,Georgia,Electronics,Tablet,Online,Corporate,12,196,0.1,2116.8,1504.54,612.26,0.2892,Email
+50244,2024-03-15,2024,Q1,Mar,11,Midwest,Ohio,Electronics,Laptop,Distributor,Small Business,1,395,0.0,395.0,255.76,139.24,0.3525,Email
+50245,2024-03-15,2024,Q1,Mar,11,South,Texas,Furniture,Desk,Online,Corporate,14,680,0.1,8568.0,4812.76,3755.24,0.4383,Google Ads
+50246,2024-07-12,2024,Q3,Jul,28,South,Texas,Electronics,Tablet,Distributor,Small Business,17,380,0.15,5491.0,3216.09,2274.91,0.4143,Google Ads
+50247,2024-07-14,2024,Q3,Jul,28,Northeast,New York,Accessories,Keyboard,Online,Consumer,11,748,0.05,7816.6,4997.64,2818.96,0.3606,Direct
+50248,2024-01-27,2024,Q1,Jan,4,South,Texas,Furniture,Chair,Distributor,Consumer,10,1145,0.0,11450.0,7997.83,3452.17,0.3015,Google Ads
+50249,2024-11-09,2024,Q4,Nov,45,Northeast,New York,Accessories,Keyboard,Retail,Small Business,12,1228,0.1,13262.4,7592.98,5669.42,0.4275,Social Media
+50250,2024-01-23,2024,Q1,Jan,4,Midwest,Illinois,Electronics,Tablet,Distributor,Corporate,25,248,0.15,5270.0,3716.18,1553.82,0.2948,Google Ads
+50251,2024-04-10,2024,Q2,Apr,15,Midwest,Ohio,Furniture,Chair,Online,Small Business,12,1217,0.1,13143.6,8709.98,4433.62,0.3373,Email
+50252,2024-12-03,2024,Q4,Dec,49,Midwest,Ohio,Accessories,Keyboard,Distributor,Corporate,1,138,0.1,124.2,90.34,33.86,0.2726,Google Ads
+50253,2024-05-24,2024,Q2,May,21,Midwest,Michigan,Electronics,Laptop,Retail,Consumer,25,500,0.05,11875.0,8736.06,3138.94,0.2643,Email
+50254,2024-07-11,2024,Q3,Jul,28,South,Florida,Furniture,Cabinet,Online,Corporate,1,1127,0.1,1014.3,716.85,297.45,0.2933,Social Media
+50255,2024-03-20,2024,Q1,Mar,12,West,California,Accessories,Mouse,Distributor,Corporate,19,840,0.05,15162.0,9211.83,5950.17,0.3924,Social Media
+50256,2024-09-08,2024,Q3,Sep,36,South,Florida,Electronics,Phone,Distributor,Corporate,4,228,0.05,866.4,629.25,237.15,0.2737,Affiliate
+50257,2024-10-13,2024,Q4,Oct,41,West,Washington,Furniture,Desk,Distributor,Corporate,22,1256,0.15,23487.2,13769.2,9718.0,0.4138,Email
+50258,2024-06-01,2024,Q2,Jun,22,Northeast,New York,Accessories,Mouse,Retail,Consumer,22,216,0.0,4752.0,3280.5,1471.5,0.3097,Social Media
+50259,2024-09-16,2024,Q3,Sep,38,South,Georgia,Accessories,Mouse,Online,Small Business,20,296,0.0,5920.0,3548.41,2371.59,0.4006,Direct
+50260,2024-01-26,2024,Q1,Jan,4,Northeast,New York,Furniture,Desk,Retail,Small Business,7,170,0.0,1190.0,739.56,450.44,0.3785,Email
+50261,2024-08-22,2024,Q3,Aug,34,South,Georgia,Furniture,Desk,Distributor,Small Business,19,409,0.05,7382.45,4175.64,3206.81,0.4344,Social Media
+50262,2024-02-06,2024,Q1,Feb,6,West,California,Accessories,Keyboard,Distributor,Small Business,25,718,0.15,15257.5,10960.88,4296.62,0.2816,Direct
+50263,2024-12-16,2024,Q4,Dec,51,West,Washington,Accessories,Mouse,Retail,Small Business,6,542,0.1,2926.8,1618.08,1308.72,0.4472,Email
+50264,2024-08-27,2024,Q3,Aug,35,South,Georgia,Furniture,Chair,Retail,Corporate,4,517,0.0,2068.0,1409.91,658.09,0.3182,Email
+50265,2024-05-06,2024,Q2,May,19,Midwest,Michigan,Furniture,Chair,Retail,Consumer,10,1057,0.1,9513.0,5366.97,4146.03,0.4358,Affiliate
+50266,2024-11-27,2024,Q4,Nov,48,West,Colorado,Electronics,Tablet,Online,Consumer,12,1160,0.0,13920.0,7971.77,5948.23,0.4273,Affiliate
+50267,2024-01-06,2024,Q1,Jan,1,West,Washington,Accessories,Keyboard,Distributor,Small Business,14,526,0.05,6995.8,3936.1,3059.7,0.4374,Google Ads
+50268,2024-02-09,2024,Q1,Feb,6,South,Georgia,Furniture,Cabinet,Online,Small Business,3,362,0.05,1031.7,734.5,297.2,0.2881,Social Media
+50269,2024-06-28,2024,Q2,Jun,26,Midwest,Michigan,Electronics,Phone,Distributor,Corporate,19,1156,0.1,19767.6,14043.11,5724.49,0.2896,Google Ads
+50270,2024-02-05,2024,Q1,Feb,6,West,Washington,Electronics,Tablet,Retail,Small Business,1,157,0.15,133.45,74.04,59.41,0.4452,Google Ads
+50271,2024-02-20,2024,Q1,Feb,8,South,Florida,Accessories,Mouse,Retail,Consumer,12,1176,0.15,11995.2,8179.55,3815.65,0.3181,Social Media
+50272,2024-07-18,2024,Q3,Jul,29,Midwest,Illinois,Accessories,Keyboard,Retail,Corporate,16,870,0.1,12528.0,8859.79,3668.21,0.2928,Direct
+50273,2024-11-30,2024,Q4,Nov,48,South,Florida,Accessories,Keyboard,Retail,Corporate,24,437,0.0,10488.0,7682.77,2805.23,0.2675,Google Ads
+50274,2024-04-24,2024,Q2,Apr,17,Northeast,Pennsylvania,Furniture,Chair,Distributor,Corporate,17,135,0.05,2180.25,1278.23,902.02,0.4137,Google Ads
+50275,2024-05-23,2024,Q2,May,21,West,California,Electronics,Tablet,Distributor,Consumer,7,924,0.0,6468.0,4773.96,1694.04,0.2619,Email
+50276,2024-03-26,2024,Q1,Mar,13,Northeast,Pennsylvania,Electronics,Laptop,Retail,Small Business,3,1011,0.05,2881.35,1941.05,940.3,0.3263,Direct
+50277,2024-05-19,2024,Q2,May,20,Northeast,Pennsylvania,Accessories,Headphones,Retail,Small Business,12,364,0.15,3712.8,2226.07,1486.73,0.4004,Direct
+50278,2024-03-02,2024,Q1,Mar,9,South,Texas,Electronics,Laptop,Online,Consumer,22,235,0.0,5170.0,3820.12,1349.88,0.2611,Social Media
+50279,2024-12-12,2024,Q4,Dec,50,South,Texas,Accessories,Mouse,Distributor,Small Business,17,375,0.15,5418.75,4010.93,1407.82,0.2598,Affiliate
+50280,2024-12-01,2024,Q4,Dec,48,Northeast,New York,Furniture,Desk,Retail,Small Business,10,794,0.15,6749.0,4573.1,2175.9,0.3224,Direct
+50281,2024-08-23,2024,Q3,Aug,34,West,Washington,Furniture,Desk,Online,Small Business,24,185,0.1,3996.0,2580.66,1415.34,0.3542,Direct
+50282,2024-05-07,2024,Q2,May,19,Northeast,Pennsylvania,Furniture,Desk,Retail,Consumer,6,1086,0.1,5864.4,3642.41,2221.99,0.3789,Social Media
+50283,2024-08-07,2024,Q3,Aug,32,Northeast,New York,Electronics,Laptop,Retail,Corporate,18,1233,0.1,19974.6,11230.99,8743.61,0.4377,Google Ads
+50284,2024-11-08,2024,Q4,Nov,45,Midwest,Illinois,Furniture,Chair,Online,Corporate,18,1060,0.15,16218.0,10963.54,5254.46,0.324,Affiliate
+50285,2024-04-22,2024,Q2,Apr,17,West,Washington,Accessories,Headphones,Distributor,Small Business,19,184,0.1,3146.4,1920.0,1226.4,0.3898,Direct
+50286,2024-09-08,2024,Q3,Sep,36,Midwest,Ohio,Furniture,Cabinet,Retail,Small Business,12,125,0.1,1350.0,775.55,574.45,0.4255,Social Media
+50287,2024-09-09,2024,Q3,Sep,37,West,Colorado,Furniture,Desk,Distributor,Consumer,11,880,0.1,8712.0,5285.8,3426.2,0.3933,Email
+50288,2024-11-30,2024,Q4,Nov,48,Midwest,Ohio,Accessories,Mouse,Retail,Corporate,6,1197,0.0,7182.0,5204.64,1977.36,0.2753,Affiliate
+50289,2024-03-16,2024,Q1,Mar,11,West,Washington,Accessories,Mouse,Online,Small Business,23,517,0.0,11891.0,8803.51,3087.49,0.2596,Direct
+50290,2024-11-09,2024,Q4,Nov,45,South,Texas,Electronics,Tablet,Retail,Corporate,3,341,0.1,920.7,656.54,264.16,0.2869,Direct
+50291,2024-07-04,2024,Q3,Jul,27,West,Colorado,Accessories,Keyboard,Distributor,Small Business,21,269,0.1,5084.1,2966.71,2117.39,0.4165,Google Ads
+50292,2024-02-20,2024,Q1,Feb,8,West,Washington,Furniture,Desk,Online,Small Business,20,708,0.15,12036.0,7317.31,4718.69,0.392,Direct
+50293,2024-05-22,2024,Q2,May,21,Northeast,Massachusetts,Electronics,Laptop,Retail,Consumer,18,334,0.05,5711.4,3406.31,2305.09,0.4036,Email
+50294,2024-06-07,2024,Q2,Jun,23,West,Colorado,Accessories,Keyboard,Distributor,Corporate,1,407,0.0,407.0,237.5,169.5,0.4165,Email
+50295,2024-09-08,2024,Q3,Sep,36,Northeast,Massachusetts,Accessories,Mouse,Retail,Consumer,19,1009,0.0,19171.0,11364.04,7806.96,0.4072,Email
+50296,2024-02-10,2024,Q1,Feb,6,South,Florida,Accessories,Headphones,Retail,Small Business,11,607,0.05,6343.15,3726.36,2616.79,0.4125,Direct
+50297,2024-01-04,2024,Q1,Jan,1,Midwest,Ohio,Furniture,Desk,Online,Corporate,5,419,0.05,1990.25,1339.76,650.49,0.3268,Email
+50298,2024-10-11,2024,Q4,Oct,41,Northeast,Massachusetts,Electronics,Laptop,Online,Corporate,5,889,0.15,3778.25,2495.18,1283.07,0.3396,Email
+50299,2024-11-30,2024,Q4,Nov,48,South,Texas,Electronics,Laptop,Online,Consumer,7,1011,0.1,6369.3,3587.28,2782.02,0.4368,Email
+50300,2024-07-08,2024,Q3,Jul,28,Midwest,Michigan,Furniture,Cabinet,Online,Small Business,15,459,0.1,6196.5,4122.62,2073.88,0.3347,Email
+50301,2024-11-15,2024,Q4,Nov,46,Northeast,Massachusetts,Furniture,Chair,Distributor,Small Business,10,1296,0.05,12312.0,8168.49,4143.51,0.3365,Direct
+50302,2024-01-30,2024,Q1,Jan,5,South,Texas,Accessories,Mouse,Retail,Small Business,13,294,0.1,3439.8,2000.77,1439.03,0.4183,Affiliate
+50303,2024-10-27,2024,Q4,Oct,43,West,California,Furniture,Cabinet,Retail,Small Business,1,393,0.05,373.35,212.85,160.5,0.4299,Social Media
+50304,2024-02-11,2024,Q1,Feb,6,Northeast,Massachusetts,Electronics,Phone,Distributor,Corporate,12,1222,0.1,13197.6,7985.4,5212.2,0.3949,Social Media
+50305,2024-07-01,2024,Q3,Jul,27,West,California,Accessories,Headphones,Distributor,Corporate,6,479,0.0,2874.0,2097.05,776.95,0.2703,Social Media
+50306,2024-02-08,2024,Q1,Feb,6,Midwest,Michigan,Electronics,Phone,Retail,Corporate,19,385,0.0,7315.0,5319.38,1995.62,0.2728,Google Ads
+50307,2024-04-10,2024,Q2,Apr,15,Northeast,New York,Accessories,Keyboard,Online,Corporate,5,787,0.05,3738.25,2540.21,1198.04,0.3205,Affiliate
+50308,2024-06-11,2024,Q2,Jun,24,South,Georgia,Furniture,Cabinet,Retail,Corporate,2,757,0.15,1286.9,714.52,572.38,0.4448,Google Ads
+50309,2024-06-10,2024,Q2,Jun,24,Northeast,Pennsylvania,Furniture,Desk,Online,Corporate,10,126,0.1,1134.0,639.52,494.48,0.436,Email
+50310,2024-08-30,2024,Q3,Aug,35,West,California,Accessories,Keyboard,Retail,Consumer,20,868,0.0,17360.0,11072.01,6287.99,0.3622,Direct
+50311,2024-07-28,2024,Q3,Jul,30,West,Colorado,Electronics,Phone,Distributor,Corporate,6,489,0.1,2640.6,1638.31,1002.29,0.3796,Social Media
+50312,2024-06-14,2024,Q2,Jun,24,West,California,Furniture,Chair,Retail,Corporate,19,1152,0.15,18604.8,10651.43,7953.37,0.4275,Social Media
+50313,2024-07-21,2024,Q3,Jul,29,West,Colorado,Electronics,Phone,Online,Small Business,11,630,0.15,5890.5,3453.25,2437.25,0.4138,Social Media
+50314,2024-02-20,2024,Q1,Feb,8,West,California,Furniture,Desk,Online,Corporate,12,276,0.15,2815.2,2097.97,717.23,0.2548,Social Media
+50315,2024-12-29,2024,Q4,Dec,52,Midwest,Michigan,Electronics,Tablet,Distributor,Corporate,6,530,0.05,3021.0,1913.27,1107.73,0.3667,Email
+50316,2024-05-22,2024,Q2,May,21,Northeast,Pennsylvania,Electronics,Tablet,Distributor,Small Business,17,607,0.15,8771.15,5071.42,3699.73,0.4218,Social Media
+50317,2024-03-26,2024,Q1,Mar,13,West,Washington,Accessories,Headphones,Retail,Corporate,20,1225,0.1,22050.0,15693.05,6356.95,0.2883,Social Media
+50318,2024-03-18,2024,Q1,Mar,12,South,Texas,Electronics,Phone,Distributor,Small Business,21,1189,0.05,23720.55,14259.68,9460.87,0.3988,Email
+50319,2024-06-25,2024,Q2,Jun,26,Midwest,Illinois,Accessories,Headphones,Online,Small Business,19,1160,0.0,22040.0,14672.17,7367.83,0.3343,Google Ads
+50320,2024-04-02,2024,Q2,Apr,14,Midwest,Illinois,Furniture,Desk,Distributor,Consumer,13,1275,0.05,15746.25,10305.85,5440.4,0.3455,Google Ads
+50321,2024-04-26,2024,Q2,Apr,17,West,California,Furniture,Desk,Online,Consumer,22,697,0.15,13033.9,7768.37,5265.53,0.404,Affiliate
+50322,2024-12-27,2024,Q4,Dec,52,West,California,Accessories,Mouse,Retail,Small Business,9,436,0.0,3924.0,2513.97,1410.03,0.3593,Email
+50323,2024-06-17,2024,Q2,Jun,25,Midwest,Ohio,Accessories,Mouse,Retail,Consumer,21,775,0.15,13833.75,7639.44,6194.31,0.4478,Direct
+50324,2024-11-07,2024,Q4,Nov,45,West,Washington,Electronics,Tablet,Online,Corporate,22,1221,0.1,24175.8,14121.8,10054.0,0.4159,Social Media
+50325,2024-11-22,2024,Q4,Nov,47,West,California,Furniture,Desk,Online,Corporate,4,1267,0.05,4814.6,2773.18,2041.42,0.424,Social Media
+50326,2024-07-07,2024,Q3,Jul,27,West,California,Furniture,Cabinet,Retail,Consumer,7,1188,0.0,8316.0,6094.6,2221.4,0.2671,Google Ads
+50327,2024-07-18,2024,Q3,Jul,29,South,Georgia,Accessories,Headphones,Distributor,Consumer,8,1131,0.15,7690.8,5738.98,1951.82,0.2538,Direct
+50328,2024-11-26,2024,Q4,Nov,48,West,Colorado,Electronics,Phone,Distributor,Small Business,25,440,0.15,9350.0,5437.62,3912.38,0.4184,Google Ads
+50329,2024-12-20,2024,Q4,Dec,51,South,Florida,Accessories,Mouse,Retail,Consumer,23,707,0.0,16261.0,10283.73,5977.27,0.3676,Affiliate
+50330,2024-07-12,2024,Q3,Jul,28,West,Colorado,Furniture,Cabinet,Retail,Corporate,4,539,0.15,1832.6,1275.28,557.32,0.3041,Google Ads
+50331,2024-02-15,2024,Q1,Feb,7,South,Georgia,Furniture,Desk,Distributor,Small Business,21,1149,0.05,22922.55,15835.68,7086.87,0.3092,Affiliate
+50332,2024-05-24,2024,Q2,May,21,West,California,Furniture,Cabinet,Online,Small Business,8,75,0.0,600.0,443.24,156.76,0.2613,Direct
+50333,2024-05-29,2024,Q2,May,22,South,Florida,Accessories,Keyboard,Online,Small Business,2,1130,0.0,2260.0,1628.5,631.5,0.2794,Direct
+50334,2024-11-22,2024,Q4,Nov,47,West,California,Furniture,Chair,Online,Corporate,7,785,0.15,4670.75,3287.68,1383.07,0.2961,Email
+50335,2024-02-19,2024,Q1,Feb,8,Midwest,Ohio,Accessories,Keyboard,Distributor,Small Business,20,858,0.15,14586.0,8540.82,6045.18,0.4145,Direct
+50336,2024-07-03,2024,Q3,Jul,27,South,Georgia,Accessories,Mouse,Online,Corporate,11,1063,0.05,11108.35,6411.33,4697.02,0.4228,Direct
+50337,2024-05-06,2024,Q2,May,19,Northeast,Pennsylvania,Electronics,Phone,Online,Small Business,1,1179,0.1,1061.1,763.24,297.86,0.2807,Affiliate
+50338,2024-05-06,2024,Q2,May,19,Midwest,Ohio,Electronics,Tablet,Distributor,Small Business,3,881,0.0,2643.0,1628.09,1014.91,0.384,Google Ads
+50339,2024-08-09,2024,Q3,Aug,32,Northeast,Massachusetts,Furniture,Cabinet,Distributor,Consumer,16,973,0.1,14011.2,8089.91,5921.29,0.4226,Google Ads
+50340,2024-03-31,2024,Q1,Mar,13,Northeast,Pennsylvania,Accessories,Headphones,Distributor,Small Business,25,1117,0.1,25132.5,16010.69,9121.81,0.3629,Direct
+50341,2024-06-08,2024,Q2,Jun,23,West,Colorado,Furniture,Desk,Retail,Small Business,2,133,0.15,226.1,168.15,57.95,0.2563,Affiliate
+50342,2024-11-05,2024,Q4,Nov,45,Midwest,Illinois,Accessories,Headphones,Online,Consumer,20,918,0.05,17442.0,11948.89,5493.11,0.3149,Email
+50343,2024-09-04,2024,Q3,Sep,36,Midwest,Michigan,Furniture,Cabinet,Retail,Corporate,1,972,0.1,874.8,631.06,243.74,0.2786,Email
+50344,2024-09-08,2024,Q3,Sep,36,Northeast,New York,Electronics,Phone,Retail,Corporate,24,550,0.15,11220.0,7197.79,4022.21,0.3585,Direct
+50345,2024-09-22,2024,Q3,Sep,38,South,Florida,Electronics,Tablet,Retail,Consumer,9,1235,0.0,11115.0,6965.96,4149.04,0.3733,Email
+50346,2024-08-31,2024,Q3,Aug,35,West,Washington,Furniture,Desk,Retail,Corporate,3,1027,0.0,3081.0,1761.95,1319.05,0.4281,Affiliate
+50347,2024-11-03,2024,Q4,Nov,44,South,Texas,Electronics,Tablet,Distributor,Consumer,5,530,0.0,2650.0,1922.37,727.63,0.2746,Email
+50348,2024-10-18,2024,Q4,Oct,42,West,Washington,Furniture,Chair,Online,Consumer,8,1249,0.0,9992.0,6782.83,3209.17,0.3212,Affiliate
+50349,2024-11-13,2024,Q4,Nov,46,West,Washington,Electronics,Tablet,Distributor,Corporate,18,1177,0.15,18008.1,12026.67,5981.43,0.3322,Direct
+50350,2024-04-19,2024,Q2,Apr,16,Northeast,Massachusetts,Electronics,Phone,Online,Corporate,18,1285,0.15,19660.5,11022.38,8638.12,0.4394,Social Media
+50351,2024-06-19,2024,Q2,Jun,25,West,California,Accessories,Headphones,Online,Consumer,12,494,0.1,5335.2,3346.81,1988.39,0.3727,Email
+50352,2024-12-10,2024,Q4,Dec,50,Northeast,New York,Electronics,Laptop,Online,Consumer,7,354,0.1,2230.2,1550.39,679.81,0.3048,Email
+50353,2024-10-02,2024,Q4,Oct,40,South,Texas,Accessories,Headphones,Online,Consumer,3,484,0.1,1306.8,815.51,491.29,0.3759,Direct
+50354,2024-06-27,2024,Q2,Jun,26,Northeast,Massachusetts,Electronics,Phone,Online,Corporate,23,71,0.15,1388.05,827.79,560.26,0.4036,Google Ads
+50355,2024-09-12,2024,Q3,Sep,37,Northeast,Massachusetts,Electronics,Tablet,Online,Corporate,15,425,0.15,5418.75,3060.92,2357.83,0.4351,Direct
+50356,2024-06-23,2024,Q2,Jun,25,Northeast,Pennsylvania,Electronics,Laptop,Online,Small Business,2,978,0.05,1858.2,1147.02,711.18,0.3827,Email
+50357,2024-08-29,2024,Q3,Aug,35,West,California,Furniture,Desk,Online,Corporate,13,634,0.1,7417.8,5320.43,2097.37,0.2827,Google Ads
+50358,2024-11-16,2024,Q4,Nov,46,South,Florida,Furniture,Chair,Online,Small Business,10,840,0.0,8400.0,4677.86,3722.14,0.4431,Direct
+50359,2024-07-12,2024,Q3,Jul,28,Midwest,Michigan,Electronics,Tablet,Online,Consumer,10,188,0.1,1692.0,1107.6,584.4,0.3454,Social Media
+50360,2024-01-04,2024,Q1,Jan,1,West,Colorado,Electronics,Tablet,Distributor,Small Business,2,421,0.05,799.9,521.9,278.0,0.3475,Direct
+50361,2024-09-28,2024,Q3,Sep,39,Northeast,Pennsylvania,Accessories,Mouse,Online,Corporate,23,1113,0.0,25599.0,17990.21,7608.79,0.2972,Direct
+50362,2024-11-10,2024,Q4,Nov,45,Northeast,New York,Accessories,Mouse,Distributor,Consumer,14,1155,0.0,16170.0,11111.95,5058.05,0.3128,Social Media
+50363,2024-02-20,2024,Q1,Feb,8,West,California,Accessories,Mouse,Retail,Corporate,8,412,0.1,2966.4,1772.61,1193.79,0.4024,Direct
+50364,2024-06-05,2024,Q2,Jun,23,Northeast,New York,Furniture,Cabinet,Distributor,Consumer,13,182,0.0,2366.0,1679.18,686.82,0.2903,Direct
+50365,2024-01-09,2024,Q1,Jan,2,South,Georgia,Furniture,Desk,Online,Small Business,4,1234,0.05,4689.2,3287.45,1401.75,0.2989,Affiliate
+50366,2024-03-29,2024,Q1,Mar,13,West,Colorado,Electronics,Laptop,Retail,Small Business,10,347,0.1,3123.0,2315.89,807.11,0.2584,Social Media
+50367,2024-02-08,2024,Q1,Feb,6,Northeast,Massachusetts,Furniture,Cabinet,Retail,Corporate,7,1010,0.05,6716.5,4819.51,1896.99,0.2824,Direct
+50368,2024-06-03,2024,Q2,Jun,23,South,Florida,Accessories,Keyboard,Retail,Small Business,4,771,0.1,2775.6,1557.55,1218.05,0.4388,Social Media
+50369,2024-01-19,2024,Q1,Jan,3,West,California,Furniture,Cabinet,Distributor,Consumer,8,1069,0.0,8552.0,6005.03,2546.97,0.2978,Social Media
+50370,2024-09-17,2024,Q3,Sep,38,Northeast,New York,Furniture,Chair,Online,Consumer,11,307,0.05,3208.15,2370.44,837.71,0.2611,Google Ads
+50371,2024-11-21,2024,Q4,Nov,47,Midwest,Michigan,Electronics,Phone,Retail,Corporate,17,644,0.15,9305.8,5217.8,4088.0,0.4393,Social Media
+50372,2024-04-17,2024,Q2,Apr,16,Northeast,New York,Accessories,Keyboard,Online,Small Business,12,1104,0.05,12585.6,7320.84,5264.76,0.4183,Affiliate
+50373,2024-05-08,2024,Q2,May,19,Northeast,Massachusetts,Accessories,Headphones,Distributor,Small Business,10,667,0.05,6336.5,3623.98,2712.52,0.4281,Email
+50374,2024-02-14,2024,Q1,Feb,7,Northeast,Pennsylvania,Accessories,Mouse,Distributor,Consumer,25,825,0.1,18562.5,11693.17,6869.33,0.3701,Social Media
+50375,2024-12-26,2024,Q4,Dec,52,South,Georgia,Accessories,Mouse,Retail,Small Business,19,955,0.1,16330.5,9587.79,6742.71,0.4129,Email
+50376,2024-06-15,2024,Q2,Jun,24,South,Georgia,Electronics,Tablet,Distributor,Consumer,24,1014,0.0,24336.0,17447.57,6888.43,0.2831,Email
+50377,2024-03-26,2024,Q1,Mar,13,Northeast,Massachusetts,Electronics,Laptop,Distributor,Consumer,6,419,0.15,2136.9,1529.27,607.63,0.2844,Social Media
+50378,2024-08-16,2024,Q3,Aug,33,Midwest,Michigan,Furniture,Cabinet,Online,Consumer,22,404,0.05,8443.6,4831.04,3612.56,0.4278,Email
+50379,2024-02-27,2024,Q1,Feb,9,Midwest,Ohio,Accessories,Keyboard,Distributor,Small Business,11,441,0.05,4608.45,2822.12,1786.33,0.3876,Google Ads
+50380,2024-02-03,2024,Q1,Feb,5,Northeast,Massachusetts,Furniture,Desk,Distributor,Corporate,10,1171,0.15,9953.5,6781.02,3172.48,0.3187,Google Ads
+50381,2024-06-30,2024,Q2,Jun,26,Northeast,Massachusetts,Furniture,Cabinet,Retail,Consumer,11,268,0.05,2800.6,1636.73,1163.87,0.4156,Affiliate
+50382,2024-11-12,2024,Q4,Nov,46,Northeast,Massachusetts,Furniture,Desk,Online,Small Business,1,748,0.15,635.8,446.42,189.38,0.2979,Direct
+50383,2024-03-11,2024,Q1,Mar,11,Northeast,Pennsylvania,Accessories,Keyboard,Distributor,Small Business,15,1245,0.1,16807.5,12154.8,4652.7,0.2768,Google Ads
+50384,2024-01-12,2024,Q1,Jan,2,South,Georgia,Furniture,Desk,Online,Corporate,20,1140,0.0,22800.0,14469.29,8330.71,0.3654,Direct
+50385,2024-06-25,2024,Q2,Jun,26,Northeast,New York,Accessories,Headphones,Distributor,Corporate,17,869,0.0,14773.0,10556.46,4216.54,0.2854,Direct
+50386,2024-02-14,2024,Q1,Feb,7,West,Washington,Furniture,Chair,Retail,Corporate,15,433,0.05,6170.25,4525.22,1645.03,0.2666,Affiliate
+50387,2024-12-30,2024,Q4,Dec,1,South,Georgia,Furniture,Cabinet,Online,Small Business,6,226,0.1,1220.4,783.04,437.36,0.3584,Email
+50388,2024-03-24,2024,Q1,Mar,12,South,Florida,Furniture,Chair,Distributor,Corporate,2,995,0.1,1791.0,1094.97,696.03,0.3886,Google Ads
+50389,2024-02-08,2024,Q1,Feb,6,South,Florida,Furniture,Chair,Retail,Small Business,11,867,0.0,9537.0,5631.01,3905.99,0.4096,Google Ads
+50390,2024-03-17,2024,Q1,Mar,11,West,Washington,Accessories,Keyboard,Retail,Small Business,12,612,0.05,6976.8,4092.65,2884.15,0.4134,Social Media
+50391,2024-04-21,2024,Q2,Apr,16,South,Texas,Accessories,Mouse,Retail,Corporate,13,958,0.05,11831.3,8560.29,3271.01,0.2765,Email
+50392,2024-07-30,2024,Q3,Jul,31,South,Texas,Furniture,Chair,Online,Corporate,17,527,0.15,7615.15,4753.35,2861.8,0.3758,Google Ads
+50393,2024-07-28,2024,Q3,Jul,30,West,Colorado,Accessories,Mouse,Online,Consumer,23,331,0.0,7613.0,5707.84,1905.16,0.2503,Email
+50394,2024-05-05,2024,Q2,May,18,West,Colorado,Electronics,Tablet,Retail,Small Business,19,884,0.0,16796.0,12299.61,4496.39,0.2677,Google Ads
+50395,2024-04-23,2024,Q2,Apr,17,Northeast,New York,Accessories,Keyboard,Distributor,Corporate,23,216,0.0,4968.0,2870.4,2097.6,0.4222,Direct
+50396,2024-11-21,2024,Q4,Nov,47,Northeast,Pennsylvania,Electronics,Tablet,Retail,Small Business,2,924,0.0,1848.0,1329.33,518.67,0.2807,Social Media
+50397,2024-03-11,2024,Q1,Mar,11,South,Texas,Accessories,Keyboard,Online,Small Business,6,1052,0.0,6312.0,4570.08,1741.92,0.276,Email
+50398,2024-01-13,2024,Q1,Jan,2,Northeast,New York,Electronics,Phone,Online,Small Business,24,840,0.1,18144.0,10147.86,7996.14,0.4407,Direct
+50399,2024-09-18,2024,Q3,Sep,38,Midwest,Illinois,Furniture,Desk,Distributor,Corporate,7,1159,0.15,6896.05,5060.86,1835.19,0.2661,Email
+50400,2024-07-14,2024,Q3,Jul,28,Northeast,New York,Accessories,Mouse,Retail,Small Business,25,857,0.0,21425.0,14629.92,6795.08,0.3172,Google Ads
+50401,2024-10-16,2024,Q4,Oct,42,West,Colorado,Furniture,Cabinet,Distributor,Consumer,4,545,0.05,2071.0,1543.48,527.52,0.2547,Social Media
+50402,2024-11-29,2024,Q4,Nov,48,Midwest,Michigan,Accessories,Keyboard,Online,Small Business,21,821,0.1,15516.9,9775.89,5741.01,0.37,Email
+50403,2024-01-10,2024,Q1,Jan,2,Midwest,Illinois,Electronics,Tablet,Retail,Corporate,13,993,0.1,11618.1,7057.4,4560.7,0.3926,Direct
+50404,2024-09-19,2024,Q3,Sep,38,Midwest,Ohio,Electronics,Laptop,Distributor,Corporate,7,1132,0.1,7131.6,5216.0,1915.6,0.2686,Google Ads
+50405,2024-06-26,2024,Q2,Jun,26,Northeast,Massachusetts,Accessories,Keyboard,Online,Corporate,17,1261,0.05,20365.15,12062.54,8302.61,0.4077,Affiliate
+50406,2024-07-06,2024,Q3,Jul,27,South,Georgia,Electronics,Phone,Distributor,Consumer,2,685,0.0,1370.0,811.69,558.31,0.4075,Google Ads
+50407,2024-02-16,2024,Q1,Feb,7,Midwest,Ohio,Accessories,Mouse,Online,Small Business,20,522,0.05,9918.0,6096.34,3821.66,0.3853,Social Media
+50408,2024-07-15,2024,Q3,Jul,29,West,Colorado,Furniture,Desk,Distributor,Corporate,4,692,0.1,2491.2,1741.97,749.23,0.3008,Google Ads
+50409,2024-10-26,2024,Q4,Oct,43,South,Texas,Electronics,Tablet,Retail,Corporate,13,776,0.1,9079.2,5905.75,3173.45,0.3495,Email
+50410,2024-10-16,2024,Q4,Oct,42,Midwest,Ohio,Furniture,Chair,Online,Consumer,11,74,0.05,773.3,521.2,252.1,0.326,Email
+50411,2024-11-24,2024,Q4,Nov,47,Northeast,Pennsylvania,Electronics,Tablet,Retail,Corporate,20,472,0.1,8496.0,4744.3,3751.7,0.4416,Email
+50412,2024-03-10,2024,Q1,Mar,10,West,Colorado,Furniture,Desk,Retail,Consumer,23,869,0.0,19987.0,12355.86,7631.14,0.3818,Affiliate
+50413,2024-03-30,2024,Q1,Mar,13,West,Washington,Accessories,Headphones,Online,Corporate,2,1283,0.15,2181.1,1255.54,925.56,0.4244,Email
+50414,2024-08-04,2024,Q3,Aug,31,West,Washington,Furniture,Cabinet,Distributor,Consumer,19,547,0.05,9873.35,6853.49,3019.86,0.3059,Affiliate
+50415,2024-01-04,2024,Q1,Jan,1,Midwest,Ohio,Accessories,Keyboard,Retail,Small Business,19,256,0.1,4377.6,2894.15,1483.45,0.3389,Direct
+50416,2024-12-23,2024,Q4,Dec,52,Northeast,Massachusetts,Furniture,Cabinet,Online,Corporate,10,495,0.15,4207.5,3065.29,1142.21,0.2715,Email
+50417,2024-04-23,2024,Q2,Apr,17,Midwest,Illinois,Furniture,Desk,Distributor,Corporate,22,672,0.05,14044.8,9960.06,4084.74,0.2908,Google Ads
+50418,2024-10-23,2024,Q4,Oct,43,Northeast,New York,Furniture,Desk,Online,Consumer,24,1090,0.0,26160.0,15527.06,10632.94,0.4065,Direct
+50419,2024-08-31,2024,Q3,Aug,35,South,Florida,Furniture,Desk,Distributor,Consumer,9,341,0.1,2762.1,1908.82,853.28,0.3089,Social Media
+50420,2024-12-18,2024,Q4,Dec,51,Northeast,Massachusetts,Accessories,Headphones,Retail,Small Business,18,1278,0.15,19553.4,10829.87,8723.53,0.4461,Social Media
+50421,2024-07-07,2024,Q3,Jul,27,Midwest,Ohio,Accessories,Mouse,Retail,Corporate,22,1297,0.15,24253.9,17150.66,7103.24,0.2929,Direct
+50422,2024-04-10,2024,Q2,Apr,15,West,California,Furniture,Cabinet,Online,Small Business,24,213,0.15,4345.2,3216.67,1128.53,0.2597,Social Media
+50423,2024-12-25,2024,Q4,Dec,52,West,California,Furniture,Cabinet,Online,Small Business,19,405,0.0,7695.0,5182.22,2512.78,0.3265,Google Ads
+50424,2024-01-18,2024,Q1,Jan,3,West,Colorado,Accessories,Keyboard,Online,Consumer,22,897,0.05,18747.3,11319.87,7427.43,0.3962,Affiliate
+50425,2024-11-25,2024,Q4,Nov,48,South,Florida,Furniture,Chair,Distributor,Small Business,9,987,0.0,8883.0,5106.31,3776.69,0.4252,Affiliate
+50426,2024-06-18,2024,Q2,Jun,25,Northeast,Pennsylvania,Electronics,Laptop,Online,Corporate,17,639,0.15,9233.55,6505.8,2727.75,0.2954,Social Media
+50427,2024-07-15,2024,Q3,Jul,29,South,Florida,Electronics,Tablet,Online,Corporate,3,1054,0.0,3162.0,1864.6,1297.4,0.4103,Email
+50428,2024-03-10,2024,Q1,Mar,10,Midwest,Illinois,Accessories,Mouse,Retail,Small Business,9,1122,0.0,10098.0,6313.9,3784.1,0.3747,Google Ads
+50429,2024-12-28,2024,Q4,Dec,52,Midwest,Ohio,Electronics,Laptop,Retail,Corporate,21,1010,0.0,21210.0,15645.38,5564.62,0.2624,Affiliate
+50430,2024-07-07,2024,Q3,Jul,27,Midwest,Illinois,Electronics,Tablet,Distributor,Consumer,7,232,0.1,1461.6,1055.34,406.26,0.278,Social Media
+50431,2024-11-22,2024,Q4,Nov,47,Northeast,Massachusetts,Furniture,Cabinet,Distributor,Corporate,20,305,0.0,6100.0,3526.9,2573.1,0.4218,Affiliate
+50432,2024-11-03,2024,Q4,Nov,44,West,Washington,Accessories,Keyboard,Retail,Corporate,3,213,0.15,543.15,371.69,171.46,0.3157,Direct
+50433,2024-12-15,2024,Q4,Dec,50,Northeast,Pennsylvania,Accessories,Mouse,Distributor,Small Business,14,413,0.0,5782.0,4181.9,1600.1,0.2767,Social Media
+50434,2024-11-06,2024,Q4,Nov,45,South,Georgia,Furniture,Chair,Distributor,Small Business,17,633,0.05,10222.95,5765.55,4457.4,0.436,Google Ads
+50435,2024-08-14,2024,Q3,Aug,33,Northeast,Pennsylvania,Accessories,Headphones,Distributor,Corporate,20,750,0.05,14250.0,10389.64,3860.36,0.2709,Affiliate
+50436,2024-03-02,2024,Q1,Mar,9,West,Colorado,Furniture,Chair,Distributor,Small Business,19,1126,0.05,20324.3,12994.08,7330.22,0.3607,Email
+50437,2024-07-26,2024,Q3,Jul,30,South,Florida,Electronics,Tablet,Online,Consumer,8,818,0.15,5562.4,3269.52,2292.88,0.4122,Google Ads
+50438,2024-02-25,2024,Q1,Feb,8,South,Georgia,Accessories,Keyboard,Retail,Small Business,20,716,0.05,13604.0,8682.86,4921.14,0.3617,Affiliate
+50439,2024-11-21,2024,Q4,Nov,47,South,Georgia,Accessories,Mouse,Retail,Consumer,23,534,0.1,11053.8,7286.56,3767.24,0.3408,Social Media
+50440,2024-06-11,2024,Q2,Jun,24,Northeast,New York,Electronics,Tablet,Online,Consumer,25,1200,0.15,25500.0,18543.21,6956.79,0.2728,Direct
+50441,2024-01-11,2024,Q1,Jan,2,West,Washington,Accessories,Headphones,Online,Small Business,12,614,0.1,6631.2,4958.45,1672.75,0.2523,Direct
+50442,2024-08-10,2024,Q3,Aug,32,West,Washington,Electronics,Tablet,Retail,Corporate,14,760,0.0,10640.0,7666.3,2973.7,0.2795,Google Ads
+50443,2024-02-07,2024,Q1,Feb,6,Northeast,Massachusetts,Electronics,Phone,Retail,Corporate,14,93,0.15,1106.7,683.04,423.66,0.3828,Direct
+50444,2024-04-24,2024,Q2,Apr,17,South,Texas,Accessories,Headphones,Online,Corporate,18,1268,0.05,21682.8,15235.8,6447.0,0.2973,Google Ads
+50445,2024-10-24,2024,Q4,Oct,43,West,California,Accessories,Keyboard,Distributor,Small Business,21,1295,0.05,25835.25,15368.98,10466.27,0.4051,Google Ads
+50446,2024-06-30,2024,Q2,Jun,26,Northeast,Pennsylvania,Furniture,Desk,Distributor,Small Business,11,273,0.0,3003.0,1816.2,1186.8,0.3952,Social Media
+50447,2024-04-08,2024,Q2,Apr,15,West,California,Accessories,Mouse,Retail,Consumer,25,395,0.15,8393.75,5949.5,2444.25,0.2912,Social Media
+50448,2024-08-19,2024,Q3,Aug,34,Northeast,Pennsylvania,Electronics,Phone,Distributor,Corporate,14,866,0.15,10305.4,6723.31,3582.09,0.3476,Email
+50449,2024-03-15,2024,Q1,Mar,11,Midwest,Ohio,Furniture,Chair,Distributor,Corporate,5,497,0.1,2236.5,1493.54,742.96,0.3322,Email
+50450,2024-05-02,2024,Q2,May,18,Midwest,Ohio,Accessories,Headphones,Online,Small Business,2,798,0.1,1436.4,970.73,465.67,0.3242,Direct
+50451,2024-05-14,2024,Q2,May,20,Northeast,New York,Furniture,Chair,Online,Corporate,25,552,0.0,13800.0,8005.18,5794.82,0.4199,Google Ads
+50452,2024-08-05,2024,Q3,Aug,32,West,Colorado,Electronics,Laptop,Distributor,Small Business,24,164,0.0,3936.0,2424.36,1511.64,0.3841,Direct
+50453,2024-06-23,2024,Q2,Jun,25,South,Florida,Accessories,Keyboard,Online,Consumer,16,205,0.1,2952.0,2067.45,884.55,0.2996,Social Media
+50454,2024-09-03,2024,Q3,Sep,36,Northeast,Massachusetts,Furniture,Cabinet,Distributor,Small Business,2,900,0.1,1620.0,1129.1,490.9,0.303,Google Ads
+50455,2024-01-30,2024,Q1,Jan,5,Midwest,Michigan,Furniture,Chair,Retail,Small Business,2,384,0.1,691.2,393.55,297.65,0.4306,Direct
+50456,2024-08-18,2024,Q3,Aug,33,Northeast,Massachusetts,Furniture,Desk,Retail,Small Business,10,1200,0.05,11400.0,8162.91,3237.09,0.284,Affiliate
+50457,2024-03-04,2024,Q1,Mar,10,South,Georgia,Electronics,Laptop,Retail,Corporate,17,88,0.05,1421.2,816.71,604.49,0.4253,Email
+50458,2024-10-03,2024,Q4,Oct,40,South,Florida,Electronics,Phone,Online,Small Business,1,756,0.15,642.6,444.73,197.87,0.3079,Google Ads
+50459,2024-12-07,2024,Q4,Dec,49,South,Florida,Accessories,Keyboard,Distributor,Consumer,1,384,0.0,384.0,270.58,113.42,0.2954,Social Media
+50460,2024-05-05,2024,Q2,May,18,South,Georgia,Furniture,Desk,Distributor,Consumer,13,62,0.05,765.7,498.34,267.36,0.3492,Email
+50461,2024-03-31,2024,Q1,Mar,13,Northeast,New York,Accessories,Mouse,Retail,Consumer,25,837,0.15,17786.25,12680.25,5106.0,0.2871,Email
+50462,2024-05-27,2024,Q2,May,22,West,California,Furniture,Cabinet,Retail,Small Business,20,1077,0.05,20463.0,14489.78,5973.22,0.2919,Social Media
+50463,2024-01-22,2024,Q1,Jan,4,Northeast,Massachusetts,Furniture,Desk,Online,Corporate,15,825,0.15,10518.75,6980.71,3538.04,0.3364,Social Media
+50464,2024-04-24,2024,Q2,Apr,17,West,Washington,Accessories,Mouse,Distributor,Consumer,12,687,0.05,7831.8,4710.53,3121.27,0.3985,Google Ads
+50465,2024-02-25,2024,Q1,Feb,8,Midwest,Illinois,Electronics,Laptop,Distributor,Corporate,17,1243,0.0,21131.0,12051.4,9079.6,0.4297,Social Media
+50466,2024-01-20,2024,Q1,Jan,3,Northeast,Massachusetts,Electronics,Tablet,Online,Small Business,6,482,0.05,2747.4,1593.85,1153.55,0.4199,Email
+50467,2024-02-06,2024,Q1,Feb,6,Midwest,Ohio,Electronics,Tablet,Retail,Consumer,1,1262,0.15,1072.7,665.09,407.61,0.38,Google Ads
+50468,2024-01-31,2024,Q1,Jan,5,South,Georgia,Accessories,Keyboard,Online,Consumer,16,435,0.05,6612.0,4387.47,2224.53,0.3364,Affiliate
+50469,2024-10-16,2024,Q4,Oct,42,Midwest,Ohio,Accessories,Keyboard,Distributor,Consumer,24,471,0.15,9608.4,5942.63,3665.77,0.3815,Google Ads
+50470,2024-04-13,2024,Q2,Apr,15,West,Washington,Electronics,Laptop,Retail,Corporate,19,369,0.0,7011.0,4897.69,2113.31,0.3014,Affiliate
+50471,2024-09-22,2024,Q3,Sep,38,South,Georgia,Electronics,Tablet,Distributor,Corporate,2,153,0.15,260.1,189.16,70.94,0.2727,Google Ads
+50472,2024-07-08,2024,Q3,Jul,28,West,California,Furniture,Chair,Retail,Corporate,10,181,0.1,1629.0,1039.63,589.37,0.3618,Affiliate
+50473,2024-08-22,2024,Q3,Aug,34,Midwest,Ohio,Electronics,Phone,Online,Corporate,16,873,0.15,11872.8,6891.27,4981.53,0.4196,Affiliate
+50474,2024-06-07,2024,Q2,Jun,23,South,Texas,Furniture,Chair,Distributor,Corporate,17,1022,0.0,17374.0,11973.68,5400.32,0.3108,Google Ads
+50475,2024-10-11,2024,Q4,Oct,41,West,Washington,Accessories,Mouse,Retail,Consumer,9,402,0.1,3256.2,1826.1,1430.1,0.4392,Affiliate
+50476,2024-06-22,2024,Q2,Jun,25,West,California,Accessories,Headphones,Distributor,Small Business,5,187,0.0,935.0,537.41,397.59,0.4252,Email
+50477,2024-04-08,2024,Q2,Apr,15,West,Colorado,Accessories,Mouse,Retail,Corporate,14,324,0.0,4536.0,2557.19,1978.81,0.4362,Google Ads
+50478,2024-02-03,2024,Q1,Feb,5,South,Texas,Accessories,Keyboard,Retail,Small Business,17,234,0.1,3580.2,2010.32,1569.88,0.4385,Email
+50479,2024-10-02,2024,Q4,Oct,40,West,California,Electronics,Tablet,Retail,Consumer,10,344,0.15,2924.0,1822.58,1101.42,0.3767,Direct
+50480,2024-01-14,2024,Q1,Jan,2,South,Texas,Accessories,Keyboard,Distributor,Consumer,19,1011,0.1,17288.1,10735.6,6552.5,0.379,Google Ads
+50481,2024-09-09,2024,Q3,Sep,37,West,Washington,Electronics,Phone,Distributor,Consumer,16,1013,0.1,14587.2,10782.86,3804.34,0.2608,Email
+50482,2024-11-04,2024,Q4,Nov,45,Northeast,New York,Furniture,Chair,Retail,Corporate,7,1245,0.05,8279.25,4855.48,3423.77,0.4135,Affiliate
+50483,2024-07-26,2024,Q3,Jul,30,West,Colorado,Furniture,Cabinet,Retail,Consumer,13,321,0.05,3964.35,2603.72,1360.63,0.3432,Social Media
+50484,2024-01-03,2024,Q1,Jan,1,South,Florida,Accessories,Keyboard,Retail,Corporate,24,581,0.15,11852.4,7081.51,4770.89,0.4025,Social Media
+50485,2024-03-15,2024,Q1,Mar,11,Northeast,Pennsylvania,Accessories,Headphones,Retail,Corporate,1,720,0.1,648.0,404.68,243.32,0.3755,Email
+50486,2024-09-14,2024,Q3,Sep,37,South,Texas,Electronics,Laptop,Distributor,Consumer,7,943,0.15,5610.85,3442.6,2168.25,0.3864,Direct
+50487,2024-12-07,2024,Q4,Dec,49,South,Georgia,Accessories,Headphones,Distributor,Consumer,21,353,0.0,7413.0,5244.9,2168.1,0.2925,Affiliate
+50488,2024-12-10,2024,Q4,Dec,50,South,Georgia,Electronics,Tablet,Distributor,Small Business,3,310,0.0,930.0,645.91,284.09,0.3055,Affiliate
+50489,2024-02-04,2024,Q1,Feb,5,Northeast,New York,Electronics,Laptop,Online,Consumer,24,75,0.15,1530.0,1112.96,417.04,0.2726,Email
+50490,2024-08-26,2024,Q3,Aug,35,West,Washington,Furniture,Chair,Distributor,Corporate,12,685,0.15,6987.0,5040.81,1946.19,0.2785,Affiliate
+50491,2024-11-11,2024,Q4,Nov,46,Midwest,Michigan,Furniture,Desk,Online,Consumer,13,235,0.1,2749.5,1645.89,1103.61,0.4014,Email
+50492,2024-11-18,2024,Q4,Nov,47,West,Washington,Furniture,Desk,Distributor,Corporate,11,261,0.0,2871.0,1711.87,1159.13,0.4037,Social Media
+50493,2024-08-03,2024,Q3,Aug,31,South,Georgia,Accessories,Headphones,Distributor,Small Business,16,126,0.1,1814.4,1091.21,723.19,0.3986,Direct
+50494,2024-06-27,2024,Q2,Jun,26,South,Texas,Furniture,Cabinet,Distributor,Small Business,1,713,0.15,606.05,422.84,183.21,0.3023,Email
+50495,2024-12-04,2024,Q4,Dec,49,Northeast,Pennsylvania,Furniture,Desk,Retail,Consumer,18,680,0.0,12240.0,8642.37,3597.63,0.2939,Social Media
+50496,2024-07-28,2024,Q3,Jul,30,South,Texas,Accessories,Keyboard,Retail,Corporate,9,477,0.0,4293.0,2937.8,1355.2,0.3157,Google Ads
+50497,2024-07-11,2024,Q3,Jul,28,West,California,Electronics,Tablet,Distributor,Consumer,24,94,0.15,1917.6,1132.36,785.24,0.4095,Direct
+50498,2024-07-29,2024,Q3,Jul,31,Northeast,New York,Furniture,Chair,Online,Small Business,18,334,0.1,5410.8,3524.69,1886.11,0.3486,Direct
+50499,2024-08-20,2024,Q3,Aug,34,Midwest,Michigan,Accessories,Headphones,Online,Consumer,14,522,0.05,6942.6,5068.22,1874.38,0.27,Affiliate
+50500,2024-03-20,2024,Q1,Mar,12,Northeast,New York,Furniture,Desk,Distributor,Consumer,6,218,0.1,1177.2,853.35,323.85,0.2751,Google Ads
+50501,2024-11-20,2024,Q4,Nov,47,Northeast,Massachusetts,Furniture,Desk,Online,Consumer,24,66,0.05,1504.8,1090.78,414.02,0.2751,Google Ads
+50502,2024-09-11,2024,Q3,Sep,37,Northeast,Pennsylvania,Accessories,Keyboard,Distributor,Small Business,10,1239,0.0,12390.0,8490.39,3899.61,0.3147,Email
+50503,2024-06-13,2024,Q2,Jun,24,West,California,Accessories,Keyboard,Distributor,Corporate,22,1270,0.05,26543.0,14747.91,11795.09,0.4444,Email
+50504,2024-12-08,2024,Q4,Dec,49,Northeast,Massachusetts,Accessories,Headphones,Online,Consumer,16,1129,0.0,18064.0,10426.12,7637.88,0.4228,Direct
+50505,2024-03-03,2024,Q1,Mar,9,South,Florida,Electronics,Tablet,Distributor,Corporate,20,270,0.05,5130.0,3063.06,2066.94,0.4029,Direct
+50506,2024-09-05,2024,Q3,Sep,36,West,Washington,Furniture,Cabinet,Online,Small Business,2,822,0.0,1644.0,906.66,737.34,0.4485,Google Ads
+50507,2024-04-10,2024,Q2,Apr,15,West,California,Electronics,Phone,Distributor,Corporate,23,871,0.1,18029.7,11704.4,6325.3,0.3508,Direct
+50508,2024-06-06,2024,Q2,Jun,23,West,Colorado,Furniture,Cabinet,Retail,Small Business,13,755,0.0,9815.0,6488.37,3326.63,0.3389,Direct
+50509,2024-08-04,2024,Q3,Aug,31,Midwest,Ohio,Accessories,Headphones,Online,Consumer,3,826,0.0,2478.0,1563.8,914.2,0.3689,Google Ads
+50510,2024-03-15,2024,Q1,Mar,11,West,Washington,Furniture,Desk,Online,Consumer,14,1156,0.05,15374.8,9543.59,5831.21,0.3793,Google Ads
+50511,2024-07-07,2024,Q3,Jul,27,Midwest,Michigan,Furniture,Desk,Distributor,Consumer,11,1080,0.1,10692.0,7214.92,3477.08,0.3252,Social Media
+50512,2024-05-23,2024,Q2,May,21,South,Texas,Furniture,Chair,Retail,Small Business,18,919,0.05,15714.9,9562.41,6152.49,0.3915,Affiliate
+50513,2024-09-30,2024,Q3,Sep,40,Midwest,Ohio,Furniture,Cabinet,Online,Consumer,25,437,0.05,10378.75,7274.41,3104.34,0.2991,Google Ads
+50514,2024-04-18,2024,Q2,Apr,16,Northeast,New York,Electronics,Phone,Retail,Small Business,16,328,0.0,5248.0,3664.73,1583.27,0.3017,Affiliate
+50515,2024-08-04,2024,Q3,Aug,31,Midwest,Ohio,Electronics,Tablet,Distributor,Small Business,6,250,0.05,1425.0,839.69,585.31,0.4107,Direct
+50516,2024-03-26,2024,Q1,Mar,13,Midwest,Michigan,Furniture,Desk,Online,Consumer,3,517,0.0,1551.0,1147.77,403.23,0.26,Google Ads
+50517,2024-01-28,2024,Q1,Jan,4,South,Georgia,Electronics,Laptop,Online,Consumer,3,371,0.0,1113.0,636.76,476.24,0.4279,Google Ads
+50518,2024-10-14,2024,Q4,Oct,42,West,California,Furniture,Desk,Retail,Corporate,1,442,0.1,397.8,279.28,118.52,0.2979,Affiliate
+50519,2024-11-11,2024,Q4,Nov,46,Northeast,New York,Furniture,Chair,Distributor,Consumer,23,755,0.0,17365.0,10530.74,6834.26,0.3936,Affiliate
+50520,2024-05-10,2024,Q2,May,19,Northeast,New York,Furniture,Cabinet,Retail,Small Business,20,1136,0.0,22720.0,13854.59,8865.41,0.3902,Email
+50521,2024-09-20,2024,Q3,Sep,38,West,California,Furniture,Desk,Distributor,Corporate,19,342,0.05,6173.1,4481.06,1692.04,0.2741,Email
+50522,2024-09-28,2024,Q3,Sep,39,South,Florida,Furniture,Cabinet,Retail,Consumer,18,318,0.05,5437.8,3973.71,1464.09,0.2692,Affiliate
+50523,2024-02-04,2024,Q1,Feb,5,Midwest,Michigan,Accessories,Keyboard,Retail,Consumer,24,216,0.05,4924.8,2871.51,2053.29,0.4169,Social Media
+50524,2024-09-19,2024,Q3,Sep,38,West,Washington,Furniture,Chair,Retail,Consumer,4,735,0.05,2793.0,1754.6,1038.4,0.3718,Direct
+50525,2024-01-08,2024,Q1,Jan,2,Northeast,Pennsylvania,Electronics,Laptop,Distributor,Consumer,20,506,0.15,8602.0,6153.64,2448.36,0.2846,Affiliate
+50526,2024-05-02,2024,Q2,May,18,Midwest,Illinois,Accessories,Mouse,Retail,Corporate,19,762,0.15,12306.3,7988.9,4317.4,0.3508,Affiliate
+50527,2024-02-12,2024,Q1,Feb,7,South,Florida,Furniture,Cabinet,Online,Corporate,9,752,0.1,6091.2,4411.74,1679.46,0.2757,Social Media
+50528,2024-05-14,2024,Q2,May,20,South,Florida,Furniture,Chair,Retail,Consumer,24,466,0.1,10065.6,6871.48,3194.12,0.3173,Social Media
+50529,2024-12-24,2024,Q4,Dec,52,West,Washington,Electronics,Tablet,Retail,Corporate,18,301,0.0,5418.0,3072.22,2345.78,0.433,Email
+50530,2024-09-22,2024,Q3,Sep,38,Northeast,New York,Furniture,Desk,Retail,Small Business,1,1252,0.1,1126.8,626.26,500.54,0.4442,Direct
+50531,2024-08-27,2024,Q3,Aug,35,Northeast,New York,Furniture,Desk,Online,Small Business,6,738,0.1,3985.2,2921.83,1063.37,0.2668,Social Media
+50532,2024-09-05,2024,Q3,Sep,36,Midwest,Illinois,Electronics,Laptop,Retail,Consumer,10,854,0.05,8113.0,5165.2,2947.8,0.3633,Direct
+50533,2024-03-07,2024,Q1,Mar,10,Midwest,Michigan,Furniture,Desk,Retail,Corporate,25,1162,0.1,26145.0,18178.81,7966.19,0.3047,Direct
+50534,2024-04-12,2024,Q2,Apr,15,Midwest,Illinois,Accessories,Keyboard,Distributor,Small Business,1,742,0.0,742.0,488.14,253.86,0.3421,Affiliate
+50535,2024-09-13,2024,Q3,Sep,37,West,California,Furniture,Chair,Retail,Small Business,25,649,0.15,13791.25,9710.34,4080.91,0.2959,Email
+50536,2024-12-11,2024,Q4,Dec,50,Midwest,Michigan,Furniture,Chair,Online,Small Business,9,595,0.0,5355.0,3828.16,1526.84,0.2851,Email
+50537,2024-05-29,2024,Q2,May,22,West,Washington,Furniture,Cabinet,Online,Small Business,14,1098,0.0,15372.0,10664.08,4707.92,0.3063,Direct
+50538,2024-04-09,2024,Q2,Apr,15,Northeast,Massachusetts,Electronics,Phone,Retail,Corporate,12,983,0.15,10026.6,6055.06,3971.54,0.3961,Google Ads
+50539,2024-08-17,2024,Q3,Aug,33,Northeast,Pennsylvania,Accessories,Keyboard,Retail,Corporate,15,826,0.05,11770.5,6783.14,4987.36,0.4237,Google Ads
+50540,2024-01-04,2024,Q1,Jan,1,West,California,Electronics,Laptop,Online,Small Business,8,150,0.15,1020.0,731.46,288.54,0.2829,Affiliate
+50541,2024-10-14,2024,Q4,Oct,42,West,Colorado,Accessories,Mouse,Online,Consumer,7,943,0.05,6270.95,4391.41,1879.54,0.2997,Email
+50542,2024-10-10,2024,Q4,Oct,41,West,California,Electronics,Laptop,Online,Consumer,24,701,0.05,15982.8,10975.44,5007.36,0.3133,Email
+50543,2024-09-01,2024,Q3,Sep,35,Midwest,Illinois,Electronics,Laptop,Online,Corporate,23,465,0.0,10695.0,6232.78,4462.22,0.4172,Direct
+50544,2024-01-12,2024,Q1,Jan,2,West,California,Electronics,Phone,Distributor,Consumer,1,1062,0.0,1062.0,727.69,334.31,0.3148,Affiliate
+50545,2024-07-02,2024,Q3,Jul,27,Northeast,Massachusetts,Accessories,Mouse,Online,Corporate,1,881,0.05,836.95,493.69,343.26,0.4101,Direct
+50546,2024-08-14,2024,Q3,Aug,33,Northeast,Massachusetts,Furniture,Cabinet,Distributor,Corporate,4,651,0.15,2213.4,1502.43,710.97,0.3212,Direct
+50547,2024-11-20,2024,Q4,Nov,47,Midwest,Ohio,Accessories,Headphones,Distributor,Small Business,18,1025,0.05,17527.5,12296.35,5231.15,0.2985,Affiliate
+50548,2024-02-02,2024,Q1,Feb,5,South,Florida,Electronics,Phone,Distributor,Corporate,22,58,0.05,1212.2,687.4,524.8,0.4329,Google Ads
+50549,2024-01-08,2024,Q1,Jan,2,Midwest,Michigan,Electronics,Tablet,Retail,Consumer,13,896,0.15,9900.8,5834.98,4065.82,0.4107,Email
+50550,2024-12-08,2024,Q4,Dec,49,Northeast,Massachusetts,Electronics,Tablet,Retail,Small Business,17,208,0.15,3005.6,2064.33,941.27,0.3132,Affiliate
+50551,2024-07-02,2024,Q3,Jul,27,South,Florida,Furniture,Cabinet,Online,Consumer,18,563,0.1,9120.6,5686.04,3434.56,0.3766,Google Ads
+50552,2024-09-15,2024,Q3,Sep,37,West,California,Furniture,Chair,Retail,Corporate,4,54,0.15,183.6,132.32,51.28,0.2793,Social Media
+50553,2024-03-17,2024,Q1,Mar,11,Midwest,Ohio,Electronics,Laptop,Retail,Small Business,16,627,0.1,9028.8,5884.01,3144.79,0.3483,Google Ads
+50554,2024-10-20,2024,Q4,Oct,42,Midwest,Illinois,Accessories,Mouse,Distributor,Corporate,4,499,0.0,1996.0,1157.21,838.79,0.4202,Google Ads
+50555,2024-12-08,2024,Q4,Dec,49,Northeast,Pennsylvania,Electronics,Phone,Online,Corporate,16,122,0.05,1854.4,1134.75,719.65,0.3881,Google Ads
+50556,2024-12-28,2024,Q4,Dec,52,West,Colorado,Furniture,Cabinet,Online,Corporate,2,683,0.05,1297.7,832.53,465.17,0.3585,Email
+50557,2024-05-21,2024,Q2,May,21,South,Texas,Electronics,Phone,Distributor,Corporate,15,213,0.1,2875.5,1841.5,1034.0,0.3596,Google Ads
+50558,2024-05-06,2024,Q2,May,19,South,Texas,Electronics,Phone,Retail,Small Business,11,1071,0.1,10602.9,7542.77,3060.13,0.2886,Affiliate
+50559,2024-12-14,2024,Q4,Dec,50,South,Georgia,Accessories,Headphones,Distributor,Small Business,13,473,0.05,5841.55,4130.19,1711.36,0.293,Affiliate
+50560,2024-01-11,2024,Q1,Jan,2,Northeast,Pennsylvania,Electronics,Laptop,Online,Corporate,23,478,0.15,9344.9,5759.49,3585.41,0.3837,Affiliate
+50561,2024-07-01,2024,Q3,Jul,27,West,Colorado,Furniture,Cabinet,Distributor,Consumer,24,788,0.1,17020.8,11254.76,5766.04,0.3388,Social Media
+50562,2024-12-28,2024,Q4,Dec,52,Northeast,New York,Furniture,Cabinet,Retail,Corporate,21,1103,0.1,20846.7,15278.21,5568.49,0.2671,Affiliate
+50563,2024-10-17,2024,Q4,Oct,42,Midwest,Illinois,Furniture,Cabinet,Distributor,Small Business,1,1186,0.0,1186.0,712.89,473.11,0.3989,Google Ads
+50564,2024-05-03,2024,Q2,May,18,Midwest,Ohio,Accessories,Headphones,Retail,Corporate,17,873,0.05,14098.95,9975.66,4123.29,0.2925,Social Media
+50565,2024-09-08,2024,Q3,Sep,36,Midwest,Illinois,Accessories,Headphones,Retail,Consumer,15,1092,0.05,15561.0,9818.43,5742.57,0.369,Email
+50566,2024-02-14,2024,Q1,Feb,7,Midwest,Ohio,Accessories,Keyboard,Online,Corporate,20,530,0.15,9010.0,6546.9,2463.1,0.2734,Google Ads
+50567,2024-06-11,2024,Q2,Jun,24,Northeast,Pennsylvania,Furniture,Chair,Online,Small Business,20,441,0.0,8820.0,5660.29,3159.71,0.3582,Direct
+50568,2024-12-17,2024,Q4,Dec,51,West,Colorado,Accessories,Headphones,Online,Small Business,3,968,0.1,2613.6,1762.72,850.88,0.3256,Social Media
+50569,2024-08-26,2024,Q3,Aug,35,Northeast,Massachusetts,Electronics,Phone,Online,Corporate,18,935,0.0,16830.0,11576.28,5253.72,0.3122,Direct
+50570,2024-12-06,2024,Q4,Dec,49,Northeast,New York,Electronics,Laptop,Online,Small Business,10,302,0.05,2869.0,1748.89,1120.11,0.3904,Email
+50571,2024-09-17,2024,Q3,Sep,38,South,Florida,Furniture,Chair,Online,Corporate,13,122,0.05,1506.7,1091.13,415.57,0.2758,Google Ads
+50572,2024-05-09,2024,Q2,May,19,South,Florida,Accessories,Keyboard,Retail,Consumer,1,913,0.15,776.05,546.78,229.27,0.2954,Google Ads
+50573,2024-09-22,2024,Q3,Sep,38,Midwest,Michigan,Furniture,Chair,Online,Small Business,10,1012,0.0,10120.0,6946.45,3173.55,0.3136,Affiliate
+50574,2024-04-12,2024,Q2,Apr,15,South,Florida,Furniture,Chair,Retail,Consumer,25,670,0.05,15912.5,11307.82,4604.68,0.2894,Direct
+50575,2024-01-12,2024,Q1,Jan,2,South,Georgia,Accessories,Mouse,Distributor,Consumer,1,1249,0.1,1124.1,694.73,429.37,0.382,Email
+50576,2024-05-28,2024,Q2,May,22,South,Georgia,Electronics,Tablet,Distributor,Consumer,13,1200,0.15,13260.0,8314.58,4945.42,0.373,Email
+50577,2024-10-02,2024,Q4,Oct,40,Midwest,Michigan,Accessories,Keyboard,Online,Corporate,21,880,0.05,17556.0,10265.4,7290.6,0.4153,Direct
+50578,2024-08-03,2024,Q3,Aug,31,South,Florida,Electronics,Phone,Online,Corporate,1,552,0.05,524.4,392.1,132.3,0.2523,Affiliate
+50579,2024-06-13,2024,Q2,Jun,24,West,California,Accessories,Mouse,Retail,Small Business,11,906,0.05,9467.7,7050.82,2416.88,0.2553,Direct
+50580,2024-07-29,2024,Q3,Jul,31,Northeast,New York,Furniture,Chair,Distributor,Consumer,23,628,0.1,12999.6,9113.29,3886.31,0.299,Direct
+50581,2024-02-02,2024,Q1,Feb,5,South,Georgia,Electronics,Phone,Online,Corporate,24,573,0.0,13752.0,9674.79,4077.21,0.2965,Email
+50582,2024-06-26,2024,Q2,Jun,26,Midwest,Ohio,Furniture,Chair,Online,Consumer,11,731,0.0,8041.0,5054.31,2986.69,0.3714,Direct
+50583,2024-04-16,2024,Q2,Apr,16,South,Georgia,Electronics,Phone,Retail,Consumer,21,843,0.0,17703.0,12264.17,5438.83,0.3072,Social Media
+50584,2024-02-23,2024,Q1,Feb,8,Midwest,Illinois,Electronics,Laptop,Online,Consumer,6,534,0.0,3204.0,1961.94,1242.06,0.3877,Google Ads
+50585,2024-10-31,2024,Q4,Oct,44,West,Colorado,Electronics,Phone,Online,Corporate,6,816,0.0,4896.0,3549.66,1346.34,0.275,Google Ads
+50586,2024-10-18,2024,Q4,Oct,42,South,Florida,Furniture,Cabinet,Distributor,Small Business,7,1220,0.15,7259.0,4230.18,3028.82,0.4173,Social Media
+50587,2024-12-02,2024,Q4,Dec,49,South,Florida,Accessories,Keyboard,Retail,Small Business,9,548,0.1,4438.8,2991.73,1447.07,0.326,Google Ads
+50588,2024-04-21,2024,Q2,Apr,16,West,California,Furniture,Desk,Online,Consumer,8,625,0.0,5000.0,3513.12,1486.88,0.2974,Email
+50589,2024-11-11,2024,Q4,Nov,46,Northeast,Pennsylvania,Furniture,Desk,Online,Consumer,5,731,0.1,3289.5,2115.44,1174.06,0.3569,Direct
+50590,2024-06-10,2024,Q2,Jun,24,Midwest,Michigan,Furniture,Chair,Online,Corporate,25,390,0.1,8775.0,5663.37,3111.63,0.3546,Direct
+50591,2024-05-04,2024,Q2,May,18,West,Washington,Furniture,Cabinet,Online,Small Business,17,58,0.0,986.0,623.18,362.82,0.368,Direct
+50592,2024-12-06,2024,Q4,Dec,49,West,Colorado,Accessories,Headphones,Distributor,Consumer,16,715,0.05,10868.0,7125.85,3742.15,0.3443,Direct
+50593,2024-11-27,2024,Q4,Nov,48,Midwest,Ohio,Accessories,Headphones,Retail,Small Business,17,61,0.1,933.3,693.83,239.47,0.2566,Social Media
+50594,2024-03-27,2024,Q1,Mar,13,West,Colorado,Electronics,Phone,Distributor,Consumer,17,662,0.1,10128.6,7321.51,2807.09,0.2771,Email
+50595,2024-03-13,2024,Q1,Mar,11,Midwest,Michigan,Furniture,Cabinet,Online,Consumer,3,860,0.0,2580.0,1934.05,645.95,0.2504,Affiliate
+50596,2024-05-07,2024,Q2,May,19,Midwest,Illinois,Accessories,Mouse,Distributor,Small Business,2,353,0.0,706.0,442.44,263.56,0.3733,Google Ads
+50597,2024-10-11,2024,Q4,Oct,41,Northeast,New York,Accessories,Headphones,Distributor,Corporate,7,754,0.1,4750.2,3016.22,1733.98,0.365,Social Media
+50598,2024-04-30,2024,Q2,Apr,18,South,Texas,Furniture,Chair,Distributor,Corporate,21,1244,0.15,22205.4,13668.4,8537.0,0.3845,Social Media
+50599,2024-04-09,2024,Q2,Apr,15,Midwest,Illinois,Accessories,Headphones,Distributor,Consumer,3,1129,0.1,3048.3,1812.68,1235.62,0.4053,Direct
+50600,2024-03-16,2024,Q1,Mar,11,Northeast,Massachusetts,Accessories,Keyboard,Retail,Corporate,8,936,0.0,7488.0,5177.07,2310.93,0.3086,Social Media
+50601,2024-12-20,2024,Q4,Dec,51,Midwest,Illinois,Accessories,Mouse,Retail,Small Business,11,413,0.1,4088.7,2557.84,1530.86,0.3744,Email
+50602,2024-08-01,2024,Q3,Aug,31,South,Georgia,Electronics,Phone,Retail,Consumer,4,540,0.15,1836.0,1358.27,477.73,0.2602,Direct
+50603,2024-01-03,2024,Q1,Jan,1,West,California,Accessories,Headphones,Retail,Small Business,17,1210,0.05,19541.5,13051.28,6490.22,0.3321,Direct
+50604,2024-11-05,2024,Q4,Nov,45,Northeast,Pennsylvania,Electronics,Laptop,Retail,Small Business,17,277,0.15,4002.65,2569.71,1432.94,0.358,Google Ads
+50605,2024-08-18,2024,Q3,Aug,33,West,California,Furniture,Chair,Online,Corporate,6,1060,0.15,5406.0,3069.0,2337.0,0.4323,Google Ads
+50606,2024-08-31,2024,Q3,Aug,35,Northeast,New York,Electronics,Tablet,Online,Corporate,17,622,0.15,8987.9,6316.32,2671.58,0.2972,Affiliate
+50607,2024-02-27,2024,Q1,Feb,9,Northeast,Massachusetts,Accessories,Keyboard,Retail,Small Business,18,1052,0.0,18936.0,12279.56,6656.44,0.3515,Google Ads
+50608,2024-01-10,2024,Q1,Jan,2,Northeast,Massachusetts,Furniture,Desk,Distributor,Small Business,7,977,0.1,6155.1,3483.83,2671.27,0.434,Affiliate
+50609,2024-06-02,2024,Q2,Jun,22,West,Colorado,Furniture,Desk,Retail,Consumer,24,319,0.1,6890.4,4032.35,2858.05,0.4148,Affiliate
+50610,2024-07-24,2024,Q3,Jul,30,Northeast,Pennsylvania,Accessories,Keyboard,Retail,Small Business,23,1194,0.05,26088.9,18717.16,7371.74,0.2826,Email
+50611,2024-11-02,2024,Q4,Nov,44,Northeast,New York,Furniture,Desk,Retail,Consumer,9,612,0.15,4681.8,3120.19,1561.61,0.3335,Social Media
+50612,2024-07-07,2024,Q3,Jul,27,Northeast,Pennsylvania,Furniture,Desk,Retail,Consumer,3,210,0.1,567.0,371.68,195.32,0.3445,Affiliate
+50613,2024-07-13,2024,Q3,Jul,28,Midwest,Ohio,Furniture,Cabinet,Online,Corporate,12,1254,0.05,14295.6,10106.69,4188.91,0.293,Affiliate
+50614,2024-06-04,2024,Q2,Jun,23,Midwest,Illinois,Accessories,Headphones,Online,Small Business,20,1117,0.1,20106.0,11878.2,8227.8,0.4092,Email
+50615,2024-07-22,2024,Q3,Jul,30,Midwest,Michigan,Electronics,Laptop,Online,Small Business,24,512,0.0,12288.0,8876.17,3411.83,0.2777,Direct
+50616,2024-02-15,2024,Q1,Feb,7,West,Washington,Furniture,Chair,Online,Consumer,22,975,0.0,21450.0,14749.58,6700.42,0.3124,Social Media
+50617,2024-03-19,2024,Q1,Mar,12,West,Colorado,Furniture,Cabinet,Retail,Consumer,17,584,0.15,8438.8,5274.88,3163.92,0.3749,Email
+50618,2024-11-24,2024,Q4,Nov,47,West,Colorado,Furniture,Chair,Retail,Corporate,12,191,0.0,2292.0,1419.77,872.23,0.3806,Direct
+50619,2024-03-07,2024,Q1,Mar,10,Midwest,Ohio,Electronics,Phone,Distributor,Corporate,12,859,0.05,9792.6,6311.37,3481.23,0.3555,Direct
+50620,2024-10-30,2024,Q4,Oct,44,Northeast,Pennsylvania,Accessories,Headphones,Distributor,Consumer,6,356,0.1,1922.4,1424.47,497.93,0.259,Direct
+50621,2024-07-08,2024,Q3,Jul,28,Midwest,Michigan,Accessories,Headphones,Online,Corporate,23,419,0.15,8191.45,5077.75,3113.7,0.3801,Google Ads
+50622,2024-05-14,2024,Q2,May,20,South,Texas,Accessories,Headphones,Online,Small Business,5,852,0.0,4260.0,2836.97,1423.03,0.334,Social Media
+50623,2024-12-04,2024,Q4,Dec,49,West,Washington,Electronics,Tablet,Retail,Corporate,19,382,0.15,6169.3,4543.49,1625.81,0.2635,Email
+50624,2024-02-07,2024,Q1,Feb,6,West,California,Furniture,Desk,Retail,Corporate,2,1135,0.1,2043.0,1139.11,903.89,0.4424,Google Ads
+50625,2024-06-17,2024,Q2,Jun,25,West,Washington,Electronics,Tablet,Retail,Consumer,14,887,0.0,12418.0,7906.75,4511.25,0.3633,Email
+50626,2024-08-06,2024,Q3,Aug,32,Northeast,New York,Furniture,Desk,Distributor,Corporate,25,478,0.0,11950.0,8262.18,3687.82,0.3086,Google Ads
+50627,2024-09-20,2024,Q3,Sep,38,West,Washington,Accessories,Headphones,Distributor,Corporate,25,1293,0.05,30708.75,18880.91,11827.84,0.3852,Social Media
+50628,2024-06-20,2024,Q2,Jun,25,South,Florida,Accessories,Keyboard,Distributor,Corporate,20,274,0.05,5206.0,3498.33,1707.67,0.328,Google Ads
+50629,2024-07-28,2024,Q3,Jul,30,Northeast,Massachusetts,Furniture,Cabinet,Retail,Consumer,13,251,0.0,3263.0,1865.64,1397.36,0.4282,Social Media
+50630,2024-03-05,2024,Q1,Mar,10,Midwest,Illinois,Electronics,Laptop,Online,Corporate,17,168,0.05,2713.2,1942.59,770.61,0.284,Direct
+50631,2024-02-13,2024,Q1,Feb,7,Midwest,Michigan,Accessories,Headphones,Distributor,Small Business,22,1264,0.1,25027.2,15724.59,9302.61,0.3717,Email
+50632,2024-03-30,2024,Q1,Mar,13,West,Washington,Electronics,Tablet,Online,Consumer,18,660,0.1,10692.0,7431.04,3260.96,0.305,Google Ads
+50633,2024-07-09,2024,Q3,Jul,28,South,Georgia,Electronics,Laptop,Retail,Small Business,16,967,0.0,15472.0,11458.73,4013.27,0.2594,Google Ads
+50634,2024-08-21,2024,Q3,Aug,34,West,Washington,Accessories,Mouse,Online,Corporate,6,1015,0.05,5785.5,4216.56,1568.94,0.2712,Email
+50635,2024-01-26,2024,Q1,Jan,4,South,Georgia,Accessories,Mouse,Retail,Small Business,20,246,0.05,4674.0,2979.1,1694.9,0.3626,Social Media
+50636,2024-09-16,2024,Q3,Sep,38,South,Florida,Furniture,Chair,Distributor,Consumer,9,226,0.05,1932.3,1409.24,523.06,0.2707,Email
+50637,2024-01-17,2024,Q1,Jan,3,West,California,Furniture,Cabinet,Retail,Small Business,3,434,0.0,1302.0,732.57,569.43,0.4374,Social Media
+50638,2024-02-11,2024,Q1,Feb,6,Midwest,Michigan,Electronics,Tablet,Distributor,Corporate,24,1135,0.05,25878.0,16368.94,9509.06,0.3675,Social Media
+50639,2024-06-21,2024,Q2,Jun,25,Midwest,Ohio,Electronics,Tablet,Online,Corporate,19,231,0.0,4389.0,2592.23,1796.77,0.4094,Social Media
+50640,2024-02-08,2024,Q1,Feb,6,Midwest,Michigan,Electronics,Tablet,Online,Corporate,16,356,0.05,5411.2,3329.63,2081.57,0.3847,Affiliate
+50641,2024-10-11,2024,Q4,Oct,41,Northeast,Massachusetts,Accessories,Mouse,Online,Corporate,7,1158,0.0,8106.0,4959.78,3146.22,0.3881,Affiliate
+50642,2024-03-04,2024,Q1,Mar,10,Midwest,Ohio,Furniture,Desk,Distributor,Small Business,2,813,0.05,1544.7,997.01,547.69,0.3546,Direct
+50643,2024-11-04,2024,Q4,Nov,45,Midwest,Michigan,Electronics,Phone,Retail,Corporate,16,1115,0.15,15164.0,9484.84,5679.16,0.3745,Email
+50644,2024-02-10,2024,Q1,Feb,6,Midwest,Illinois,Electronics,Laptop,Distributor,Small Business,21,475,0.1,8977.5,5158.62,3818.88,0.4254,Direct
+50645,2024-04-06,2024,Q2,Apr,14,South,Georgia,Furniture,Chair,Distributor,Small Business,4,1248,0.15,4243.2,3170.72,1072.48,0.2528,Social Media
+50646,2024-03-23,2024,Q1,Mar,12,South,Georgia,Electronics,Phone,Online,Consumer,2,797,0.15,1354.9,966.65,388.25,0.2866,Google Ads
+50647,2024-09-28,2024,Q3,Sep,39,South,Florida,Furniture,Desk,Retail,Consumer,24,447,0.0,10728.0,7416.89,3311.11,0.3086,Direct
+50648,2024-06-24,2024,Q2,Jun,26,Northeast,New York,Furniture,Desk,Distributor,Consumer,24,696,0.15,14198.4,10318.71,3879.69,0.2732,Affiliate
+50649,2024-01-04,2024,Q1,Jan,1,Northeast,Pennsylvania,Electronics,Phone,Distributor,Small Business,8,117,0.15,795.6,499.55,296.05,0.3721,Email
+50650,2024-09-16,2024,Q3,Sep,38,West,Colorado,Accessories,Headphones,Retail,Consumer,6,234,0.0,1404.0,812.27,591.73,0.4215,Social Media
+50651,2024-05-08,2024,Q2,May,19,Northeast,New York,Accessories,Keyboard,Online,Corporate,5,1234,0.0,6170.0,4040.98,2129.02,0.3451,Direct
+50652,2024-12-23,2024,Q4,Dec,52,West,Colorado,Furniture,Chair,Distributor,Small Business,1,459,0.05,436.05,296.23,139.82,0.3207,Email
+50653,2024-07-05,2024,Q3,Jul,27,West,Washington,Accessories,Keyboard,Distributor,Small Business,13,406,0.0,5278.0,2929.35,2348.65,0.445,Email
+50654,2024-04-20,2024,Q2,Apr,16,West,Colorado,Accessories,Mouse,Distributor,Corporate,24,1201,0.05,27382.8,18315.81,9066.99,0.3311,Google Ads
+50655,2024-03-16,2024,Q1,Mar,11,South,Florida,Accessories,Keyboard,Retail,Corporate,1,1148,0.15,975.8,664.9,310.9,0.3186,Google Ads
+50656,2024-01-23,2024,Q1,Jan,4,South,Georgia,Furniture,Desk,Online,Consumer,21,1073,0.05,21406.35,12058.76,9347.59,0.4367,Email
+50657,2024-01-02,2024,Q1,Jan,1,West,Washington,Electronics,Tablet,Distributor,Small Business,21,678,0.15,12102.3,7443.24,4659.06,0.385,Direct
+50658,2024-07-12,2024,Q3,Jul,28,Midwest,Michigan,Accessories,Keyboard,Distributor,Small Business,10,886,0.15,7531.0,5140.13,2390.87,0.3175,Google Ads
+50659,2024-05-23,2024,Q2,May,21,West,Colorado,Furniture,Chair,Distributor,Consumer,5,855,0.1,3847.5,2697.43,1150.07,0.2989,Email
+50660,2024-10-07,2024,Q4,Oct,41,Northeast,Massachusetts,Electronics,Phone,Distributor,Small Business,7,278,0.1,1751.4,999.82,751.58,0.4291,Google Ads
+50661,2024-04-19,2024,Q2,Apr,16,Northeast,Massachusetts,Furniture,Cabinet,Retail,Consumer,3,997,0.05,2841.45,1920.69,920.76,0.324,Social Media
+50662,2024-06-05,2024,Q2,Jun,23,Northeast,Massachusetts,Electronics,Phone,Distributor,Corporate,14,668,0.1,8416.8,4895.44,3521.36,0.4184,Google Ads
+50663,2024-12-20,2024,Q4,Dec,51,West,California,Furniture,Chair,Retail,Small Business,13,599,0.05,7397.65,4208.01,3189.64,0.4312,Direct
+50664,2024-12-29,2024,Q4,Dec,52,West,Washington,Accessories,Headphones,Retail,Corporate,10,719,0.05,6830.5,5071.74,1758.76,0.2575,Email
+50665,2024-04-25,2024,Q2,Apr,17,Midwest,Michigan,Furniture,Cabinet,Retail,Consumer,15,385,0.15,4908.75,3660.65,1248.1,0.2543,Affiliate
+50666,2024-04-15,2024,Q2,Apr,16,Northeast,New York,Furniture,Cabinet,Online,Corporate,20,647,0.1,11646.0,7580.53,4065.47,0.3491,Email
+50667,2024-04-17,2024,Q2,Apr,16,Northeast,New York,Accessories,Mouse,Online,Small Business,24,273,0.0,6552.0,3998.71,2553.29,0.3897,Social Media
+50668,2024-09-25,2024,Q3,Sep,39,Midwest,Michigan,Furniture,Desk,Online,Corporate,3,1233,0.0,3699.0,2046.29,1652.71,0.4468,Social Media
+50669,2024-07-04,2024,Q3,Jul,27,West,California,Furniture,Cabinet,Online,Small Business,22,78,0.15,1458.6,1018.73,439.87,0.3016,Social Media
+50670,2024-01-30,2024,Q1,Jan,5,Midwest,Ohio,Electronics,Phone,Distributor,Consumer,22,243,0.0,5346.0,2974.51,2371.49,0.4436,Email
+50671,2024-12-01,2024,Q4,Dec,48,Northeast,Pennsylvania,Accessories,Mouse,Distributor,Small Business,24,211,0.0,5064.0,3013.33,2050.67,0.405,Google Ads
+50672,2024-08-03,2024,Q3,Aug,31,West,Colorado,Electronics,Laptop,Retail,Consumer,22,499,0.05,10429.1,7281.71,3147.39,0.3018,Email
+50673,2024-02-09,2024,Q1,Feb,6,Midwest,Ohio,Furniture,Desk,Retail,Corporate,3,601,0.0,1803.0,1029.7,773.3,0.4289,Social Media
+50674,2024-10-23,2024,Q4,Oct,43,West,Washington,Electronics,Phone,Distributor,Corporate,15,111,0.1,1498.5,886.74,611.76,0.4082,Social Media
+50675,2024-08-06,2024,Q3,Aug,32,Northeast,New York,Accessories,Mouse,Distributor,Corporate,6,357,0.15,1820.7,1315.06,505.64,0.2777,Direct
+50676,2024-08-28,2024,Q3,Aug,35,West,California,Furniture,Cabinet,Online,Consumer,19,225,0.1,3847.5,2201.75,1645.75,0.4277,Email
+50677,2024-07-09,2024,Q3,Jul,28,South,Georgia,Furniture,Chair,Retail,Small Business,19,847,0.1,14483.7,10685.62,3798.08,0.2622,Google Ads
+50678,2024-02-07,2024,Q1,Feb,6,Midwest,Ohio,Electronics,Phone,Online,Small Business,24,1188,0.1,25660.8,18533.47,7127.33,0.2778,Email
+50679,2024-08-27,2024,Q3,Aug,35,South,Georgia,Electronics,Tablet,Online,Consumer,20,514,0.15,8738.0,5850.17,2887.83,0.3305,Email
+50680,2024-09-25,2024,Q3,Sep,39,South,Florida,Accessories,Mouse,Distributor,Small Business,1,112,0.05,106.4,68.01,38.39,0.3608,Social Media
+50681,2024-02-15,2024,Q1,Feb,7,West,California,Electronics,Laptop,Online,Small Business,20,1088,0.15,18496.0,10612.92,7883.08,0.4262,Social Media
+50682,2024-11-12,2024,Q4,Nov,46,South,Texas,Electronics,Tablet,Online,Corporate,4,410,0.05,1558.0,1092.76,465.24,0.2986,Social Media
+50683,2024-09-23,2024,Q3,Sep,39,West,California,Furniture,Cabinet,Distributor,Corporate,24,482,0.15,9832.8,6972.83,2859.97,0.2909,Email
+50684,2024-06-20,2024,Q2,Jun,25,West,Colorado,Furniture,Chair,Online,Consumer,24,1010,0.15,20604.0,13736.54,6867.46,0.3333,Social Media
+50685,2024-04-10,2024,Q2,Apr,15,Northeast,Massachusetts,Electronics,Phone,Retail,Small Business,25,143,0.0,3575.0,2246.93,1328.07,0.3715,Google Ads
+50686,2024-12-29,2024,Q4,Dec,52,Midwest,Illinois,Electronics,Tablet,Distributor,Corporate,15,988,0.05,14079.0,10092.92,3986.08,0.2831,Direct
+50687,2024-05-26,2024,Q2,May,21,Midwest,Michigan,Furniture,Desk,Distributor,Corporate,9,822,0.1,6658.2,4757.36,1900.84,0.2855,Google Ads
+50688,2024-06-08,2024,Q2,Jun,23,West,Washington,Accessories,Mouse,Retail,Corporate,19,255,0.1,4360.5,3219.24,1141.26,0.2617,Social Media
+50689,2024-07-24,2024,Q3,Jul,30,Northeast,Pennsylvania,Electronics,Laptop,Online,Corporate,7,353,0.05,2347.45,1567.74,779.71,0.3322,Social Media
+50690,2024-11-11,2024,Q4,Nov,46,West,Colorado,Furniture,Chair,Online,Corporate,8,1274,0.15,8663.2,6219.09,2444.11,0.2821,Direct
+50691,2024-07-13,2024,Q3,Jul,28,South,Georgia,Electronics,Phone,Retail,Small Business,4,498,0.0,1992.0,1145.8,846.2,0.4248,Email
+50692,2024-07-03,2024,Q3,Jul,27,South,Florida,Accessories,Keyboard,Retail,Corporate,17,592,0.1,9057.6,5876.76,3180.84,0.3512,Direct
+50693,2024-03-09,2024,Q1,Mar,10,Midwest,Michigan,Accessories,Headphones,Distributor,Consumer,2,313,0.05,594.7,440.63,154.07,0.2591,Direct
+50694,2024-06-01,2024,Q2,Jun,22,Northeast,Pennsylvania,Furniture,Desk,Distributor,Corporate,13,506,0.0,6578.0,4149.83,2428.17,0.3691,Google Ads
+50695,2024-08-12,2024,Q3,Aug,33,South,Texas,Accessories,Mouse,Online,Small Business,14,189,0.05,2513.7,1550.77,962.93,0.3831,Direct
+50696,2024-12-11,2024,Q4,Dec,50,Northeast,Pennsylvania,Accessories,Mouse,Online,Corporate,4,1167,0.1,4201.2,2650.38,1550.82,0.3691,Direct
+50697,2024-04-23,2024,Q2,Apr,17,Midwest,Illinois,Accessories,Headphones,Online,Consumer,25,388,0.0,9700.0,6410.76,3289.24,0.3391,Direct
+50698,2024-09-15,2024,Q3,Sep,37,Northeast,Massachusetts,Accessories,Mouse,Distributor,Consumer,21,883,0.0,18543.0,12940.63,5602.37,0.3021,Email
+50699,2024-07-30,2024,Q3,Jul,31,Northeast,Massachusetts,Electronics,Tablet,Distributor,Consumer,2,146,0.15,248.2,168.06,80.14,0.3229,Google Ads
+50700,2024-04-17,2024,Q2,Apr,16,West,Colorado,Accessories,Keyboard,Distributor,Small Business,4,571,0.0,2284.0,1455.52,828.48,0.3627,Email
+50701,2024-09-21,2024,Q3,Sep,38,Northeast,Pennsylvania,Accessories,Keyboard,Online,Consumer,12,1283,0.1,13856.4,7704.35,6152.05,0.444,Direct
+50702,2024-05-11,2024,Q2,May,19,Midwest,Ohio,Electronics,Phone,Retail,Small Business,9,198,0.1,1603.8,915.0,688.8,0.4295,Google Ads
+50703,2024-10-05,2024,Q4,Oct,40,Midwest,Illinois,Furniture,Cabinet,Distributor,Small Business,12,112,0.05,1276.8,955.38,321.42,0.2517,Google Ads
+50704,2024-12-21,2024,Q4,Dec,51,South,Florida,Electronics,Laptop,Retail,Corporate,2,216,0.1,388.8,216.31,172.49,0.4436,Social Media
+50705,2024-06-21,2024,Q2,Jun,25,Midwest,Ohio,Furniture,Desk,Online,Corporate,17,543,0.05,8769.45,6429.05,2340.4,0.2669,Affiliate
+50706,2024-12-29,2024,Q4,Dec,52,Midwest,Ohio,Furniture,Chair,Retail,Corporate,23,944,0.05,20626.4,15426.06,5200.34,0.2521,Google Ads
+50707,2024-02-09,2024,Q1,Feb,6,Midwest,Ohio,Accessories,Mouse,Distributor,Consumer,22,1151,0.0,25322.0,17462.35,7859.65,0.3104,Affiliate
+50708,2024-11-22,2024,Q4,Nov,47,South,Georgia,Furniture,Desk,Online,Consumer,10,340,0.15,2890.0,2109.98,780.02,0.2699,Social Media
+50709,2024-11-26,2024,Q4,Nov,48,Northeast,Pennsylvania,Furniture,Chair,Distributor,Corporate,15,1028,0.0,15420.0,10554.79,4865.21,0.3155,Direct
+50710,2024-07-21,2024,Q3,Jul,29,Northeast,Pennsylvania,Electronics,Laptop,Distributor,Corporate,4,1096,0.1,3945.6,2217.92,1727.68,0.4379,Social Media
+50711,2024-03-18,2024,Q1,Mar,12,Northeast,Pennsylvania,Accessories,Headphones,Retail,Consumer,20,582,0.1,10476.0,6814.66,3661.34,0.3495,Affiliate
+50712,2024-11-06,2024,Q4,Nov,45,South,Florida,Furniture,Cabinet,Retail,Consumer,10,774,0.15,6579.0,3942.23,2636.77,0.4008,Affiliate
+50713,2024-04-17,2024,Q2,Apr,16,Northeast,Massachusetts,Accessories,Headphones,Online,Small Business,13,470,0.1,5499.0,3831.76,1667.24,0.3032,Email
+50714,2024-09-28,2024,Q3,Sep,39,West,Colorado,Accessories,Mouse,Online,Consumer,19,772,0.0,14668.0,9780.5,4887.5,0.3332,Direct
+50715,2024-01-20,2024,Q1,Jan,3,Northeast,Massachusetts,Furniture,Chair,Online,Consumer,15,1069,0.0,16035.0,9906.31,6128.69,0.3822,Affiliate
+50716,2024-04-30,2024,Q2,Apr,18,South,Florida,Electronics,Laptop,Distributor,Consumer,3,723,0.0,2169.0,1482.74,686.26,0.3164,Direct
+50717,2024-04-26,2024,Q2,Apr,17,South,Florida,Furniture,Desk,Distributor,Consumer,11,229,0.1,2267.1,1620.8,646.3,0.2851,Direct
+50718,2024-03-08,2024,Q1,Mar,10,South,Florida,Accessories,Headphones,Distributor,Consumer,9,1127,0.05,9635.85,6324.01,3311.84,0.3437,Affiliate
+50719,2024-12-09,2024,Q4,Dec,50,Midwest,Illinois,Electronics,Phone,Retail,Small Business,22,200,0.1,3960.0,2718.77,1241.23,0.3134,Email
+50720,2024-12-23,2024,Q4,Dec,52,South,Texas,Furniture,Chair,Online,Consumer,24,871,0.1,18813.6,13433.04,5380.56,0.286,Affiliate
+50721,2024-09-01,2024,Q3,Sep,35,Northeast,Massachusetts,Electronics,Laptop,Distributor,Corporate,23,679,0.15,13274.45,7523.26,5751.19,0.4333,Email
+50722,2024-10-30,2024,Q4,Oct,44,West,Colorado,Electronics,Phone,Distributor,Corporate,17,233,0.1,3564.9,2574.8,990.1,0.2777,Google Ads
+50723,2024-03-07,2024,Q1,Mar,10,West,Colorado,Furniture,Cabinet,Online,Corporate,14,338,0.05,4495.4,2592.72,1902.68,0.4233,Affiliate
+50724,2024-07-15,2024,Q3,Jul,29,West,Colorado,Furniture,Desk,Retail,Consumer,19,503,0.1,8601.3,5735.4,2865.9,0.3332,Direct
+50725,2024-10-01,2024,Q4,Oct,40,Northeast,Pennsylvania,Accessories,Mouse,Online,Corporate,14,76,0.05,1010.8,656.24,354.56,0.3508,Affiliate
+50726,2024-08-20,2024,Q3,Aug,34,West,Washington,Accessories,Keyboard,Retail,Consumer,22,1127,0.1,22314.6,15561.53,6753.07,0.3026,Email
+50727,2024-02-26,2024,Q1,Feb,9,Northeast,Pennsylvania,Furniture,Cabinet,Online,Consumer,6,1139,0.1,6150.6,4439.46,1711.14,0.2782,Google Ads
+50728,2024-01-24,2024,Q1,Jan,4,West,Colorado,Electronics,Phone,Online,Corporate,20,1234,0.05,23446.0,17450.84,5995.16,0.2557,Direct
+50729,2024-06-22,2024,Q2,Jun,25,Midwest,Illinois,Accessories,Headphones,Online,Corporate,21,1033,0.15,18439.05,11751.12,6687.93,0.3627,Affiliate
+50730,2024-08-24,2024,Q3,Aug,34,Northeast,Pennsylvania,Electronics,Laptop,Online,Corporate,20,903,0.05,17157.0,12505.03,4651.97,0.2711,Google Ads
+50731,2024-03-07,2024,Q1,Mar,10,Northeast,Massachusetts,Furniture,Chair,Retail,Small Business,11,1010,0.15,9443.5,5384.5,4059.0,0.4298,Google Ads
+50732,2024-06-02,2024,Q2,Jun,22,Midwest,Illinois,Furniture,Chair,Retail,Consumer,10,99,0.0,990.0,688.09,301.91,0.305,Google Ads
+50733,2024-09-05,2024,Q3,Sep,36,Northeast,New York,Accessories,Headphones,Distributor,Small Business,10,1105,0.0,11050.0,6969.2,4080.8,0.3693,Google Ads
+50734,2024-02-06,2024,Q1,Feb,6,South,Texas,Furniture,Cabinet,Retail,Corporate,25,485,0.05,11518.75,6698.01,4820.74,0.4185,Direct
+50735,2024-12-23,2024,Q4,Dec,52,Midwest,Ohio,Accessories,Headphones,Online,Corporate,23,1296,0.1,26827.2,19891.15,6936.05,0.2585,Direct
+50736,2024-10-15,2024,Q4,Oct,42,Midwest,Ohio,Accessories,Headphones,Distributor,Small Business,25,209,0.0,5225.0,3592.76,1632.24,0.3124,Direct
+50737,2024-01-18,2024,Q1,Jan,3,West,Colorado,Furniture,Desk,Retail,Small Business,13,309,0.1,3615.3,2317.92,1297.38,0.3589,Social Media
+50738,2024-06-12,2024,Q2,Jun,24,West,Washington,Furniture,Desk,Online,Small Business,15,357,0.05,5087.25,3767.66,1319.59,0.2594,Email
+50739,2024-05-02,2024,Q2,May,18,Northeast,Pennsylvania,Furniture,Cabinet,Distributor,Small Business,7,1288,0.15,7663.6,5088.67,2574.93,0.336,Social Media
+50740,2024-02-11,2024,Q1,Feb,6,South,Texas,Electronics,Phone,Retail,Small Business,22,54,0.1,1069.2,619.55,449.65,0.4205,Email
+50741,2024-08-22,2024,Q3,Aug,34,Northeast,New York,Accessories,Mouse,Retail,Corporate,22,1056,0.0,23232.0,17260.97,5971.03,0.257,Google Ads
+50742,2024-03-08,2024,Q1,Mar,10,Midwest,Michigan,Electronics,Tablet,Distributor,Corporate,19,361,0.1,6173.1,3704.43,2468.67,0.3999,Direct
+50743,2024-03-22,2024,Q1,Mar,12,West,Colorado,Electronics,Laptop,Distributor,Small Business,25,624,0.0,15600.0,9622.52,5977.48,0.3832,Email
+50744,2024-05-28,2024,Q2,May,22,Midwest,Illinois,Furniture,Desk,Online,Small Business,8,749,0.15,5093.2,3791.58,1301.62,0.2556,Google Ads
+50745,2024-10-18,2024,Q4,Oct,42,Northeast,Pennsylvania,Electronics,Phone,Distributor,Consumer,1,309,0.0,309.0,187.59,121.41,0.3929,Email
+50746,2024-03-21,2024,Q1,Mar,12,South,Texas,Accessories,Mouse,Retail,Small Business,3,481,0.1,1298.7,745.06,553.64,0.4263,Email
+50747,2024-05-26,2024,Q2,May,21,West,California,Electronics,Tablet,Distributor,Corporate,22,471,0.0,10362.0,7708.51,2653.49,0.2561,Google Ads
+50748,2024-06-29,2024,Q2,Jun,26,Northeast,Massachusetts,Furniture,Cabinet,Distributor,Consumer,18,1261,0.1,20428.2,14621.18,5807.02,0.2843,Google Ads
+50749,2024-02-01,2024,Q1,Feb,5,Midwest,Illinois,Electronics,Laptop,Distributor,Corporate,2,791,0.1,1423.8,863.67,560.13,0.3934,Social Media
+50750,2024-12-14,2024,Q4,Dec,50,Northeast,Pennsylvania,Electronics,Tablet,Retail,Consumer,15,1078,0.1,14553.0,10392.99,4160.01,0.2859,Direct
+50751,2024-11-16,2024,Q4,Nov,46,Midwest,Illinois,Electronics,Phone,Distributor,Small Business,9,648,0.0,5832.0,4157.96,1674.04,0.287,Direct
+50752,2024-02-24,2024,Q1,Feb,8,Midwest,Ohio,Electronics,Phone,Retail,Corporate,15,894,0.0,13410.0,7990.45,5419.55,0.4041,Direct
+50753,2024-06-07,2024,Q2,Jun,23,South,Georgia,Furniture,Desk,Retail,Small Business,16,824,0.0,13184.0,9665.96,3518.04,0.2668,Google Ads
+50754,2024-02-14,2024,Q1,Feb,7,West,Washington,Furniture,Cabinet,Distributor,Small Business,22,69,0.0,1518.0,850.51,667.49,0.4397,Google Ads
+50755,2024-09-16,2024,Q3,Sep,38,South,Georgia,Furniture,Cabinet,Retail,Consumer,17,1266,0.0,21522.0,15255.1,6266.9,0.2912,Email
+50756,2024-04-15,2024,Q2,Apr,16,Northeast,Pennsylvania,Accessories,Mouse,Online,Small Business,21,628,0.15,11209.8,6415.61,4794.19,0.4277,Social Media
+50757,2024-10-12,2024,Q4,Oct,41,Midwest,Michigan,Accessories,Mouse,Distributor,Small Business,13,717,0.1,8388.9,5024.67,3364.23,0.401,Google Ads
+50758,2024-11-10,2024,Q4,Nov,45,South,Florida,Electronics,Laptop,Retail,Consumer,20,885,0.15,15045.0,9763.01,5281.99,0.3511,Affiliate
+50759,2024-08-27,2024,Q3,Aug,35,Midwest,Ohio,Accessories,Keyboard,Retail,Small Business,9,756,0.1,6123.6,4504.96,1618.64,0.2643,Direct
+50760,2024-03-02,2024,Q1,Mar,9,Northeast,Massachusetts,Electronics,Phone,Distributor,Corporate,19,1230,0.05,22201.5,13175.0,9026.5,0.4066,Social Media
+50761,2024-01-12,2024,Q1,Jan,2,West,Washington,Furniture,Chair,Online,Corporate,1,1202,0.15,1021.7,646.14,375.56,0.3676,Affiliate
+50762,2024-06-16,2024,Q2,Jun,24,West,California,Furniture,Desk,Retail,Consumer,6,515,0.0,3090.0,2316.1,773.9,0.2505,Affiliate
+50763,2024-03-13,2024,Q1,Mar,11,Midwest,Illinois,Accessories,Headphones,Online,Consumer,18,1214,0.05,20759.4,14480.21,6279.19,0.3025,Direct
+50764,2024-05-17,2024,Q2,May,20,South,Texas,Accessories,Keyboard,Distributor,Small Business,2,338,0.0,676.0,473.43,202.57,0.2997,Google Ads
+50765,2024-07-13,2024,Q3,Jul,28,Northeast,New York,Electronics,Tablet,Online,Consumer,15,950,0.15,12112.5,8125.59,3986.91,0.3292,Google Ads
+50766,2024-03-30,2024,Q1,Mar,13,South,Georgia,Accessories,Keyboard,Distributor,Small Business,8,632,0.1,4550.4,3076.24,1474.16,0.324,Affiliate
+50767,2024-02-20,2024,Q1,Feb,8,Midwest,Ohio,Furniture,Chair,Online,Consumer,6,310,0.0,1860.0,1045.51,814.49,0.4379,Direct
+50768,2024-01-03,2024,Q1,Jan,1,South,Texas,Accessories,Headphones,Distributor,Consumer,15,690,0.0,10350.0,7667.52,2682.48,0.2592,Google Ads
+50769,2024-06-08,2024,Q2,Jun,23,South,Georgia,Electronics,Phone,Online,Corporate,10,1047,0.1,9423.0,5941.26,3481.74,0.3695,Affiliate
+50770,2024-08-18,2024,Q3,Aug,33,Midwest,Ohio,Accessories,Headphones,Online,Consumer,9,1283,0.0,11547.0,7210.98,4336.02,0.3755,Google Ads
+50771,2024-11-04,2024,Q4,Nov,45,South,Texas,Electronics,Tablet,Distributor,Corporate,5,364,0.05,1729.0,1248.03,480.97,0.2782,Email
+50772,2024-11-12,2024,Q4,Nov,46,South,Texas,Electronics,Laptop,Distributor,Corporate,23,444,0.0,10212.0,7261.91,2950.09,0.2889,Social Media
+50773,2024-10-11,2024,Q4,Oct,41,South,Georgia,Furniture,Desk,Distributor,Corporate,19,217,0.0,4123.0,2884.33,1238.67,0.3004,Affiliate
+50774,2024-03-01,2024,Q1,Mar,9,South,Georgia,Furniture,Desk,Retail,Corporate,15,870,0.1,11745.0,8483.87,3261.13,0.2777,Email
+50775,2024-08-21,2024,Q3,Aug,34,Northeast,New York,Electronics,Tablet,Online,Small Business,16,1070,0.0,17120.0,10250.23,6869.77,0.4013,Social Media
+50776,2024-05-14,2024,Q2,May,20,West,Colorado,Furniture,Chair,Distributor,Corporate,7,158,0.0,1106.0,742.59,363.41,0.3286,Affiliate
+50777,2024-04-19,2024,Q2,Apr,16,South,Texas,Accessories,Headphones,Retail,Consumer,15,456,0.0,6840.0,4110.66,2729.34,0.399,Email
+50778,2024-12-17,2024,Q4,Dec,51,Midwest,Illinois,Furniture,Desk,Distributor,Consumer,16,341,0.1,4910.4,3215.06,1695.34,0.3453,Social Media
+50779,2024-03-22,2024,Q1,Mar,12,West,Colorado,Electronics,Phone,Distributor,Corporate,17,722,0.1,11046.6,7982.56,3064.04,0.2774,Social Media
+50780,2024-05-23,2024,Q2,May,21,Midwest,Michigan,Accessories,Mouse,Retail,Small Business,10,625,0.15,5312.5,3646.58,1665.92,0.3136,Social Media
+50781,2024-11-11,2024,Q4,Nov,46,West,Washington,Furniture,Desk,Online,Corporate,6,1102,0.0,6612.0,4566.74,2045.26,0.3093,Google Ads
+50782,2024-09-04,2024,Q3,Sep,36,Midwest,Ohio,Accessories,Keyboard,Retail,Small Business,19,1075,0.0,20425.0,12413.39,8011.61,0.3922,Email
+50783,2024-04-10,2024,Q2,Apr,15,Midwest,Illinois,Electronics,Laptop,Retail,Corporate,22,964,0.05,20147.6,14701.28,5446.32,0.2703,Social Media
+50784,2024-12-02,2024,Q4,Dec,49,South,Texas,Electronics,Laptop,Retail,Consumer,10,695,0.15,5907.5,3305.53,2601.97,0.4405,Direct
+50785,2024-12-02,2024,Q4,Dec,49,West,Colorado,Furniture,Cabinet,Retail,Consumer,21,561,0.0,11781.0,7012.73,4768.27,0.4047,Email
+50786,2024-05-23,2024,Q2,May,21,West,Colorado,Accessories,Keyboard,Distributor,Corporate,23,1104,0.05,24122.4,16170.16,7952.24,0.3297,Social Media
+50787,2024-03-23,2024,Q1,Mar,12,South,Georgia,Furniture,Chair,Online,Corporate,22,934,0.0,20548.0,12058.91,8489.09,0.4131,Email
+50788,2024-10-21,2024,Q4,Oct,43,Midwest,Michigan,Accessories,Headphones,Online,Small Business,7,829,0.0,5803.0,4198.04,1604.96,0.2766,Email
+50789,2024-05-05,2024,Q2,May,18,South,Florida,Furniture,Desk,Distributor,Consumer,4,500,0.1,1800.0,1296.16,503.84,0.2799,Social Media
+50790,2024-04-27,2024,Q2,Apr,17,Midwest,Ohio,Accessories,Headphones,Distributor,Small Business,9,905,0.1,7330.5,5020.92,2309.58,0.3151,Affiliate
+50791,2024-10-03,2024,Q4,Oct,40,Midwest,Michigan,Accessories,Headphones,Online,Corporate,15,743,0.15,9473.25,5819.45,3653.8,0.3857,Direct
+50792,2024-05-20,2024,Q2,May,21,South,Florida,Accessories,Headphones,Retail,Small Business,24,438,0.15,8935.2,6061.0,2874.2,0.3217,Direct
+50793,2024-07-09,2024,Q3,Jul,28,Midwest,Illinois,Accessories,Headphones,Online,Corporate,25,72,0.05,1710.0,1005.9,704.1,0.4118,Affiliate
+50794,2024-07-22,2024,Q3,Jul,30,Northeast,New York,Furniture,Cabinet,Retail,Corporate,9,639,0.15,4888.35,3432.25,1456.1,0.2979,Google Ads
+50795,2024-04-12,2024,Q2,Apr,15,Midwest,Ohio,Electronics,Phone,Retail,Consumer,11,619,0.05,6468.55,3860.49,2608.06,0.4032,Direct
+50796,2024-11-01,2024,Q4,Nov,44,West,California,Accessories,Mouse,Online,Consumer,4,443,0.15,1506.2,839.73,666.47,0.4425,Affiliate
+50797,2024-09-10,2024,Q3,Sep,37,West,Washington,Furniture,Desk,Retail,Corporate,3,702,0.1,1895.4,1119.58,775.82,0.4093,Direct
+50798,2024-03-25,2024,Q1,Mar,13,Midwest,Illinois,Furniture,Chair,Online,Small Business,13,395,0.1,4621.5,3387.66,1233.84,0.267,Google Ads
+50799,2024-01-02,2024,Q1,Jan,1,West,California,Furniture,Cabinet,Distributor,Corporate,3,92,0.15,234.6,154.25,80.35,0.3425,Affiliate
+50800,2024-08-26,2024,Q3,Aug,35,Midwest,Michigan,Accessories,Mouse,Distributor,Small Business,11,463,0.1,4583.7,3319.76,1263.94,0.2757,Email

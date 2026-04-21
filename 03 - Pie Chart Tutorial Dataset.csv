@@ -1,0 +1,801 @@
+Order ID,Date,Year,Quarter,Month,Region,State,City,Product Category,Product Subcategory,Product Name,Sales Channel,Customer Segment,Customer Age Group,Units Sold,Unit Price,Discount,Revenue,Cost,Profit,Payment Method,Shipping Type,Order Priority
+30001,2024-05-03,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Retail,Consumer,18-25,8,195,0.05,1482.0,1100.48,381.52,Card,Standard,Medium
+30002,2024-01-05,2024,Q1,Jan,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Online,Corporate,50+,9,1121,0.15,8575.65,5516.69,3058.96,Cash,Express,Critical
+30003,2024-08-28,2024,Q3,Aug,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Online,Corporate,50+,2,221,0.05,419.9,243.6,176.3,Bank Transfer,Standard,Medium
+30004,2024-09-16,2024,Q3,Sep,Midwest,Michigan,Detroit,Electronics,Tablet,Tab Elite,Online,Consumer,36-50,4,335,0.15,1139.0,667.36,471.64,Bank Transfer,Express,High
+30005,2024-02-03,2024,Q1,Feb,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,Distributor,Consumer,36-50,4,338,0.05,1284.4,855.21,429.19,Card,Standard,Critical
+30006,2024-02-05,2024,Q1,Feb,Midwest,Michigan,Detroit,Accessories,Headphones,SoundMax,Retail,Consumer,36-50,3,837,0.05,2385.45,1717.4,668.05,Bank Transfer,Express,Medium
+30007,2024-03-12,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Distributor,Corporate,36-50,9,210,0.0,1890.0,1124.11,765.89,Bank Transfer,Standard,Medium
+30008,2024-12-02,2024,Q4,Dec,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Online,Corporate,50+,9,1120,0.05,9576.0,6322.13,3253.87,Cash,Express,Low
+30009,2024-03-30,2024,Q1,Mar,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Distributor,Consumer,36-50,6,1162,0.0,6972.0,4464.78,2507.22,Bank Transfer,Standard,High
+30010,2024-09-27,2024,Q3,Sep,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Online,Corporate,36-50,2,703,0.05,1335.7,812.99,522.71,Cash,Same-Day,Low
+30011,2024-06-08,2024,Q2,Jun,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,26-35,9,324,0.15,2478.6,1855.99,622.61,Bank Transfer,Express,Low
+30012,2024-11-04,2024,Q4,Nov,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Online,Consumer,50+,15,874,0.05,12454.5,8560.71,3893.79,Bank Transfer,Express,Medium
+30013,2024-05-17,2024,Q2,May,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Online,Consumer,18-25,8,43,0.1,309.6,177.46,132.14,Bank Transfer,Same-Day,Low
+30014,2024-06-09,2024,Q2,Jun,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Retail,Small Business,50+,5,1095,0.15,4653.75,2829.69,1824.06,Bank Transfer,Same-Day,Critical
+30015,2024-08-22,2024,Q3,Aug,West,California,Los Angeles,Accessories,Mouse,ClickPro,Online,Consumer,36-50,9,339,0.15,2593.35,1916.86,676.49,Digital Wallet,Standard,High
+30016,2024-06-19,2024,Q2,Jun,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,Retail,Small Business,36-50,15,1105,0.0,16575.0,12124.36,4450.64,Card,Same-Day,Low
+30017,2024-08-27,2024,Q3,Aug,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Distributor,Consumer,36-50,4,633,0.15,2152.2,1549.66,602.54,Bank Transfer,Standard,Critical
+30018,2024-10-27,2024,Q4,Oct,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Distributor,Corporate,50+,15,1041,0.1,14053.5,7770.58,6282.92,Card,Standard,Low
+30019,2024-07-25,2024,Q3,Jul,South,Florida,Miami,Electronics,Phone,Galaxy Max,Retail,Small Business,26-35,9,183,0.1,1482.3,1104.13,378.17,Bank Transfer,Standard,Medium
+30020,2024-06-29,2024,Q2,Jun,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Online,Consumer,26-35,9,68,0.05,581.4,414.46,166.94,Card,Same-Day,Critical
+30021,2024-06-16,2024,Q2,Jun,South,Florida,Miami,Electronics,Phone,Galaxy Max,Online,Consumer,50+,13,498,0.0,6474.0,4420.83,2053.17,Digital Wallet,Same-Day,Critical
+30022,2024-09-25,2024,Q3,Sep,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Distributor,Corporate,36-50,7,639,0.1,4025.7,2906.53,1119.17,Cash,Same-Day,Low
+30023,2024-06-11,2024,Q2,Jun,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Distributor,Consumer,50+,6,908,0.0,5448.0,3669.78,1778.22,Digital Wallet,Standard,Critical
+30024,2024-06-25,2024,Q2,Jun,South,Florida,Miami,Accessories,Keyboard,KeyPro,Distributor,Small Business,50+,13,632,0.1,7394.4,4115.43,3278.97,Digital Wallet,Standard,Medium
+30025,2024-10-22,2024,Q4,Oct,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Online,Consumer,36-50,13,659,0.05,8138.65,4860.32,3278.33,Bank Transfer,Same-Day,Critical
+30026,2024-12-21,2024,Q4,Dec,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Online,Corporate,18-25,4,276,0.1,993.6,630.09,363.51,Bank Transfer,Same-Day,Medium
+30027,2024-05-05,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Online,Consumer,26-35,8,666,0.15,4528.8,3003.65,1525.15,Digital Wallet,Same-Day,Low
+30028,2024-01-13,2024,Q1,Jan,South,Florida,Miami,Electronics,Tablet,Tab Elite,Online,Corporate,36-50,4,162,0.0,648.0,469.21,178.79,Bank Transfer,Same-Day,Critical
+30029,2024-12-30,2024,Q4,Dec,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Online,Consumer,26-35,9,743,0.1,6018.3,4176.86,1841.44,Cash,Express,High
+30030,2024-02-13,2024,Q1,Feb,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Distributor,Corporate,36-50,7,413,0.0,2891.0,1722.88,1168.12,Bank Transfer,Same-Day,Medium
+30031,2024-07-20,2024,Q3,Jul,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Online,Consumer,18-25,3,1131,0.0,3393.0,2377.44,1015.56,Bank Transfer,Express,Critical
+30032,2024-03-18,2024,Q1,Mar,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Distributor,Small Business,50+,9,1184,0.1,9590.4,6426.26,3164.14,Cash,Same-Day,Medium
+30033,2024-10-03,2024,Q4,Oct,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Retail,Corporate,36-50,10,97,0.15,824.5,478.03,346.47,Card,Express,Medium
+30034,2024-02-20,2024,Q1,Feb,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Distributor,Corporate,36-50,3,1007,0.05,2869.95,2119.44,750.51,Card,Same-Day,Low
+30035,2024-06-10,2024,Q2,Jun,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Distributor,Small Business,26-35,5,728,0.05,3458.0,2265.25,1192.75,Card,Standard,Medium
+30036,2024-06-14,2024,Q2,Jun,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Retail,Small Business,18-25,7,874,0.15,5200.3,3811.39,1388.91,Card,Standard,Medium
+30037,2024-08-22,2024,Q3,Aug,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Online,Consumer,26-35,15,148,0.15,1887.0,1251.71,635.29,Digital Wallet,Same-Day,High
+30038,2024-09-27,2024,Q3,Sep,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Online,Corporate,50+,8,52,0.05,395.2,279.62,115.58,Digital Wallet,Same-Day,Critical
+30039,2024-01-04,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Distributor,Consumer,36-50,13,1097,0.15,12121.85,8168.88,3952.97,Cash,Express,Low
+30040,2024-03-28,2024,Q1,Mar,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Distributor,Small Business,18-25,5,998,0.1,4491.0,2657.05,1833.95,Digital Wallet,Express,High
+30041,2024-06-18,2024,Q2,Jun,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,Online,Corporate,36-50,4,252,0.1,907.2,610.84,296.36,Bank Transfer,Same-Day,Critical
+30042,2024-03-25,2024,Q1,Mar,South,Florida,Miami,Accessories,Mouse,ClickPro,Distributor,Small Business,26-35,9,418,0.05,3573.9,2468.36,1105.54,Cash,Standard,Critical
+30043,2024-10-28,2024,Q4,Oct,Northeast,New York,New York,Accessories,Mouse,ClickPro,Distributor,Corporate,36-50,2,709,0.15,1205.3,680.39,524.91,Cash,Express,High
+30044,2024-08-09,2024,Q3,Aug,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Distributor,Consumer,26-35,10,969,0.0,9690.0,5522.45,4167.55,Card,Same-Day,Critical
+30045,2024-11-06,2024,Q4,Nov,South,Florida,Miami,Accessories,Mouse,ClickPro,Distributor,Small Business,50+,14,425,0.05,5652.5,3233.15,2419.35,Digital Wallet,Standard,Medium
+30046,2024-07-18,2024,Q3,Jul,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Distributor,Consumer,50+,7,666,0.0,4662.0,3138.72,1523.28,Card,Same-Day,High
+30047,2024-02-04,2024,Q1,Feb,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Distributor,Corporate,18-25,11,517,0.1,5118.3,2895.59,2222.71,Card,Standard,Critical
+30048,2024-05-28,2024,Q2,May,South,Florida,Miami,Electronics,Tablet,Tab Elite,Online,Small Business,18-25,9,321,0.15,2455.65,1796.89,658.76,Digital Wallet,Same-Day,Medium
+30049,2024-08-02,2024,Q3,Aug,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Online,Corporate,18-25,15,537,0.1,7249.5,4501.74,2747.76,Bank Transfer,Same-Day,Critical
+30050,2024-02-27,2024,Q1,Feb,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,Distributor,Consumer,26-35,14,359,0.15,4272.1,2622.36,1649.74,Cash,Same-Day,Critical
+30051,2024-09-29,2024,Q3,Sep,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Distributor,Small Business,50+,10,1197,0.15,10174.5,5923.02,4251.48,Digital Wallet,Express,Medium
+30052,2024-06-23,2024,Q2,Jun,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Online,Small Business,18-25,15,745,0.1,10057.5,7322.44,2735.06,Bank Transfer,Same-Day,Low
+30053,2024-01-11,2024,Q1,Jan,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Retail,Small Business,50+,5,751,0.15,3191.75,2382.31,809.44,Cash,Express,Critical
+30054,2024-03-19,2024,Q1,Mar,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Online,Consumer,26-35,10,165,0.05,1567.5,1046.03,521.47,Cash,Standard,Medium
+30055,2024-03-18,2024,Q1,Mar,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Online,Small Business,36-50,13,922,0.15,10188.1,5751.76,4436.34,Card,Same-Day,High
+30056,2024-03-10,2024,Q1,Mar,West,California,Los Angeles,Accessories,Headphones,SoundMax,Retail,Consumer,36-50,8,584,0.15,3971.2,2784.67,1186.53,Cash,Same-Day,Critical
+30057,2024-08-23,2024,Q3,Aug,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Retail,Consumer,50+,2,31,0.05,58.9,38.43,20.47,Cash,Express,High
+30058,2024-03-12,2024,Q1,Mar,South,Texas,Dallas,Accessories,Headphones,SoundMax,Retail,Consumer,36-50,6,1034,0.1,5583.6,4091.69,1491.91,Card,Standard,High
+30059,2024-05-09,2024,Q2,May,South,Texas,Dallas,Accessories,Mouse,ClickPro,Retail,Small Business,18-25,4,944,0.05,3587.2,2440.51,1146.69,Bank Transfer,Standard,Low
+30060,2024-10-23,2024,Q4,Oct,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Retail,Small Business,36-50,14,372,0.05,4947.6,3175.66,1771.94,Cash,Same-Day,High
+30061,2024-07-07,2024,Q3,Jul,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Distributor,Corporate,26-35,7,886,0.15,5271.7,3656.71,1614.99,Card,Express,Medium
+30062,2024-05-30,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,Distributor,Consumer,50+,3,467,0.05,1330.95,942.65,388.3,Digital Wallet,Express,Medium
+30063,2024-06-12,2024,Q2,Jun,West,Washington,Seattle,Accessories,Headphones,SoundMax,Online,Small Business,26-35,8,612,0.05,4651.2,3150.22,1500.98,Card,Standard,Low
+30064,2024-03-13,2024,Q1,Mar,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Online,Corporate,50+,15,334,0.15,4258.5,2353.87,1904.63,Digital Wallet,Standard,Low
+30065,2024-03-26,2024,Q1,Mar,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,26-35,15,647,0.0,9705.0,7183.68,2521.32,Card,Same-Day,Medium
+30066,2024-02-03,2024,Q1,Feb,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Online,Consumer,26-35,1,540,0.05,513.0,354.21,158.79,Card,Express,High
+30067,2024-10-01,2024,Q4,Oct,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Distributor,Consumer,36-50,10,691,0.15,5873.5,3365.23,2508.27,Bank Transfer,Standard,Critical
+30068,2024-11-30,2024,Q4,Nov,West,Washington,Seattle,Accessories,Mouse,ClickPro,Distributor,Small Business,26-35,8,1054,0.15,7167.2,4158.92,3008.28,Bank Transfer,Standard,Low
+30069,2024-11-24,2024,Q4,Nov,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Distributor,Corporate,36-50,14,541,0.05,7195.3,4158.63,3036.67,Bank Transfer,Same-Day,Medium
+30070,2024-05-29,2024,Q2,May,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Retail,Small Business,36-50,13,653,0.15,7215.65,5174.12,2041.53,Bank Transfer,Express,High
+30071,2024-12-08,2024,Q4,Dec,Northeast,New York,New York,Accessories,Mouse,ClickPro,Retail,Small Business,18-25,8,276,0.05,2097.6,1286.92,810.68,Cash,Standard,High
+30072,2024-05-16,2024,Q2,May,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Online,Small Business,26-35,2,621,0.0,1242.0,929.45,312.55,Digital Wallet,Express,Medium
+30073,2024-01-09,2024,Q1,Jan,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Online,Corporate,50+,4,732,0.05,2781.6,2005.44,776.16,Cash,Express,High
+30074,2024-04-05,2024,Q2,Apr,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Online,Corporate,26-35,7,1047,0.1,6596.1,3994.92,2601.18,Bank Transfer,Standard,Low
+30075,2024-05-19,2024,Q2,May,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Online,Corporate,26-35,15,746,0.15,9511.5,7039.42,2472.08,Bank Transfer,Standard,Low
+30076,2024-01-18,2024,Q1,Jan,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Online,Consumer,26-35,8,93,0.0,744.0,531.1,212.9,Bank Transfer,Standard,Medium
+30077,2024-09-06,2024,Q3,Sep,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Online,Corporate,36-50,10,243,0.15,2065.5,1466.33,599.17,Card,Express,High
+30078,2024-01-30,2024,Q1,Jan,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Online,Corporate,18-25,12,757,0.05,8629.8,5246.94,3382.86,Cash,Same-Day,Critical
+30079,2024-04-18,2024,Q2,Apr,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Distributor,Consumer,50+,11,884,0.05,9237.8,6558.19,2679.61,Cash,Standard,Low
+30080,2024-04-05,2024,Q2,Apr,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Online,Corporate,36-50,8,730,0.05,5548.0,3921.98,1626.02,Bank Transfer,Express,Medium
+30081,2024-05-14,2024,Q2,May,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Distributor,Consumer,36-50,9,358,0.1,2899.8,1879.23,1020.57,Cash,Standard,Low
+30082,2024-10-17,2024,Q4,Oct,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Retail,Small Business,36-50,6,517,0.15,2636.7,1904.92,731.78,Digital Wallet,Express,High
+30083,2024-08-22,2024,Q3,Aug,South,Florida,Miami,Electronics,Phone,Galaxy Max,Distributor,Consumer,26-35,9,269,0.15,2057.85,1141.41,916.44,Bank Transfer,Standard,High
+30084,2024-04-21,2024,Q2,Apr,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Retail,Corporate,36-50,4,639,0.1,2300.4,1599.47,700.93,Cash,Express,High
+30085,2024-11-05,2024,Q4,Nov,Midwest,Illinois,Chicago,Furniture,Desk,WorkDesk Pro,Retail,Small Business,50+,10,529,0.05,5025.5,3080.97,1944.53,Bank Transfer,Standard,High
+30086,2024-02-16,2024,Q1,Feb,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Retail,Corporate,36-50,11,1132,0.0,12452.0,7126.97,5325.03,Digital Wallet,Same-Day,High
+30087,2024-01-12,2024,Q1,Jan,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Retail,Consumer,18-25,11,37,0.1,366.3,219.09,147.21,Bank Transfer,Standard,Medium
+30088,2024-01-04,2024,Q1,Jan,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Distributor,Corporate,18-25,2,287,0.15,487.9,337.62,150.28,Digital Wallet,Express,Critical
+30089,2024-01-26,2024,Q1,Jan,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Distributor,Corporate,26-35,8,772,0.1,5558.4,3779.41,1778.99,Card,Express,Low
+30090,2024-04-28,2024,Q2,Apr,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Distributor,Small Business,26-35,2,63,0.0,126.0,84.6,41.4,Card,Same-Day,Medium
+30091,2024-10-17,2024,Q4,Oct,West,Washington,Seattle,Accessories,Mouse,ClickPro,Online,Small Business,26-35,9,467,0.1,3782.7,2474.55,1308.15,Digital Wallet,Express,High
+30092,2024-05-09,2024,Q2,May,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Retail,Consumer,26-35,9,888,0.1,7192.8,5342.12,1850.68,Card,Same-Day,Low
+30093,2024-01-08,2024,Q1,Jan,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Retail,Small Business,50+,4,440,0.0,1760.0,1112.52,647.48,Bank Transfer,Express,Low
+30094,2024-02-29,2024,Q1,Feb,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Online,Consumer,18-25,15,582,0.15,7420.5,4554.7,2865.8,Cash,Express,Medium
+30095,2024-02-03,2024,Q1,Feb,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Distributor,Small Business,36-50,15,519,0.05,7395.75,4642.53,2753.22,Bank Transfer,Express,Critical
+30096,2024-07-30,2024,Q3,Jul,West,California,Los Angeles,Accessories,Keyboard,KeyPro,Distributor,Consumer,50+,15,698,0.05,9946.5,6781.36,3165.14,Cash,Same-Day,Low
+30097,2024-02-11,2024,Q1,Feb,West,Colorado,Denver,Accessories,Headphones,SoundMax,Retail,Consumer,36-50,9,913,0.0,8217.0,5903.39,2313.61,Bank Transfer,Standard,Medium
+30098,2024-03-31,2024,Q1,Mar,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Retail,Small Business,36-50,12,110,0.05,1254.0,690.76,563.24,Bank Transfer,Same-Day,Critical
+30099,2024-04-07,2024,Q2,Apr,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Retail,Corporate,18-25,9,63,0.05,538.65,299.13,239.52,Bank Transfer,Standard,Critical
+30100,2024-03-25,2024,Q1,Mar,West,Colorado,Denver,Accessories,Headphones,SoundMax,Online,Consumer,18-25,11,506,0.1,5009.4,2823.44,2185.96,Bank Transfer,Standard,Medium
+30101,2024-01-16,2024,Q1,Jan,Midwest,Ohio,Columbus,Furniture,Cabinet,StoragePlus,Online,Small Business,36-50,15,109,0.05,1553.25,918.8,634.45,Digital Wallet,Same-Day,Critical
+30102,2024-04-28,2024,Q2,Apr,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Online,Corporate,18-25,1,33,0.0,33.0,24.36,8.64,Bank Transfer,Standard,Critical
+30103,2024-03-14,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Distributor,Corporate,26-35,1,796,0.05,756.2,451.13,305.07,Cash,Express,Low
+30104,2024-11-27,2024,Q4,Nov,South,Florida,Miami,Furniture,Chair,ComfortSeat,Online,Small Business,36-50,3,279,0.0,837.0,479.15,357.85,Digital Wallet,Standard,Critical
+30105,2024-11-16,2024,Q4,Nov,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Online,Small Business,36-50,14,1108,0.15,13185.2,7828.35,5356.85,Card,Express,Critical
+30106,2024-08-30,2024,Q3,Aug,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Retail,Corporate,26-35,11,635,0.0,6985.0,4109.62,2875.38,Card,Standard,Medium
+30107,2024-01-20,2024,Q1,Jan,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Online,Consumer,50+,2,404,0.15,686.8,410.15,276.65,Cash,Express,High
+30108,2024-06-03,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,Distributor,Consumer,18-25,9,271,0.1,2195.1,1586.43,608.67,Card,Same-Day,Medium
+30109,2024-04-05,2024,Q2,Apr,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Retail,Consumer,26-35,5,436,0.05,2071.0,1377.51,693.49,Card,Same-Day,Medium
+30110,2024-12-11,2024,Q4,Dec,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Online,Small Business,18-25,3,180,0.0,540.0,320.44,219.56,Bank Transfer,Standard,Critical
+30111,2024-12-26,2024,Q4,Dec,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Online,Corporate,18-25,12,1136,0.0,13632.0,7894.95,5737.05,Card,Same-Day,Critical
+30112,2024-09-23,2024,Q3,Sep,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Online,Consumer,50+,15,625,0.05,8906.25,6628.25,2278.0,Bank Transfer,Standard,Critical
+30113,2024-01-21,2024,Q1,Jan,South,Florida,Miami,Accessories,Mouse,ClickPro,Online,Consumer,26-35,9,456,0.1,3693.6,2535.08,1158.52,Card,Standard,Low
+30114,2024-12-15,2024,Q4,Dec,Midwest,Illinois,Chicago,Furniture,Desk,WorkDesk Pro,Retail,Consumer,50+,1,144,0.15,122.4,69.89,52.51,Card,Standard,High
+30115,2024-03-02,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Online,Small Business,26-35,14,78,0.05,1037.4,773.0,264.4,Bank Transfer,Express,High
+30116,2024-12-15,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,Retail,Small Business,26-35,2,105,0.1,189.0,133.95,55.05,Cash,Same-Day,Medium
+30117,2024-08-23,2024,Q3,Aug,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Distributor,Consumer,18-25,13,39,0.05,481.65,279.74,201.91,Bank Transfer,Same-Day,Medium
+30118,2024-03-25,2024,Q1,Mar,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Distributor,Corporate,50+,8,332,0.15,2257.6,1379.79,877.81,Digital Wallet,Express,Medium
+30119,2024-05-08,2024,Q2,May,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Retail,Consumer,36-50,4,340,0.0,1360.0,871.17,488.83,Card,Same-Day,Critical
+30120,2024-07-25,2024,Q3,Jul,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Distributor,Small Business,36-50,1,1136,0.0,1136.0,650.69,485.31,Card,Standard,High
+30121,2024-05-04,2024,Q2,May,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Retail,Corporate,26-35,9,331,0.15,2532.15,1528.52,1003.63,Bank Transfer,Same-Day,Low
+30122,2024-11-25,2024,Q4,Nov,South,Florida,Miami,Electronics,Phone,Galaxy Max,Distributor,Small Business,50+,5,992,0.05,4712.0,3255.29,1456.71,Digital Wallet,Same-Day,Low
+30123,2024-06-09,2024,Q2,Jun,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Distributor,Small Business,36-50,13,819,0.15,9049.95,5779.34,3270.61,Bank Transfer,Standard,High
+30124,2024-07-10,2024,Q3,Jul,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Retail,Consumer,26-35,7,114,0.0,798.0,533.7,264.3,Cash,Standard,Critical
+30125,2024-10-01,2024,Q4,Oct,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Online,Small Business,36-50,8,344,0.15,2339.2,1596.69,742.51,Cash,Express,Critical
+30126,2024-08-18,2024,Q3,Aug,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Distributor,Small Business,18-25,4,527,0.1,1897.2,1306.19,591.01,Cash,Same-Day,Critical
+30127,2024-04-14,2024,Q2,Apr,Northeast,Massachusetts,Boston,Electronics,Tablet,Tab Elite,Online,Small Business,26-35,15,781,0.15,9957.75,6112.12,3845.63,Cash,Same-Day,High
+30128,2024-08-13,2024,Q3,Aug,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Distributor,Small Business,18-25,8,944,0.15,6419.2,4418.37,2000.83,Digital Wallet,Express,Critical
+30129,2024-12-08,2024,Q4,Dec,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Retail,Consumer,36-50,13,727,0.15,8033.35,5285.52,2747.83,Cash,Same-Day,Critical
+30130,2024-04-02,2024,Q2,Apr,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,50+,1,905,0.1,814.5,514.43,300.07,Card,Same-Day,Medium
+30131,2024-04-15,2024,Q2,Apr,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Retail,Corporate,18-25,15,280,0.05,3990.0,2731.47,1258.53,Cash,Express,Medium
+30132,2024-09-06,2024,Q3,Sep,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Retail,Small Business,18-25,8,147,0.1,1058.4,704.57,353.83,Bank Transfer,Standard,Low
+30133,2024-02-20,2024,Q1,Feb,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Retail,Corporate,26-35,6,1025,0.1,5535.0,3986.21,1548.79,Digital Wallet,Standard,Low
+30134,2024-02-18,2024,Q1,Feb,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Distributor,Corporate,18-25,13,285,0.1,3334.5,2448.42,886.08,Digital Wallet,Standard,Critical
+30135,2024-11-22,2024,Q4,Nov,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Online,Consumer,50+,8,39,0.1,280.8,157.67,123.13,Digital Wallet,Same-Day,Low
+30136,2024-11-01,2024,Q4,Nov,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Retail,Small Business,26-35,10,1090,0.0,10900.0,6730.86,4169.14,Digital Wallet,Standard,Medium
+30137,2024-08-28,2024,Q3,Aug,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Retail,Small Business,18-25,7,873,0.0,6111.0,4573.13,1537.87,Cash,Standard,High
+30138,2024-07-17,2024,Q3,Jul,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Online,Small Business,50+,14,755,0.15,8984.5,5436.44,3548.06,Card,Same-Day,High
+30139,2024-08-19,2024,Q3,Aug,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Distributor,Corporate,18-25,14,848,0.15,10091.2,5559.97,4531.23,Cash,Express,Critical
+30140,2024-11-08,2024,Q4,Nov,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Distributor,Corporate,26-35,5,511,0.05,2427.25,1366.93,1060.32,Bank Transfer,Express,High
+30141,2024-05-16,2024,Q2,May,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Retail,Consumer,18-25,13,393,0.05,4853.55,3295.18,1558.37,Cash,Same-Day,Low
+30142,2024-04-03,2024,Q2,Apr,Northeast,New York,New York,Accessories,Mouse,ClickPro,Online,Consumer,18-25,6,552,0.15,2815.2,1584.35,1230.85,Cash,Same-Day,Critical
+30143,2024-12-08,2024,Q4,Dec,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Retail,Small Business,36-50,15,162,0.05,2308.5,1485.78,822.72,Card,Standard,High
+30144,2024-05-08,2024,Q2,May,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Retail,Corporate,18-25,11,559,0.1,5534.1,4149.46,1384.64,Digital Wallet,Same-Day,Critical
+30145,2024-06-08,2024,Q2,Jun,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,50+,1,137,0.15,116.45,81.98,34.47,Cash,Express,Medium
+30146,2024-07-04,2024,Q3,Jul,West,Washington,Seattle,Accessories,Headphones,SoundMax,Online,Consumer,18-25,5,36,0.15,153.0,94.74,58.26,Digital Wallet,Same-Day,Low
+30147,2024-11-16,2024,Q4,Nov,Midwest,Illinois,Chicago,Furniture,Desk,WorkDesk Pro,Retail,Small Business,26-35,12,491,0.0,5892.0,3789.39,2102.61,Card,Standard,Medium
+30148,2024-07-02,2024,Q3,Jul,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Online,Small Business,26-35,5,266,0.05,1263.5,803.9,459.6,Digital Wallet,Same-Day,Medium
+30149,2024-03-03,2024,Q1,Mar,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Online,Consumer,50+,10,584,0.15,4964.0,2793.08,2170.92,Card,Same-Day,Medium
+30150,2024-12-15,2024,Q4,Dec,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Distributor,Consumer,18-25,10,181,0.15,1538.5,858.59,679.91,Cash,Standard,Critical
+30151,2024-10-24,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Distributor,Small Business,50+,4,459,0.0,1836.0,1336.47,499.53,Bank Transfer,Same-Day,Low
+30152,2024-08-12,2024,Q3,Aug,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Distributor,Corporate,26-35,10,615,0.05,5842.5,3489.92,2352.58,Cash,Standard,Medium
+30153,2024-01-04,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Retail,Corporate,50+,11,784,0.0,8624.0,5260.26,3363.74,Bank Transfer,Express,High
+30154,2024-01-02,2024,Q1,Jan,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,26-35,14,522,0.0,7308.0,5129.79,2178.21,Cash,Standard,Critical
+30155,2024-07-25,2024,Q3,Jul,West,Colorado,Denver,Accessories,Headphones,SoundMax,Retail,Consumer,50+,6,243,0.0,1458.0,802.52,655.48,Digital Wallet,Same-Day,Critical
+30156,2024-09-19,2024,Q3,Sep,South,Florida,Miami,Accessories,Headphones,SoundMax,Distributor,Corporate,26-35,15,253,0.1,3415.5,2395.11,1020.39,Digital Wallet,Standard,High
+30157,2024-03-25,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Online,Consumer,18-25,10,200,0.1,1800.0,1106.25,693.75,Cash,Same-Day,Medium
+30158,2024-01-20,2024,Q1,Jan,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Online,Consumer,18-25,15,1138,0.05,16216.5,9203.5,7013.0,Digital Wallet,Standard,Medium
+30159,2024-06-07,2024,Q2,Jun,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Online,Small Business,50+,15,907,0.1,12244.5,6818.09,5426.41,Digital Wallet,Standard,Low
+30160,2024-11-05,2024,Q4,Nov,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Online,Corporate,50+,3,302,0.0,906.0,518.16,387.84,Digital Wallet,Express,Critical
+30161,2024-09-07,2024,Q3,Sep,West,Colorado,Denver,Accessories,Mouse,ClickPro,Distributor,Consumer,50+,1,761,0.0,761.0,463.21,297.79,Cash,Standard,Critical
+30162,2024-10-02,2024,Q4,Oct,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,36-50,2,707,0.0,1414.0,892.94,521.06,Digital Wallet,Express,Medium
+30163,2024-11-15,2024,Q4,Nov,West,Washington,Seattle,Accessories,Headphones,SoundMax,Distributor,Consumer,36-50,11,969,0.1,9593.1,5833.43,3759.67,Cash,Express,High
+30164,2024-03-11,2024,Q1,Mar,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Retail,Small Business,26-35,2,774,0.15,1315.8,819.86,495.94,Digital Wallet,Express,Medium
+30165,2024-04-03,2024,Q2,Apr,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Distributor,Consumer,50+,1,648,0.1,583.2,330.97,252.23,Card,Express,Critical
+30166,2024-11-03,2024,Q4,Nov,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Online,Corporate,26-35,10,1073,0.0,10730.0,7104.46,3625.54,Digital Wallet,Same-Day,Critical
+30167,2024-09-30,2024,Q3,Sep,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Online,Corporate,18-25,11,419,0.1,4148.1,2967.41,1180.69,Digital Wallet,Same-Day,Critical
+30168,2024-08-14,2024,Q3,Aug,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Retail,Small Business,36-50,10,391,0.05,3714.5,2318.33,1396.17,Bank Transfer,Same-Day,Medium
+30169,2024-05-17,2024,Q2,May,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,Distributor,Consumer,26-35,8,810,0.05,6156.0,3618.99,2537.01,Card,Same-Day,Medium
+30170,2024-10-17,2024,Q4,Oct,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Distributor,Small Business,50+,1,865,0.15,735.25,516.01,219.24,Cash,Standard,Low
+30171,2024-10-24,2024,Q4,Oct,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Distributor,Small Business,36-50,4,100,0.05,380.0,263.55,116.45,Card,Same-Day,Critical
+30172,2024-02-11,2024,Q1,Feb,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Online,Small Business,36-50,8,802,0.15,5453.6,3768.6,1685.0,Card,Express,High
+30173,2024-01-26,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,Distributor,Corporate,18-25,15,935,0.0,14025.0,9606.91,4418.09,Bank Transfer,Standard,Low
+30174,2024-12-28,2024,Q4,Dec,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Online,Small Business,36-50,10,699,0.1,6291.0,3527.34,2763.66,Card,Same-Day,High
+30175,2024-06-21,2024,Q2,Jun,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Retail,Corporate,36-50,2,814,0.05,1546.6,1035.18,511.42,Cash,Standard,Critical
+30176,2024-05-17,2024,Q2,May,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Retail,Corporate,18-25,2,329,0.0,658.0,439.03,218.97,Card,Same-Day,Critical
+30177,2024-11-14,2024,Q4,Nov,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Retail,Consumer,50+,6,983,0.05,5603.1,3499.93,2103.17,Cash,Standard,High
+30178,2024-03-01,2024,Q1,Mar,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Retail,Small Business,18-25,12,946,0.15,9649.2,6478.91,3170.29,Bank Transfer,Standard,High
+30179,2024-11-20,2024,Q4,Nov,Midwest,Michigan,Detroit,Accessories,Headphones,SoundMax,Online,Small Business,26-35,8,1136,0.15,7724.8,4374.23,3350.57,Card,Express,Critical
+30180,2024-07-21,2024,Q3,Jul,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,Online,Corporate,36-50,9,495,0.1,4009.5,2414.49,1595.01,Digital Wallet,Express,Low
+30181,2024-04-14,2024,Q2,Apr,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,26-35,5,798,0.15,3391.5,2206.48,1185.02,Card,Standard,Low
+30182,2024-08-16,2024,Q3,Aug,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Distributor,Small Business,26-35,10,959,0.15,8151.5,5994.34,2157.16,Card,Same-Day,Low
+30183,2024-09-07,2024,Q3,Sep,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Distributor,Small Business,36-50,15,718,0.1,9693.0,7186.77,2506.23,Card,Same-Day,Medium
+30184,2024-06-27,2024,Q2,Jun,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Distributor,Corporate,50+,13,149,0.0,1937.0,1134.9,802.1,Bank Transfer,Standard,Medium
+30185,2024-05-11,2024,Q2,May,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Online,Corporate,36-50,11,673,0.0,7403.0,5541.82,1861.18,Digital Wallet,Same-Day,Critical
+30186,2024-09-28,2024,Q3,Sep,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Retail,Corporate,26-35,5,841,0.0,4205.0,2665.82,1539.18,Cash,Standard,Medium
+30187,2024-01-15,2024,Q1,Jan,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Online,Consumer,18-25,8,1200,0.15,8160.0,5323.13,2836.87,Digital Wallet,Express,Critical
+30188,2024-01-11,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Online,Consumer,18-25,3,75,0.0,225.0,146.3,78.7,Cash,Same-Day,Medium
+30189,2024-01-26,2024,Q1,Jan,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Distributor,Consumer,50+,3,706,0.0,2118.0,1227.54,890.46,Bank Transfer,Standard,Medium
+30190,2024-04-14,2024,Q2,Apr,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Distributor,Corporate,18-25,6,227,0.1,1225.8,769.97,455.83,Card,Express,Critical
+30191,2024-06-18,2024,Q2,Jun,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Online,Small Business,18-25,9,618,0.1,5005.8,3550.55,1455.25,Bank Transfer,Express,Low
+30192,2024-02-12,2024,Q1,Feb,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Online,Small Business,18-25,7,1052,0.1,6627.6,4678.99,1948.61,Bank Transfer,Standard,High
+30193,2024-03-04,2024,Q1,Mar,West,California,Los Angeles,Accessories,Headphones,SoundMax,Retail,Small Business,36-50,14,43,0.15,511.7,357.07,154.63,Card,Same-Day,Medium
+30194,2024-04-09,2024,Q2,Apr,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Online,Consumer,50+,7,398,0.1,2507.4,1542.0,965.4,Digital Wallet,Express,Critical
+30195,2024-01-30,2024,Q1,Jan,Northeast,New York,New York,Accessories,Mouse,ClickPro,Online,Consumer,50+,12,72,0.0,864.0,529.84,334.16,Digital Wallet,Same-Day,High
+30196,2024-10-03,2024,Q4,Oct,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Online,Corporate,26-35,8,887,0.15,6031.6,4015.25,2016.35,Bank Transfer,Standard,High
+30197,2024-10-31,2024,Q4,Oct,Northeast,Massachusetts,Boston,Electronics,Tablet,Tab Elite,Online,Consumer,50+,8,285,0.1,2052.0,1398.73,653.27,Card,Standard,Low
+30198,2024-02-22,2024,Q1,Feb,South,Florida,Miami,Electronics,Phone,Galaxy Max,Online,Small Business,18-25,1,196,0.05,186.2,111.71,74.49,Digital Wallet,Same-Day,Low
+30199,2024-11-27,2024,Q4,Nov,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Distributor,Small Business,50+,1,610,0.0,610.0,375.12,234.88,Cash,Same-Day,Low
+30200,2024-03-22,2024,Q1,Mar,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Distributor,Small Business,36-50,14,664,0.1,8366.4,5855.28,2511.12,Digital Wallet,Express,Medium
+30201,2024-08-25,2024,Q3,Aug,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Distributor,Consumer,50+,13,272,0.05,3359.2,2019.86,1339.34,Cash,Standard,High
+30202,2024-04-07,2024,Q2,Apr,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Online,Corporate,36-50,13,1086,0.05,13412.1,9578.56,3833.54,Card,Same-Day,Critical
+30203,2024-10-19,2024,Q4,Oct,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Online,Corporate,36-50,2,250,0.05,475.0,319.91,155.09,Card,Standard,Low
+30204,2024-02-25,2024,Q1,Feb,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Online,Small Business,26-35,4,169,0.05,642.2,475.67,166.53,Cash,Same-Day,Medium
+30205,2024-01-07,2024,Q1,Jan,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Online,Small Business,18-25,14,1153,0.15,13720.7,8359.47,5361.23,Bank Transfer,Standard,Low
+30206,2024-01-20,2024,Q1,Jan,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Online,Small Business,26-35,3,1075,0.05,3063.75,2227.18,836.57,Bank Transfer,Standard,Critical
+30207,2024-12-17,2024,Q4,Dec,West,Colorado,Denver,Accessories,Headphones,SoundMax,Distributor,Small Business,36-50,2,1172,0.0,2344.0,1701.97,642.03,Bank Transfer,Same-Day,Critical
+30208,2024-03-16,2024,Q1,Mar,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Distributor,Corporate,18-25,13,442,0.1,5171.4,3639.85,1531.55,Bank Transfer,Same-Day,High
+30209,2024-06-02,2024,Q2,Jun,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,36-50,4,397,0.0,1588.0,934.56,653.44,Digital Wallet,Express,Medium
+30210,2024-08-08,2024,Q3,Aug,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,Retail,Small Business,36-50,12,294,0.0,3528.0,2247.98,1280.02,Digital Wallet,Same-Day,Low
+30211,2024-11-29,2024,Q4,Nov,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Retail,Consumer,50+,1,556,0.1,500.4,359.69,140.71,Card,Same-Day,High
+30212,2024-07-03,2024,Q3,Jul,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Retail,Consumer,50+,8,950,0.1,6840.0,4770.69,2069.31,Digital Wallet,Standard,Low
+30213,2024-01-10,2024,Q1,Jan,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Retail,Small Business,18-25,3,483,0.15,1231.65,792.93,438.72,Bank Transfer,Same-Day,Low
+30214,2024-06-21,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Retail,Small Business,36-50,6,855,0.05,4873.5,3363.67,1509.83,Card,Same-Day,Critical
+30215,2024-05-25,2024,Q2,May,Northeast,New York,New York,Accessories,Headphones,SoundMax,Online,Small Business,50+,12,455,0.15,4641.0,2955.47,1685.53,Card,Express,Medium
+30216,2024-02-14,2024,Q1,Feb,West,Colorado,Denver,Accessories,Headphones,SoundMax,Retail,Small Business,36-50,15,42,0.1,567.0,399.82,167.18,Card,Same-Day,High
+30217,2024-05-30,2024,Q2,May,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Retail,Consumer,50+,14,507,0.05,6743.1,4409.11,2333.99,Digital Wallet,Standard,Low
+30218,2024-08-04,2024,Q3,Aug,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Retail,Small Business,26-35,12,478,0.05,5449.2,3311.8,2137.4,Card,Express,Critical
+30219,2024-02-16,2024,Q1,Feb,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Retail,Consumer,26-35,3,366,0.15,933.3,549.61,383.69,Bank Transfer,Standard,Low
+30220,2024-01-06,2024,Q1,Jan,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Retail,Small Business,26-35,9,533,0.1,4317.3,2980.82,1336.48,Card,Express,Critical
+30221,2024-12-17,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,Distributor,Consumer,36-50,9,349,0.15,2669.85,1996.39,673.46,Card,Same-Day,High
+30222,2024-03-14,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Online,Consumer,26-35,4,1125,0.15,3825.0,2621.32,1203.68,Bank Transfer,Express,Medium
+30223,2024-08-08,2024,Q3,Aug,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Retail,Corporate,50+,3,41,0.1,110.7,74.09,36.61,Digital Wallet,Express,Critical
+30224,2024-07-20,2024,Q3,Jul,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Retail,Corporate,26-35,4,514,0.15,1747.6,1029.04,718.56,Card,Standard,Low
+30225,2024-04-29,2024,Q2,Apr,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Distributor,Small Business,36-50,8,93,0.0,744.0,555.5,188.5,Cash,Standard,Critical
+30226,2024-12-12,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Online,Consumer,18-25,15,696,0.15,8874.0,5920.74,2953.26,Bank Transfer,Same-Day,Low
+30227,2024-07-18,2024,Q3,Jul,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Retail,Corporate,26-35,6,526,0.05,2998.2,1890.52,1107.68,Digital Wallet,Express,Medium
+30228,2024-09-03,2024,Q3,Sep,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Distributor,Small Business,26-35,5,39,0.15,165.75,118.37,47.38,Card,Standard,Low
+30229,2024-10-12,2024,Q4,Oct,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Online,Small Business,26-35,3,531,0.1,1433.7,986.33,447.37,Digital Wallet,Standard,Critical
+30230,2024-02-06,2024,Q1,Feb,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Online,Consumer,50+,15,1025,0.1,13837.5,8548.03,5289.47,Bank Transfer,Same-Day,Low
+30231,2024-12-06,2024,Q4,Dec,South,Florida,Miami,Electronics,Phone,Galaxy Max,Online,Corporate,36-50,14,897,0.0,12558.0,8825.26,3732.74,Card,Standard,Medium
+30232,2024-07-02,2024,Q3,Jul,South,Florida,Miami,Electronics,Phone,Galaxy Max,Distributor,Small Business,18-25,10,308,0.05,2926.0,1754.2,1171.8,Bank Transfer,Standard,High
+30233,2024-02-16,2024,Q1,Feb,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Retail,Corporate,18-25,14,1005,0.05,13366.5,8911.52,4454.98,Cash,Express,Medium
+30234,2024-05-10,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,Online,Corporate,50+,4,506,0.0,2024.0,1221.78,802.22,Digital Wallet,Same-Day,Low
+30235,2024-03-21,2024,Q1,Mar,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Online,Corporate,18-25,10,1093,0.15,9290.5,6656.82,2633.68,Digital Wallet,Standard,Critical
+30236,2024-10-04,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,Retail,Small Business,50+,6,805,0.1,4347.0,2945.16,1401.84,Digital Wallet,Same-Day,High
+30237,2024-05-27,2024,Q2,May,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Retail,Consumer,50+,10,1094,0.0,10940.0,7963.86,2976.14,Bank Transfer,Same-Day,Critical
+30238,2024-06-19,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,Distributor,Corporate,36-50,4,108,0.0,432.0,261.57,170.43,Card,Express,High
+30239,2024-12-03,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Retail,Corporate,36-50,3,1186,0.15,3024.3,1960.46,1063.84,Digital Wallet,Express,High
+30240,2024-01-24,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Retail,Corporate,36-50,8,40,0.1,288.0,200.32,87.68,Bank Transfer,Express,High
+30241,2024-02-24,2024,Q1,Feb,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Retail,Corporate,50+,5,1158,0.15,4921.5,3225.16,1696.34,Cash,Standard,Critical
+30242,2024-05-23,2024,Q2,May,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Retail,Corporate,36-50,2,708,0.05,1345.2,808.46,536.74,Cash,Standard,Low
+30243,2024-09-28,2024,Q3,Sep,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,Retail,Consumer,50+,4,317,0.05,1204.6,685.54,519.06,Cash,Same-Day,Medium
+30244,2024-06-05,2024,Q2,Jun,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Distributor,Corporate,18-25,3,409,0.05,1165.65,809.7,355.95,Cash,Express,Low
+30245,2024-11-25,2024,Q4,Nov,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,Retail,Corporate,18-25,6,202,0.15,1030.2,583.21,446.99,Digital Wallet,Express,Medium
+30246,2024-06-30,2024,Q2,Jun,West,California,Los Angeles,Accessories,Keyboard,KeyPro,Distributor,Consumer,26-35,3,596,0.1,1609.2,1037.14,572.06,Cash,Standard,High
+30247,2024-04-30,2024,Q2,Apr,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Online,Small Business,26-35,2,288,0.1,518.4,298.68,219.72,Bank Transfer,Same-Day,Medium
+30248,2024-12-11,2024,Q4,Dec,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Online,Small Business,36-50,10,296,0.15,2516.0,1654.53,861.47,Bank Transfer,Same-Day,Medium
+30249,2024-01-29,2024,Q1,Jan,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Distributor,Consumer,50+,10,1057,0.15,8984.5,5947.61,3036.89,Card,Same-Day,Critical
+30250,2024-01-21,2024,Q1,Jan,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Distributor,Small Business,50+,5,128,0.1,576.0,410.47,165.53,Cash,Same-Day,Medium
+30251,2024-03-30,2024,Q1,Mar,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Distributor,Small Business,26-35,10,713,0.1,6417.0,4053.26,2363.74,Bank Transfer,Express,Medium
+30252,2024-10-21,2024,Q4,Oct,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Online,Consumer,18-25,13,226,0.05,2791.1,1595.25,1195.85,Cash,Express,Critical
+30253,2024-09-11,2024,Q3,Sep,West,Colorado,Denver,Furniture,Cabinet,StoragePlus,Online,Corporate,26-35,13,823,0.0,10699.0,7600.89,3098.11,Card,Express,Low
+30254,2024-03-09,2024,Q1,Mar,Midwest,Ohio,Columbus,Furniture,Cabinet,StoragePlus,Distributor,Small Business,36-50,2,1197,0.05,2274.3,1373.88,900.42,Cash,Same-Day,Low
+30255,2024-03-26,2024,Q1,Mar,West,California,Los Angeles,Accessories,Keyboard,KeyPro,Distributor,Consumer,36-50,4,1169,0.0,4676.0,3061.21,1614.79,Cash,Standard,Low
+30256,2024-09-30,2024,Q3,Sep,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Online,Small Business,36-50,8,932,0.05,7083.2,3916.13,3167.07,Digital Wallet,Express,Low
+30257,2024-05-03,2024,Q2,May,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Online,Consumer,26-35,10,296,0.1,2664.0,1611.38,1052.62,Bank Transfer,Standard,Critical
+30258,2024-11-07,2024,Q4,Nov,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Online,Small Business,36-50,11,1079,0.0,11869.0,8135.19,3733.81,Card,Express,High
+30259,2024-07-08,2024,Q3,Jul,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Online,Consumer,36-50,4,963,0.05,3659.4,2212.97,1446.43,Cash,Same-Day,Low
+30260,2024-06-22,2024,Q2,Jun,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Retail,Small Business,36-50,4,1075,0.05,4085.0,2960.16,1124.84,Bank Transfer,Express,Critical
+30261,2024-12-02,2024,Q4,Dec,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Retail,Corporate,50+,6,531,0.15,2708.1,1792.97,915.13,Bank Transfer,Same-Day,Critical
+30262,2024-05-04,2024,Q2,May,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Distributor,Corporate,26-35,11,797,0.1,7890.3,4374.87,3515.43,Digital Wallet,Standard,Low
+30263,2024-11-23,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Distributor,Consumer,18-25,13,97,0.05,1197.95,721.34,476.61,Card,Same-Day,High
+30264,2024-09-29,2024,Q3,Sep,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Retail,Consumer,36-50,9,165,0.15,1262.25,903.2,359.05,Digital Wallet,Express,High
+30265,2024-02-25,2024,Q1,Feb,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Online,Corporate,36-50,9,393,0.1,3183.3,2380.96,802.34,Cash,Express,High
+30266,2024-04-23,2024,Q2,Apr,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Online,Consumer,50+,14,560,0.0,7840.0,4529.5,3310.5,Card,Standard,Critical
+30267,2024-08-07,2024,Q3,Aug,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Online,Small Business,18-25,13,1047,0.05,12930.45,7529.48,5400.97,Bank Transfer,Same-Day,Low
+30268,2024-06-21,2024,Q2,Jun,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Online,Consumer,18-25,14,561,0.0,7854.0,4521.37,3332.63,Cash,Same-Day,High
+30269,2024-01-28,2024,Q1,Jan,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Retail,Small Business,36-50,10,430,0.0,4300.0,3062.16,1237.84,Bank Transfer,Express,Medium
+30270,2024-09-09,2024,Q3,Sep,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Online,Corporate,36-50,2,1077,0.0,2154.0,1333.64,820.36,Digital Wallet,Standard,Critical
+30271,2024-12-11,2024,Q4,Dec,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Retail,Consumer,18-25,11,200,0.0,2200.0,1606.56,593.44,Digital Wallet,Same-Day,High
+30272,2024-10-02,2024,Q4,Oct,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Retail,Consumer,18-25,7,327,0.1,2060.1,1318.91,741.19,Cash,Same-Day,Medium
+30273,2024-04-01,2024,Q2,Apr,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Distributor,Corporate,50+,15,964,0.15,12291.0,8317.83,3973.17,Cash,Same-Day,High
+30274,2024-09-03,2024,Q3,Sep,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Online,Consumer,50+,4,84,0.1,302.4,185.91,116.49,Bank Transfer,Standard,Low
+30275,2024-03-28,2024,Q1,Mar,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Distributor,Small Business,36-50,13,531,0.15,5867.55,3308.69,2558.86,Digital Wallet,Same-Day,High
+30276,2024-10-05,2024,Q4,Oct,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Online,Consumer,18-25,1,809,0.0,809.0,514.36,294.64,Digital Wallet,Express,Medium
+30277,2024-05-16,2024,Q2,May,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Distributor,Consumer,50+,8,765,0.05,5814.0,4129.05,1684.95,Cash,Express,High
+30278,2024-10-15,2024,Q4,Oct,South,Florida,Miami,Electronics,Phone,Galaxy Max,Retail,Small Business,26-35,11,482,0.1,4771.8,3288.99,1482.81,Card,Express,Critical
+30279,2024-04-30,2024,Q2,Apr,West,California,Los Angeles,Accessories,Mouse,ClickPro,Retail,Consumer,50+,14,267,0.15,3177.3,1984.64,1192.66,Bank Transfer,Standard,Critical
+30280,2024-12-27,2024,Q4,Dec,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Distributor,Corporate,26-35,12,263,0.0,3156.0,1941.65,1214.35,Digital Wallet,Express,Critical
+30281,2024-09-19,2024,Q3,Sep,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Distributor,Corporate,50+,14,412,0.15,4902.8,3194.02,1708.78,Digital Wallet,Standard,Low
+30282,2024-08-11,2024,Q3,Aug,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Retail,Corporate,36-50,1,204,0.05,193.8,131.54,62.26,Digital Wallet,Same-Day,High
+30283,2024-03-14,2024,Q1,Mar,West,Washington,Seattle,Accessories,Headphones,SoundMax,Online,Small Business,18-25,5,786,0.1,3537.0,2066.15,1470.85,Cash,Same-Day,High
+30284,2024-06-09,2024,Q2,Jun,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Online,Consumer,50+,12,741,0.0,8892.0,6632.79,2259.21,Cash,Express,Critical
+30285,2024-04-08,2024,Q2,Apr,West,California,Los Angeles,Accessories,Headphones,SoundMax,Retail,Small Business,50+,13,433,0.0,5629.0,3988.9,1640.1,Bank Transfer,Standard,Medium
+30286,2024-05-11,2024,Q2,May,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Online,Small Business,18-25,1,1150,0.15,977.5,641.48,336.02,Bank Transfer,Standard,Medium
+30287,2024-02-20,2024,Q1,Feb,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Online,Consumer,36-50,12,1111,0.05,12665.4,7023.12,5642.28,Bank Transfer,Same-Day,Medium
+30288,2024-02-04,2024,Q1,Feb,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Retail,Corporate,18-25,13,935,0.15,10331.75,5900.06,4431.69,Cash,Express,Medium
+30289,2024-05-10,2024,Q2,May,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Online,Small Business,36-50,15,1120,0.05,15960.0,9326.48,6633.52,Card,Standard,High
+30290,2024-06-06,2024,Q2,Jun,South,Florida,Miami,Accessories,Mouse,ClickPro,Retail,Corporate,36-50,8,631,0.1,4543.2,3123.6,1419.6,Card,Standard,Critical
+30291,2024-01-01,2024,Q1,Jan,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Online,Small Business,18-25,7,105,0.15,624.75,423.0,201.75,Digital Wallet,Standard,Medium
+30292,2024-08-21,2024,Q3,Aug,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Retail,Small Business,50+,14,854,0.15,10162.6,6230.13,3932.47,Card,Same-Day,Medium
+30293,2024-11-20,2024,Q4,Nov,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Retail,Consumer,50+,8,755,0.0,6040.0,4186.05,1853.95,Card,Standard,Low
+30294,2024-04-08,2024,Q2,Apr,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Online,Consumer,18-25,3,712,0.0,2136.0,1595.73,540.27,Bank Transfer,Standard,Critical
+30295,2024-12-17,2024,Q4,Dec,South,Texas,Dallas,Accessories,Mouse,ClickPro,Online,Small Business,18-25,14,152,0.0,2128.0,1368.51,759.49,Bank Transfer,Same-Day,Critical
+30296,2024-08-08,2024,Q3,Aug,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Retail,Consumer,36-50,15,865,0.15,11028.75,7702.6,3326.15,Digital Wallet,Same-Day,Low
+30297,2024-05-24,2024,Q2,May,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Online,Consumer,36-50,1,1171,0.1,1053.9,674.26,379.64,Bank Transfer,Standard,Critical
+30298,2024-10-14,2024,Q4,Oct,Northeast,New York,New York,Accessories,Headphones,SoundMax,Retail,Consumer,50+,3,688,0.1,1857.6,1384.37,473.23,Cash,Standard,High
+30299,2024-03-06,2024,Q1,Mar,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Retail,Small Business,18-25,8,737,0.05,5601.2,3820.65,1780.55,Card,Same-Day,High
+30300,2024-03-12,2024,Q1,Mar,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Distributor,Small Business,50+,9,827,0.0,7443.0,4814.43,2628.57,Digital Wallet,Same-Day,Medium
+30301,2024-06-08,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Online,Corporate,50+,10,928,0.1,8352.0,5311.04,3040.96,Bank Transfer,Express,Low
+30302,2024-11-29,2024,Q4,Nov,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Distributor,Corporate,18-25,1,118,0.05,112.1,69.71,42.39,Card,Express,Medium
+30303,2024-12-12,2024,Q4,Dec,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Online,Corporate,18-25,14,867,0.15,10317.3,6076.08,4241.22,Card,Standard,High
+30304,2024-04-20,2024,Q2,Apr,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Retail,Consumer,18-25,15,877,0.15,11181.75,8025.5,3156.25,Bank Transfer,Standard,Medium
+30305,2024-09-26,2024,Q3,Sep,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,Online,Corporate,50+,10,886,0.05,8417.0,5889.82,2527.18,Digital Wallet,Express,Low
+30306,2024-04-20,2024,Q2,Apr,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Retail,Consumer,26-35,10,796,0.1,7164.0,4407.46,2756.54,Bank Transfer,Same-Day,Critical
+30307,2024-06-09,2024,Q2,Jun,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,18-25,12,826,0.15,8425.2,5512.89,2912.31,Digital Wallet,Standard,Medium
+30308,2024-04-13,2024,Q2,Apr,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Online,Small Business,18-25,14,1022,0.0,14308.0,10528.57,3779.43,Digital Wallet,Standard,Medium
+30309,2024-09-28,2024,Q3,Sep,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Retail,Consumer,26-35,3,882,0.1,2381.4,1722.85,658.55,Digital Wallet,Same-Day,High
+30310,2024-11-15,2024,Q4,Nov,South,Florida,Miami,Accessories,Keyboard,KeyPro,Retail,Consumer,18-25,7,486,0.0,3402.0,2084.46,1317.54,Cash,Same-Day,Medium
+30311,2024-02-24,2024,Q1,Feb,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Online,Small Business,26-35,15,676,0.1,9126.0,5928.48,3197.52,Card,Same-Day,Medium
+30312,2024-05-04,2024,Q2,May,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Online,Consumer,50+,8,909,0.0,7272.0,5064.65,2207.35,Digital Wallet,Same-Day,Medium
+30313,2024-04-19,2024,Q2,Apr,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Distributor,Consumer,36-50,6,739,0.0,4434.0,3156.29,1277.71,Cash,Express,Medium
+30314,2024-07-22,2024,Q3,Jul,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,Retail,Small Business,26-35,12,775,0.05,8835.0,6248.13,2586.87,Cash,Standard,Medium
+30315,2024-10-16,2024,Q4,Oct,South,Texas,Dallas,Accessories,Headphones,SoundMax,Online,Small Business,36-50,13,448,0.05,5532.8,3860.79,1672.01,Bank Transfer,Express,Critical
+30316,2024-02-11,2024,Q1,Feb,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Distributor,Consumer,36-50,12,88,0.0,1056.0,618.74,437.26,Cash,Standard,Medium
+30317,2024-08-06,2024,Q3,Aug,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Retail,Consumer,26-35,15,313,0.0,4695.0,3283.66,1411.34,Digital Wallet,Standard,Critical
+30318,2024-10-28,2024,Q4,Oct,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Online,Small Business,50+,5,795,0.1,3577.5,2355.23,1222.27,Bank Transfer,Standard,Critical
+30319,2024-05-08,2024,Q2,May,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Retail,Corporate,26-35,4,236,0.05,896.8,557.44,339.36,Cash,Express,High
+30320,2024-04-29,2024,Q2,Apr,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Distributor,Small Business,26-35,6,834,0.15,4253.4,2965.3,1288.1,Bank Transfer,Express,Medium
+30321,2024-03-05,2024,Q1,Mar,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,Retail,Consumer,36-50,1,1052,0.05,999.4,701.73,297.67,Card,Same-Day,Medium
+30322,2024-10-31,2024,Q4,Oct,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,Retail,Consumer,26-35,7,327,0.0,2289.0,1389.52,899.48,Bank Transfer,Express,Medium
+30323,2024-11-05,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Retail,Corporate,18-25,11,641,0.0,7051.0,4584.72,2466.28,Digital Wallet,Same-Day,Low
+30324,2024-09-06,2024,Q3,Sep,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Distributor,Small Business,26-35,2,363,0.1,653.4,378.53,274.87,Cash,Same-Day,Medium
+30325,2024-11-01,2024,Q4,Nov,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Retail,Corporate,26-35,3,684,0.1,1846.8,1354.82,491.98,Cash,Express,Critical
+30326,2024-12-01,2024,Q4,Dec,South,Florida,Miami,Accessories,Mouse,ClickPro,Distributor,Corporate,36-50,6,935,0.05,5329.5,3880.14,1449.36,Cash,Same-Day,Low
+30327,2024-08-14,2024,Q3,Aug,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Online,Consumer,18-25,2,1149,0.0,2298.0,1523.1,774.9,Digital Wallet,Standard,Medium
+30328,2024-02-24,2024,Q1,Feb,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Retail,Corporate,18-25,8,676,0.15,4596.8,3000.15,1596.65,Card,Express,Low
+30329,2024-06-17,2024,Q2,Jun,South,Florida,Miami,Accessories,Mouse,ClickPro,Online,Consumer,18-25,7,1173,0.1,7389.9,5087.6,2302.3,Cash,Standard,Low
+30330,2024-10-13,2024,Q4,Oct,West,California,Los Angeles,Accessories,Keyboard,KeyPro,Online,Consumer,18-25,4,989,0.0,3956.0,2473.24,1482.76,Digital Wallet,Express,High
+30331,2024-10-24,2024,Q4,Oct,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Online,Small Business,36-50,2,1112,0.05,2112.8,1537.55,575.25,Digital Wallet,Express,Low
+30332,2024-12-10,2024,Q4,Dec,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Retail,Small Business,50+,15,376,0.05,5358.0,3545.94,1812.06,Cash,Express,Low
+30333,2024-11-17,2024,Q4,Nov,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Retail,Corporate,26-35,11,815,0.15,7620.25,5526.52,2093.73,Cash,Express,Medium
+30334,2024-03-04,2024,Q1,Mar,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Distributor,Small Business,50+,5,998,0.1,4491.0,2653.73,1837.27,Card,Express,Low
+30335,2024-09-29,2024,Q3,Sep,South,Texas,Dallas,Accessories,Headphones,SoundMax,Retail,Corporate,50+,10,148,0.0,1480.0,862.08,617.92,Digital Wallet,Same-Day,High
+30336,2024-01-15,2024,Q1,Jan,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Online,Small Business,26-35,15,489,0.1,6601.5,4739.86,1861.64,Digital Wallet,Same-Day,Critical
+30337,2024-05-23,2024,Q2,May,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Distributor,Consumer,18-25,2,371,0.1,667.8,434.74,233.06,Digital Wallet,Express,Medium
+30338,2024-12-12,2024,Q4,Dec,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Online,Corporate,36-50,15,1124,0.0,16860.0,11153.7,5706.3,Digital Wallet,Express,High
+30339,2024-05-19,2024,Q2,May,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Retail,Consumer,50+,13,31,0.05,382.85,213.69,169.16,Bank Transfer,Same-Day,Medium
+30340,2024-04-30,2024,Q2,Apr,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Online,Small Business,36-50,5,257,0.15,1092.25,765.58,326.67,Cash,Standard,Critical
+30341,2024-09-25,2024,Q3,Sep,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Online,Small Business,50+,14,864,0.15,10281.6,6936.16,3345.44,Cash,Same-Day,Low
+30342,2024-05-26,2024,Q2,May,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Online,Consumer,18-25,13,1121,0.15,12387.05,8572.19,3814.86,Cash,Standard,High
+30343,2024-08-24,2024,Q3,Aug,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Online,Corporate,36-50,3,763,0.0,2289.0,1548.93,740.07,Bank Transfer,Express,Critical
+30344,2024-01-07,2024,Q1,Jan,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Online,Corporate,36-50,3,917,0.1,2475.9,1576.1,899.8,Cash,Express,Critical
+30345,2024-12-17,2024,Q4,Dec,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Distributor,Consumer,50+,15,581,0.05,8279.25,5564.26,2714.99,Cash,Standard,Critical
+30346,2024-06-30,2024,Q2,Jun,Northeast,New York,New York,Accessories,Headphones,SoundMax,Online,Corporate,18-25,1,165,0.05,156.75,89.5,67.25,Digital Wallet,Express,High
+30347,2024-02-11,2024,Q1,Feb,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Retail,Consumer,18-25,14,1101,0.0,15414.0,9661.12,5752.88,Cash,Standard,High
+30348,2024-10-12,2024,Q4,Oct,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Retail,Corporate,18-25,9,840,0.15,6426.0,4429.86,1996.14,Bank Transfer,Express,Medium
+30349,2024-12-22,2024,Q4,Dec,South,Florida,Miami,Accessories,Headphones,SoundMax,Distributor,Corporate,50+,11,675,0.05,7053.75,4110.12,2943.63,Card,Same-Day,Medium
+30350,2024-01-11,2024,Q1,Jan,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Retail,Corporate,50+,13,509,0.15,5624.45,3288.22,2336.23,Card,Same-Day,Low
+30351,2024-11-14,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,Online,Small Business,26-35,11,1184,0.15,11070.4,7458.36,3612.04,Bank Transfer,Standard,Critical
+30352,2024-02-27,2024,Q1,Feb,West,Colorado,Denver,Accessories,Mouse,ClickPro,Retail,Small Business,26-35,2,132,0.15,224.4,160.48,63.92,Card,Standard,Low
+30353,2024-12-17,2024,Q4,Dec,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Retail,Corporate,18-25,4,213,0.1,766.8,454.12,312.68,Bank Transfer,Standard,Medium
+30354,2024-07-21,2024,Q3,Jul,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Distributor,Corporate,50+,7,504,0.15,2998.8,2197.41,801.39,Cash,Standard,High
+30355,2024-10-23,2024,Q4,Oct,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Retail,Corporate,36-50,14,1063,0.1,13393.8,8057.53,5336.27,Digital Wallet,Express,Medium
+30356,2024-03-31,2024,Q1,Mar,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Retail,Corporate,36-50,14,397,0.15,4724.3,2683.55,2040.75,Cash,Standard,Critical
+30357,2024-02-01,2024,Q1,Feb,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Retail,Small Business,18-25,2,1084,0.0,2168.0,1271.26,896.74,Cash,Same-Day,Critical
+30358,2024-03-03,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,Distributor,Small Business,36-50,3,303,0.05,863.55,589.35,274.2,Cash,Standard,Critical
+30359,2024-10-21,2024,Q4,Oct,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Distributor,Corporate,36-50,12,987,0.0,11844.0,6880.78,4963.22,Cash,Express,High
+30360,2024-05-14,2024,Q2,May,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Retail,Corporate,26-35,3,1016,0.0,3048.0,1746.31,1301.69,Card,Express,High
+30361,2024-06-11,2024,Q2,Jun,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Distributor,Corporate,50+,15,170,0.15,2167.5,1261.81,905.69,Bank Transfer,Express,Critical
+30362,2024-12-11,2024,Q4,Dec,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Distributor,Consumer,50+,14,915,0.1,11529.0,6573.75,4955.25,Bank Transfer,Standard,Low
+30363,2024-02-13,2024,Q1,Feb,West,Colorado,Denver,Accessories,Headphones,SoundMax,Retail,Consumer,50+,3,752,0.05,2143.2,1413.15,730.05,Cash,Standard,Low
+30364,2024-06-20,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Distributor,Consumer,50+,4,1154,0.1,4154.4,2359.78,1794.62,Bank Transfer,Express,Medium
+30365,2024-11-02,2024,Q4,Nov,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Retail,Corporate,18-25,12,840,0.0,10080.0,5612.0,4468.0,Digital Wallet,Same-Day,Low
+30366,2024-03-31,2024,Q1,Mar,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Distributor,Small Business,18-25,1,906,0.15,770.1,446.78,323.32,Card,Express,Low
+30367,2024-11-17,2024,Q4,Nov,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Retail,Consumer,18-25,2,647,0.1,1164.6,706.24,458.36,Cash,Express,Low
+30368,2024-05-07,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Retail,Consumer,18-25,5,1035,0.0,5175.0,3147.38,2027.62,Digital Wallet,Express,Critical
+30369,2024-03-02,2024,Q1,Mar,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Online,Corporate,50+,7,938,0.15,5581.1,3959.31,1621.79,Bank Transfer,Standard,Low
+30370,2024-06-03,2024,Q2,Jun,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Retail,Small Business,50+,8,989,0.1,7120.8,4493.4,2627.4,Card,Same-Day,High
+30371,2024-03-30,2024,Q1,Mar,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Distributor,Consumer,18-25,10,1131,0.0,11310.0,7096.83,4213.17,Card,Same-Day,Medium
+30372,2024-10-19,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Retail,Consumer,18-25,10,545,0.05,5177.5,3393.7,1783.8,Card,Same-Day,High
+30373,2024-03-18,2024,Q1,Mar,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Online,Small Business,50+,5,909,0.05,4317.75,2496.27,1821.48,Card,Express,Critical
+30374,2024-01-20,2024,Q1,Jan,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Retail,Small Business,26-35,12,1043,0.15,10638.6,7307.33,3331.27,Bank Transfer,Standard,Critical
+30375,2024-10-18,2024,Q4,Oct,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Online,Small Business,50+,4,936,0.1,3369.6,2509.34,860.26,Card,Express,Critical
+30376,2024-03-26,2024,Q1,Mar,West,Washington,Seattle,Furniture,Cabinet,StoragePlus,Online,Small Business,36-50,14,301,0.05,4003.3,2230.29,1773.01,Cash,Standard,High
+30377,2024-10-04,2024,Q4,Oct,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Distributor,Corporate,18-25,9,348,0.1,2818.8,1835.02,983.78,Digital Wallet,Standard,High
+30378,2024-10-17,2024,Q4,Oct,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Retail,Small Business,26-35,5,413,0.15,1755.25,1110.74,644.51,Cash,Express,High
+30379,2024-01-24,2024,Q1,Jan,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Online,Consumer,18-25,2,221,0.05,419.9,309.67,110.23,Digital Wallet,Same-Day,Critical
+30380,2024-02-10,2024,Q1,Feb,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Retail,Consumer,18-25,2,1068,0.15,1815.6,1304.22,511.38,Digital Wallet,Standard,High
+30381,2024-01-25,2024,Q1,Jan,South,Florida,Miami,Furniture,Chair,ComfortSeat,Online,Corporate,36-50,9,632,0.15,4834.8,3171.45,1663.35,Bank Transfer,Standard,Medium
+30382,2024-07-01,2024,Q3,Jul,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Online,Consumer,50+,13,979,0.1,11454.3,6578.19,4876.11,Cash,Same-Day,Critical
+30383,2024-07-03,2024,Q3,Jul,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Distributor,Consumer,50+,4,140,0.05,532.0,326.32,205.68,Digital Wallet,Same-Day,High
+30384,2024-02-04,2024,Q1,Feb,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Distributor,Small Business,26-35,15,363,0.15,4628.25,2782.19,1846.06,Bank Transfer,Express,High
+30385,2024-08-31,2024,Q3,Aug,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Retail,Corporate,18-25,11,1027,0.0,11297.0,6428.84,4868.16,Digital Wallet,Express,Medium
+30386,2024-07-13,2024,Q3,Jul,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Retail,Small Business,26-35,12,108,0.1,1166.4,721.22,445.18,Cash,Standard,Low
+30387,2024-12-12,2024,Q4,Dec,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Online,Small Business,18-25,4,567,0.15,1927.8,1385.67,542.13,Cash,Standard,High
+30388,2024-09-18,2024,Q3,Sep,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Online,Consumer,26-35,11,1141,0.15,10668.35,6883.93,3784.42,Digital Wallet,Express,Critical
+30389,2024-01-01,2024,Q1,Jan,South,Texas,Dallas,Accessories,Mouse,ClickPro,Distributor,Corporate,36-50,10,683,0.05,6488.5,4777.2,1711.3,Card,Same-Day,Low
+30390,2024-03-06,2024,Q1,Mar,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,Online,Consumer,26-35,8,558,0.05,4240.8,2704.2,1536.6,Cash,Express,High
+30391,2024-09-26,2024,Q3,Sep,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Distributor,Consumer,26-35,3,245,0.1,661.5,414.65,246.85,Bank Transfer,Standard,Medium
+30392,2024-09-20,2024,Q3,Sep,Northeast,New York,New York,Accessories,Mouse,ClickPro,Distributor,Small Business,18-25,1,855,0.15,726.75,499.0,227.75,Cash,Same-Day,Medium
+30393,2024-03-28,2024,Q1,Mar,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Online,Corporate,36-50,9,301,0.05,2573.55,1590.2,983.35,Bank Transfer,Express,Critical
+30394,2024-10-22,2024,Q4,Oct,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Online,Small Business,18-25,1,1163,0.05,1104.85,652.46,452.39,Bank Transfer,Standard,Low
+30395,2024-07-17,2024,Q3,Jul,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Online,Consumer,18-25,7,549,0.05,3650.85,2510.99,1139.86,Digital Wallet,Same-Day,Critical
+30396,2024-07-23,2024,Q3,Jul,West,California,Los Angeles,Accessories,Mouse,ClickPro,Distributor,Consumer,26-35,13,159,0.15,1756.95,1244.31,512.64,Card,Express,High
+30397,2024-05-23,2024,Q2,May,Northeast,New York,New York,Accessories,Headphones,SoundMax,Online,Corporate,18-25,3,995,0.0,2985.0,1758.12,1226.88,Cash,Standard,High
+30398,2024-10-12,2024,Q4,Oct,South,Texas,Dallas,Accessories,Mouse,ClickPro,Distributor,Small Business,18-25,4,1117,0.15,3797.8,2744.51,1053.29,Bank Transfer,Same-Day,High
+30399,2024-07-27,2024,Q3,Jul,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Distributor,Small Business,18-25,8,99,0.15,673.2,452.37,220.83,Card,Express,Critical
+30400,2024-12-03,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Distributor,Small Business,18-25,13,134,0.15,1480.7,939.67,541.03,Cash,Same-Day,Medium
+30401,2024-07-08,2024,Q3,Jul,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Retail,Corporate,36-50,8,681,0.1,4903.2,3265.28,1637.92,Bank Transfer,Standard,High
+30402,2024-09-14,2024,Q3,Sep,Midwest,Illinois,Chicago,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,26-35,5,133,0.05,631.75,348.2,283.55,Cash,Standard,Low
+30403,2024-02-29,2024,Q1,Feb,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Online,Small Business,36-50,11,1044,0.0,11484.0,7471.59,4012.41,Cash,Express,Critical
+30404,2024-07-13,2024,Q3,Jul,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Distributor,Small Business,36-50,12,440,0.05,5016.0,2904.0,2112.0,Bank Transfer,Standard,Low
+30405,2024-11-11,2024,Q4,Nov,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Retail,Small Business,36-50,7,883,0.15,5253.85,2924.4,2329.45,Card,Standard,Critical
+30406,2024-05-07,2024,Q2,May,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,Online,Consumer,26-35,15,420,0.1,5670.0,3909.79,1760.21,Digital Wallet,Same-Day,High
+30407,2024-09-29,2024,Q3,Sep,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Distributor,Consumer,26-35,9,160,0.0,1440.0,1026.58,413.42,Cash,Standard,Critical
+30408,2024-06-14,2024,Q2,Jun,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Online,Corporate,18-25,10,266,0.1,2394.0,1366.68,1027.32,Cash,Same-Day,High
+30409,2024-02-28,2024,Q1,Feb,South,Georgia,Atlanta,Furniture,Desk,WorkDesk Pro,Online,Consumer,50+,2,268,0.1,482.4,324.59,157.81,Digital Wallet,Express,Medium
+30410,2024-06-30,2024,Q2,Jun,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Distributor,Small Business,36-50,10,1026,0.15,8721.0,5411.35,3309.65,Card,Same-Day,Low
+30411,2024-08-24,2024,Q3,Aug,West,Washington,Seattle,Accessories,Headphones,SoundMax,Online,Consumer,26-35,5,323,0.0,1615.0,958.76,656.24,Cash,Standard,Critical
+30412,2024-10-08,2024,Q4,Oct,South,Florida,Miami,Electronics,Phone,Galaxy Max,Online,Corporate,36-50,10,670,0.1,6030.0,4403.41,1626.59,Cash,Express,Critical
+30413,2024-09-01,2024,Q3,Sep,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Retail,Corporate,18-25,12,685,0.0,8220.0,5806.36,2413.64,Digital Wallet,Same-Day,Critical
+30414,2024-06-01,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,Retail,Small Business,18-25,4,561,0.15,1907.4,1281.65,625.75,Digital Wallet,Same-Day,High
+30415,2024-01-09,2024,Q1,Jan,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Online,Consumer,26-35,3,526,0.15,1341.3,757.85,583.45,Bank Transfer,Express,Medium
+30416,2024-08-18,2024,Q3,Aug,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Online,Small Business,50+,3,392,0.1,1058.4,767.94,290.46,Card,Standard,Low
+30417,2024-08-09,2024,Q3,Aug,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Online,Consumer,18-25,12,1022,0.05,11650.8,7173.15,4477.65,Card,Same-Day,Low
+30418,2024-12-23,2024,Q4,Dec,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Distributor,Consumer,50+,5,215,0.0,1075.0,643.47,431.53,Bank Transfer,Standard,High
+30419,2024-03-03,2024,Q1,Mar,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Retail,Corporate,18-25,10,136,0.0,1360.0,966.61,393.39,Digital Wallet,Same-Day,High
+30420,2024-03-15,2024,Q1,Mar,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Retail,Corporate,36-50,8,96,0.0,768.0,510.05,257.95,Digital Wallet,Same-Day,Medium
+30421,2024-04-14,2024,Q2,Apr,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Online,Small Business,18-25,1,1094,0.05,1039.3,726.25,313.05,Bank Transfer,Standard,Critical
+30422,2024-01-01,2024,Q1,Jan,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Retail,Consumer,18-25,15,121,0.0,1815.0,1318.85,496.15,Digital Wallet,Same-Day,Medium
+30423,2024-12-09,2024,Q4,Dec,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Online,Corporate,50+,9,90,0.1,729.0,433.02,295.98,Digital Wallet,Same-Day,High
+30424,2024-03-29,2024,Q1,Mar,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Distributor,Consumer,50+,11,860,0.15,8041.0,5491.41,2549.59,Cash,Standard,Low
+30425,2024-04-18,2024,Q2,Apr,South,Florida,Miami,Furniture,Chair,ComfortSeat,Online,Corporate,50+,6,63,0.15,321.3,239.55,81.75,Bank Transfer,Standard,High
+30426,2024-07-30,2024,Q3,Jul,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Distributor,Small Business,26-35,14,775,0.15,9222.5,6795.26,2427.24,Cash,Express,Low
+30427,2024-06-27,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Retail,Corporate,36-50,6,107,0.05,609.9,372.47,237.43,Cash,Express,Low
+30428,2024-02-21,2024,Q1,Feb,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Retail,Small Business,18-25,10,796,0.0,7960.0,5132.98,2827.02,Card,Standard,High
+30429,2024-08-30,2024,Q3,Aug,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Online,Corporate,50+,8,599,0.05,4552.4,2957.96,1594.44,Card,Express,High
+30430,2024-08-07,2024,Q3,Aug,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Online,Small Business,50+,13,730,0.05,9015.5,5924.61,3090.89,Cash,Standard,Low
+30431,2024-03-18,2024,Q1,Mar,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Online,Corporate,50+,1,1041,0.15,884.85,522.92,361.93,Card,Standard,Low
+30432,2024-09-15,2024,Q3,Sep,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Retail,Consumer,50+,11,1035,0.05,10815.75,7987.05,2828.7,Bank Transfer,Same-Day,Low
+30433,2024-03-17,2024,Q1,Mar,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Distributor,Corporate,26-35,3,504,0.15,1285.2,877.62,407.58,Cash,Express,Critical
+30434,2024-10-15,2024,Q4,Oct,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Distributor,Corporate,50+,3,92,0.0,276.0,161.25,114.75,Digital Wallet,Express,Medium
+30435,2024-03-16,2024,Q1,Mar,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Online,Consumer,18-25,10,904,0.1,8136.0,4763.22,3372.78,Bank Transfer,Standard,High
+30436,2024-12-24,2024,Q4,Dec,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,Distributor,Consumer,26-35,15,937,0.0,14055.0,7823.24,6231.76,Cash,Same-Day,Low
+30437,2024-08-19,2024,Q3,Aug,Northeast,New York,New York,Accessories,Mouse,ClickPro,Online,Small Business,36-50,13,1042,0.05,12868.7,9280.59,3588.11,Digital Wallet,Standard,Medium
+30438,2024-04-14,2024,Q2,Apr,West,California,Los Angeles,Accessories,Headphones,SoundMax,Distributor,Consumer,26-35,11,1036,0.15,9686.6,5534.51,4152.09,Bank Transfer,Standard,Critical
+30439,2024-06-12,2024,Q2,Jun,South,Texas,Dallas,Accessories,Mouse,ClickPro,Distributor,Small Business,18-25,15,142,0.0,2130.0,1422.95,707.05,Bank Transfer,Express,Medium
+30440,2024-09-01,2024,Q3,Sep,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Online,Small Business,26-35,4,943,0.0,3772.0,2571.98,1200.02,Card,Express,High
+30441,2024-11-17,2024,Q4,Nov,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Online,Corporate,18-25,7,219,0.1,1379.7,813.8,565.9,Cash,Same-Day,Critical
+30442,2024-12-21,2024,Q4,Dec,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Distributor,Consumer,26-35,9,479,0.05,4095.45,2681.0,1414.45,Card,Same-Day,Critical
+30443,2024-10-27,2024,Q4,Oct,West,Colorado,Denver,Accessories,Mouse,ClickPro,Retail,Small Business,18-25,14,595,0.05,7913.5,5297.38,2616.12,Card,Express,High
+30444,2024-05-26,2024,Q2,May,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Retail,Small Business,36-50,12,1004,0.0,12048.0,8051.55,3996.45,Card,Standard,Medium
+30445,2024-04-20,2024,Q2,Apr,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,Retail,Small Business,36-50,6,1156,0.0,6936.0,4231.09,2704.91,Card,Express,Critical
+30446,2024-01-06,2024,Q1,Jan,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Distributor,Corporate,18-25,1,720,0.0,720.0,489.03,230.97,Card,Same-Day,Critical
+30447,2024-03-30,2024,Q1,Mar,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Distributor,Corporate,36-50,8,918,0.0,7344.0,5069.99,2274.01,Cash,Same-Day,Critical
+30448,2024-04-10,2024,Q2,Apr,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Online,Small Business,50+,2,383,0.05,727.7,498.86,228.84,Digital Wallet,Same-Day,High
+30449,2024-12-07,2024,Q4,Dec,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Retail,Corporate,36-50,10,410,0.1,3690.0,2115.96,1574.04,Cash,Same-Day,Low
+30450,2024-04-02,2024,Q2,Apr,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Retail,Small Business,36-50,1,536,0.05,509.2,291.17,218.03,Card,Express,Critical
+30451,2024-06-10,2024,Q2,Jun,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Distributor,Small Business,36-50,10,1153,0.15,9800.5,7144.03,2656.47,Bank Transfer,Standard,High
+30452,2024-09-18,2024,Q3,Sep,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Retail,Corporate,26-35,2,611,0.1,1099.8,645.96,453.84,Cash,Standard,High
+30453,2024-07-17,2024,Q3,Jul,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,Retail,Corporate,50+,2,971,0.1,1747.8,1255.56,492.24,Digital Wallet,Standard,Critical
+30454,2024-10-05,2024,Q4,Oct,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Distributor,Consumer,18-25,3,805,0.1,2173.5,1516.75,656.75,Cash,Standard,Critical
+30455,2024-08-22,2024,Q3,Aug,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Distributor,Consumer,18-25,5,1041,0.0,5205.0,2990.14,2214.86,Cash,Standard,Low
+30456,2024-04-26,2024,Q2,Apr,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,Retail,Small Business,26-35,10,617,0.15,5244.5,3550.57,1693.93,Bank Transfer,Same-Day,High
+30457,2024-05-04,2024,Q2,May,South,Florida,Miami,Electronics,Phone,Galaxy Max,Retail,Small Business,36-50,8,991,0.05,7531.6,5263.18,2268.42,Digital Wallet,Express,High
+30458,2024-10-30,2024,Q4,Oct,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Online,Small Business,26-35,3,424,0.05,1208.4,849.22,359.18,Card,Same-Day,Low
+30459,2024-10-04,2024,Q4,Oct,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Retail,Corporate,50+,15,399,0.05,5685.75,3556.8,2128.95,Digital Wallet,Same-Day,Low
+30460,2024-05-06,2024,Q2,May,Midwest,Ohio,Columbus,Furniture,Cabinet,StoragePlus,Distributor,Consumer,18-25,13,961,0.15,10619.05,6333.19,4285.86,Bank Transfer,Same-Day,Medium
+30461,2024-08-26,2024,Q3,Aug,South,Florida,Miami,Accessories,Keyboard,KeyPro,Retail,Consumer,36-50,4,960,0.1,3456.0,2531.6,924.4,Digital Wallet,Express,Critical
+30462,2024-07-01,2024,Q3,Jul,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Online,Small Business,50+,7,1120,0.1,7056.0,5091.03,1964.97,Cash,Express,Low
+30463,2024-04-18,2024,Q2,Apr,Midwest,Ohio,Columbus,Furniture,Cabinet,StoragePlus,Online,Corporate,18-25,15,558,0.0,8370.0,4899.77,3470.23,Card,Express,High
+30464,2024-05-23,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Retail,Corporate,36-50,12,66,0.15,673.2,436.42,236.78,Bank Transfer,Same-Day,High
+30465,2024-04-27,2024,Q2,Apr,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,Distributor,Consumer,18-25,6,676,0.0,4056.0,2885.39,1170.61,Bank Transfer,Standard,Medium
+30466,2024-04-12,2024,Q2,Apr,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Online,Small Business,18-25,5,628,0.0,3140.0,1841.29,1298.71,Bank Transfer,Express,Low
+30467,2024-11-27,2024,Q4,Nov,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Online,Corporate,50+,13,146,0.05,1803.1,1305.91,497.19,Bank Transfer,Same-Day,Medium
+30468,2024-10-02,2024,Q4,Oct,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Retail,Consumer,18-25,10,1074,0.0,10740.0,6735.52,4004.48,Card,Express,Low
+30469,2024-06-29,2024,Q2,Jun,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Distributor,Small Business,50+,10,642,0.15,5457.0,3123.43,2333.57,Digital Wallet,Same-Day,Low
+30470,2024-02-25,2024,Q1,Feb,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Distributor,Consumer,50+,5,1154,0.15,4904.5,3346.51,1557.99,Cash,Standard,Critical
+30471,2024-11-11,2024,Q4,Nov,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Distributor,Corporate,50+,5,1011,0.15,4296.75,2908.61,1388.14,Bank Transfer,Express,Low
+30472,2024-08-08,2024,Q3,Aug,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Online,Small Business,50+,4,136,0.05,516.8,353.0,163.8,Bank Transfer,Standard,Low
+30473,2024-03-28,2024,Q1,Mar,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Retail,Corporate,26-35,2,151,0.1,271.8,190.27,81.53,Cash,Express,High
+30474,2024-09-11,2024,Q3,Sep,West,Washington,Seattle,Accessories,Headphones,SoundMax,Retail,Consumer,50+,7,99,0.05,658.35,428.69,229.66,Card,Same-Day,High
+30475,2024-04-30,2024,Q2,Apr,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Online,Consumer,36-50,4,903,0.15,3070.2,2220.33,849.87,Card,Same-Day,Low
+30476,2024-08-24,2024,Q3,Aug,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Online,Small Business,36-50,7,527,0.1,3320.1,1845.7,1474.4,Cash,Same-Day,High
+30477,2024-04-21,2024,Q2,Apr,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Distributor,Small Business,26-35,1,827,0.05,785.65,571.69,213.96,Cash,Same-Day,Low
+30478,2024-09-27,2024,Q3,Sep,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Online,Corporate,18-25,5,715,0.05,3396.25,1992.21,1404.04,Digital Wallet,Same-Day,High
+30479,2024-12-23,2024,Q4,Dec,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Distributor,Corporate,26-35,5,1036,0.15,4403.0,3293.24,1109.76,Card,Same-Day,Low
+30480,2024-03-19,2024,Q1,Mar,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Distributor,Small Business,26-35,13,1072,0.05,13239.2,9357.0,3882.2,Digital Wallet,Same-Day,Low
+30481,2024-03-30,2024,Q1,Mar,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Retail,Small Business,18-25,8,960,0.15,6528.0,4195.46,2332.54,Bank Transfer,Same-Day,High
+30482,2024-01-14,2024,Q1,Jan,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Distributor,Consumer,18-25,12,909,0.05,10362.6,6373.83,3988.77,Digital Wallet,Standard,High
+30483,2024-10-09,2024,Q4,Oct,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Online,Consumer,50+,11,31,0.0,341.0,196.16,144.84,Bank Transfer,Standard,Critical
+30484,2024-06-06,2024,Q2,Jun,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Retail,Small Business,18-25,13,1037,0.05,12806.95,9196.39,3610.56,Bank Transfer,Express,Medium
+30485,2024-07-08,2024,Q3,Jul,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Retail,Consumer,18-25,5,797,0.0,3985.0,2548.79,1436.21,Cash,Express,Medium
+30486,2024-02-27,2024,Q1,Feb,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,36-50,13,547,0.15,6044.35,4189.93,1854.42,Digital Wallet,Express,Medium
+30487,2024-08-05,2024,Q3,Aug,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Online,Consumer,26-35,6,1132,0.0,6792.0,4431.82,2360.18,Card,Standard,Low
+30488,2024-06-03,2024,Q2,Jun,West,Washington,Seattle,Accessories,Mouse,ClickPro,Distributor,Corporate,36-50,15,84,0.1,1134.0,771.85,362.15,Card,Express,Low
+30489,2024-12-01,2024,Q4,Dec,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Retail,Consumer,36-50,12,961,0.05,10955.4,7402.83,3552.57,Cash,Express,Critical
+30490,2024-12-04,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Online,Corporate,18-25,9,199,0.15,1522.35,997.07,525.28,Bank Transfer,Express,Low
+30491,2024-02-29,2024,Q1,Feb,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Distributor,Corporate,50+,5,944,0.05,4484.0,3093.45,1390.55,Cash,Same-Day,High
+30492,2024-11-15,2024,Q4,Nov,South,Florida,Miami,Furniture,Chair,ComfortSeat,Distributor,Corporate,18-25,12,1032,0.0,12384.0,8870.98,3513.02,Digital Wallet,Same-Day,Low
+30493,2024-09-06,2024,Q3,Sep,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Retail,Small Business,26-35,10,1140,0.15,9690.0,7050.84,2639.16,Digital Wallet,Standard,Medium
+30494,2024-03-16,2024,Q1,Mar,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Online,Consumer,18-25,4,149,0.15,506.6,359.22,147.38,Bank Transfer,Same-Day,Medium
+30495,2024-11-30,2024,Q4,Nov,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,Distributor,Corporate,26-35,5,697,0.05,3310.75,2259.65,1051.1,Digital Wallet,Express,Low
+30496,2024-08-01,2024,Q3,Aug,West,Colorado,Denver,Accessories,Mouse,ClickPro,Online,Corporate,18-25,4,134,0.0,536.0,296.25,239.75,Digital Wallet,Standard,Medium
+30497,2024-04-01,2024,Q2,Apr,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Retail,Consumer,26-35,8,129,0.15,877.2,516.68,360.52,Digital Wallet,Standard,Medium
+30498,2024-10-13,2024,Q4,Oct,West,California,Los Angeles,Accessories,Headphones,SoundMax,Retail,Small Business,18-25,7,1082,0.1,6816.6,3884.32,2932.28,Digital Wallet,Same-Day,Critical
+30499,2024-06-22,2024,Q2,Jun,West,California,Los Angeles,Electronics,Tablet,Tab Elite,Distributor,Consumer,26-35,6,782,0.15,3988.2,2648.66,1339.54,Cash,Standard,Medium
+30500,2024-01-18,2024,Q1,Jan,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Distributor,Small Business,36-50,15,787,0.1,10624.5,7835.15,2789.35,Card,Standard,Low
+30501,2024-03-26,2024,Q1,Mar,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Retail,Consumer,26-35,14,1001,0.15,11911.9,8884.45,3027.45,Card,Standard,Low
+30502,2024-11-02,2024,Q4,Nov,Midwest,Michigan,Detroit,Electronics,Tablet,Tab Elite,Retail,Corporate,26-35,1,124,0.05,117.8,85.61,32.19,Card,Same-Day,High
+30503,2024-03-09,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Online,Corporate,26-35,7,1120,0.15,6664.0,3752.96,2911.04,Card,Same-Day,Medium
+30504,2024-07-27,2024,Q3,Jul,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Online,Consumer,26-35,7,207,0.0,1449.0,925.83,523.17,Bank Transfer,Standard,Critical
+30505,2024-02-16,2024,Q1,Feb,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Online,Small Business,50+,7,124,0.05,824.6,616.31,208.29,Digital Wallet,Express,High
+30506,2024-09-11,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Retail,Consumer,36-50,12,926,0.0,11112.0,8317.81,2794.19,Digital Wallet,Express,Medium
+30507,2024-07-31,2024,Q3,Jul,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,18-25,10,1107,0.0,11070.0,8088.88,2981.12,Digital Wallet,Standard,High
+30508,2024-10-13,2024,Q4,Oct,Northeast,New York,New York,Accessories,Headphones,SoundMax,Distributor,Small Business,18-25,12,614,0.15,6262.8,4677.48,1585.32,Bank Transfer,Same-Day,Medium
+30509,2024-02-25,2024,Q1,Feb,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Distributor,Corporate,18-25,2,617,0.0,1234.0,760.07,473.93,Bank Transfer,Same-Day,High
+30510,2024-10-24,2024,Q4,Oct,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Online,Corporate,36-50,10,197,0.05,1871.5,1172.18,699.32,Cash,Standard,Medium
+30511,2024-01-27,2024,Q1,Jan,South,Texas,Dallas,Electronics,Phone,Galaxy Max,Distributor,Consumer,50+,5,1023,0.1,4603.5,2727.95,1875.55,Bank Transfer,Standard,Critical
+30512,2024-04-14,2024,Q2,Apr,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Distributor,Consumer,26-35,1,488,0.0,488.0,284.49,203.51,Cash,Express,Medium
+30513,2024-11-24,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Online,Small Business,26-35,11,206,0.1,2039.4,1283.0,756.4,Bank Transfer,Same-Day,Critical
+30514,2024-12-08,2024,Q4,Dec,Northeast,Massachusetts,Boston,Electronics,Laptop,UltraBook Pro,Online,Corporate,18-25,14,1185,0.1,14931.0,8408.39,6522.61,Bank Transfer,Standard,Medium
+30515,2024-07-01,2024,Q3,Jul,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Retail,Consumer,18-25,5,750,0.15,3187.5,1794.42,1393.08,Digital Wallet,Standard,Low
+30516,2024-04-28,2024,Q2,Apr,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Retail,Small Business,50+,12,209,0.1,2257.2,1670.92,586.28,Card,Same-Day,Critical
+30517,2024-06-18,2024,Q2,Jun,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Retail,Consumer,18-25,15,121,0.05,1724.25,1188.11,536.14,Card,Same-Day,Medium
+30518,2024-02-27,2024,Q1,Feb,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Retail,Corporate,18-25,12,587,0.05,6691.8,3948.5,2743.3,Card,Standard,Medium
+30519,2024-02-27,2024,Q1,Feb,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Distributor,Small Business,50+,12,369,0.15,3763.8,2075.69,1688.11,Cash,Standard,Critical
+30520,2024-10-05,2024,Q4,Oct,South,Florida,Miami,Furniture,Desk,WorkDesk Pro,Online,Consumer,18-25,5,606,0.1,2727.0,1822.01,904.99,Bank Transfer,Same-Day,High
+30521,2024-12-15,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Retail,Consumer,18-25,3,92,0.05,262.2,164.64,97.56,Cash,Express,Critical
+30522,2024-07-27,2024,Q3,Jul,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Online,Small Business,50+,12,1138,0.0,13656.0,9833.31,3822.69,Digital Wallet,Standard,Critical
+30523,2024-11-30,2024,Q4,Nov,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Distributor,Consumer,18-25,9,1030,0.0,9270.0,6878.46,2391.54,Card,Same-Day,Medium
+30524,2024-10-11,2024,Q4,Oct,South,Florida,Miami,Furniture,Cabinet,StoragePlus,Distributor,Consumer,50+,10,80,0.05,760.0,568.03,191.97,Card,Express,Medium
+30525,2024-07-22,2024,Q3,Jul,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Distributor,Small Business,50+,9,1013,0.15,7749.45,5317.1,2432.35,Digital Wallet,Express,Low
+30526,2024-08-30,2024,Q3,Aug,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Retail,Consumer,50+,1,514,0.0,514.0,283.21,230.79,Digital Wallet,Standard,High
+30527,2024-12-04,2024,Q4,Dec,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Retail,Small Business,18-25,11,640,0.1,6336.0,3538.83,2797.17,Bank Transfer,Same-Day,Medium
+30528,2024-03-10,2024,Q1,Mar,West,California,Los Angeles,Accessories,Headphones,SoundMax,Online,Consumer,50+,8,588,0.15,3998.4,2324.5,1673.9,Card,Standard,Low
+30529,2024-01-05,2024,Q1,Jan,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Online,Small Business,36-50,5,301,0.0,1505.0,844.07,660.93,Bank Transfer,Standard,High
+30530,2024-06-16,2024,Q2,Jun,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Online,Consumer,18-25,8,961,0.1,6919.2,4416.7,2502.5,Bank Transfer,Express,High
+30531,2024-06-15,2024,Q2,Jun,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Online,Small Business,18-25,8,1182,0.1,8510.4,6150.37,2360.03,Card,Same-Day,Low
+30532,2024-09-10,2024,Q3,Sep,Midwest,Illinois,Chicago,Furniture,Desk,WorkDesk Pro,Retail,Corporate,26-35,12,532,0.05,6064.8,4337.36,1727.44,Bank Transfer,Express,High
+30533,2024-11-23,2024,Q4,Nov,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Retail,Small Business,50+,1,596,0.0,596.0,329.76,266.24,Card,Same-Day,Low
+30534,2024-09-03,2024,Q3,Sep,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Distributor,Small Business,50+,8,1158,0.0,9264.0,6277.92,2986.08,Digital Wallet,Standard,High
+30535,2024-12-04,2024,Q4,Dec,Northeast,Massachusetts,Boston,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,50+,4,247,0.15,839.8,609.52,230.28,Bank Transfer,Standard,High
+30536,2024-02-04,2024,Q1,Feb,Northeast,New York,New York,Accessories,Mouse,ClickPro,Online,Small Business,36-50,14,418,0.1,5266.8,3492.68,1774.12,Digital Wallet,Standard,Medium
+30537,2024-03-01,2024,Q1,Mar,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Online,Corporate,36-50,2,607,0.0,1214.0,710.0,504.0,Digital Wallet,Express,Low
+30538,2024-03-04,2024,Q1,Mar,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Online,Consumer,18-25,13,1159,0.05,14313.65,9504.55,4809.1,Cash,Standard,High
+30539,2024-12-27,2024,Q4,Dec,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Online,Small Business,36-50,4,340,0.0,1360.0,748.88,611.12,Card,Same-Day,Low
+30540,2024-02-03,2024,Q1,Feb,West,Washington,Seattle,Furniture,Cabinet,StoragePlus,Online,Small Business,26-35,4,584,0.15,1985.6,1179.07,806.53,Card,Standard,Critical
+30541,2024-03-14,2024,Q1,Mar,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Distributor,Corporate,26-35,5,949,0.1,4270.5,2529.05,1741.45,Bank Transfer,Standard,Critical
+30542,2024-09-22,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Electronics,Phone,Galaxy Max,Distributor,Consumer,26-35,6,707,0.0,4242.0,3177.15,1064.85,Card,Same-Day,Low
+30543,2024-04-02,2024,Q2,Apr,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Online,Consumer,36-50,12,292,0.15,2978.4,2134.26,844.14,Bank Transfer,Express,Medium
+30544,2024-06-14,2024,Q2,Jun,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Distributor,Small Business,50+,5,917,0.1,4126.5,3051.0,1075.5,Card,Express,Low
+30545,2024-07-31,2024,Q3,Jul,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Retail,Consumer,18-25,3,872,0.0,2616.0,1860.42,755.58,Card,Standard,Low
+30546,2024-08-12,2024,Q3,Aug,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Online,Consumer,18-25,8,608,0.0,4864.0,2998.96,1865.04,Bank Transfer,Express,High
+30547,2024-08-02,2024,Q3,Aug,South,Florida,Miami,Accessories,Headphones,SoundMax,Retail,Small Business,26-35,13,1124,0.0,14612.0,8752.64,5859.36,Digital Wallet,Same-Day,Critical
+30548,2024-07-22,2024,Q3,Jul,Northeast,New York,New York,Accessories,Mouse,ClickPro,Distributor,Corporate,26-35,11,1138,0.15,10640.3,7622.33,3017.97,Digital Wallet,Same-Day,Medium
+30549,2024-03-02,2024,Q1,Mar,Northeast,New York,New York,Accessories,Mouse,ClickPro,Retail,Corporate,36-50,1,1049,0.1,944.1,612.6,331.5,Cash,Express,Critical
+30550,2024-01-02,2024,Q1,Jan,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Distributor,Small Business,50+,2,350,0.1,630.0,435.79,194.21,Digital Wallet,Same-Day,High
+30551,2024-06-21,2024,Q2,Jun,West,Washington,Seattle,Furniture,Chair,ComfortSeat,Distributor,Small Business,36-50,12,363,0.15,3702.6,2420.43,1282.17,Card,Express,Critical
+30552,2024-06-11,2024,Q2,Jun,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Distributor,Consumer,36-50,2,252,0.05,478.8,307.39,171.41,Card,Standard,High
+30553,2024-01-31,2024,Q1,Jan,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Online,Small Business,50+,10,1068,0.1,9612.0,5834.56,3777.44,Card,Standard,Medium
+30554,2024-06-06,2024,Q2,Jun,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Online,Corporate,50+,8,859,0.0,6872.0,3785.08,3086.92,Card,Standard,Critical
+30555,2024-02-05,2024,Q1,Feb,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Online,Corporate,18-25,2,522,0.05,991.8,627.83,363.97,Cash,Same-Day,Medium
+30556,2024-02-27,2024,Q1,Feb,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Online,Consumer,36-50,13,435,0.05,5372.25,3229.83,2142.42,Card,Express,Critical
+30557,2024-10-05,2024,Q4,Oct,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Online,Corporate,26-35,7,1050,0.0,7350.0,4615.93,2734.07,Cash,Standard,Low
+30558,2024-10-27,2024,Q4,Oct,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Online,Consumer,36-50,10,1065,0.15,9052.5,6270.55,2781.95,Card,Standard,Low
+30559,2024-05-23,2024,Q2,May,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Online,Corporate,18-25,15,227,0.05,3234.75,1937.13,1297.62,Bank Transfer,Standard,Low
+30560,2024-06-05,2024,Q2,Jun,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Online,Small Business,18-25,1,1183,0.1,1064.7,753.73,310.97,Bank Transfer,Express,Medium
+30561,2024-05-16,2024,Q2,May,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,26-35,3,442,0.05,1259.7,816.87,442.83,Bank Transfer,Express,Medium
+30562,2024-08-27,2024,Q3,Aug,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Retail,Small Business,26-35,6,411,0.1,2219.4,1516.39,703.01,Cash,Standard,Critical
+30563,2024-04-28,2024,Q2,Apr,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Retail,Consumer,26-35,1,230,0.0,230.0,134.77,95.23,Digital Wallet,Same-Day,Critical
+30564,2024-10-22,2024,Q4,Oct,South,Florida,Miami,Accessories,Mouse,ClickPro,Distributor,Consumer,18-25,8,126,0.1,907.2,654.88,252.32,Digital Wallet,Express,Medium
+30565,2024-09-10,2024,Q3,Sep,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Distributor,Corporate,18-25,12,822,0.05,9370.8,5304.92,4065.88,Card,Express,High
+30566,2024-05-16,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Online,Corporate,36-50,5,95,0.0,475.0,263.01,211.99,Bank Transfer,Same-Day,Critical
+30567,2024-05-17,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Online,Small Business,26-35,6,813,0.0,4878.0,3641.85,1236.15,Card,Same-Day,Critical
+30568,2024-04-08,2024,Q2,Apr,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Online,Small Business,18-25,7,838,0.05,5572.7,3828.12,1744.58,Cash,Same-Day,High
+30569,2024-11-05,2024,Q4,Nov,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,26-35,11,810,0.0,8910.0,5104.39,3805.61,Card,Same-Day,Medium
+30570,2024-09-25,2024,Q3,Sep,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Online,Consumer,36-50,6,173,0.05,986.1,620.19,365.91,Digital Wallet,Express,Medium
+30571,2024-06-10,2024,Q2,Jun,South,Florida,Miami,Accessories,Headphones,SoundMax,Retail,Small Business,26-35,11,696,0.05,7273.2,5145.12,2128.08,Card,Standard,High
+30572,2024-10-26,2024,Q4,Oct,Midwest,Michigan,Detroit,Accessories,Headphones,SoundMax,Retail,Consumer,50+,8,773,0.0,6184.0,3694.24,2489.76,Bank Transfer,Standard,Critical
+30573,2024-06-28,2024,Q2,Jun,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Distributor,Consumer,50+,10,511,0.15,4343.5,3234.57,1108.93,Digital Wallet,Same-Day,High
+30574,2024-03-10,2024,Q1,Mar,West,Colorado,Denver,Accessories,Mouse,ClickPro,Retail,Corporate,36-50,12,208,0.1,2246.4,1305.64,940.76,Cash,Same-Day,Low
+30575,2024-08-23,2024,Q3,Aug,West,California,Los Angeles,Accessories,Keyboard,KeyPro,Retail,Consumer,18-25,9,405,0.15,3098.25,2220.72,877.53,Bank Transfer,Same-Day,High
+30576,2024-09-27,2024,Q3,Sep,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Online,Corporate,18-25,12,331,0.05,3773.4,2302.56,1470.84,Card,Express,Critical
+30577,2024-01-04,2024,Q1,Jan,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,18-25,1,550,0.1,495.0,291.19,203.81,Cash,Standard,Medium
+30578,2024-05-17,2024,Q2,May,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Distributor,Consumer,50+,2,586,0.1,1054.8,655.27,399.53,Bank Transfer,Standard,Critical
+30579,2024-04-04,2024,Q2,Apr,Northeast,New York,New York,Furniture,Chair,ComfortSeat,Retail,Consumer,50+,15,92,0.0,1380.0,967.5,412.5,Card,Standard,Critical
+30580,2024-06-27,2024,Q2,Jun,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Distributor,Corporate,18-25,8,649,0.1,4672.8,3377.27,1295.53,Card,Express,Critical
+30581,2024-09-10,2024,Q3,Sep,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Online,Consumer,50+,12,462,0.0,5544.0,3121.17,2422.83,Card,Standard,Medium
+30582,2024-03-07,2024,Q1,Mar,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Distributor,Consumer,36-50,9,427,0.0,3843.0,2685.48,1157.52,Cash,Standard,Medium
+30583,2024-08-27,2024,Q3,Aug,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Online,Small Business,36-50,8,525,0.15,3570.0,2437.71,1132.29,Bank Transfer,Same-Day,Medium
+30584,2024-10-07,2024,Q4,Oct,West,California,Los Angeles,Electronics,Tablet,Tab Elite,Online,Consumer,50+,10,1132,0.05,10754.0,6063.65,4690.35,Bank Transfer,Same-Day,High
+30585,2024-12-21,2024,Q4,Dec,Midwest,Illinois,Chicago,Furniture,Desk,WorkDesk Pro,Retail,Small Business,50+,10,255,0.0,2550.0,1738.19,811.81,Bank Transfer,Standard,Critical
+30586,2024-01-18,2024,Q1,Jan,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,Retail,Small Business,50+,5,532,0.15,2261.0,1453.22,807.78,Digital Wallet,Standard,Low
+30587,2024-12-10,2024,Q4,Dec,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Distributor,Small Business,26-35,6,849,0.15,4329.9,2763.4,1566.5,Bank Transfer,Standard,High
+30588,2024-05-22,2024,Q2,May,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Retail,Consumer,50+,2,272,0.1,489.6,270.48,219.12,Digital Wallet,Same-Day,Low
+30589,2024-04-07,2024,Q2,Apr,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Online,Consumer,36-50,6,1171,0.05,6674.7,4926.72,1747.98,Card,Standard,High
+30590,2024-09-15,2024,Q3,Sep,West,Colorado,Denver,Accessories,Headphones,SoundMax,Distributor,Small Business,18-25,3,1124,0.1,3034.8,2020.62,1014.18,Cash,Express,Critical
+30591,2024-05-14,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,Retail,Small Business,18-25,4,266,0.15,904.4,652.6,251.8,Card,Express,Low
+30592,2024-04-12,2024,Q2,Apr,South,Florida,Miami,Accessories,Mouse,ClickPro,Distributor,Small Business,50+,14,269,0.0,3766.0,2173.11,1592.89,Card,Standard,Critical
+30593,2024-08-30,2024,Q3,Aug,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Retail,Corporate,50+,14,598,0.15,7116.2,3974.37,3141.83,Digital Wallet,Standard,Low
+30594,2024-01-24,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Retail,Corporate,50+,15,200,0.0,3000.0,1885.24,1114.76,Cash,Express,Low
+30595,2024-12-11,2024,Q4,Dec,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Online,Small Business,36-50,8,1185,0.1,8532.0,5844.99,2687.01,Bank Transfer,Standard,High
+30596,2024-07-28,2024,Q3,Jul,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Distributor,Corporate,36-50,15,756,0.0,11340.0,8001.48,3338.52,Cash,Express,Low
+30597,2024-12-20,2024,Q4,Dec,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Online,Small Business,36-50,10,941,0.15,7998.5,4636.71,3361.79,Bank Transfer,Same-Day,Critical
+30598,2024-04-10,2024,Q2,Apr,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Distributor,Consumer,36-50,10,677,0.05,6431.5,3551.22,2880.28,Cash,Express,Critical
+30599,2024-02-21,2024,Q1,Feb,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,Retail,Small Business,50+,6,922,0.0,5532.0,3697.19,1834.81,Digital Wallet,Same-Day,Critical
+30600,2024-11-11,2024,Q4,Nov,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Distributor,Consumer,50+,9,418,0.05,3573.9,2231.48,1342.42,Cash,Same-Day,Low
+30601,2024-04-24,2024,Q2,Apr,South,Texas,Dallas,Accessories,Headphones,SoundMax,Retail,Corporate,18-25,6,382,0.0,2292.0,1317.5,974.5,Cash,Express,High
+30602,2024-03-31,2024,Q1,Mar,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Distributor,Corporate,26-35,9,798,0.1,6463.8,4421.0,2042.8,Bank Transfer,Standard,Medium
+30603,2024-07-19,2024,Q3,Jul,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Online,Corporate,26-35,13,723,0.15,7989.15,5683.65,2305.5,Bank Transfer,Express,Critical
+30604,2024-03-23,2024,Q1,Mar,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Retail,Corporate,18-25,9,454,0.0,4086.0,2286.61,1799.39,Cash,Standard,Low
+30605,2024-02-02,2024,Q1,Feb,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Retail,Small Business,26-35,11,209,0.1,2069.1,1533.19,535.91,Bank Transfer,Same-Day,Low
+30606,2024-03-15,2024,Q1,Mar,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Retail,Consumer,26-35,3,994,0.15,2534.7,1746.6,788.1,Cash,Express,Medium
+30607,2024-06-21,2024,Q2,Jun,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Online,Consumer,18-25,4,886,0.0,3544.0,2139.17,1404.83,Bank Transfer,Express,Critical
+30608,2024-01-07,2024,Q1,Jan,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Distributor,Small Business,50+,1,552,0.1,496.8,286.85,209.95,Bank Transfer,Same-Day,High
+30609,2024-06-09,2024,Q2,Jun,Midwest,Ohio,Columbus,Electronics,Tablet,Tab Elite,Retail,Consumer,18-25,7,1011,0.1,6369.3,4590.22,1779.08,Digital Wallet,Same-Day,Medium
+30610,2024-01-04,2024,Q1,Jan,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Distributor,Corporate,26-35,6,801,0.15,4085.1,2964.56,1120.54,Card,Standard,Medium
+30611,2024-12-10,2024,Q4,Dec,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,Online,Corporate,36-50,4,144,0.1,518.4,314.59,203.81,Bank Transfer,Same-Day,High
+30612,2024-07-30,2024,Q3,Jul,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,Online,Corporate,26-35,12,222,0.05,2530.8,1715.86,814.94,Digital Wallet,Same-Day,Low
+30613,2024-11-30,2024,Q4,Nov,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Online,Corporate,18-25,6,925,0.1,4995.0,3549.58,1445.42,Digital Wallet,Express,High
+30614,2024-03-21,2024,Q1,Mar,Midwest,Ohio,Columbus,Furniture,Cabinet,StoragePlus,Distributor,Corporate,26-35,5,112,0.05,532.0,344.4,187.6,Digital Wallet,Express,Medium
+30615,2024-08-31,2024,Q3,Aug,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Distributor,Corporate,36-50,9,973,0.15,7443.45,5209.46,2233.99,Bank Transfer,Express,Medium
+30616,2024-11-19,2024,Q4,Nov,West,California,Los Angeles,Electronics,Laptop,UltraBook Pro,Retail,Consumer,18-25,8,844,0.1,6076.8,4332.13,1744.67,Bank Transfer,Standard,Low
+30617,2024-10-14,2024,Q4,Oct,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Online,Consumer,26-35,7,693,0.0,4851.0,3346.79,1504.21,Cash,Express,High
+30618,2024-05-19,2024,Q2,May,West,Colorado,Denver,Electronics,Laptop,UltraBook Pro,Online,Small Business,36-50,1,118,0.1,106.2,65.09,41.11,Digital Wallet,Express,Low
+30619,2024-12-07,2024,Q4,Dec,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Online,Consumer,18-25,14,149,0.0,2086.0,1164.86,921.14,Digital Wallet,Same-Day,Low
+30620,2024-06-02,2024,Q2,Jun,Northeast,New York,New York,Electronics,Tablet,Tab Elite,Retail,Small Business,36-50,15,804,0.05,11457.0,6706.92,4750.08,Bank Transfer,Express,Critical
+30621,2024-01-11,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,26-35,15,286,0.0,4290.0,2735.46,1554.54,Bank Transfer,Express,Medium
+30622,2024-12-06,2024,Q4,Dec,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Retail,Corporate,36-50,13,262,0.1,3065.4,2177.57,887.83,Card,Express,High
+30623,2024-07-21,2024,Q3,Jul,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Online,Corporate,18-25,2,429,0.1,772.2,566.12,206.08,Digital Wallet,Express,High
+30624,2024-07-08,2024,Q3,Jul,West,Washington,Seattle,Furniture,Desk,WorkDesk Pro,Retail,Small Business,26-35,4,445,0.0,1780.0,1105.12,674.88,Cash,Same-Day,Critical
+30625,2024-02-10,2024,Q1,Feb,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,36-50,14,113,0.1,1423.8,859.8,564.0,Bank Transfer,Same-Day,Low
+30626,2024-07-15,2024,Q3,Jul,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Online,Consumer,50+,5,1039,0.05,4935.25,2720.59,2214.66,Cash,Standard,High
+30627,2024-01-08,2024,Q1,Jan,West,Washington,Seattle,Furniture,Cabinet,StoragePlus,Retail,Small Business,36-50,13,264,0.0,3432.0,1897.82,1534.18,Bank Transfer,Express,Low
+30628,2024-08-01,2024,Q3,Aug,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Online,Small Business,50+,5,548,0.15,2329.0,1709.48,619.52,Digital Wallet,Same-Day,Medium
+30629,2024-08-10,2024,Q3,Aug,West,California,Los Angeles,Accessories,Headphones,SoundMax,Retail,Consumer,26-35,14,847,0.0,11858.0,8011.03,3846.97,Bank Transfer,Express,Low
+30630,2024-10-24,2024,Q4,Oct,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Online,Consumer,18-25,8,264,0.05,2006.4,1315.43,690.97,Bank Transfer,Same-Day,Low
+30631,2024-09-18,2024,Q3,Sep,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Retail,Consumer,50+,11,1157,0.05,12090.65,8598.28,3492.37,Digital Wallet,Same-Day,Medium
+30632,2024-12-07,2024,Q4,Dec,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Distributor,Consumer,26-35,10,289,0.15,2456.5,1568.27,888.23,Digital Wallet,Express,High
+30633,2024-08-27,2024,Q3,Aug,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Distributor,Consumer,18-25,14,233,0.0,3262.0,2353.87,908.13,Bank Transfer,Express,High
+30634,2024-04-10,2024,Q2,Apr,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Distributor,Corporate,26-35,1,484,0.0,484.0,332.96,151.04,Bank Transfer,Express,Medium
+30635,2024-12-27,2024,Q4,Dec,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Online,Corporate,26-35,15,124,0.0,1860.0,1299.18,560.82,Bank Transfer,Express,Medium
+30636,2024-06-15,2024,Q2,Jun,South,Georgia,Atlanta,Furniture,Chair,ComfortSeat,Online,Consumer,26-35,13,827,0.05,10213.45,6332.61,3880.84,Bank Transfer,Same-Day,High
+30637,2024-08-15,2024,Q3,Aug,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Distributor,Small Business,50+,4,382,0.15,1298.8,958.3,340.5,Cash,Express,High
+30638,2024-03-16,2024,Q1,Mar,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Online,Corporate,18-25,7,415,0.15,2469.25,1535.93,933.32,Digital Wallet,Standard,Critical
+30639,2024-03-05,2024,Q1,Mar,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Distributor,Consumer,26-35,14,902,0.0,12628.0,8957.2,3670.8,Bank Transfer,Standard,Medium
+30640,2024-11-19,2024,Q4,Nov,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Retail,Consumer,26-35,1,648,0.1,583.2,355.92,227.28,Cash,Same-Day,High
+30641,2024-07-23,2024,Q3,Jul,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Online,Consumer,26-35,4,466,0.05,1770.8,1033.51,737.29,Digital Wallet,Express,Critical
+30642,2024-01-01,2024,Q1,Jan,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Retail,Corporate,26-35,8,252,0.1,1814.4,1233.71,580.69,Card,Express,Medium
+30643,2024-03-24,2024,Q1,Mar,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Distributor,Corporate,18-25,4,794,0.0,3176.0,2100.43,1075.57,Card,Express,Medium
+30644,2024-06-15,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Online,Corporate,26-35,5,644,0.1,2898.0,2001.29,896.71,Bank Transfer,Same-Day,High
+30645,2024-05-19,2024,Q2,May,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Distributor,Consumer,18-25,15,650,0.0,9750.0,5757.71,3992.29,Cash,Same-Day,High
+30646,2024-08-07,2024,Q3,Aug,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Retail,Small Business,50+,2,932,0.05,1770.8,1241.44,529.36,Cash,Standard,High
+30647,2024-01-28,2024,Q1,Jan,West,Colorado,Denver,Accessories,Headphones,SoundMax,Distributor,Small Business,36-50,3,793,0.05,2260.05,1543.24,716.81,Card,Express,Low
+30648,2024-12-01,2024,Q4,Dec,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Distributor,Corporate,36-50,12,325,0.1,3510.0,2462.49,1047.51,Digital Wallet,Express,Critical
+30649,2024-08-15,2024,Q3,Aug,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Distributor,Consumer,36-50,14,781,0.0,10934.0,6642.41,4291.59,Cash,Same-Day,Low
+30650,2024-03-15,2024,Q1,Mar,Midwest,Michigan,Detroit,Accessories,Headphones,SoundMax,Distributor,Small Business,50+,12,190,0.05,2166.0,1281.6,884.4,Digital Wallet,Same-Day,Critical
+30651,2024-02-03,2024,Q1,Feb,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Online,Consumer,18-25,15,612,0.0,9180.0,5668.83,3511.17,Cash,Standard,Low
+30652,2024-12-25,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,Online,Small Business,26-35,13,658,0.15,7270.9,4713.2,2557.7,Card,Express,High
+30653,2024-06-13,2024,Q2,Jun,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Distributor,Small Business,18-25,12,51,0.1,550.8,317.43,233.37,Bank Transfer,Standard,Critical
+30654,2024-06-10,2024,Q2,Jun,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Online,Corporate,50+,6,85,0.05,484.5,348.92,135.58,Bank Transfer,Express,Medium
+30655,2024-06-16,2024,Q2,Jun,Northeast,Massachusetts,Boston,Electronics,Tablet,Tab Elite,Distributor,Consumer,50+,8,449,0.15,3053.2,1832.35,1220.85,Bank Transfer,Express,High
+30656,2024-12-03,2024,Q4,Dec,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Distributor,Consumer,36-50,13,498,0.0,6474.0,4221.34,2252.66,Bank Transfer,Standard,Critical
+30657,2024-08-11,2024,Q3,Aug,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Retail,Small Business,26-35,7,849,0.0,5943.0,3776.85,2166.15,Bank Transfer,Standard,Medium
+30658,2024-06-21,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Online,Consumer,26-35,8,1046,0.05,7949.6,4531.15,3418.45,Digital Wallet,Same-Day,Low
+30659,2024-03-24,2024,Q1,Mar,Midwest,Illinois,Chicago,Accessories,Headphones,SoundMax,Retail,Corporate,50+,10,887,0.05,8426.5,6230.91,2195.59,Card,Same-Day,Low
+30660,2024-08-22,2024,Q3,Aug,West,Colorado,Denver,Accessories,Headphones,SoundMax,Online,Small Business,36-50,11,458,0.15,4282.3,2887.66,1394.64,Cash,Express,Low
+30661,2024-08-08,2024,Q3,Aug,Midwest,Michigan,Detroit,Electronics,Tablet,Tab Elite,Online,Small Business,36-50,8,383,0.0,3064.0,2069.0,995.0,Cash,Same-Day,High
+30662,2024-05-20,2024,Q2,May,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Online,Corporate,36-50,11,1002,0.05,10470.9,6401.99,4068.91,Card,Same-Day,Low
+30663,2024-10-14,2024,Q4,Oct,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Distributor,Consumer,50+,4,114,0.05,433.2,271.38,161.82,Digital Wallet,Express,Low
+30664,2024-06-19,2024,Q2,Jun,Northeast,New York,New York,Furniture,Cabinet,StoragePlus,Distributor,Small Business,18-25,9,679,0.1,5499.9,3874.44,1625.46,Cash,Express,Critical
+30665,2024-07-30,2024,Q3,Jul,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Retail,Small Business,26-35,1,217,0.15,184.45,135.14,49.31,Cash,Standard,Medium
+30666,2024-04-17,2024,Q2,Apr,South,Florida,Miami,Electronics,Phone,Galaxy Max,Retail,Corporate,50+,2,963,0.0,1926.0,1101.11,824.89,Bank Transfer,Express,Low
+30667,2024-07-27,2024,Q3,Jul,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,36-50,7,798,0.0,5586.0,3947.99,1638.01,Card,Standard,Medium
+30668,2024-01-20,2024,Q1,Jan,Midwest,Michigan,Detroit,Furniture,Chair,ComfortSeat,Distributor,Corporate,50+,3,1139,0.15,2904.45,1662.2,1242.25,Digital Wallet,Standard,Low
+30669,2024-01-09,2024,Q1,Jan,South,Texas,Dallas,Electronics,Laptop,UltraBook Pro,Distributor,Small Business,50+,10,990,0.1,8910.0,6313.03,2596.97,Cash,Same-Day,Critical
+30670,2024-08-30,2024,Q3,Aug,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Online,Consumer,50+,1,1000,0.15,850.0,572.53,277.47,Card,Standard,Low
+30671,2024-07-07,2024,Q3,Jul,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Distributor,Small Business,36-50,15,113,0.1,1525.5,969.56,555.94,Digital Wallet,Same-Day,Low
+30672,2024-08-27,2024,Q3,Aug,Midwest,Ohio,Columbus,Electronics,Phone,Galaxy Max,Online,Small Business,50+,8,1173,0.1,8445.6,6202.87,2242.73,Digital Wallet,Same-Day,Medium
+30673,2024-03-20,2024,Q1,Mar,Northeast,New York,New York,Accessories,Headphones,SoundMax,Retail,Corporate,36-50,5,478,0.15,2031.5,1418.52,612.98,Cash,Same-Day,Medium
+30674,2024-07-16,2024,Q3,Jul,South,Florida,Miami,Electronics,Phone,Galaxy Max,Retail,Corporate,36-50,10,416,0.05,3952.0,2336.26,1615.74,Digital Wallet,Express,Medium
+30675,2024-05-24,2024,Q2,May,Midwest,Ohio,Columbus,Electronics,Laptop,UltraBook Pro,Distributor,Corporate,26-35,3,1077,0.0,3231.0,1921.56,1309.44,Bank Transfer,Standard,High
+30676,2024-01-07,2024,Q1,Jan,Northeast,Pennsylvania,Philadelphia,Furniture,Cabinet,StoragePlus,Retail,Consumer,50+,11,502,0.0,5522.0,3872.01,1649.99,Card,Same-Day,Low
+30677,2024-01-28,2024,Q1,Jan,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,Retail,Consumer,50+,2,158,0.0,316.0,194.68,121.32,Cash,Same-Day,Medium
+30678,2024-02-29,2024,Q1,Feb,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Retail,Consumer,36-50,2,141,0.1,253.8,141.05,112.75,Card,Express,Critical
+30679,2024-07-11,2024,Q3,Jul,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Retail,Corporate,36-50,9,120,0.15,918.0,638.89,279.11,Cash,Standard,Low
+30680,2024-04-12,2024,Q2,Apr,Northeast,Pennsylvania,Philadelphia,Accessories,Mouse,ClickPro,Retail,Small Business,36-50,11,655,0.0,7205.0,5176.05,2028.95,Cash,Same-Day,High
+30681,2024-11-14,2024,Q4,Nov,Midwest,Ohio,Columbus,Accessories,Keyboard,KeyPro,Online,Small Business,36-50,15,289,0.1,3901.5,2490.19,1411.31,Bank Transfer,Standard,Medium
+30682,2024-09-07,2024,Q3,Sep,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Retail,Consumer,26-35,12,638,0.1,6890.4,5159.48,1730.92,Cash,Express,High
+30683,2024-07-23,2024,Q3,Jul,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Retail,Consumer,26-35,9,1040,0.15,7956.0,5154.11,2801.89,Cash,Express,High
+30684,2024-09-16,2024,Q3,Sep,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Online,Small Business,36-50,13,726,0.0,9438.0,5879.86,3558.14,Bank Transfer,Same-Day,Medium
+30685,2024-08-22,2024,Q3,Aug,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Online,Corporate,26-35,10,825,0.1,7425.0,5464.78,1960.22,Cash,Same-Day,Low
+30686,2024-11-28,2024,Q4,Nov,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,50+,5,643,0.0,3215.0,2205.66,1009.34,Digital Wallet,Same-Day,Critical
+30687,2024-04-13,2024,Q2,Apr,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,Retail,Consumer,18-25,1,752,0.15,639.2,460.26,178.94,Card,Express,High
+30688,2024-01-01,2024,Q1,Jan,South,Texas,Dallas,Accessories,Headphones,SoundMax,Retail,Consumer,18-25,5,259,0.05,1230.25,809.02,421.23,Digital Wallet,Express,High
+30689,2024-01-22,2024,Q1,Jan,South,Texas,Dallas,Electronics,Tablet,Tab Elite,Distributor,Corporate,26-35,7,433,0.1,2727.9,1973.42,754.48,Cash,Express,Low
+30690,2024-06-23,2024,Q2,Jun,West,Colorado,Denver,Accessories,Headphones,SoundMax,Online,Corporate,36-50,1,703,0.05,667.85,472.31,195.54,Cash,Same-Day,Low
+30691,2024-09-25,2024,Q3,Sep,Midwest,Illinois,Chicago,Electronics,Phone,Galaxy Max,Retail,Small Business,26-35,9,330,0.05,2821.5,1988.38,833.12,Card,Standard,High
+30692,2024-05-28,2024,Q2,May,South,Texas,Dallas,Accessories,Headphones,SoundMax,Retail,Consumer,18-25,3,937,0.0,2811.0,1953.08,857.92,Digital Wallet,Express,Low
+30693,2024-12-01,2024,Q4,Dec,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Retail,Corporate,18-25,2,296,0.0,592.0,434.0,158.0,Cash,Standard,Low
+30694,2024-06-27,2024,Q2,Jun,West,Colorado,Denver,Electronics,Phone,Galaxy Max,Online,Corporate,36-50,7,764,0.1,4813.2,2789.04,2024.16,Bank Transfer,Same-Day,Critical
+30695,2024-08-24,2024,Q3,Aug,Midwest,Michigan,Detroit,Accessories,Keyboard,KeyPro,Distributor,Consumer,50+,14,62,0.1,781.2,541.84,239.36,Cash,Standard,High
+30696,2024-12-04,2024,Q4,Dec,West,Washington,Seattle,Accessories,Headphones,SoundMax,Distributor,Consumer,18-25,9,317,0.05,2710.35,1696.96,1013.39,Bank Transfer,Standard,Medium
+30697,2024-10-03,2024,Q4,Oct,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Retail,Consumer,36-50,1,946,0.05,898.7,521.05,377.65,Bank Transfer,Standard,Medium
+30698,2024-04-08,2024,Q2,Apr,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Retail,Consumer,26-35,9,961,0.15,7351.65,4741.32,2610.33,Bank Transfer,Same-Day,High
+30699,2024-07-14,2024,Q3,Jul,West,Colorado,Denver,Accessories,Mouse,ClickPro,Distributor,Small Business,36-50,12,375,0.1,4050.0,2864.98,1185.02,Card,Express,High
+30700,2024-10-21,2024,Q4,Oct,South,Georgia,Atlanta,Accessories,Headphones,SoundMax,Distributor,Corporate,36-50,15,480,0.0,7200.0,4436.58,2763.42,Cash,Same-Day,Low
+30701,2024-02-07,2024,Q1,Feb,Northeast,New York,New York,Furniture,Desk,WorkDesk Pro,Distributor,Small Business,26-35,3,487,0.15,1241.85,769.54,472.31,Card,Standard,Critical
+30702,2024-09-25,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,Retail,Consumer,18-25,12,804,0.05,9165.6,5970.06,3195.54,Card,Same-Day,High
+30703,2024-02-08,2024,Q1,Feb,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Online,Small Business,18-25,7,562,0.15,3343.9,2236.59,1107.31,Bank Transfer,Express,Low
+30704,2024-02-10,2024,Q1,Feb,Midwest,Michigan,Detroit,Electronics,Tablet,Tab Elite,Distributor,Corporate,18-25,9,567,0.05,4847.85,3560.55,1287.3,Card,Same-Day,Medium
+30705,2024-06-11,2024,Q2,Jun,Northeast,New York,New York,Electronics,Phone,Galaxy Max,Distributor,Small Business,26-35,11,838,0.15,7835.3,5855.94,1979.36,Bank Transfer,Express,Critical
+30706,2024-10-04,2024,Q4,Oct,Northeast,New York,New York,Accessories,Mouse,ClickPro,Online,Corporate,18-25,10,281,0.0,2810.0,1784.82,1025.18,Card,Express,Low
+30707,2024-12-30,2024,Q4,Dec,West,Washington,Seattle,Electronics,Tablet,Tab Elite,Online,Small Business,26-35,5,332,0.05,1577.0,905.69,671.31,Card,Express,Low
+30708,2024-10-26,2024,Q4,Oct,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Online,Consumer,26-35,13,129,0.0,1677.0,1025.0,652.0,Card,Standard,Medium
+30709,2024-02-27,2024,Q1,Feb,Midwest,Michigan,Detroit,Accessories,Mouse,ClickPro,Retail,Consumer,26-35,4,930,0.05,3534.0,2634.73,899.27,Card,Express,Medium
+30710,2024-09-13,2024,Q3,Sep,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Distributor,Corporate,50+,3,910,0.0,2730.0,1799.91,930.09,Digital Wallet,Same-Day,Medium
+30711,2024-12-27,2024,Q4,Dec,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Online,Corporate,26-35,10,1042,0.0,10420.0,7493.76,2926.24,Bank Transfer,Express,High
+30712,2024-03-21,2024,Q1,Mar,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Distributor,Corporate,26-35,11,1093,0.0,12023.0,7387.43,4635.57,Cash,Express,Critical
+30713,2024-10-15,2024,Q4,Oct,Northeast,New York,New York,Electronics,Laptop,UltraBook Pro,Online,Consumer,36-50,9,873,0.15,6678.45,4953.17,1725.28,Digital Wallet,Express,High
+30714,2024-10-31,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Accessories,Keyboard,KeyPro,Online,Small Business,26-35,12,1143,0.15,11658.6,6873.91,4784.69,Digital Wallet,Standard,High
+30715,2024-01-09,2024,Q1,Jan,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Retail,Corporate,50+,1,915,0.1,823.5,488.43,335.07,Digital Wallet,Same-Day,High
+30716,2024-04-30,2024,Q2,Apr,West,Washington,Seattle,Electronics,Phone,Galaxy Max,Online,Small Business,26-35,15,858,0.05,12226.5,7177.79,5048.71,Digital Wallet,Same-Day,Medium
+30717,2024-06-17,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Electronics,Laptop,UltraBook Pro,Distributor,Corporate,50+,13,1149,0.05,14190.15,9473.57,4716.58,Card,Express,Low
+30718,2024-10-17,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Distributor,Corporate,36-50,4,1040,0.05,3952.0,2638.32,1313.68,Digital Wallet,Express,Medium
+30719,2024-10-18,2024,Q4,Oct,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Online,Corporate,50+,8,849,0.1,6112.8,4111.04,2001.76,Bank Transfer,Standard,Low
+30720,2024-02-15,2024,Q1,Feb,West,Washington,Seattle,Accessories,Keyboard,KeyPro,Retail,Small Business,18-25,1,768,0.1,691.2,471.17,220.03,Bank Transfer,Express,Low
+30721,2024-09-11,2024,Q3,Sep,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Online,Consumer,50+,11,478,0.15,4469.3,3180.24,1289.06,Cash,Express,High
+30722,2024-07-31,2024,Q3,Jul,Midwest,Michigan,Detroit,Accessories,Headphones,SoundMax,Distributor,Corporate,26-35,2,412,0.0,824.0,572.67,251.33,Bank Transfer,Express,High
+30723,2024-05-03,2024,Q2,May,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Distributor,Small Business,36-50,9,935,0.15,7152.75,5103.83,2048.92,Bank Transfer,Express,High
+30724,2024-09-14,2024,Q3,Sep,Northeast,New York,New York,Accessories,Headphones,SoundMax,Distributor,Consumer,50+,6,850,0.15,4335.0,2399.03,1935.97,Cash,Standard,Medium
+30725,2024-12-24,2024,Q4,Dec,West,California,Los Angeles,Furniture,Cabinet,StoragePlus,Online,Corporate,26-35,7,886,0.0,6202.0,3722.5,2479.5,Card,Express,Medium
+30726,2024-03-01,2024,Q1,Mar,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Online,Corporate,18-25,4,964,0.0,3856.0,2432.47,1423.53,Digital Wallet,Same-Day,High
+30727,2024-02-03,2024,Q1,Feb,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Retail,Small Business,36-50,2,344,0.05,653.6,384.78,268.82,Cash,Standard,Low
+30728,2024-01-29,2024,Q1,Jan,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Online,Corporate,50+,2,1009,0.15,1715.3,1078.46,636.84,Digital Wallet,Express,Low
+30729,2024-05-31,2024,Q2,May,Midwest,Michigan,Detroit,Electronics,Laptop,UltraBook Pro,Online,Consumer,18-25,15,1122,0.05,15988.5,10414.8,5573.7,Cash,Express,Medium
+30730,2024-10-07,2024,Q4,Oct,South,Georgia,Atlanta,Accessories,Mouse,ClickPro,Distributor,Consumer,18-25,5,305,0.15,1296.25,885.03,411.22,Card,Standard,Low
+30731,2024-11-11,2024,Q4,Nov,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Online,Corporate,26-35,8,789,0.0,6312.0,3534.08,2777.92,Bank Transfer,Standard,Low
+30732,2024-08-31,2024,Q3,Aug,West,Washington,Seattle,Furniture,Cabinet,StoragePlus,Distributor,Corporate,26-35,12,1015,0.05,11571.0,7711.43,3859.57,Digital Wallet,Standard,High
+30733,2024-11-25,2024,Q4,Nov,West,Colorado,Denver,Accessories,Keyboard,KeyPro,Online,Corporate,36-50,1,1093,0.15,929.05,695.71,233.34,Cash,Same-Day,High
+30734,2024-06-16,2024,Q2,Jun,Midwest,Ohio,Columbus,Accessories,Mouse,ClickPro,Retail,Small Business,26-35,8,376,0.15,2556.8,1693.76,863.04,Digital Wallet,Standard,Low
+30735,2024-12-26,2024,Q4,Dec,West,Washington,Seattle,Accessories,Headphones,SoundMax,Retail,Small Business,36-50,15,510,0.15,6502.5,3683.42,2819.08,Bank Transfer,Same-Day,Low
+30736,2024-05-09,2024,Q2,May,Midwest,Illinois,Chicago,Furniture,Chair,ComfortSeat,Distributor,Small Business,26-35,3,370,0.15,943.5,687.9,255.6,Cash,Express,High
+30737,2024-11-15,2024,Q4,Nov,South,Texas,Dallas,Furniture,Chair,ComfortSeat,Retail,Corporate,26-35,10,1132,0.0,11320.0,8016.42,3303.58,Cash,Standard,Low
+30738,2024-04-26,2024,Q2,Apr,South,Florida,Miami,Electronics,Tablet,Tab Elite,Distributor,Small Business,26-35,3,714,0.05,2034.9,1503.14,531.76,Digital Wallet,Same-Day,Critical
+30739,2024-03-10,2024,Q1,Mar,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Retail,Small Business,26-35,13,203,0.15,2243.15,1467.29,775.86,Bank Transfer,Express,High
+30740,2024-02-13,2024,Q1,Feb,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Online,Corporate,50+,7,1052,0.1,6627.6,4126.54,2501.06,Card,Standard,Low
+30741,2024-05-31,2024,Q2,May,Midwest,Illinois,Chicago,Electronics,Laptop,UltraBook Pro,Distributor,Small Business,26-35,5,795,0.05,3776.25,2779.98,996.27,Bank Transfer,Same-Day,Medium
+30742,2024-01-23,2024,Q1,Jan,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Retail,Consumer,18-25,3,1032,0.15,2631.6,1771.66,859.94,Cash,Express,High
+30743,2024-03-31,2024,Q1,Mar,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Online,Consumer,26-35,4,260,0.15,884.0,603.54,280.46,Bank Transfer,Standard,Low
+30744,2024-10-08,2024,Q4,Oct,Northeast,Pennsylvania,Philadelphia,Accessories,Headphones,SoundMax,Distributor,Corporate,50+,7,744,0.1,4687.2,2848.27,1838.93,Digital Wallet,Same-Day,Critical
+30745,2024-05-27,2024,Q2,May,West,California,Los Angeles,Furniture,Desk,WorkDesk Pro,Distributor,Corporate,50+,8,872,0.05,6627.2,4499.92,2127.28,Cash,Standard,Critical
+30746,2024-07-12,2024,Q3,Jul,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Online,Small Business,36-50,15,739,0.15,9422.25,5446.72,3975.53,Digital Wallet,Standard,High
+30747,2024-09-19,2024,Q3,Sep,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Retail,Consumer,26-35,10,985,0.1,8865.0,6137.36,2727.64,Digital Wallet,Standard,Medium
+30748,2024-01-15,2024,Q1,Jan,South,Florida,Miami,Electronics,Laptop,UltraBook Pro,Online,Corporate,26-35,7,34,0.05,226.1,134.23,91.87,Cash,Standard,Low
+30749,2024-10-25,2024,Q4,Oct,South,Florida,Miami,Electronics,Tablet,Tab Elite,Retail,Corporate,26-35,10,513,0.0,5130.0,3732.2,1397.8,Bank Transfer,Same-Day,Medium
+30750,2024-03-03,2024,Q1,Mar,Northeast,Massachusetts,Boston,Accessories,Mouse,ClickPro,Retail,Consumer,36-50,14,895,0.15,10650.5,6121.33,4529.17,Card,Express,Critical
+30751,2024-01-04,2024,Q1,Jan,Midwest,Illinois,Chicago,Furniture,Cabinet,StoragePlus,Online,Small Business,36-50,13,365,0.05,4507.75,2698.81,1808.94,Bank Transfer,Express,Critical
+30752,2024-02-15,2024,Q1,Feb,Midwest,Illinois,Chicago,Electronics,Tablet,Tab Elite,Distributor,Corporate,18-25,10,1044,0.0,10440.0,6171.32,4268.68,Bank Transfer,Same-Day,Medium
+30753,2024-09-02,2024,Q3,Sep,Northeast,Massachusetts,Boston,Furniture,Cabinet,StoragePlus,Retail,Consumer,50+,12,235,0.1,2538.0,1491.1,1046.9,Bank Transfer,Same-Day,Low
+30754,2024-02-11,2024,Q1,Feb,South,Texas,Dallas,Accessories,Keyboard,KeyPro,Online,Small Business,36-50,13,242,0.05,2988.7,1972.13,1016.57,Card,Standard,Medium
+30755,2024-11-06,2024,Q4,Nov,Northeast,New York,New York,Accessories,Keyboard,KeyPro,Distributor,Small Business,50+,8,835,0.1,6012.0,3438.5,2573.5,Cash,Standard,Medium
+30756,2024-09-02,2024,Q3,Sep,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Distributor,Corporate,50+,10,591,0.05,5614.5,3320.52,2293.98,Card,Standard,Critical
+30757,2024-05-12,2024,Q2,May,Northeast,Massachusetts,Boston,Accessories,Keyboard,KeyPro,Online,Small Business,50+,8,625,0.05,4750.0,3547.96,1202.04,Card,Same-Day,Critical
+30758,2024-06-17,2024,Q2,Jun,Midwest,Michigan,Detroit,Electronics,Phone,Galaxy Max,Online,Small Business,36-50,13,969,0.05,11967.15,8153.39,3813.76,Digital Wallet,Standard,Critical
+30759,2024-09-03,2024,Q3,Sep,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Retail,Consumer,36-50,7,736,0.0,5152.0,3175.56,1976.44,Digital Wallet,Standard,High
+30760,2024-06-11,2024,Q2,Jun,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Online,Consumer,26-35,4,113,0.1,406.8,256.74,150.06,Card,Standard,Medium
+30761,2024-08-07,2024,Q3,Aug,Midwest,Ohio,Columbus,Furniture,Desk,WorkDesk Pro,Retail,Corporate,50+,3,334,0.0,1002.0,551.21,450.79,Digital Wallet,Express,High
+30762,2024-03-29,2024,Q1,Mar,Northeast,Pennsylvania,Philadelphia,Furniture,Desk,WorkDesk Pro,Retail,Small Business,50+,13,585,0.0,7605.0,5276.97,2328.03,Card,Standard,Low
+30763,2024-12-02,2024,Q4,Dec,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Distributor,Consumer,18-25,9,285,0.05,2436.75,1703.79,732.96,Card,Same-Day,High
+30764,2024-06-22,2024,Q2,Jun,Midwest,Ohio,Columbus,Accessories,Headphones,SoundMax,Distributor,Corporate,26-35,3,930,0.0,2790.0,1688.44,1101.56,Card,Express,Critical
+30765,2024-12-06,2024,Q4,Dec,Midwest,Illinois,Chicago,Accessories,Mouse,ClickPro,Distributor,Consumer,26-35,3,565,0.15,1440.75,950.45,490.3,Cash,Express,Medium
+30766,2024-02-24,2024,Q1,Feb,West,California,Los Angeles,Electronics,Tablet,Tab Elite,Online,Corporate,36-50,10,685,0.0,6850.0,4698.94,2151.06,Bank Transfer,Standard,Low
+30767,2024-10-10,2024,Q4,Oct,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Online,Consumer,18-25,6,134,0.05,763.8,554.72,209.08,Cash,Express,Medium
+30768,2024-11-08,2024,Q4,Nov,South,Georgia,Atlanta,Accessories,Keyboard,KeyPro,Distributor,Corporate,26-35,11,740,0.05,7733.0,5157.7,2575.3,Bank Transfer,Same-Day,Critical
+30769,2024-04-27,2024,Q2,Apr,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Distributor,Consumer,50+,8,237,0.15,1611.6,1135.66,475.94,Bank Transfer,Standard,High
+30770,2024-10-09,2024,Q4,Oct,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Retail,Small Business,18-25,13,1031,0.15,11392.55,8536.18,2856.37,Digital Wallet,Standard,Low
+30771,2024-02-02,2024,Q1,Feb,South,Florida,Miami,Electronics,Tablet,Tab Elite,Distributor,Corporate,26-35,1,638,0.0,638.0,360.5,277.5,Cash,Express,High
+30772,2024-06-06,2024,Q2,Jun,Midwest,Michigan,Detroit,Furniture,Desk,WorkDesk Pro,Retail,Small Business,18-25,13,873,0.05,10781.55,6386.4,4395.15,Digital Wallet,Standard,Medium
+30773,2024-06-22,2024,Q2,Jun,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Online,Small Business,50+,12,1086,0.0,13032.0,9307.3,3724.7,Bank Transfer,Same-Day,Medium
+30774,2024-12-22,2024,Q4,Dec,Northeast,Pennsylvania,Philadelphia,Furniture,Chair,ComfortSeat,Retail,Small Business,18-25,15,87,0.0,1305.0,946.86,358.14,Bank Transfer,Standard,Medium
+30775,2024-03-01,2024,Q1,Mar,West,Colorado,Denver,Furniture,Desk,WorkDesk Pro,Distributor,Consumer,18-25,10,288,0.1,2592.0,1787.47,804.53,Cash,Standard,Critical
+30776,2024-02-19,2024,Q1,Feb,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Distributor,Consumer,50+,4,400,0.15,1360.0,835.57,524.43,Digital Wallet,Standard,Critical
+30777,2024-05-11,2024,Q2,May,South,Georgia,Atlanta,Furniture,Cabinet,StoragePlus,Retail,Small Business,18-25,7,463,0.1,2916.9,1656.96,1259.94,Cash,Standard,Medium
+30778,2024-09-27,2024,Q3,Sep,Northeast,Massachusetts,Boston,Accessories,Headphones,SoundMax,Online,Small Business,36-50,5,519,0.15,2205.75,1604.83,600.92,Digital Wallet,Standard,Critical
+30779,2024-12-17,2024,Q4,Dec,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Distributor,Corporate,36-50,4,722,0.0,2888.0,1907.88,980.12,Digital Wallet,Same-Day,Critical
+30780,2024-12-03,2024,Q4,Dec,West,Washington,Seattle,Furniture,Cabinet,StoragePlus,Retail,Consumer,50+,9,387,0.0,3483.0,2261.65,1221.35,Digital Wallet,Same-Day,Medium
+30781,2024-01-27,2024,Q1,Jan,Northeast,Massachusetts,Boston,Electronics,Phone,Galaxy Max,Distributor,Consumer,18-25,4,1184,0.15,4025.6,2513.92,1511.68,Cash,Same-Day,Low
+30782,2024-06-15,2024,Q2,Jun,West,California,Los Angeles,Electronics,Phone,Galaxy Max,Online,Consumer,18-25,10,1106,0.05,10507.0,5935.57,4571.43,Digital Wallet,Standard,Medium
+30783,2024-07-08,2024,Q3,Jul,South,Florida,Miami,Furniture,Chair,ComfortSeat,Online,Consumer,36-50,9,140,0.15,1071.0,647.32,423.68,Cash,Standard,High
+30784,2024-08-30,2024,Q3,Aug,West,Washington,Seattle,Electronics,Laptop,UltraBook Pro,Retail,Consumer,26-35,13,1155,0.0,15015.0,8465.22,6549.78,Digital Wallet,Standard,Critical
+30785,2024-04-07,2024,Q2,Apr,South,Georgia,Atlanta,Electronics,Phone,Galaxy Max,Online,Small Business,26-35,5,696,0.1,3132.0,2206.85,925.15,Card,Express,Critical
+30786,2024-06-18,2024,Q2,Jun,South,Texas,Dallas,Furniture,Cabinet,StoragePlus,Retail,Consumer,18-25,9,668,0.0,6012.0,3373.38,2638.62,Cash,Same-Day,Critical
+30787,2024-09-17,2024,Q3,Sep,South,Texas,Dallas,Furniture,Desk,WorkDesk Pro,Retail,Small Business,50+,13,931,0.05,11497.85,6349.97,5147.88,Cash,Express,Medium
+30788,2024-03-28,2024,Q1,Mar,West,Colorado,Denver,Electronics,Tablet,Tab Elite,Retail,Consumer,18-25,12,140,0.0,1680.0,1139.22,540.78,Bank Transfer,Express,High
+30789,2024-07-15,2024,Q3,Jul,West,California,Los Angeles,Furniture,Chair,ComfortSeat,Retail,Small Business,26-35,3,380,0.05,1083.0,630.66,452.34,Card,Express,Low
+30790,2024-01-11,2024,Q1,Jan,Northeast,Massachusetts,Boston,Furniture,Chair,ComfortSeat,Online,Consumer,18-25,12,889,0.05,10134.6,6400.39,3734.21,Cash,Standard,Medium
+30791,2024-06-26,2024,Q2,Jun,Northeast,Pennsylvania,Philadelphia,Electronics,Tablet,Tab Elite,Retail,Small Business,50+,3,951,0.0,2853.0,1987.51,865.49,Bank Transfer,Same-Day,Critical
+30792,2024-03-12,2024,Q1,Mar,Midwest,Michigan,Detroit,Furniture,Cabinet,StoragePlus,Distributor,Consumer,26-35,9,189,0.1,1530.9,884.04,646.86,Digital Wallet,Express,Medium
+30793,2024-04-21,2024,Q2,Apr,South,Georgia,Atlanta,Electronics,Tablet,Tab Elite,Distributor,Consumer,36-50,3,1044,0.1,2818.8,2019.79,799.01,Bank Transfer,Standard,Critical
+30794,2024-02-23,2024,Q1,Feb,West,Washington,Seattle,Accessories,Headphones,SoundMax,Retail,Small Business,26-35,13,788,0.15,8707.4,6521.09,2186.31,Card,Same-Day,High
+30795,2024-06-28,2024,Q2,Jun,West,Colorado,Denver,Furniture,Chair,ComfortSeat,Online,Consumer,50+,1,941,0.05,893.95,620.29,273.66,Bank Transfer,Express,Low
+30796,2024-02-12,2024,Q1,Feb,South,Florida,Miami,Electronics,Tablet,Tab Elite,Online,Small Business,26-35,13,1192,0.15,13171.6,9234.39,3937.21,Bank Transfer,Same-Day,High
+30797,2024-12-01,2024,Q4,Dec,Midwest,Illinois,Chicago,Accessories,Keyboard,KeyPro,Online,Consumer,36-50,5,401,0.15,1704.25,1030.72,673.53,Cash,Same-Day,Critical
+30798,2024-06-04,2024,Q2,Jun,South,Florida,Miami,Electronics,Phone,Galaxy Max,Distributor,Consumer,26-35,2,842,0.1,1515.6,1048.0,467.6,Digital Wallet,Same-Day,Medium
+30799,2024-09-08,2024,Q3,Sep,South,Georgia,Atlanta,Electronics,Laptop,UltraBook Pro,Online,Consumer,50+,4,111,0.1,399.6,240.44,159.16,Card,Standard,Low
+30800,2024-07-17,2024,Q3,Jul,Midwest,Ohio,Columbus,Furniture,Chair,ComfortSeat,Distributor,Small Business,18-25,3,733,0.15,1869.15,1342.81,526.34,Cash,Standard,Low
